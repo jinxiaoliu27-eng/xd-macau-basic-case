@@ -1,0 +1,295 @@
+-  Terras; regime dos terrenos na RAEM
+-  Jurisprudência do TUI sobre os direitos de terrenos após o estabelecimento da RAEM
+-  Usucapião; requisitos; no C. de Seabra; CC66 e CC99
+-  Invocação; sua necessidade; constituição ipso jure e mediante invocação
+-  Domínio útil; posse
+-  Reconhecimento do direito real; quando se verifica
+-  Artigo 7º da Lei Básica
+body {
+font-size: 13px;
+line-height: 25px;
+background-color: #fff;
+}
+.highlight-key {
+font-weight: bold;
+background: #FFFF00;
+}
+打印全文
+﻿Processo n.º 625/2011
+(Recurso cível)
+Data :  16/Fevereiro/2012
+ASSUNTOS:
+-  Terras; regime dos terrenos na RAEM
+-  Jurisprudência do TUI sobre os direitos de terrenos após o estabelecimento da RAEM
+-  Usucapião; requisitos; no C. de Seabra; CC66 e CC99
+-  Invocação; sua necessidade; constituição ipso jure e mediante invocação
+-  Domínio útil; posse
+-  Reconhecimento do direito real; quando se verifica
+-  Artigo 7º da Lei Básica
+SUMÁRIO:
+1. Quanto ao domínio útil, antes do estabelecimento da RAEM, era possível a particular adquirir o domínio útil do terreno por usucapião ao abrigo do nº 4 do artigos da Lei de Terras e o art. 2.º da Lei n.º 2/94/M. No entanto, após a vigência da Lei Básica, esse meio tornou-se impossível dado que viola o princípio de que a propriedade de terrenos cabe ao Estado consagrado no art. 7º da Lei Básica.
+﻿
+2. Pelo contrário, se o direito da propriedade ou o domínio útil do terreno já foi reconhecido a favor de particulares antes do estabelecimento da RAEM, um particular pode adquirir a propriedade ou o domínio útil do terreno por meio de usucapião e é protegido pela Lei Básica.
+3. Nos termos primitivos do artigo 8° da LT não era permitida a aquisição por usucapião dos terrenos do domínio público ou do domínio privado da RAEM.
+4. Anteriormente, nos casos em que existiam prédios urbanos sem título de aquisição ou sem o indício de concessão por aforamento, que é a prova do pagamento do foro, dá-se valor à posse por particular, por mais de vinte anos, mas só para ter o efeito legal de usucapião do domínio útil.
+5. A proibição da constituição de novas enfiteuses introduzida pelo DL n.º 39/99/M refere-se tão-somente aos bens do domínio privado dos particulares, sendo que relativamente ao bens do domínio privado da RAEM, a LT continua a permitir a regulação - note-se que se diz regulação e não constituição - das pretéritas concessões por enfiteuse ou aforamento.
+6. Ao abrigo da LT, foi reconhecido no passado o direito dos particulares possuidores pedirem a declaração de ter sobre tais prédios a titularidade do domínio útil, quando se tratasse de prédios urbanos, mesmo quando essa posse fosse exercida sem título de aquisição ou registo, ou sem prova do pagamento do foro, desde que a duração da sua posse fosse superior a trinta anos no domínio do Código de Seabra e vinte anos no âmbito do CC de 66.
+7. Os solos e recursos naturais são propriedade do Estado, competindo ao Governo da Região Administrativa Especial de Macau a responsabilidade pela gestão, uso, desenvolvimento, arrendamento ou concessão das terras do Estado. As pessoas singulares ou colectivas só podem, na qualidade de arrendatárias ou concessionárias das terras do Estado, ter direitos ao uso ou desenvolvimento das mesmas, o que reforça a ideia da manutenção da titularidade dos terrenos nas mãos do Estado, salvo os terrenos já considerados como da propriedade privada antes de 20 de Dezembro de 1999.
+8. Quando se invoca o direito de propriedade ou de outro direito real numa acção em que se invoca a aquisição originária - meio mais fidedigno de comprovar a propriedade -, a existência do direito depende da prova da sua aquisição por usucapião, o que só através da acção se definirá, mas tal não se pode confundir com a natureza constitutiva da acção que só em casos limitadíssimos se verifica, sendo nesses casos a sentença a fazer nascer o direito.
+9. A aquisição por usucapião é originária, o que significa que o direito se funda apenas na posse e não deriva de qualquer direito na titularidade de outrem, sendo tal posse a medida do direito prescrito, quantum possessum tantum praescriptum.
+10. No âmbito do CC66, bem como no de 99 - não já assim n C. de Seabra, em que a usucapião operava ipso jure - mesmo que exista uma posse reconhecida até judicialmente - como é o caso -, embora exista o decurso do tempo indispensável, se não ocorre uma invocação ( de natureza substantiva, o que difere da invocação adjectiva do direito que se pretende ver reconhecido), anterior à Lei Básica, de modo a ter-se o direito por reconhecido, não é possível declarar que o direito real, seja de propriedade stricto sensu, seja de domínio útil, se mostra reconhecido.
+O Relator,
+(João Gil de Oliveira)
+Processo n.º 625/2011
+(Recurso Cível)
+Data:            16/Fevereiro/2012
+Recorrentes:   -  A (também conhecida por AA),
+-  B,
+-  C,
+-  D,
+-  E     e
+-  F
+Recorridos:    -  G,
+-  H
+-  Ministério Público
+-  Interessados Incertos
+ACORDAM OS JUIZES NO TRIBUNAL DE SEGUNDA INSTÂNCIA DA R.A.E.M.:
+I – RELATÓRIO
+﻿A, B, C, D, E, F, autores nos autos à margem referenciados e neles mais bem identificados, vieram pedir na acção que fossem declarados como os únicos e legítimos proprietários do prédio sito em Macau, identificado na petição inicial e subsidiariamente, para o caso do pedido principal não proceder, fossem declarados como únicos e legítimos proprietários do domínio útil da parcela identificada na petição inicial (pedido da petição inicial, que se dá por integralmente reproduzido).
+Os Autores alegam que são os únicos e legítimos herdeiros de I, falecido em 1997, e por sentença de 15 de Julho de 1996, já transitada em julgado, foi o Autor I declarado ter a posse há mais de 50 anos.
+Veio a ser proferida sentença, julgando improcedente a acção e absolvidos os RR.
+Inconformados com essa sentença, dela vêm recorrer, alegando em síntese conclusiva:
+I)  Vem o presente recurso interposto da Sentença proferida pelo douto Tribunal de Primeira Instância a fls. 163 que veio a final “[...] tendo em conta o artigo 7.º da Lei Básica e o acórdão 37/2009, do Tribunal de Segunda Instancia, e ainda o Acórdão n.º 32/2005 do Tribunal de Ultima Instancia, entendo que a pretensão dos Autores não pode proceder, absolvo os Réus do pedido.”.
+II)  Para sustentar o sobredito pedido, os Recorrentes alegaram em síntese que são os únicos e legítimos herdeiros de I, falecido em 1997 e que por sentença de 15 de Julho de 1996, já transitada em julgado, I foi declarado ter a posse do há mais de 50 anos, facto que foi registado na conservatória do registo predial, onde o prédio está descrito sob o n° XXX;
+III)  Em sede de contestação o Ministério Público em nome e representação do Território e dos interessados incertos, aceitou que o a inscrição do prédio na CRP e a inscrição da posse a favor de I (1728 5069 0171) marido da ora Recorrente A também conhecida por AA, pela inscrição numero XXXF, adiantando ainda que os prédios são foreiros à Fazenda da Região Administrativa Especial de Macau.
+IV)  Os factos trazidos pelas partes a juízo, urgiam ser objecto de discussão e julgamento, porquanto apreciados à luz do disposto no artigo 7º da Lei Básica e ao conceito de posse conforme configurado no ordenamento jurídico, levariam a um entendimento diferente do explanado na decisão recorrida.
+V)  O registo da posse a favor de um particular não pode deixar de ter as consequências jurídicas que dela decorrem, relevantes em termos da pretensão formulada, sob pena de tal direito se mostrar esvaziado de conteúdo.
+VI)  Os Autora, ora Recorrentes, alegaram que foi judicialmente reconhecido que I - marido e pai dos ora Recorrentes - exercia sobre os prédios com os números 60 e 62-64 certo poder de facto, para satisfação dos seus interesses, com a possibilidade de o defender contra eventuais ofensas por banda de terceiros, e até mesmo com o direito de ver inscrito em seu nome junto da Conservatória do Registo Predial um direito real - a posse.
+VII)  Com a comprovação da posse, que veio a ser registada, tem de se ter por verificado o correspondente direito que não deixará de ser o direito de propriedade em relação aos sobreditos prédios com os números 60, 62 e 64, que já entraram na esfera jurídica de um particular. Entendimento diferente será o de esvaziar, tornando sem sentido o conteúdo da posse exercida sobre tais prédios.
+VIII)  Resulta expresso no artigo 1193° do Código Civil, que a posse leva a presumir a propriedade, presunção que, para a improcedência do pedido dos Recorrentes, teria necessariamente de ter sido ilidida com base em melhor posse ou em registo contrário.
+IX)  Em sede de contestação apresentada pelo Ministério Publico, não foram alegados quaisquer factos passíveis de ilidir tal presunção.
+X)  A prolação de sentença que viesse a julgar procedente o peticionado pelos ora Recorrente, não teria como consequência a constituição de nenhuma situação jurídica nova e em nada afectaria a ordem jurídica já existente atento o preceituado no artigo 1242° do Código Civil.
+XI)  Sobre os prédios com os números 60, 62 e 64 já foi constituído definitivamente um direito de propriedade, não na data do registo nem da sentença que titulou o registo, a partir do momento em I - pai e marido dos ora Recorrentes - invocou por via judicial a sua pretensão por via da acção judicial.
+XII)  O presente caso enquadra-se tão só no âmbito das relações privadas, e direitos pré-existentes à constituição da RAEM.
+XIII)  O facto do prédio ora em questão se encontrar inscrito na Matriz Predial Urbana, ser foreiro à Região Administrativa Especial de Macau, se encontrar descrito na Conservatória do Registo Predial, com registo da posse a favor de um particular são elementos bastantes para reconhecer que o mesmo prédio já foi legalmente reconhecido como pertencente ao regime de propriedade privada antes do estabelecimento da Região Administrativa Especial, e como tal usucapível nos termos gerais previstos na lei civil substantiva.
+XIV)  A matéria de facto e de direito atinente a pretensão dos Recorrente, devidamente explanada na sua petição inicial e contraditada em sede de contestação, merece uma justa e ponderada apreciação em sede de audiência de discussão e julgamento.
+XV)  Ao decidir-se como se decidiu o douto Tribunal a quo violou o disposto no artigo 7° da Lei Básica, os artigos 1º, 5 ° e 8 ° da Lei 6/80/M de 5 de Julho (Lei de Terras), e bem assim os artigos 1175°, 1183°, 1184°, 1185°, 1186°, al. a) do n° 1 do art. 1187°, e 1120°, 1212°, 1213° e 1241°, todos do Código Civil.
+Termos em que deve ser dado provimento ao presente recurso, revogando-se a decisão recorrida.
+Foram colhidos os vistos legais.
+II - Decisão recorrida
+O Mmo Juiz fundamentou da forma seguinte a sua decisão:
+“O Acórdão do TSI n.º 37/2009, de 16 de Dezembro de 2010, decide que:
+1.  No novo quadro constitucional operado a partir da entrada em vigor da Lei Básica que prevê, no artigo 7°, que todos os terrenos passam a ser propriedade do Estado, com excepção dos que já anteriormente integravam o domínio privado pertencente aos particulares, deixa de ser possível a aquisição por usucapião da propriedade ou do domínio útil a que se refere o artigo 5°, n.º 4 da Lei de Terras ou a sua constituição por qualquer outra forma.
+2.  Sobre o prédio em causa está inscrito a mera posse a favor de um particular nunca poderia conduzir a entender que o mesmo prédio está legal e definitivamente reconhecido como propriedade privada, podendo, portanto, ser objecto da usucapião.
+O Acórdão do TUI n.º 32/2005, de 5 de Julho de 2006, decide que:
+"3. Os terrenos na Região que não foram reconhecidos legalmente como ﻿propriedade privada passam a constituir propriedade do Estado depois da criação da Região;
+4.  Após o estabelecimento da Região, não se pode obter o reconhecimento de propriedade privada ou domínio útil a favor de particulares dos referidos terrenos através de decisão judicial, independentemente de a acção ser proposta antes ou depois da criação da Região.".
+Pelo exposto, tendo em conta o artigo 7.° da Lei Básica e o acórdão n.º 37/2009, do Tribunal de Segunda Instância, e ainda o Acórdão n.º 32/2005 do Tribunal de Última Instância, entendo que a pretensão dos Autores não pode proceder, absolvo os Réus do pedido.
+Custas pelos Autores. Notifique e D.N.”
+III - FUNDAMENTOS
+1. O objecto do presente recurso passa fundamentalmente por saber se os AA., munidos de uma sentença de 1996 que lhes reconheceu a posse sobre um determinado prédio, podem agora, volvidos este anos, a partir de tal posse, verem reconhecido o direito de propriedade ou o domínio útil, por via presumida do direito aparentado através dos actos de posse, invocando a usucapião de tais direitos, ou se a tal obsta o disposto no artigo 7º da Lei Básica.
+2. Uma primeira questão que se podia colocar seria a de eventual caso julgado, vista a repetição da causa, face ao disposto nos artigos 416º e 417º do CPC, excepção de conhecimento oficioso e considerando a acção que teve o desfecho com a sentença proferida em 1996.
+Isto, pelo menos, em relação ao pedido principal de reconhecimento do direito de propriedade, já que em relação ao pedido subsidiário sempre se alegam factos não alegados na anterior acção, quais sejam os relativos à área descoberta, o que constituiu impedimento para o reconhecimento daquele pedido, o que agora se faz.
+De qualquer modo, partindo do pressuposto de que mesmo em relação ao pedido principal se pode entender que a causa de pedir se funda agora em factos algo diferentes, materializados, por um lado, numa sentença de reconhecimento da posse, por outro, em actos continuados de posse, mantidos ao longo do tempo, portanto, com algo mais do que aquilo que havia na acção anterior, não se considera que essa situação de caso julgado obste ao conhecimento das questões que vêm colocadas.
+3. Alegam os recorrentes que gozam e têm gozado do domínio de facto sobre o imóvel o que se traduz no exercício efectivo de poderes materiais sobre o mesmo.
+Posse que se encontra registada na Conservatória do Registo Predial,
+Sendo o prédio foreiro Fazenda da Região Administrativa Especial de Macau.
+Pretendem assim ver reconhecido agora um outro direito incidente sobre o mencionado prédio, vincando a ideia de que com a comprovação da posse, que veio a ser registada, tem de se ter por verificado o correspondente direito que não deixará de ser o direito de propriedade em relação aos sobreditos prédios com os números 60, 62 e 64, que já entraram na esfera jurídica de um particular.
+É aqui que bate o ponto fundamental: o que importa apreciar, como já acima se disse, é apurar se o prédio objecto da acção entrou ou não no domínio privado, se foi reconhecido como tal antes de 20 de Dezembro de 1999.
+4. Importa lançar um olhar geral sobre o que se tem decidido em Macau, em particular sobre a Jurisprudência do TUI.
+Relativamente ao regime das terras em Macau e à interpretação e aplicação do artigo 7º da Lei Básica, o V.do TUI pronunciou-se e abordou questões distintas em quatro ocasiões, respectivamente, nos acórdãos nº 32/2005, 41/2007, 34/2008 e 17/2010.
+- Na situação versada no Acórdão de 5 de Julho de 2006, no processo n.º 32/2005, estava em causa a pretensão de um particular em ver reconhecida a propriedade de imóvel, de que não tinha um título de aquisição nem o mesmo estava registado na Conservatória do Registo Predial, com fundamento na usucapião. Subsidiariamente, o autor pedia o reconhecimento da titularidade do domínio útil, nos termos do n.º 4 do artigo 5.º da Lei de Terras.
+A autora dessa acção tinha a posse sobre tal prédio, por si e pelos seus antecessores há mais de 450 anos, mas a posse não estava registada.
+O Tribunal decidiu que o artigo 7.º da Lei Básica impede o reconhecimento do direito de propriedade de imóvel não reconhecido como propriedade privada antes do estabelecimento da Região, mesmo que a acção tivesse sido intentada antes deste estabelecimento (até 19 de Dezembro de 1999), desde que não houvesse sentença transitada em julgado antes desta data, a reconhecer tal direito.
+O mesmo acórdão decidiu que a mesma norma (artigo 7.º da Lei Básica) não permite, igualmente, o reconhecimento do domínio útil de imóvel, a menos que este domínio já tivesse sido reconhecido, antes do estabelecimento da Região, como integrando a esfera de particulares.
+- Por sua vez, e complementando a pronúncia feita no parágrafo antecedente, no acórdão de 16 de Janeiro de 2008, no processo n.º 41/2007, decidiu-se o seguinte:
+O artigo 7.º da Lei Básica não obsta a que o domínio útil de terreno concedido por aforamento pelo Território de Macau a particulares, por escritura pública e registado na Conservatória do Registo Predial, possa ser adquirido por usucapião, ainda que o titular do domínio directo seja actualmente a Região Administrativa Especial de Macau.
+O disposto no n.º 4 do artigo 5.º da Lei de Terras (Lei n.º 6/80/M, de 5 de Julho) e no artigo 2.º da Lei n.º 2/94/M, de 4 de Julho, não se aplica aos prédios em que existe título formal de aquisição e registo deste.
+- No acórdão de 22 de Outubro de 2008, no processo n.º 34/2008, decidiu-se que o artigo 7.º da Lei Básica impede o reconhecimento do direito de propriedade de prédios possuídos em nome próprio por congregações religiosas católicas - entretanto integradas na B - com fundamento no artigo 56.º do Estatuto Missionário, aprovado pelo Decreto-Lei n.º 31207, de 5 de Abril de 1941, publicado no Boletim Oficial de Macau, de 28 de Junho de 1952, de que não tinha um título de aquisição, nem o prédio estava registado na Conservatória do Registo Predial, se a acção judicial - tendente a demonstrar aquela posse à data da publicação, em Macau, daquele Estatuto e a pedir o reconhecimento do referido direito - foi intentada após o estabelecimento da Região Administrativa Especial de Macau.
+A autora dessa acção tinha a posse sobre tal prédio desde 1940, mas esta não estava registada.
+﻿- Quanto ao acórdão nº 17/2010, o Venerando TUI também concluiu que:
+"Relativamente à jurisprudência deste Tribunal interessa-nos sobretudo os l.º e 3.º Acórdãos, que têm manifestas semelhanças, em parte, com a situação dos autos.
+O 2.º Acórdão representa uma situação completamente diversa, já que a aquisição do domínio útil, que se pretendia adquirir por usucapião, estava registada no registo predial a favor de particulares. A única dúvida que se suscitou foi a de o domínio directo pertencer à Região Administrativa Especial de Macau. O TUI entendeu que tal não obstava à aquisição, por usucapião, do domínio útil.
+A autora da presente acção tem a posse do prédio desde 16 de Novembro de 1995, isto é, há menos de 15 anos.
+A única diferença relativamente aos outros dois casos é a de que propôs uma acção cível (antes de 1999) para se reconhecer a posse e, tendo sido procedente, registou a posse.
+Nos Acórdãos de 5 de Julho de 2006 e de 22 de Outubro de 2008 entendemos que, para efeitos de aquisição do direito de propriedade de prédios, não releva que os autores tenham a posse dos prédios, desde que não tenham obtido até ao Estabelecimento da RAEM o reconhecimento da propriedade por meio de acção para tal intentada, face ao disposto no artigo 7.º da Lei Básica.
+Entendemos, portanto, que ter a posse da coisa a título de direito de propriedade não equivale a ter reconhecido o direito de propriedade dos terrenos.
+No caso dos autos, em 19 de Dezembro de 1999 não tinha sequer ainda decorrido o prazo mais curto da usucapião.
+Seja como for, e em conclusão, na sequência da jurisprudência anterior deste TUI, considera-se que o artigo 7.º da Lei Básica impede o reconhecimento do direito de propriedade de prédios na posse de particulares se, à data do estabelecimento da Região Administrativa Especial de Macau, ainda não tinha decorrido o prazo de usucapião, ainda que a posse estivesse registada anteriormente."
+Relativamente aos 1º, 2º e 4º Acórdãos, os objectos da acção não estavam registados na Conservatória do Registo Predial, a única diferença do 4º acórdão é que havia o registo da posse do autor. No entanto, nos mencionados arestos consideram-se os bens como bens da RAEM, não sendo possível ser adquiridos o direito da propriedade nem o domínio útil por usucapião.
+O acórdão do TUI 41/2007 representa uma situação completamente diversa, a aquisição do domínio útil estava registada no registo predial a favor de particulares, por isso, o domínio útil era passível de ser adquirido por meio de usucapião.
+As diferenças dos mencionados acórdãos são, pois:
+Acórdão n.º
+Situação do terreno
+Lei aplicável
+Possibilidade de usucapião
+1)  32/2005
+Pedidos :
+- propriedade
+- domínio útil
+- não havia um título de aquisição
+- o mesmo encontra-se omisso na Conservatória do Registo Predial urbana (al. H da Especificação)
+O artigo 7º da Lei Básica (impede o disposto no n.º 4 do artigo 5º da Lei de Terras)
+Impede o reconhecimento do direito de propriedade e do domínio útil de imóvel não reconhecido como propriedade privada antes do estabelecimento da Região
+2)  41/2007
+Pedidos :
+- propriedade
+- domínio útil
+- o domínio útil de terreno concedido por aforamento pelo Território de Macau a particulares, por escritura pública e registado na conservatória do Registo Predial
+O disposto no n.º 4 do artigo 5º da Lei de Terras (Lei n.º 6/80/M, de 5 de Julho) e no artigo 2º da Lei n.º 2/94/M, de 4 de Julho, não se aplica aos prédios em que existe título formal de aquisição e registo deste
+O artigo 7º da Lei Básica não obsta a que o domínio útil de terreno concedido por aforamento pelo Território de Macau a particulares, por escritura pública e registado na Conservatória do Registo Predial, possa ser adquirido por usucapião.
+3)  34/2008
+Pedido :
+- propriedade
+- não tinha um título de aquisição
+- nem o prédio estava registada na Conservatória do Registo Predial
+O artigo 7º da Lei Básica
+Impede o reconhecimento do direito de propriedade de imóvel não reconhecido como propriedade privada antes do estabelecimento da Região.
+4)  17/2010
+Pedido :
+- propriedade
+- registou a posse
+- não tinha ainda decorrido o prazo mais curto da usucapião em 19 de Dezembro de 1999
+O artigo 7º da Lei Básica
+O mesmo de 3)
+Ac. 34/2008
+﻿Para concluir, em suma, que se o terreno pertence à RAEM, um particular não pode adquirir por meio de usucapião nos termos do art. 7º da Lei Básica.
+O acórdão 17/2002 assume uma particular relevância já que, a contrario, parece deixar em aberto a possibilidade de reconhecer a aquisição originária do domínio útil se decorrido o prazo de usucapião antes do estabelecimento da RAEM.
+Será assim?
+5. Quanto ao domínio útil, antes do estabelecimento da RAEM, era possível a particular adquirir o domínio útil do terreno por usucapião ao abrigo do nº 4 do artigos da Lei de Terras e o art. 2.º da Lei n.º 2/94/M. No entanto, após a vigência da Lei Básica, esse meio tornou-se impossível dado que viola o princípio de que a propriedade de terrenos cabe ao Estado consagrado no art. 7º da Lei Básica.1
+﻿Pelo contrário, se o direito da propriedade ou o domínio útil do terreno já foi reconhecido a favor de particulares antes do estabelecimento da RAEM, um particular pode adquirir a propriedade ou o domínio útil do terreno por meio de usucapião e é protegido pela Lei Básica.
+Esta a tónica dominante. O problema está em saber quando é que o direito se mostra reconhecido. Nalguns casos, como se viu o V.º TUI partiu do pressuposto de um registo, noutros de um título de aquisição. Ora, como bem se sabe, nestes casos nem o registo tem uma natureza constitutiva, nem o tem a sentença, muito menos um título de aquisição se ele se referir a um título translativo.
+É por isso que o V.º TUI vem, no ac. 17/2010, pôr o dedo na ferida e diz que não há direito real reconhecido e ainda não decorrido o prazo de usucapião à data do estabelecimento da RAEM.
+E se esse prazo já decorreu antes?
+6. Importa apurar se o artigo 7º da Lei Básica é incontornável ou não no caso vertente. Ali se prevê:
+“Os solos e os recursos naturais na Região Administrativa Especial de Macau são propriedade do Estado, salvo os terrenos que sejam reconhecidos, de acordo com a lei, como propriedade privada, antes do estabelecimento da Região Administrativa Especial de Macau. O Governo da Região Administrativa Especial de Macau é responsável pela sua gestão, uso e desenvolvimento, bem como pelo seu arrendamento ou concessão a pessoas singulares ou colectivas para uso ou desenvolvimento. Os rendimentos daí resultantes ficam exclusivamente à disposição do Governo da Região Administrativa Especial de Macau.”
+Embora da análise dos acórdãos acima referidos não resulte claro o preenchimento do que seja o reconhecimento de um terreno como propriedade privada, questão que se nos afigura continuar em aberto no nosso ordenamento, sendo certo que qualquer das situações mencionadas nos doutos arestos não é constitutiva de direitos - não é o registo, não o é a sentença, muito menos uma escritura, não importando agora desenvolver sobre a natureza não constitutiva, em regra, das sentenças e do registo -, o certo é já se afirmou noutros momentos neste tribunal que a prescrição aquisitiva para ser eficaz, para além da posse e do decurso do tempo carece de invocação (como adiante se verá).
+7. Os bens imóveis em Macau podem pertencer ao domínio público do Território, ao domínio privado deste ou à propriedade privada, consagrada esta no supra-citado artigo 5º da lei de Terras.
+Seguindo o texto do artigo 6º da Lei de Terras, só depois de verificar se os prédios se não integram na propriedade privada é possível considerá-los de domínio privado do Território.
+E quanto a este ponto também não restavam quaisquer dúvidas de que o domínio útil dos prédios em causa entrava no domínio da propriedade privada, desde logo, face à própria presunção de aforamento decorrente do art. 5º da Lei de Terras e, sempre, quando fosse o caso, pela afectação económica privada e por particulares.
+Nos termos primitivos do artigo 8° da LT não era permitida a aquisição por usucapião dos terrenos do domínio público ou do domínio privado da RAEM.
+Este princípio veio, no entanto, a sofrer expressamente uma excepção, introduzida pela Lei n.º 2/94/M, com expressão no próprio artigo 8° - "Sem prejuízo do disposto no artigo 5º" - e nos n.ºs 3 e 4 introduzidos nesse artigo 5° pela mesma lei, os quais se transcrevem:
+“(...)
+3. O domínio útil de prédio urbano objecto de concessão por aforamento pelo Território é adquirível por usucapião nos termos da lei civil.
+4. Não havendo título de aquisição ou registo deste, ou prova do pagamento de foro, relativo a prédio urbano, a sua posse por particular, há mais de vinte anos, faz presumir o seu aforamento pelo Território e que o respectivo domínio útil é adquirível por usucapião nos termos da lei civil".
+Visava-se dessa forma proteger os interesses dos particulares e igualmente os do ex-Terrritório, estipulando que a posse de prédio urbano, não titulado ou registado, fazia presumir a propriedade do domínio útil a favor do respectivo possuidor e era, por tal, usucapível, nos termos do direito civil. Isto, quer o prédio tivesse ou não sido efectivamente aforado pelo Território, e assim tivesse ou não havido desdobramento da propriedade plena em domínio directo e domínio útil.
+Em princípio, não era, pois, admitida a aquisição por usucapião de quaisquer direitos reais sobre os terrenos do domínio público e do domínio privado do Território de Macau (artigo 8º). Mas esta proibição, que era absoluta no texto original do artigo 8º da LT, passou a ter a excepção introduzida no n.º 4 do seu artigo 5º pela Lei n.º 2/94/M, de 4 de Julho.
+A este propósito, é útil relembrar o que a esse propósito diz o Dr. Gonçalves Marques2:
+"Portanto, nos casos em que existam prédios urbanos sem título de aquisição ou sem o indício de concessão por aforamento, que é a prova do pagamento do foro, dá-se valor à posse por particular, por mais de vinte anos, mas só para ter o efeito legal de usucapião do domínio útil.
+Para isso, presume-se que há uma situação de aforamento. Isto, manifestamente, para não se admitir a usucapião da propriedade, porque, então, o Território não teria mais poderes sobre o terreno, poderes que, como a seguir vamos ver, ainda são muitos no aforamento especializado da LT.
+E nesta solução do legislador prevaleceu a orientação de que os terrenos sem título formal de atribuição a um particular estão no domínio privado do Território."
+E o mesmo entendimento se encontra em abundante jurisprudência do então TSJ. - cfr. Ac. do TSJ de 1073/99, in JURISP. 1999,I, 201 e segs.
+8. A propósito da enfiteuse, esta foi eliminada do CC99, à semelhança do que acontecera em Portugal, onde foi abolida primeiro sobre os prédios rústicos e pouco depois sobre os urbanos pelos DL n.º 195-A/76, de 16 de Março e DL n.º 233/76, de 2 de Abril, respectivamente (medidas não estendidas a Macau, por aqui vigorar ao tempo a Lei de Terras do Ultramar, que contemplava o instituto do aforamento).
+Justificando esta opção do legislador de 1999, escreveu o Dr. Luís Miguel Urbano, na Nota Justificativa ao Código Civil, edição da IOM, 1999, pág. XXX:
+"Essa eliminação - cujo alcance se circunscreve aos terrenos de propriedade privada - não se deveu tanto, confessa-se, aos motivos de ordem ideológica que estiveram presentes em Portugal, mas antes a uma tentativa de racionalização e simplificação do sistema jurídico de Macau, derivada da constatação de um desinteresse manifesto por parte dos operadores jurídicos, e dos particulares em geral, na utilização desse direito. No fundo, limitámo-nos em grande parte a enterrar uma figura há muito morta ou, pelo menos, em evidente estado de letargia".
+E como nota (21) a este texto, escreveu aquele Coordenador do Projecto do Novo Código:
+"Desse modo, não se interferiu com a regulamentação das concessões por aforamento - ou seja, com as enfiteuses - reguladas pela, comumente designada Lei de Terras, aprovada pela Lei n.º 6/80/M, de 5 de Junho."
+É assim que o decreto preambular do CC em vigor - o DL 39/99/M - veio dispor no seu citado artigo 25°:
+"1.  A partir da entrada em vigor do novo Código Civil é nula a constituição de qualquer nova enfiteuse sobre bens do domínio privado dos particulares.
+"2. Às situações de enfiteuse, relativas a bens do domínio privado dos particulares, constituídas antes da entrada em vigor do novo Código continua, até à sua extinção, a ser aplicável o regime constante do Código Civil de 1966."
+É verdade que, de acordo com a LT, o aforamento é uma das modalidades de disposição dos terrenos vagos (artigo 29°, n.º1, al. b)), sendo considerados como tal os que se encontrem na situação prevista no supra citado artigo 7°.
+Ainda segundo a LT, podem ser objecto de aforamento os terrenos urbanos e de interesse urbano (idem, artigo 30°, na redacção do DL n.º 78/84/M, de 21 de Julho).
+O aforamento previsto na LT rege-se por esta lei e respectiva regulamentação, pelas cláusulas dos concernentes contratos, sendo nos casos omissos aplicável o CC (idem, artigo 45°, n.º1).
+Tendo a enfiteuse sido suprimida do elenco dos direitos reais regulados pelo CC99, mas tendo persistido no direito público de Macau o instituto do aforamento, o legislador, para salvaguarda das situações anteriormente criadas e subsistentes, veio dispor na al. b) do n.º2 do artigo 3°, do DL n.º 39/99/M, que se ressalvam da revogação do CC66:
+"As disposições relativas à enfiteuse, que subsistem como normas subsidiariamente aplicáveis às concessões por aforamento, de harmonia com o preceituado no n.º 1 do artigo 45º da Lei n.º 6/80/M; de 5 de Julho".
+Na petição formulada pelo recorrente, subsidiariamente, formula-se o pedido atinente ao reconhecimento de uma enfiteuse presumida e pede-se o reconhecimento da aquisição desse direito por usucapião.
+Isto é, pretende-se que um direito sobre um bem que integra o domínio privado da RAEM, venha a ser desmembrado em dois: um domínio directo, de que será titular a RAEM, e um domínio útil, reconhecido ao autor que o teria adquirido por usucapião.
+Acontece que o n.º 1 do artigo 25º do DL 39/99/M não revogou as normas da LT referentes ao aforamento ou enfiteuse, porquanto no seu âmbito material apenas são compreendidos os bens pertencentes ao "domínio privado dos particulares"; não portanto, e também, os que integram o "domínio privado da RAEM".
+A proibição da constituição de novas enfiteuses introduzida pelo DL n.º 39/99/M refere-se pois tão-somente aos bens do domínio privado dos particulares, sendo que relativamente ao bens do domínio privado da RAEM, a LT continua a permitir a regulação - note-se que se diz regulação e não constituição - das pretéritas concessões por enfiteuse ou aforamento, nos termos das disposições acima citadas.
+Importa indagar se se trata de bens do domínio privado dos particulares, se se integra no âmbito de aplicação da LT - artigo 5º da LT, com as alterações introduzidas pela Lei n.º 2/94/M -, na medida em que o prédio em causa, sem título formal de atribuição a particulares que exercem a respectiva posse, posse esta reconhecida por sentença, ou se integrará o domínio privado da RAEM.
+Isto porque só se respeitam as situações de propriedade privada anteriormente reconhecidas.
+9. Da contrariedade face à Lei Básica
+9.1. Como se viu, ao abrigo da LT, foi reconhecido no passado o direito dos particulares possuidores pedirem a declaração de ter sobre tais prédios a titularidade do domínio útil, quando se tratasse de prédios urbanos, mesmo quando essa posse fosse exercida sem título de aquisição ou registo, ou sem prova do pagamento do foro, desde que a duração da sua posse fosse superior a trinta anos no domínio do Código de Seabra e vinte anos no âmbito do CC de 66.
+9.2. Mas será que essa situação se mantém no novo quadro constitucional operado a partir da entrada em vigor da Lei Básica?
+Não nos vamos ater à limitação decorrente da área da parte descoberta como pressuposto do reconhecimento desse direito, visto o disposto no artigo 2º da Lei n.º 2/94/M - pressuposto não verificado na sentença de 1996, por isso se reconhecendo apenas o direito à posse, tal como registado se mostra, pressuposto esse ora suprido na acção - ao abrigo, porquanto a questão que ora se coloca não deixa de ser prévia, passando por saber se é possível reconhecer aqui e agora o próprio direito sobre a propriedade ou sobre o domínio útil.
+9.3. A propriedade merece referência e protecção na Lei Básica em diversos preceitos:
+-   (artigo 6º) "O direito à propriedade privada é protegido por lei na Região Administrativa Especial de Macau.";
+-  (artigo 7º) "Os solos e os recursos naturais na Região Administrativa Especial de Macau são propriedade do Estado, salvo os terrenos que sejam reconhecidos, de acordo com a lei, como propriedade privada, antes do estabelecimento de Região Administrativa Especial de Macau.3 O Governo da Região Administrativa Especial de Macau é responsável pela sua gestão, uso e desenvolvimento, bem como pelo seu arrendamento ou concessão a pessoas singulares ou colectivas para uso ou desenvolvimento. Os rendimentos daí resultantes ficam exclusivamente à disposição do Governo da Região Administrativa Especial de Macau." (sublinhado nosso).
+-   (artigo 103º) “A Região Administrativa Especial de Macau protege, em conformidade com a lei, o direito das pessoas singulares e colectivas à aquisição, uso, disposição e sucessão por herança da propriedade e o direito à sua compensação em caso de expropriação legal”
+9.4. Ora, não obstante o principio da continuidade do ordenamento jurídico consagrado nos artigos 8º e 18º, 1.º parágrafo, da Lei Básica, como um dos princípios basilares e garantes da autonomia da Região Administrativa Especial de Macau, importa indagar se esta Lei Fundamental não terá introduzido uma inflexão na interpretação acima desenvolvida, aliás, com consagração legal expressa.
+Da análise da evolução legislativa, doutrinária e jurisprudencial e do que resulta estatuído pelo supracitado artigo 7º da Lei Básica, somos a acompanhar o entendimento de que aquela norma impede a limitação ou desdobramento do direito real máximo em que se traduz o direito de propriedade conferido, sem limitação, ao Estado, a partir de 20 de Dezembro de 1999.
+É claro que nos estamos a referir aos terrenos vagos e a todos sobre os quais não tenha sido constituída definitivamente um direito de propriedade que não pessoas colectivas de direito público, sendo que os que tenham entrado de alguma forma no domínio privado dos particulares continuam a merecer a protecção pelo texto da própria Lei Básica. Se é que se pode continuar a considerar que existem "terrenos vagos" na Região Administrativa Especial de Macau, visto que com a entrada em vigor da Lei Básica todos os terrenos passaram a ser propriedade do Estado com excepção dos que integrem a propriedade privada pertencente aos particulares, sejam entidades singulares ou colectivas.
+9.5. Sendo a usucapião uma das formas de constituição definitiva do direito de propriedade e estabelecendo o artigo 1193º, n.º 1, do Código Civil uma presunção da titularidade do direito a favor do seu possuidor, "O possuidor goza da presunção da titularidade do direito, excepto se existir, a favor de outrem, presunção fundada em registo anterior ao início da posse", da conjugação do disposto na 1ª parte do citado artigo 7º da Lei Básica com o artigo 1212º do Código Civil actual, onde se diz que "A posse do direito de propriedade ou de outros reais de gozo, mantida por certo lapso de tempo, faculta ao possuidor, salvo disposição em contrário, a aquisição do direito a cujo exercício corresponde a sua actuação: é o que se chama usucapião", de tudo isto resultará nitidamente um autêntico princípio da imprescritibilidade dos terrenos “vagos” de Macau e de todos aqueles que não tenham entrado definitivamente no domínio da propriedade privada (dos particulares) antes de 20 de Dezembro de 1999.
+A  pedra de toque na análise da questão passa pela interpretação da 1ª parte do artigo 7º da Lei Básica.
+Continuando a citar aquele autor, também ele juiz deste Tribunal,4 «quando a lei diz, para os terrenos em relação aos quais ainda não se acha definitivamente reconhecida a sua propriedade como sendo da privada, urge saber se ainda pode tratar ou pedir legalmente o seu reconhecimento necessário, até antes do dia 20 de Dezembro de 1999.
+No caso afirmativo, dar-se-á satisfação aos respectivos pretendentes particulares em prol da tutela da sua "expectativa legítima", que ficarão assim imunes de verem que qualquer eventual demora no processo de reconhecimento do seu direito alegado possa vir a comprometer o êxito do mesmo processo.
+Contudo, a letra do texto do artigo 7º da Lei Básica parece não estar a favorecer este entendimento.
+É que na letra desta norma se empregou a expressão "salvo os terrenos que sejam reconhecidos ... antes do estabelecimento da Região Administrativa Especial de Macau". Ora, o particípio passado "reconhecido" não parece indiciar que os pedidos de reconhecimento das terras como privadas ainda poderão ser apresentados ou interpostos até antes de 20 de Dezembro de 1999, com o seu tratamento ou resposta a ser dada depois por órgãos competentes da futura Região Administrativa Especial de Macau.
+Por outro lado, se se atender à redacção do mesmo preceito na versão chinesa da Lei Básica, não é difícil chegarmos à conclusão de que, o que se pretende dizer no artigo 7º será o seguinte: "Os solos e os recursos naturais na Região Administrativa Especial de Macau são propriedade do Estado, salvo os terrenos que já tenham sido reconhecidos, de acordo com a lei, como propriedade privada, antes do estabelecimento. da Região Administrativa Especial de Macau", tal como se anotou supra.
+Aliás, embora não seja o presente caso, há juristas chineses, nele se inclui nomeadamente o Sr. Doutor Luo Weijian, que defendem que: como a Assembleia Nacional Popular da República Popular da China aprovou a Lei Básica com base na respectiva versão chinesa, assim, apesar de ambas a versão portuguesa e a versão chinesa da Lei Básica serem oficiais, no caso de “houver diferença no sentido dos termos entre as duas versões, adopta-se o da versão em chinês como critério” (cfr. “a resposta à pergunta 5” constante da pág. 3 da obra Guia da Lei Básica de Macau)5, embora saibamos que materialmente, a Constituição da República Portuguesa e o Estatuto Orgânico de Macau são as duas principais fontes de direito para a Lei Básica.
+Face ao exposto, afigura-se-nos que os terrenos de Macau, para poderem ser abrangidos na ressalva da 1ª parte do artigo 7° da Lei Básica, terão que ver o seu reconhecimento com sendo de propriedade privada efectuado e concluído até antes do dia 20 de Dezembro de 1999.
+E nota-se que se ocorrer qualquer caso em que um direito de propriedade privada sobre um terreno em Macau, já devidamente reconhecido segundo a lei antes de 20 de Dezembro de 1999, só conseguir vir a ser apresentado ao registo predial ou ser registado definitivamente depois dessa mesma data, cremos que dado o carácter declarativo do registo predial, a solução mais justa e razoável, e até legal, será a de considerar também o terreno em causa como ainda integrante do regime de propriedade privada sob a alçada do artigo 7º da Lei Básica.»
+Esta interpretação que não é apenas literal, sendo que a versão portuguesa comporta ainda este sentido, como abrangendo as situações já anteriormente constituídas e não aquelas que venham a ser reconhecidas após 20 de Dezembro de 1999, conjuga-se com a afirmação geral de que os solos e recursos naturais são propriedade do Estado, competindo ao Governo da Região Administrativa Especial de Macau a responsabilidade pela gestão, uso, desenvolvimento, arrendamento ou concessão das terras do Estado. As pessoas singulares ou colectivas só podem, na qualidade de arrendatárias ou concessionárias das terras do Estado, ter direitos ao uso ou desenvolvimento das mesmas, o que reforça a ideia da manutenção da titularidade dos terrenos nas mãos do Estado, salvo os terrenos já considerados como da propriedade privada antes de 20 de Dezembro de 1999.
+9.6. Quanto à usucapião do domínio útil a que se refere o artigo 5º, n.º 4 da Lei de Terras, tal previsão normativa terá de ser interpretada com o limite temporal da entrada em vigor da Lei Básica, no sentido de que se não se conseguir usucapi-lo efectivamente antes de 20 de Dezembro de 1999, não mais será possível adquiri-lo a partir dessa mesma data, visto que a Lei Básica só fala, no seu artigo 7º, das possibilidades de arrendamento ou de concessão das terras do Estado na Região Administrativa Especial de Macau.
+Mas como conciliar esta interpretação com a restrição da extinção da enfiteuse para as situações respeitantes ao domínio privado dos particulares? (Cfr. redacção do art. 25º, n.º 1 do Dec.-Lei n.º 39/99/M de 3 de Agosto ou com a supra referida nota 21 da Nota Justificativa do Código Civil, esta ainda que não vinculativa).
+Responder-se-á, por um lado, que a nova regulamentação civil não contenderá com as situações de enfiteuse já constituídas no âmbito do regime do domínio privado dos bens do então Território, hoje RAEM, por outro, o aforamento ou a enfiteuse como forma de propriedade fraccionada ou dividida, enquanto limitação da própria propriedade, passa a estar vedada ao Governo da RAEM, mesmo que por via das concessões que tenham por objecto o aforamento, dada a natureza perpétua da enfiteuse.
+Neste sentido parece pronunciar-se Xiao Weiyun6 enquanto diz que, ao conferir-se a titularidade de proprietário dos solos ao Estado, este, por força da lei Básica, está impedido de os alienar, o que não deixa de ser válido para a limitação em termos de direitos reais em que a constituição da enfiteuse sempre se traduziria.
+9.7. Há um argumento que vem invocado e que cumpre analisar.
+Diz a recorrente, ou pressupõe-se no seu discurso, que o seu direito real de propriedade ou de domínio útil há muito que estava constituído, por via presumida ou aparentada da posse exercida ao longo do tempo, o que determinaria quer a integração daqueles prédios no domínio da propriedade privada, quer um obstáculo às restrições dimanantes da Lei Básica.
+À primeira vista assim seria.
+Mas importa apreciar a questão sob o ponto de vista da aplicação da Lei Básica no tempo e natureza e constituição do direito que se procura fazer valer na causa.
+Sobre a primeira das questões, o postulado geral básico no domínio da aplicação das normas constitucionais no tempo, embora os cânones gerais sobre a aplicação das normas no tempo caibam plenamente neste domínio, é o postulado da função genética ou modeladora do ordenamento jurídico estatal que possui a Lei Básica, enquanto mini Constituição da RAEM. As normas constitucionais projectam-se sobre todo o sistema jurídico, sobre as normas e os actos que o dinamizam, sobre o poder e a comunidade política, impregnando-os dos seus valores e critérios e trazendo-lhes um novo fundamento de validade ou autoridade.7
+Em sede do regime geral, o art. 11º do C. Civil dispõe:
+“1. A lei só dispõe para o futuro; ainda que lhe seja atribuída eficácia retroactiva, presume-se que ficam ressalvados os efeitos já produzidos pelos factos que a lei se destina a regular.
+2. Quando a lei dispõe sobre as condições de validade substancial ou formal de quaisquer factos ou sobre os seus efeitos, entende-se, em caso de dúvida, que só visa os factos novos; mas, quando dispuser directamente sobre o conteúdo de certas relações jurídicas, abstraindo dos factos que lhes deram origem, entender-se-á que a lei abrange as próprias relações já constituídas, que subsistam à data da sua entrada em vigor.”
+Não obstante as dificuldades de interpretação da norma em causa, aquela que nos aparece como das mais cristalinas é a que se traduz nas seguintes palavras de Inocêncio Galvão Telles8: “O enunciado do artigo 12º (respeitante ao Código Civil pré vigente com igual redacção) não é por si suficiente. Quando se deverá dizer que a lei dispõe directamente sobre o conteúdo das relações jurídicas, abstraindo dos factos que lhe deram origem? Como discriminar as hipóteses em que os efeitos pendentes ou futuros são vistos em ligação com os factos, sua causa, e aquelas outras em que são olhados em si, no seu próprio conteúdo?	O artigo 12º não fornece a resposta, não apresenta um critério orientador. Esse critério tem de ser determinado doutrinariamente. Penso que o critério exacto é dado pela distinção atrás formulada entre situações jurídicas instantâneas e situações jurídicas duradouras. São as segundas que se traduzem num exercício continuado ou periódico, as visadas afinal na 2º parte do n.º 2 do artigo 12º. Pela sua permanência maior ou menor, elas escapam, quanto ao futuro, à lei antiga, entrando na órbitra da lei nova. É a lei nova que define a partir da sua vigência o conteúdo dos poderes do proprietário ou do tutor ou do cabeça de casal, etc.“
+Perante isto, há que relevar esta interpretação que aponta no sentido de que o conteúdo do direito real anteriormente estabelecido passa a ser regido pela lei nova, no que respeita à constituição do direito tempus legis regit.
+Aliás, o próprio texto da lei Fundamental, no seu artigo 7º, ressalva “os terrenos que sejam reconhecidos, de acordo com a lei, como propriedade privada, antes do estabelecimento da Região Administrativa Especial de Macau.”
+Donde se proibirem novas constituições de direitos sobre os terrenos excluídos da propriedade privada que até aí comportassem a sua aquisição pelos particulares, o mesmo é dizer, os terrenos, até aí, do domínio privado do Território.
+10. Posto isto, a questão centra-se agora em saber qual o momento em que determinado terreno passou a ser considerado propriedade privada. Face à Lei Básica, só se respeitam as constituições de propriedade privada sobre os terrenos existentes na RAEM até 19 de Dezembro de 1999.
+Os recorrentes defendem que o seu direito de propriedade se funda num modo de aquisição originária, pelo que há muito estaria consolidado na esfera jurídica.
+É certo que quando se invoca o direito de propriedade ou de outro direito real numa acção em que se invoca a aquisição originária - meio mais fidedigno de comprovar a propriedade -, a existência do direito depende da prova da sua aquisição por usucapião, o que só através da acção se definirá9, mas tal não se pode confundir com a natureza constitutiva da acção que só em casos limitadíssimos se verifica, sendo nesses casos a sentença a fazer nascer o direito, tal como ocorre com a consignação de rendimentos (artigo 654, n.º 2 do C. Civil), a hipoteca (artigo 705º, n.º1 do C. Civil, a propriedade horizontal (artigo 1317º, n.1 do C. Civil), o uso e habitação (artigos 1942º e 1943º do C. Civil), a servidão legal (artigo 1438º, n.º 2 do C. Civil). Fora destes casos as partes não poderão recorrer ao tribunal para efeito de constituir direitos reais por sentença quando a lei o não autorize.10
+O acto judicial ou extrajudicial pelo qual se exercita o reconhecimento do direito real por força da usucapião é meramente certificativo, pois a invocação da usucapião tem eficácia retroactiva à data do início da posse (artigo 1213º do C. Civil).
+A aquisição por usucapião é originária, o que significa que o direito se funda apenas na posse e não deriva de qualquer direito na titularidade de outrem, sendo tal posse a medida do direito prescrito, quantum possessum tantum praescriptum.
+Poder-se-ia dizer que, nesta conformidade, não obstante a proibição decorrente do supracitado artigo 7º da Lei Básica, que é legítimo continuar a peticionar acções para reconhecimento de direitos reais adquiridos por usucapião em relação às situações pretéritas dos chamados terrenos vagos do Território ou do domínio privado do Território. E, assim sendo, pensar-se-á até que se terá decidido erradamente na situação acima aludida, no caso em que se definiu a doutrina enunciada.
+11. Não parece que assim seja.
+É que quando se dizia acima que os pressupostos nucleares da aquisição por usucapião de um dado direito real se traduziam na posse boa para usucapir e no decurso do prazo previsto para esse efeito, não podemos ignorar que a aquisição do direito por via da prescrição aquisitiva positiva pressupõe, ainda, para além do seu exercício, que o mesmo seja levado ao conhecimento de terceiros.
+A usucapião é o modo de constituição de direitos reais que pressupõe a manutenção da posse de certa coisa, durante um determinado lapso de tempo, desde que o exercício dessa posse corresponda ao que seria o exercício de certo direito real de gozo (art. 1212º do C. Civil).
+A usucapião é pois, um dos efeitos da posse e surge como a presunção de titularidade do direito. E impõe-se que a titularidade presumida passe a ser reconhecida.
+Este instituto surge como um modo de proteger a boa fé daqueles que tinham adquirido legitimamente qualquer objecto, mas que não tinham ficado desde logo proprietários, ou porque a coisa adquirida não era propriedade do alienante, ou porque não tinham sido respeitadas as formalidades legais no acto da aquisição.
+A evolução histórica posterior implicou um alargamento da razão de ser da usucapião. Pode de facto dizer-se que, entre outras razões, a usucapião se justifica, por um lado, no prémio que deve ser dado àquele que promove o aproveitamento económico da coisa, mesmo não sendo titular de qualquer direito sobre a mesma, e, por outro, na vantagem prática em obter, tanto quanto possível, a coincidência entre titularidade efectiva e posse.11
+O primeiro pressuposto da usucapião é a posse que é a aparência de titularidade de um direito real (art. 1175º).
+A posse pode ser causal ou formal, sendo causal quando surge apenas como o corolário do exercício de um direito de que efectivamente se é titular e formal quando a sua relevância jurídica não depende de nada mais do que da sua própria existência.
+Para efeitos de usucapião pressupõe-se, naturalmente, posse formal. Esta noção vai ser importante nos termos da projecção a realizar no caso concreto.
+11. Para poder conduzir à usucapião, a posse deve ser uma posse efectivamente exercida durante o lapso de tempo requerido, deve supor a inércia daqueles que potencialmente a isso se poderiam opor e para iniciar a contagem do prazo, exige-se que a posse tenha sido adquirida pacífica e publicamente (artigos 1222º e 1225º do C. civil).
+O lapso de tempo exigido varia em função de dois factores básicos, conforme se trate de bens móveis ou imóveis, de boa ou má fé do possuidor.
+A boa fé consiste no desconhecimento de que, ao adquirir a posse, se está a lesar um direito alheio (art. 1184º,n.º 1 do C. civil).
+Outros factores que fazem variar o prazo são o carácter titulado ou não titulado da posse e a existência de registo do título ou da posse.
+À usucapião aplicam-se, de um modo geral, por força do artigo 1217º do C. Civil, as regras da prescrição.
+12. Daqui decorre uma importante consequência com repercussão directa no questão em apreciação: a usucapião também não conduz ipso jure,12à aquisição do direito em causa, pois que ela tem de ser invocada judicial ou extrajudicialmente, o que vale dizer que tem de ocorrer uma interpelação de terceiros, a chamada invocação perante outrem, seja por via da citação na acção ou das publicações editais no caso das justificações notariais, por força do artigo 296º do C. Civil.
+Ideia tanto mais reforçada quanto no actual CC de 99 e no CC de 66, no artigo 1121º se prevê que a posse do direito de propriedade ou de outros direitso reais de gozo, mantida por certo lapso de tempo, faculta ao possuidor, salvo disposição em contrário, a aquisição do direito..., enquanto no C Seabra se previa, no artigo 505º que pelo facto da posse adquirem-se coisas e direitos...
+A publicidade é uma característica dos direitos reais, sendo consabido que a posse oculta não releva. Daí, a necessidade da invocação do direito, elemento fulcral na questão em aberto quanto à determinação do momento relevante para efeitos de respeito pelas situações de propriedade privada pré constituídas a que se refere o artigo 7º do Lei Básica.
+Ora, independentemente da determinação do momento relevante de constituição do direito,13 o respeito das situações pré- constituídas de que fala o artigo 7º da Lei Básica pressupõe um qualquer reconhecimento externo anterior, não bastando o mero exercício da materialidade decorrente da posse, nomeadamente por parte do Estado/Administração que já no domínio da legislação pretérita, se reclamava da dominialidade do que não fosse propriedade privada dos particulares.
+13. Aliás, se assim não se entendesse, visto o instituto da sucessão das posses e seu efeito acumulativo quanto às consequências jurídicas decorrentes do seu aproveitamento por parte dos sucessivos possuidores, a letra do artigo 7º da Lei Básica seria letra morta, porquanto bastaria a um interessado adquirente de um prédio não descrito ou sem anterior título de aquisição invocar as posses anteriores para poder ver reconhecido o seu direito de propriedade.
+Convém não esquecer que há uma diferença entre constituição do direito e reconhecimento do direito. E para a questão que nos interessa é este que releva, instituto que, de todo o modo, também se não confunde com a eficácia constitutiva da sentença.
+14. Donde, embora exista uma posse reconhecida até judicialmente, embora exista o decurso do tempo indispensável, não ocorre uma invocação anterior à Lei Básica, de modo a ter-se o direito por reconhecido e vistos os indispensáveis pressupostos desse reconhecimento.14
+Tanto mais que não vem colocada sequer a questão de um reconhecimento ipso jure, no âmbito do C. de Seabra, em que se dispensava a invocação.
+Como é óbvio e se tem assinalado já na Jurisprudência de Macau, não obstante a afirmação do MP na contestação de que o prédio é foreiro à Fazenda da RAEM, o registo de um foro nas Finanças não é meio bastante, por si só, para reconhecer a existência de um direito ao domínio útil
+Nesta conformidade e dentro deste enquadramento resta decidir, mantendo-se o decidido, pelos fundamentos acima aduzidos.
+IV - DECISÃO
+Pelas apontadas razões, acordam em negar provimento ao recurso, confirmando a decisão recorrida.
+Custas pela recorrente.
+Macau, 16 de Fevereiro de 2012,
+João A. G. Gil de Oliveira
+Ho Wai Neng
+José Cândido de Pinho
+1 Cfr. o Acórdão do TUI n.º 32/2008, TSI n.° 316/2004.
+2 - Lições de Dtos Reais, Faculdade de Direito da Universidade de Macau, 234
+3 - Segundo uma tradução mais literal da correspondente versão chinesa, como refere o Dr. Chan Kuong Seng, no seu texto “A propriedade e as terras no contexto da Lei Básica da Região Administrativa Especial de Macau,” in BFD da Univ. De Macau, ano III, n.º7, 1999, 156, a tradução da parte sublinhada seria:
+"Os solos e os recursos naturais na Região Administrativa Especial de Macau são propriedade do Estado, salvo os terrenos que já tenham sido reconhecidos, de acordo com a lei, como propriedade privada, antes do estabelecimento da Região Administrativa e Especial de Macau".
+4 - Cfr. texto acima citado
+5 - Leong Fan, ed. em Março de 1995 por Associação das Ciências Económicas de Macau e Associação Preparatória de Estudos de Direito de Macau
+6 - Conferência Sobre a Lei Básica de Macau, Publicação da Associação promotora da Lei Básica, pág. 64
+7 - Jorge Miranda, Teoria do Estado e da Constituição, 2002, 664
+8 - Dto das Sucessões, 1978, pág. 285
+9 - Acs. da Rel. Porto, de 16/6/87, CJ, Ano XII, 1987, Tomo 3, 198 e da Rel. Lx , de 18/5/95, CJ, Ano XX, 1995, Tomo 3, 111
+10 - José Alberto Gonzalez , Direitos Reais (parte geral) e Direito Registal Imobiliário, 2001, 103
+11 - José Alberto Gonzalez, ob. cit., 98
+12 - Não assim no Código de Seabra segundo Pires de Lima e A. Varela, cfr, CCA, III, 65
+13 - Cfr. proc. 245/2004 de 14/7/2005,deste TSI
+14  No sentido da necessidade de invocação, cfr. Oliveira Ascensão, Dto Civil, Reais, Coimbra Editora, 5ª ed., 300, José Alberto Gonzalez, Dtos Reais e Dto Registral Imobiliário, Quid Juris,2001, 101, P.Lima e A. Varela, CCA, 2ª ed. 65, Pinto Duarte, acentuando o carácter voluntário da aquisição, Curso de Dtos Reais, Principia, 2ª ed., 295; Durval Ferreira, posse e Usucapião, Almedina, posse e Usucapião, 517; cfr. ainda ac. STJ de 3/2/99
+---------------
+------------------------------------------------------------
+---------------
+------------------------------------------------------------
+625/2011                                                                     1/43

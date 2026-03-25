@@ -1,0 +1,153 @@
+-Contrato de promessa
+-Art. 228º do CC
+-Interpretação negocial
+body {
+font-size: 13px;
+line-height: 25px;
+background-color: #fff;
+}
+.highlight-key {
+font-weight: bold;
+background: #FFFF00;
+}
+打印全文
+﻿Proc. nº 321/2015
+Relator: Cândido de Pinho
+Data do acórdão: 11 de Junho de 2015
+Descritores:
+-Contrato de promessa
+-Art. 228º do CC
+-Interpretação negocial
+SUMÁRIO:
+I. A interpretação de uma declaração negocial é matéria de direito quando tenha que ser efectuada nos termos do nº1, do art. 228º do C.C., de acordo com um critério normativo, também designado objectivista; mas será matéria de facto, quando tenha que ser efectuada segundo o critério do nº2, do mesmo artigo, isto é, quando tenha que ser feita de acordo com a vontade real do declarante, ou seja, à luz de um critério subjectivista.
+II. Se o autor, na causa de pedir formulada na petição inicial da acção, afirmou que o negócio celebrado era um contrato de promessa de compra e venda e se o réu, na sua contestação aceitou expressamente essa afirmação, ambas as partes se puseram de acordo quanto a esse facto.
+III. Se, na sequência das posições das partes quanto a esse facto, foi lavrado o despacho saneador, dando como assente aquela factualidade, de que o réu não reclamou (art. 430º, nº2, do CPC), deixou de haver despacho que possa agora, em recurso da sentença, ser impugnado para se defender uma interpretação diferente do negócio e se afirmar que ele não era um contrato de promessa de compra e venda (art. 430º nº3, do CPC).
+Proc. Nº 321/2015
+Acordam no Tribunal de Segunda Instância da R.A.E.M.
+I - Relatório
+A, casado, de nacionalidade chinesa, titular do BIRM n.º…, residente em Macau, na Rua…, intentou no TJB (proc. nº CV3-11-0107-CAO) acção ordinária contra ----
+B, casado, de nacionalidade chinesa, portador do BIRM n.º…, residente na …, pedindo a condenação deste pagamento de Mop$ 5.541.112,49, e juros legais, valor do preço que pagou no âmbito de um contrato de promessa de compra e venda de uma faixa de terreno em Coloane, mas de que ora pretende a resolução, em virtude de, por culpa do R, nunca ter sido celebrada a escritura definitiva de compra e venda.
+*
+Na oportunidade, foi proferida sentença que julgou procedente a acção.
+*
+É dessa sentença que ora vem interposto o presente recurso pelo réu, em cujas alegações formulou as seguintes conclusões:
+«1) Vem o presente recurso interposto da douta sentença proferida pelo Tribunal a quo a fls. 217 e ss. que condenou o Réu a pagar ao Autor a quantia de HKD$5,379.464.70 (cinco milhões, trezentas e setenta e nove mil e quatrocentas e sessenta e quatro Hong Kong dólares e setenta avos), acrescidos de juros de mora, à taxa legal, desde a data de 24 de Outubro de 2011.
+2) Ressalvado o devido respeito, as conclusões do acórdão recorrido estão viciadas por um erro de interpretação e qualificação do contrato em discussão nos presentes autos, designadamente quando qualifica o contrato celebrado entre as partes como um “contrato-promessa”.
+3) Não é verdade que o contrato tivesse em vista a promessa de transferência do direito de propriedade sobre o terreno, designadamente através da outorga, no futuro, de uma escritura pública de compra e venda, sendo precisamente neste ponto que naufraga toda a argumentação expendida pelo Mm.º Tribunal a quo, nomeadamente no que concerne ao incumprimento da obrigação de celebração do contrato definitivo (obrigação inexistente, pois não está em causa um contrato-promessa).
+4) A realidade do contrato impõe-se ao “nomen iuris” atribuído pelas partes, e do contrato (e de todos os actos materiais em execução do mesmo) resulta que as partes pretenderam realizar uma transmissão da posse do Réu para o Autor mediante o pagamento de uma determinada quantia, negócio legalmente atípico mas socialmente típico em Macau, considerando a problemática das “escrituras em papel de seda”.
+5) O contrato, na sua 4.ª Cláusula, não oferece dúvidas quanto ao sentido e alcance com que as partes entenderam o negócio, tanto assim que o próprio Autor vem alegar um incumprimento do Réu do dever de colaboração, já que supostamente não teria ajudado o Autor a ser reconhecido pelo Governo de Macau como novo proprietário do terreno [em rigor, concessionário].
+6) Como é óbvio, seria contraditório e incompatível que o Réu tivesse de ajudar o Autor para que este fosse reconhecido como novo proprietário pelo Governo de Macau e, posteriormente, fosse suposto ainda celebrar uma escritura pública de compra e venda daquele terreno!
+7) Donde se retira que o fito do Autor era obter a posse do terreno para negociar uma concessão por arrendamento junto do Governo de Macau.
+8) Aliás, logo em Setembro de 1992 (no mês à conclusão de todas as obrigações resultantes do contrato em apreço), o Autor encetou negociações com o Governo do Território de Macau para obtenção de uma concessão por arrendamento, elaborando um projecto para o aproveitamento daqueles terrenos no âmbito de um projecto de construção predial em sociedade com terceiros, aos quais cedeu parte dos terrenos (tudo conforme documento a fls. 177 a 181 dos autos).
+9) Assim, perante o estipulado no contrato (mormente na sua 4.ª Cláusula) e os factos que se sucederam, é patente que não está em causa um contrato-promessa, já que as partes não pretendiam comprometer-se à celebração de um contrato futuro, pois bem sabiam que era impossível celebrar uma escritura pública de compra e venda de um terreno titulado por “Sá Chi Kai”.
+10) Ficando antes demonstrado que o contrato pretendia titular, em termos formais, a sucessão do Autor na posse daquele terreno, permitindo-lhe, então, apresentar-se junto da Administração como possuidor e negociar o respectivo aproveitamento.
+11) No limite, ainda que assim não fosse de entender, isto é, que não estivesse em causa uma “legitimação formal” da posse do Autor, o que por mera cautela de patrocínio se concebe, sempre se dirá que o que o Autor e o Réu pretenderam foi acordar na desocupação daquela parcela de terreno contra o pagamento de uma certa maquia, de modo a que o Autor pudesse então procurar obter uma concessão administrativa, junto do Governo de Macau, para aproveitamento do terreno.
+12) E nunca obter um suposto de direito de propriedade sobre aquele terreno através de uma escritura pública a celebrar com o Réu.
+13) A qualificação de um contrato é um juízo predicativo que tem por conteúdo o reconhecimento desse contrato corresponder, ou não, a este ou àquele tipo, no caso, ao tipo legal do “contrato-promessa”.
+14) Partindo dos índices do tipo, designadamente da causa do negócio, entendida objectivamente como função, o fim, a estipulação do tipo, o objecto, a contrapartida, a configuração, o sentido, as qualidades das partes e a forma, para a realização daqueles sub-juízos, chega-se à conclusão que, para além do “nomen iuris”, nenhum dos demais índices do tipo permite qualificar o contrato em discussão nos presentes autos como um “contrato-promessa”.
+15) Logo à partida, em momento algum o contrato tinha por fim e objecto a celebração de um qualquer contrato ulterior (elemento essencial dos contratos-promessa, nos quais as partes se comprometem a celebrar um contrato).
+16) Pelo que uma interpretação que defenda que foi com essa configuração e sentido (de “contrato-promessa”) que as partes celebraram o acordo em questão, viola o disposto no artigo 230.º do Código Civil, pois nunca o Autor e o Réu, no âmbito do contrato, “prometem” comprar e vender, respectivamente, o terreno em causa.
+17) Pelo contrário, como se disse, o Autor acusou o Réu de não ter cumprido com o dever de colaboração previsto na 4.ª Cláusula do contrato, impedindo-o de ser reconhecido pelo Governo de Macau como novo proprietário do terreno [em rigor, concessionário ou foreiro].
+18) Ainda assim, poderia argumentar-se que o contrato se refere a uma compra e venda do terreno, pelo que não seria um contrato através do qual se procura legitimar, em termos formais, a transferência da posse do Réu para o Autor.
+19) No entanto, salvo o devido respeito por melhor opinião, tal objecção omite a referência contratual ao “título” existente sobre o terreno (a “escritura em papel de seda”, que no limite, poderia funcionar como facto que assistia na comprovação da posse) e, também, o facto de no próprio contrato se consagrar a necessidade de diligências junto dos departamentos do Governo de Macau para aproveitamento do terreno.
+20) Com efeito, tal entendimento esquece a tipicidade social do contrato em causa, resultante das particularidades de Macau.
+21) Por outro lado, não cabendo dúvidas que está em causa um contrato legalmente atípico, não se pode esquecer que o negócio jurídico e todas as cláusulas reguladoras foram incorporadas num documento escrito, estando por isso sujeitas à norma interpretativa contida no artigo 230.º do Código Civil.
+22) Ora, das diversas cláusulas do contrato não resulta qualquer obrigação para as partes de, no futuro, celebrarem um contrato definitivo (pois este já era o contrato definitivo!), pelo que a interpretação do Mm.º Tribunal a quo viola o disposto no artigo 230.º, n.º 1, do Código Civil.
+23) Como última objecção a este entendimento quanto ao real alcance do negócio, poder-se-á dizer que o contrato refere a realização de uma compra e venda, não tendo um mínimo de correspondência verbal a argumentação de que o mesmo se limita a uma mera transferência de posse.
+24) Só que, como se disse, a realização do contrato naqueles termos tem por base uma realidade histórica e social típica de Macau, que justifica os termos empregues no contrato.
+25) De todo o modo, o próprio contrato prevê a necessidade de formalidades a serem realizadas junto da Administração do Território para aproveitamento do terreno.
+26) O que conjugado, uma vez mais, com o que o próprio Autor refere a propósito de um suposto incumprimento de um dever de colaboração do Réu, o qual alegadamente teria impedido o reconhecimento pelo Governo de Macau do Autor enquanto proprietário [em rigor, concessionário] daquele terreno,
+27) Revela que o verdadeiro sentido das declarações das partes consubstanciadas no contrato se prendia, tão somente, com uma “legitimação formal” da transmissão da situação de facto que o Réu tinha sobre o terreno.
+28) Devendo, caso fosse de entender que aquela transmissão de posse não tinha um mínimo de correspondência verbal no texto do contrato - o que por mera cautela de patrocínio se concebe -, ser o contrato interpretado de acordo com aquela vontade real das partes (que se retira de vários factos provados nos presentes autos, nomeadamente a entrega do terreno e as diligências iniciadas pelo Autor junto da competente entidade governamental).
+29) Sendo ainda de referir que, não sendo um contrato legalmente típico, não se verificam quaisquer razões determinantes da forma do negócio que se oponham à interpretação do mesmo com o sentido dado pela vontade real das partes.
+30) Ainda que assim não fosse de entender, isto é, caso não estivesse em causa uma “legitimação formal” da posse do Autor, o que por mera cautela de patrocínio se concebe, sempre se dirá que, no limite, o que o Autor e o Réu pretenderam foi acordar na desocupação daquela parcela de terreno contra o pagamento de uma certa maquia, de modo a que o Autor pudesse então procurar obter uma concessão administrativa, junto do Governo de Macau, para aproveitamento do terreno.
+31) Matéria que, de qualquer um dos modos, colide com uma qualquer Vinculação à celebração de um suposto contrato prometido.
+32) Nestes termos, não estando em causa um “contrato-promessa” - sem prejuízo do nomen iuris atribuído pelas partes -, verifica-se que todas as obrigações resultantes do contrato celebrado entre as partes foram integralmente cumpridas pelo Réu, ora Recorrente, conforme se retira das respostas aos quesitos 1.º a 3.º, 10.º a 12.º da Base Instrutória.
+33) Não tendo sido prometida a celebração de qualquer contrato, inexistem quaisquer razões para se considerar o contrato incumprido.
+34) Assim sendo, a falta de promoção de uma acção de usucapião é irrelevante, até porque o contrato não poderia impor a tradição do terreno e, ao mesmo tempo, obrigar o Réu a intentar uma acção de usucapião para aquisição do direito de propriedade sobre o terreno, já que com a tradição o Réu deixa de ter a necessária posse!
+35) Salvo o devido respeito, o raciocínio elaborado pelo Mm.º Tribunal a quo está viciado à partida, na medida em que procura forçar a realidade a encaixar na teoria preconcebida do “contrato-promessa”, ao invés de se partir da realidade contratual e factual para se apurar o conteúdo e alcance do negócio jurídico concluído entre as partes.
+36) Para além disso, a própria argumentação é contraditória, na medida em que, conforme os Acórdãos citados pelo Mm.º Tribunal a quo, só com a Lei n.º 2/94/M, de 4 de Julho, é que o legislador “ (…) Na contemplação das situações de posse optou por dar a possibilidade de os possuidores obterem o estatuto de foreiros do Território, reconhecida que 'seja, judicialmente, a situação de posse com a duração de vinte anos. (…) ” (cfr. Assento do Tribunal Superior de Justiça de 18 de Outubro de 1995, proferido no âmbito do Processo n.º 295, que continua a constituir jurisprudência obrigatória para os Tribunais da RAEM, nos termos do artigo 2.º, n.º 6, alínea b), do Decreto-Lei n.º 55/99/M, de 8 de Outubro).
+37) Caso contrário, uma acção de usucapião estaria vetada ao fracasso por falta de título formal de aquisição, através do qual o terreno tivesse ingressado na propriedade privada.
+38) Como é óbvio, em Abril de 1992, quando as partes celebraram o negócio jurídico em apreço nos presentes autos, não podiam contar com uma lei que só viria a surgir dois anos mais tarde, muito depois de efectuada a tradição do terreno exigida pelo Autor.
+39) Pelo que, também por esta razão, não tem qualquer cabimento pressupor que as partes pretenderam celebrar um contrato definitivo de compra e vencia e que foi o Réu que se colocou na impossibilidade de o cumprir por não ter intentado uma acção de usucapião.
+40) Não se vislumbrando, assim, quaisquer outras razões que fundamentem a resolução do contrato, resulta claro que foi o facto de ter, erradamente, qualificado o negócio jurídico como “contrato-promessa” que levou o Mmº Tribunal a quo a concluir que o suposto contrato prometido nunca veio a ser realizado, por culpa do Réu, e não sendo já possível o cumprimento daquele contrato, o Réu teria de devolver ao Autor as quantias recebidas.
+Nestes termos, e no mais de Direito, deverão V. Ex.ªs, Venerandos Juízes do Tribunal de Segunda Instância, revogar o acórdão recorrido, substituindo-o por decisão que considere a acção movida pelo Autor totalmente improcedente e, por conseguinte, absolva o Réu do peticionado pelo Autor, assim se fazendo JUSTIÇA!».
+*
+Não houve resposta ao recurso por parte do autor.
+*
+Cumpre apreciar e decidir.
+***
+II – Os Factos
+A sentença deu por assente a seguinte factualidade:
+«Da Matéria de Facto Assente:
+Em 29 de Abril de 1992, o Autor e o Réu celebraram um contrato-promessa de compra e venda. (alínea A) dos factos assentes)
+Por via de tal contrato-promessa, o Autor prometeu comprar e o Réu prometeu vender-lhe um troço de um terreno, troço 1 da Área de Terreno X, sito em Coloane, Ká Hó. (alínea B) dos factos assentes)
+De acordo com o intróito do contrato-promessa, o Réu manifestou a sua vontade de vender ao Autor esse terreno do tipo de escritura de papel de seda. (alínea C) dos factos assentes)
+Nos termos da cláusula 4ª, o Autor e o Réu acordaram que depois da celebração do contrato-promessa, o Réu:
+i. Deveria fornecer os respectivos documentos comprovativos; e
+ii. Deveria ter as obrigações de ajudar o Autor a tratar das formalidades nos respectivos departamentos do Governo e aproveitar o referido lote de terreno. (alínea D) dos factos assentes)
+No respeitante ao preço, nos termos da cláusula 1ª, o Autor e o Réu acordaram que o preço de cálculo de venda do citado terreno seria de cento e setenta Hong Kong dólares (HKD170,00) por pé quadrado. (alínea E) dos factos assentes)
+O Autor pagou ao Réu a totalidade do preço de venda acordado, ou sejam, HKD5.379.464,70 (cinco milhões trezentos e setenta e nove mil quatrocentos e sessenta e quatro dólares de Hong Kong e setenta cêntimos), valor este que se obtém considerando o preço unitário de HKD 170,00 por cada ft2 e, por outro lado, a área do troço 1 da Área de Terreno X, ou seja, 31.643,91 ft2. (alínea F) dos factos assentes)
+Da Base Instrutória:
+O contrato definitivo de compra e venda nunca foi celebrado. (resposta ao quesito 4º da base instrutória)
+Mediante notificação judicial avulsa requerida em 16 de Agosto de 2011, o Autor interpelou o Réu para vir cumprir o contrato ou apresentar uma via alternativa à sua resolução. (resposta ao quesito 5º da base instrutória)
+Apesar de interpelado, nada foi respondido ou contraposto pelo Réu. (resposta ao quesito 6º da base instrutória)
+O Autor comunicou a intenção da resolução do contrato mediante carta escrita de 20 de Setembro de 2011 recebida pelo Réu. (resposta ao quesito 7º da base instrutória)
+Desde pelo menos 29 de Abril de 1992 até 20 de Dezembro de 1999, o Réu não promoveu o reconhecimento judicial via usucapião do direito de propriedade sobre o terreno referido. (resposta ao quesito 8º da base instrutória)
+O Réu efectuou despesas por causa da presente lide, incluindo os honorários do seu mandatário de montante não apurado. (resposta ao quesito 9º da base instrutória)
+O Réu entregou ao Autor a parcela de terreno referido na alínea B), assim que pagou a totalidade do preço acordado. (resposta aos quesitos 10º e 11º da base instrutória)
+O Autor passou a administrar esses terrenos. (resposta ao quesito 12º da base instrutória)».
+***
+III – O Direito
+1 – O autor invocou na petição inicial, fundamentando a resolução do contrato e o pedido de restituição do valor entregue ao réu, o seguinte:
+Prometeu comprar ao réu, e este prometeu vender-lho, um terreno em Ká Hó, Coloane. Este ficou de lhe fornecer posteriormente os documentos comprovativos (escritura de papel de seda) e de o ajudar a tratar das formalidades junto do Governo para aproveitar o referido lote de terreno.
+Pago o valor da totalidade do preço (HK$ 5.379.464,70), nunca foram ao autor entregues os documentos, o réu nunca o ajudou junto dos departamentos governamentais com vista à urbanização do lote, nunca lhe foi entregue o terreno, nunca o contrato definitivo foi, enfim, celebrado, sendo certo que após Dezembro de 1999, com o art. 7º da Lei Básica, já o mesmo se tornou impossível.
+O autor interpelou o réu, mas este nada respondeu.
+Na contestação, o réu aceitou expressamente que tivesse celebrado com o autor o contrato-promessa, mas sobre a não realização do contrato definitivo, nega que tenha sido sua a culpa.
+*
+2 – A sentença, após o julgamento da matéria de facto, estudou o caso e concluiu:
+- O contrato em causa era de promessa de compra e venda;
+- O réu entrou em mora, mas não em incumprimento definitivo;
+- Houve impossibilidade de incumprimento imputável exclusivamente ao réu, uma vez que o terreno é propriedade da RAEM;´
+- Assiste ao autor o direito de resolver o contrato.
+E decidiu:
+- Condenar o réu no pagamento da quantia peticionada, acrescida de juros;
+- Condenar, porém, o autor em litigância de má fé, por este ter dito que nunca entrou na posse do prédio, quando a prova foi feita em sentido contrário;
+- Julgar improcedente o pedido do réu no pagamento de indemnização por má fé do autor.
+*
+3 – Vem agora o réu em recurso sustentar basicamente que o tribunal fez uma errada interpretação e qualificação do contrato em discussão. Para si, o contrato não era de promessa de compra e venda, mas sim uma «transmissão de posse do réu para o autor mediante o pagamento de uma determinada quantia, negócio legalmente atípico mas socialmente típico em Macau, considerando a problemática das “escrituras em papel de seda”», até porque ambos bem sabiam que não era possível a escritura de compra e venda de um terreno titulado por “Sa Chi Kai”.
+E para sustentar esta sua tese, aduz uma série de argumentos que retira do próprio contrato, como seja, por exemplo, o caso do dever de colaboração do réu no reconhecimento junto do Governo como proprietário [em rigor, concessionário] do terreno (cláusula 4ª), com o objectivo de aproveitamento no âmbito de um projecto de construção predial em sociedade com terceiros.
+Além disso, continua, não há no texto do documento nenhuma referência à realização futura de uma compra e venda.
+E se não era contrato-promessa, não podia haver resolução. Violou, assim, a sentença o art. 230º do CC.
+É este o único fundamento do recurso (art. 589º, do CPC).
+*
+4 – Apreciando, somos a adiantar, desde já, que o recorrente não tem razão.
+O que o recorrente vem fazer na presente impugnação é, nada mais, nada menos, do que interpretar o contrato que esteve na origem do pleito. Para si, ele não é de promessa de compra e venda, mas apenas de transmissão de posse.
+Ora, a interpretação de uma declaração negocial só é matéria de direito quando tenha que ser efectuada nos termos do nº1, do art. 228º do C.C., mas será matéria de facto, quando tenha que ser efectuada segundo o critério do nº2, do mesmo artigo, isto é, quando tenha que ser feita de acordo com a vontade real do declarante.
+No primeiro caso, o critério de interpretação é o normativo, também designado objectivista; no segundo, o critério a seguir é o subjectivista (Mota Pinto, Teoria Geral do Direito Civil, 3ª ed., pág.446 e sgs.; Pires de Lima e Antunes Varela, Código Civil Anotado, Vol. I, 4ª ed., pág. 223-224).
+Significa isto que, a interpretação à luz do primeiro critério deve ser considerada matéria de direito, ao passo que o apuramento da vontade negocial à luz do segundo deve ser tida como matéria de facto (neste sentido, Vaz Serra, RLJ, 111, pág. 249; Evaristo Mendes/Fernando Sá, in Comentário ao Código Civil, Parte Geral, Universidade Católica Editora, pág.541; na jurisprudência em termos de direito comparado, v.g., Ac. do STJ, de 28/10/1997, in BMJ nº 470, pág. 597, entre outros).
+Portanto, saber se as partes quiseram um contrato ou outro é matéria de facto.
+Ora, se isto é assim, quando o autor, na causa de pedir formulada na petição inicial da acção, afirmou que o negócio celebrado era um contrato de promessa de compra e venda, logo o réu se deveria ter insurgido contra esse facto, negando-o e dando ao contrato uma outra configuração, outra interpretação.
+Todavia, o réu, na sua contestação aceitou expressamente a afirmação do autor no art. 1º, ao considerar verdadeiro o facto contido no art. 14º a 17º da p.i. (fls. 65).
+Foi na sequência das posições das partes quanto a esse e outros factos que foi lavrado o despacho saneador, acompanhado do despacho que julgou assente determinada factualidade e incluiu outra na respectiva base instrutória.
+E nos factos assentes lá podemos nós ver o que consta da alínea A), B), C), D) e E), onde vem muito claramente assinalada a existência desse facto: a existência de um contrato de promessa de compra e venda entre as partes aqui litigantes. Isso mesmo resulta ainda da matéria factual respeitante à resposta aos arts. 10º e 11º da base instrutória.
+E a verdade é esta: o réu não pôs em causa, não censurou, não impugnou esse despacho, apesar de o poder ter feito ao abrigo através da reclamação a que se refere o art. 430º, nº2, do CPC. Podia, efectivamente, discordar nessa ocasião da selecção da matéria assente, negando que o tribunal pudesse dar por bem adquirido que o contrato celebrado era um contrato de promessa. Se o tivesse feito, do despacho que eventualmente lhe negasse razão podia o mesmo interessado apresentar impugnação no recurso que viesse a interpor da decisão final (art. 430º, nº2, do CPC; Viriato Lima, Manual de Direito Processual Civil, 2ª ed., pág. 450-451). Não reclamou, todavia.
+E não o tendo feito, podemos dizer que a matéria de facto ficou definitivamente adquirida.
+É claro que o tribunal de recurso pode contrariar a matéria de facto se vierem ao processo novos elementos ou se entender que nele existe algum documento ou elemento de prova que não tenha tido levado em conta e que contradiga ou divirja do julgamento efectuado na 1ª instância.
+Não é, porém, o caso. Na verdade, a 1ª instância teve o documento em devido apreço (doc. de fls. 20-21), o qual não foi impugnado e, além disso, estava em sintonia com a posição expressa do réu na sua contestação. Dito de outra maneira, nunca sobre ele e sobre o seu conteúdo o processo mostrou alguma posição das partes que conduzisse o litígio para o plano da sua interpretação. Naquela fase do processo apenas estava por apurar quem foi o culpado da não realização do negócio definitivo.
+Por conseguinte, sabe-se já qual foi o negócio em causa, por a 1ª instância ter definitivamente apurado esse facto de harmonia com a posição das partes (estiveram de acordo quanto a isso), logo, em consonância com o disposto no nº2 do art. 228º, nº2, do CC).
+Por outro lado, não há nos autos nada que contradiga a conclusão da 1ª instância. Efectivamente, nem sequer se pode dizer, com apoio no art. 230º, do CC, que o negócio formal em causa não tem no seu texto nenhuma correspondência com a referida conclusão da 1ª instância.
+Sendo assim, entende este TSI que o preceito indicado não se pode dar por violado, e que não tem motivos para ir à procura da interpretação do negócio à luz da teoria objectivista contida no nº1 do mesmo artigo, se face à concepção subjectivista do nº2 do preceito apurada já está a natureza do negócio celebrado.
+*
+5 – Desta maneira, porque não há outra matéria que no recurso deva ser conhecida, e sendo certo que o contrato celebrado era aquele que as partes aceitaram nos articulados, não se pode censurar a resolução que o tribunal “a quo” alcançou acerca da “resolução” do negócio.
+Neste sentido, também é impertinente o que o recorrente aduz acerca do mecanismo da usucapião (conclusões 34 e sgs. das alegações). Na verdade, o tribunal nem sequer disse que recaia sobre o réu a obrigação de interpor uma acção judicial para demonstrar a usucapião. O tribunal “a quo” sobre o assunto – independentemente de outras considerações e fundamentos vertidos na sentença que não foram postos em crise no recurso e que nos recordam o que está plasmado no art. 589º, nº4, do CPC - limitou-se a afirmar uma impossibilidade jurídica de o recorrente vender o terreno ao autor após 20/12/99 (tendo sido ele quem se colocou na situação de incumprimento, ao não ter celebrado a escritura antes de Dezembro de 1999) e de, por essa razão, lograr qualquer êxito uma qualquer eventual acção tendente à aquisição do direito real sobre o mesmo pela via da usucapião.
+Assim, soçobra o presente recurso jurisdicional.
+***
+IV – Decidindo
+Face ao exposto, acordam em negar provimento ao recurso.
+Custas pelo recorrente.
+TSI, 11 de Junho de 2015
+José Cândido de Pinho
+Tong Hio Fong
+Lai Kin Hong
+321/2015		20

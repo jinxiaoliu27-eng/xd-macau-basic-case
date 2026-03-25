@@ -1,0 +1,215 @@
+- Assembleia–geral de sócios
+- Deliberação
+- Presença de advogado do sócio
+body {
+font-size: 13px;
+line-height: 25px;
+background-color: #fff;
+}
+.highlight-key {
+font-weight: bold;
+background: #FFFF00;
+}
+打印全文
+﻿Proc. nº 249/2018
+Relator: Cândido de Pinho
+Data do acórdão: 11 de Outubro de 2018
+Descritores:
+- Assembleia–geral de sócios
+- Deliberação
+- Presença de advogado do sócio
+SUMÁRIO:
+I – O advogado, como qualquer outro elemento estranho à sociedade, pode intervir em representação do sócio na assembleia-geral desta, agindo em nome daquele.
+II – O sócio, porém, se comparecer à assembleia-geral não pode fazer-se acompanhar de advogado, a menos que tal seja autorizado pela própria assembleia.
+Proc. nº 249/2018
+Acordam No Tribunal de Segunda Instância da RAEM
+I - Relatório
+B (B), divorciado, portador do Bilhete de Identidade de Residente Permanente da Região Administrativa Especial de Macau nº XXXXXXX(X), com domicílio profissional na Alameda ...... n.º..., Edf. ...... ...º andar, em Macau, ----
+Instaurou no TJB (Proc. nº CV3-15-0050-CAO) ----
+acção declarativa com processo comum ordinário para anulação de deliberações sociais contra: -------
+Farmácia C Limitada (C藥房有限公司), sociedade comercial por quotas registada na Conservatória do Registo Comercial e de Bens Móveis de Macau sob o nº XXXXX(SO), com sede na Rua ......, ..., R/C, em Macau, ----
+Com s fundamentos que aqui damos por reproduzidos.
+*
+Na oportunidade, foi proferida sentença, que julgou improcedente a acção e absolveu a ré do pedido.
+*
+Contra essa sentença, vem interposto pelo autor da acção, B, o presente recurso jurisdicional, em cujas alegações formulou as seguintes conclusões:
+“a. Entendeu a decisão recorrida que, entre o disposto, de um lado, nos arts. 36º da LB e 12º do EA e, de outro, no art. 218º do CCom, deverá prevalecer a omissão observada neste último preceito do CCom, concluindo por uma limitação da assistência por advogados em assembleias gerais de sociedades comerciais;
+b. Salvo o devido respeito, o juízo do Tribunal a quo sobre a articulação das referidas normas não é aquele que melhor se conforma com as regras da boa interpretação, em particular com o princípio interpretativo a maiore ad minus;
+c. Nos termos do art. 218º, nº 3 do CCom, salvo estipulação em contrário dos estatutos da sociedade, o sócio pode fazer-se representar em assembleia por qualquer pessoa, conferindo-lhe poderes de representação;
+d. Daqui resulta que, como princípio geral, não repugnou ao legislador que terceiros participem activamente em assembleias gerais;
+e. O facto de se exigir disposição estatutária em contrário indica que, se imperativos de privacidade ou reserva existem nestas circunstâncias, não é a Lei que lhes dá guarida, devendo ser os próprios sócios a consagrá-los;
+f. De entre os terceiros que, munidos de procuração nos termos gerais, podem participar em assembleias gerais, os advogados no exercício da profissão serão aqueles que menos justificam preocupações com a privacidade ou a reserva da vida societária, pois tudo aquilo de que ali tomem conhecimento estará por definição protegido por segredo profissional;
+g. Ora, se a Lei permite o mais - a intervenção activa de qualquer terceiro em assembleia geral, como procurador de um sócio -, não haverá de proibir o menos - a participação passiva de um advogado, acompanhando e aconselhando um sócio;
+h. Numa outra dimensão, haverá de atentar-se na distinta dignidade normativa dos preceitos em confronto, devendo prevalecer a solução que favoreça o direito à assistência por advogado, atenta a sua consagração na LB;
+i. Também por via da relação de especialidade que se observa entre a norma do art. 12º do EA e a do art. 218º do CCom deverá concluir-se pela prevalência da primeira;
+j. Ao decidir no sentido em que o fez, a decisão recorrida violou o disposto nos arts. 36º da LB, 2º do EA e 229º, nº 1, a) do CCom.
+Nestes termos e nos mais de Direito, deve o presente recurso ser julgado procedente e, em consequência, ser a decisão recorrida revogada e substituída por outra que anule as deliberações sub indicio, como é de JUSTIÇA.”
+*
+A ré respondeu ao recurso nos seguintes termos conclusivos:
+“A. A questão a decidir resume-se a saber se o Recorrente tem o direito absoluto a fazer-se acompanhar por advogado na assembleia geral da Ré, independentemente de autorização do presidente da mesa e/ou da vontade dos restantes sócios.
+B. Nos pontos b.) a g.) das conclusões das alegações do recurso, o Recorrente considera que se a lei permite o mais - a intervenção de qualquer terceiro em assembleia geral, como procurador de um sócio - não haverá de proibir o menos - a participação passiva de um advogado, acompanhando e aconselhando um sócio.
+C. Mas sem razão.
+D. Isto porque o princípio interpretativo a maiore ad minus não se pode aplicar à interpretação do artigo 218.º do Código Comercial de Macau, urna vez que não há qualquer lacuna, sendo a representação voluntária do sócio por advogado1 e a participação do advogado com o sócio na assembleia geral duas situações da vida totalmente diferentes, não representando esta um “menos” em relação àquela.
+E. No ponto h.) das conclusões das alegações do Recorrente, censura-se à decisão recorrida a violação do artigo 36.º da Lei Básica, invocando-se em reforço argumentativo (fls. 455 a 458) o Parecer do Conselho de Deontologia da Ordem dos advogados de Portugal de 30.10.2009 (Consulta nº 48/2009).
+F. Mas também aqui sem razão, por tal parecer em que se louvam as alegações de recurso assentar num conjunto (errado) de pressupostos inaplicáveis em Macau.
+G. Com efeito, nem a Lei Básica, nem o artigo 12.º do EA, nem o n.º 2 do artigo 4.º-A da Lei n.º 21/88/M, nem o Código Comercial consagram o direito absoluto de o sócio se fazer acompanhar por advogado nas assembleias gerais das sociedades comerciais.
+H. Solução esta que se compreende pelo facto de tais reuniões não serem abertas ao público e de as sociedades terem direito à reserva da sua vida privada (art.º 74.º, n.º 2 do Código Civil), corno, entre outros, refere LUÍS BRITO CORREIA in Direito Comercial, 3.º volume, Deliberações dos Sócios, AAFDL, 1995, p. 44.
+I. Por outro lado, o que o Artigo 4.º da Lei Básica diz é que: «A Região Administrativa Especial de Macau assegura, nos termos da lei, os direitos e liberdades dos residentes da Região Administrativa Especial de Macau e de outras pessoas na Região» [carregado e sublinhado nosso]
+J. O direito à assistência por advogado previsto na norma programática do artigo 36.º da Lei Básica não é, pois, de aplicação automática, só podendo exercido nos termos da lei, designadamente de acordo com as normas do Código Comercial que regulam o direito e forma de participação nas assembleias gerais das sociedades comerciais, conforme resulta do artigo 4.º dessa mesma lei constitucional.
+K. Aliás, como manda o bom senso, dado que «Quando alguma liberdade ou direito se exerce sem nenhuma restrição, isto significa que ninguém tem liberdade nem direito.» - Cfr. WANG LEI in “Administração” n.º 73, vol. XIX, 2006-3.º, 1001-1005, “Sobre o valor da harmonia da Lei Básica”, pág. 1003.
+L. Como sócio da Ré, o Recorrente tem, pois, o direito - nos termos e com as limitações previstas na lei - a estar presente na assembleia geral e aí discutir e votar - artigos 195.º, n.º 1, d) e 218.º, n.º 1, ambos do Código Comercial, mas já não o direito absoluto de se fazer acompanhar por quem muito bem entenda.
+M. Isto porque nos termos do artigo 218/1 do Código Comercial, apenas os sócios têm o direito a participar nas assembleias gerais, embora se possam fazer representar por outro sócio, pelo cônjuge, por descendente ou ascendente ou ainda por qualquer outra pessoa, incluindo advogado, bastando, como instrumento de representação voluntária, uma carta dirigida ao presidente da mesa (artigo 218/2 do mesmo diploma) ou uma procuração, consoante o caso.
+N. Significa isto que fora do quadro legal previsto no artigo 218.º do Código Comercial apenas as pessoas devidamente autorizadas pelo presidente da mesa poderão assistir à assembleia geral.
+O. Consequentemente, sem a autorização de presidente da mesa (e a não oposição dos restantes sócios), não tinha o ora Recorrente o direito de impor a presença do seu advogado na assembleia geral da sociedade.
+P. Ora, o Recorrente optou por nunca pedir autorização ao presidente da mesa da assembleia geral para se fazer acompanhar por advogado, pelo que não tendo sido suscitada a pronúncia do órgão competente para o efeito, nada há a apontar ao funcionamento da assembleia, nem, por conseguinte, à validade do quanto nela foi deliberado.
+Q. No ponto i.) nas conclusões das alegações do recurso, o Recorrente defende a tese de que o artigo 12.0 do EA prevalece sobre o artigo 218.º do CCom por aquele ser especial em relação a este no que se refere à participação de advogado(s) nas assembleias gerais das sociedades comerciais.
+R. Sucede que, como explica DUARTE SANTOS in “Representação dos Sócios na Assembleia Geral das Sociedades” in “Boletim da Faculdade de Direito da Universidade de Macau”, Ano X, n.º 21,2006, pág. 188: ... recordemos que norma especial derroga norma geral, além de que a previsão do art.º 218.º é posterior à do Estatuto, pelo que se o legislador assim o entendesse, teria consagrado o advogado no universo dos possíveis representantes.
+S. A norma do artigo 218.º do Código Comercial de Macau aprovado pelo Decreto-Lei n.º 40/99/M, de 3 de Agosto assume, pois, natureza especial em relação à norma geral artigo 12.º do EA aprovado pelo Decreto-Lei n.º 31/91/M, de 6 de Maio, destinando-se a assegurar que, em princípio, apenas as pessoas directamente ligadas à sociedade possam estar presentes, não se encontrando obviamente derrogada pelo artigo 12.º do EA, o qual, de resto, lhe é muito anterior.
+T. Tanto assim é que as sucessivas alterações ao Código Comercial introduzidas pela Lei n.º 6/2000 e pela Lei n.º 16/2009 que previu, de forma inovadora, que os sócios passassem a poder fazer-se representar por qualquer pessoa nas reuniões, não consagraram o direito absoluto de o sócio se fazer assistir por estranhos nas assembleias gerais, como teria sucedido se tivesse sido essa a vontade do legislador. [Revista Jurídica de Macau, n.º Especial, Anotações à Lei 16/2009 - Alterações ao Código Comercial 2011, pp. 35-36.]
+U. Acresce que se o artigo 12.º, n.º 1 do Estatuto do Advogado tivesse o sentido e alcance que o Recorrente gostaria que ele tivesse e prevalecesse sobre todas e quaisquer normas especiais que lhe fossem posteriores, o aditamento do artigo 4.º-A à Lei n.º 21/88/M - «Acesso ao Direito e aos Tribunais» pela Lei n.º 1/2009 aprovada em 15 de Janeiro de 2009 que consagrou o direito ao acompanhamento por advogado perante qualquer autoridade pública teria sido redundante (logo inútil).
+V. Acresce que o art.º 5.º do Código Deontológico dos Advogados homologado por despacho 121/GM/92 não derroga os artigos 218.º, n.º 3 e 450.º, n.º 3, ambos do Código Comercial, nem prevalece sobre eles, não sendo pelo facto de o advogado estar sujeito ao dever de sigilo que tais normas do Código Comercial se lhe não aplicam.
+W. O artigo 12.º do EA tem, pois, de ser interpretado em função do regime especial das reuniões previsto no artigo 218.º e 450.º, n.º 3 do Código Comercial, sem que isso implique qualquer violação dos direitos de participação e representação dos sócios nas assembleias gerais das sociedades comerciais.
+X. Por último, sem conceder, mesmo que - por hipótese académica - estivéssemos perante um vício de procedimento - e não estamos - sempre o mesmo teria sido irrelevante.
+Y. Isto por o facto de o Recorrente ter optado por participar na reunião sem a companhia do seu advogado não determinou um apuramento irregular ou inexacto do resultado da votação, nem consequentemente, uma deliberação não correspondente à maioria dos votos exigida, até porque o Recorrente já trazia o sentido do seu voto preparado de véspera (fls. 367 e 368) conforme especificado nas respostas aos quesitos 22 e 33 da base instrutória.!
+Z. A decisão recorrida não violou, portanto, o disposto nos artigos 36.º da Lei Básica, 12.º do EA e artigo 229.º/1, a) do Código Comercial de Macau, nada lhe havendo a censurar.
+NESTES TERMOS e com o mais que V. Exas., muito doutamente, não deixarão de suprir, deve ser negado provimento ao recurso interposto, com as legais consequências.
+Vossas Ex.as decidirão, porém, como for de lei e JUSTIÇA!”
+*
+Cumpre decidir.
+***
+II – Os Factos
+A sentença deu por provada a seguinte factualidade:
+- A R. dedica-se à actividade de comércio de produtos de farmácia (alínea A) dos factos assentes).
+- O A. é sócio da R., na qual é detentor de uma quota com o valor nominal de MOP$24.000,00 (alínea B) dos factos assentes).
+- As restantes sócias da R. são D e F, respectivamente ex-cônjuge e filha do A (alínea C) dos factos assentes).
+- O A. exerceu até 25.05.2010 o cargo de administrador da R., juntamente com as restantes sócias (Doc.1) (alínea D) dos factos assentes).
+- Em 25.05.2010 foi nomeado administrador da R., em substituição do A., o seu filho G (alínea E) dos factos assentes).
+- Assim, desde aquela data a administração da R. é composta pela ex-cônjuge e pelos dois filhos do A (alínea F) dos factos assentes).
+- Em assembleia geral realizada em 27.06.2013, foi deliberada a aprovação das contas anuais da R. relativamente ao exercício de 2012 (alínea G) dos factos assentes).
+- O aqui A. intentou contra a aqui R. acção para anulação da referida deliberação, a qual corre termos neste Tribunal Judicial de Base sob o nºCV3-13-0057-CAO (alínea H) dos factos assentes).
+- No decurso da referida acção, foi ordenada a suspensão dos autos pelo período de 90 dias, para o efeito de aprovação de deliberação substitutiva da deliberação impugnada (alínea I) dos factos assentes).
+- Em assembleia geral realizada em 30.06.2014, foi deliberada a aprovação das contas anuais da R., do relatório da administração e da proposta de aplicação de resultados relativamente ao exercício de 2013 (alínea J) dos factos assentes).
+- O aqui A. intentou contra a aqui R. acção para anulação das referidas deliberações, a qual corre termos neste Tribunal Judicial de Base sob o nºCV3-14-0052-CAO (alínea K) dos factos assentes).
+- Por convocatória datada de 22.04.2015, foi convocada assembleia geral da Ré para o dia 08/05/2015, pelas 15h00m (alínea L) dos factos assentes).
+- Tendo como pontos da sua ordem de trabalhos os seguintes (alínea M) dos factos assentes):
+1. Exame e discussão das contas anuais relativas ao exercício de 2012, relatório da administração e proposta de aplicação de resultados, para substituição da deliberação aprovada em 27.06.2013;
+2. Exame e discussão das contas anuais relativas ao exercício de 2013, relatório da administração e proposta de aplicação de resultados, para substituição da deliberação aprovada em 30.06.2014.
+- O aludido aviso convocatório indicava que os seguintes documentos estariam disponíveis para consulta dos sócios previamente à assembleia geral convocada (Doc.4) (alínea N) dos factos assentes):
+1. Contas anuais relativas ao exercício de 2012, incluindo balancete, conta de ganhos e perdas e anexo;
+2. Relatório da administração relativo ao exercício de 2012;
+3. Proposta de aplicação de resultados relativa ao exercício de 2012;
+4. Contas anuais relativas ao exercício de 2013, incluindo balancete, conta de ganhos e perdas e anexo;
+5. Relatório da administração relativo ao exercício de 2013;
+6. Proposta de aplicação de resultados relativa ao exercício de 2013.
+- Em 28.04.2015, o A. endereçou uma carta à administração da R., pela qual informou que, a partir de 04.05.2015, iria deslocar-se à sede da R. acompanhado do auditor H e da contabilista I, a fim de examinar a documentação pertinente para preparação da assembleia geral (alínea O) dos factos assentes).
+- Na mesma carta, cuja cópia se mostra junta a fls. 86 a 89 e cujo teor aqui se dá por reproduzido, o A. solicitou que estivessem disponíveis para consulta diversos documentos, incluindo os que haviam sido indicados na convocatória (alínea P) dos factos assentes).
+- O A. solicitou ainda que fossem preparadas cópias daqueles documentos, prontificando-se para pagar de imediato os respectivos custos (alínea Q) dos factos assentes).
+- A R. respondeu à referida carta por e-mail datado de 30.04.2015, cuja cópia consta de fls. 90 e 91 e cujo teor aqui se dá por reproduzido (alínea R) dos factos assentes).
+- Em 04.05.2015, pelas 15h00m, o A., acompanhado do auditor H e da contabilista I, deslocou-se ao estabelecimento de farmácia da R. a fim de consultar os documentos em causa (alínea S) dos factos assentes).
+- Estando presente no local a administradora D, pela mesma foi dito que apenas o A. estava autorizado a consultar aqueles documentos, dado o seu teor confidencial, e que, por tal motivo, o auditor e a contabilista do A. estavam proibidos de ver tais documentos (alínea T) dos factos assentes).
+- Em 05.05.2015, o A. dirigiu uma nova carta à R., cujo teor consta da cópia junta a fls. 92 a 95 e aqui se dá por reproduzido, solicitando, relativamente aos exercícios de 2012 e 2013, a prestação de informação por escrito sobre os empréstimos concedidos a e por sócios da R. e sobre os gastos desta com pessoal (alínea U) dos factos assentes).
+- Mais solicitou o A. que tal informação fosse prestada com a maior brevidade possível, na medida em que a mesma se mostrava relevante para a preparação da assembleia geral agendada para 08.05.2015 (alínea V) dos factos assentes).
+- Na data e hora designadas para o início da assembleia geral da R., o A. compareceu no estabelecimento da R., acompanhado pelo seu advogado, a quem solicitara que lhe prestasse assistência jurídica durante os trabalhos da assembleia (alínea W) dos factos assentes).
+- Chegado ao local, o A. foi recebido por uma senhora de nome J, que transmitiu que iria participar na assembleia geral na qualidade de procuradora da sócia D (alínea X) dos factos assentes).
+- A mesma J de imediato informou que o advogado do A. não seria autorizado a participar na assembleia geral a menos que apresentasse procuração com poderes bastantes para o efeito, caso em que tal participação apenas seria admitida em substituição do A., ficando este proibido de participar e até de assistir à assembleia (alínea Y) dos factos assentes).
+- O A. fez notar que pretendia participar na assembleia em nome próprio, razão por que não era exigível procuração concedendo poderes a um representante (alínea Z) dos factos assentes).
+- E esclareceu também que o direito a assistência por advogado é garantido pela Lei Básica no seu art.16º e pelo Estatuto do Advogado (aprovado pelo Decreto-Lei nº 31/91/M) no seu art.12º, segundo o qual aquela assistência não pode ser negada por qualquer entidade pública ou privada (alínea AA) dos factos assentes).
+- J e G, que também se encontrava no local, reiteraram que não iriam permitir que o A. participasse na assembleia assistido pelo seu advogado (alínea BB) dos factos assentes).
+- Face à proibição de entrada imposta ao seu advogado e dado o interesse que obviamente tinha em participar na assembleia, o A. viu-se forçado a acatar tal proibição e a entrar sozinho na sala em que a assembleia geral iria decorrer (alínea CC) dos factos assentes).
+*
+Da Base Instrutória:
+- No e-mail da Ré referido na alínea R) dos factos assentes, a Ré informava que as contas da sociedade eram confidenciais, razão por que o auditor e contabilista do Autor não iriam ser autorizados a examiná-las (resposta ao quesito 1º da base instrutória).
+- E informava que apenas os documentos indicados na convocatória poderiam ser consultados pelo Autor, argumentando que os restantes que por ele haviam sido solicitados ou se encontravam fora do âmbito de tal convocatória ou estavam já reflectidos e explicados nos balanços e anexos, razão por que não iriam ser disponibilizados (resposta ao quesito 2º da base instrutória).
+- A administração da Ré informou que o Autor apenas tinha direito a consultar as contas, mas não a obter quaisquer cópias das mesmas, pelo que tal pedido não iria ser satisfeito (resposta ao quesito 3º da base instrutória).
+- A administradora da Ré, D, manteve a recusa da consulta dos documentos por parte de H e I (resposta ao quesito 6º da base instrutória).
+- O Autor pediu ainda que lhe fossem disponibilizadas cópias dos documentos em causa, a fim de poder analisá-las mais tarde (resposta ao quesito 10º da base instrutória).
+- O Autor abandonou o estabelecimento de farmácia da Ré, acompanhado de H e I, sem consultar os documentos (resposta ao quesito 13º da base instrutória).
+- A Ré respondeu à carta referida em U) dos factos assentes por carta de 7 de Maio de 2015, na qual, no respeitante à rubrica de empréstimos a e de sócios, apresentou os documentos juntos a fls 98 a 109 sem informações sobre taxa de juros, prazos de reembolso e outras condições, valores amortizados (resposta ao quesito 14º da base instrutória).
+- Ao pedido de indicação da norma legal que suportava a proibição referida em BB) dos factos assentes, J respondeu dizendo que não sabia qual era a norma, mas que iria informar-se sobre o assunto (resposta ao quesito 15º da base instrutória).
+- As três matérias que constituíam os pontos 1 a 3 da ordem de trabalhos foram objecto de uma única votação (resposta ao quesito 21º da base instrutória).
+- O Autor votou contra as matérias dos pontos 1 a 3 da ordem de trabalhos, entregando uma declaração previamente preparada, justificando o sentido do seu voto (resposta ao quesito 22º da base instrutória).
+- G e J, na qualidade de representantes das sócias F e D, votaram favoravelmente as referidas matérias (resposta ao quesito 23º da base instrutória).
+- Pelo que, como os votos maioritários daqueles, a assembleia deliberou aprovaras contas anuais, o relatório da administração e a proposta de aplicação de resultados relativamente ao exercício de 2012 (resposta ao quesito 24º da base instrutória).
+- As três matérias que constituíam os pontos 4 a 6 da ordem de trabalhos foram objecto de uma única votação (resposta ao quesito 32º da base instrutória).
+- O Autor votou contra as matérias dos pontos 4 a 6 da ordem de trabalhos, remetendo para os fundamentos da declaração de voto que já entregara aquando da votação dos pontos 1 a 3  (resposta ao quesito 33º da base instrutória).
+- G e J, na qualidade de representantes das sócias F e D, votaram favoravelmente as matérias dos pontos 4 a 6 da ordem de trabalhos (resposta ao quesito 34º da base instrutória).
+- Pelo que, com os votos maioritários daqueles, a assembleia deliberou aprovar as contas anuais, o relatório da administração e a proposta de aplicação de resultados relativamente ao exercício de 2013 (resposta ao quesito 35º da base instrutória).
+- O Autor foi administrador da Ré desde a sua constituição até 25 de Maio de 2010, é administrador de várias sociedades por si constituídas, tendo sido contabilista de profissão, tendo estado registado na Comissão de Registo dos Auditores e dos Contabilistas (resposta ao quesito 39º da base instrutória).
+- O autor foi contabilista de profissão registado na CRAC, técnico que procede à planificação, organização e execução da contabilidade com conhecimentos em contabilidade geral e analítica e fiscalidade (resposta ao quesito 43º da base instrutória).
+- Nenhum dos outros sócios presentes na assembleia geral estava acompanhado de advogado (resposta ao quesito 44º da base instrutória).
+- J foi eleita secretário da mesa pelo presidente da assembleia G (resposta ao quesito 45º da base instrutória).
+- No decurso da assembleia, o Autor teve oportunidade de usar da palavra (resposta ao quesito 48º da base instrutória).
+- Em 03/03/2014, no processo FM1-10-0002-CDL-B, o Autor submeteu ao Tribunal um relatório subscrito por H, em que o mesmo afirma que《Analisadas as demonstrações financeiras da Sociedade “Farmácia” C Limitada” reportadas a 31 de Dezembro de 2013, constata-se que o valor dos capitais próprio da referida Sociedade atinge o valor de MOP15.624.623.》  (resposta ao quesito 49º da base instrutória).
+- Em 20/07/2015, o Autor afirmou no artigo 19 da contestação apresentada nos autos FM1-10-0002-CDL-C que a Ré tem um lucro acumulado de MOP17.353.062,54 (resposta ao quesito 51º da base instrutória).
+- O Autor juntou o respectivo balanço do exercício de 2014 (resposta ao quesito 52º da base instrutória).
+- O Autor conhece os balanços e demonstrações de resultados dos exercícios de 2011, 2012, 2013 e 2014 que foram apresentados à Direcção dos Serviços de Finanças (resposta ao quesito 53º da base instrutória).
+- Nos Apensos B e C dos autos FM1-10-0002-CDL, o autor apresentou o balanço e a demonstração de resultados dos exercícios de 2014 como prova do valor por si invocado (resposta ao quesito 54º da base instrutória).
+- Durante o período em que o Autor foi administrador da Ré, não houve partilha dos lucros da Ré (resposta ao quesito 57º da base instrutória).
+- O que consta da alínea D) dos factos assentes (resposta ao quesito 62º da base instrutória).”.
+***
+III – O Direito
+1 - O autor instaurou a acção tendo por objectivo a anulação de deliberações sociais da sociedade “Farmácia C Limitada” de que é sócio (juntamente com D, sua ex-mulher, e F, filha), tomadas em assembleia geral realizada no dia 8/05/2015, com o fundamento de que não lhe foram fornecidos previamente elementos da empresa que queria consultar, por si e com auxílio de contabilista, e também por não lhe ter sido permitido fazer-se acompanhar de advogado na assembleia, a não ser com procuração com poderes especiais e em substituição do A.
+A assembleia teve lugar e nela foram votadas as contas anuais e relatórios respeitantes aos exercícios de 2012 e 2013, bem como as propostas de aplicação dos respectivos resultados.
+A sentença, face aos factos provados, concluiu que a ré não forneceu todos os elementos que o autor pretendia obter antes da assembleia, coarctando a este o seu direito de informação.
+Apesar disso, entendeu que não havia motivo para a anulação das deliberações. E isto porque os elementos que a ré disponibilizou aos sócios eram aquelas que serviriam para analisar por estes, o que lhes permitiria votar na assembleia convocada. Logo, eram outros elementos que não iriam ter, nem tiveram, influência na s deliberações impugnadas.
+-
+A sentença pronunciou-se ainda sobre a falta do fornecimento de outros documentos pedidos pelo autor, mas concluiu que as deliberações não podia ser anuladas com base nela.
+-
+Teve oportunidade, também, a sentença de rechaçar a tese de que as deliberações tomadas deviam ser anuladas com fundamento na impossibilidade de o autor consultar certos documentos para se preparar para a assembleia-geral acompanhado de contabilistas e auditores.
+-
+E por fim, no estudo que fez do caso, a sentença acabou por não acompanhar a posição do autor quanto à impossibilidade de ele se fazer acompanhar de advogado à referida assembleia.
+*
+2 - Nas alegações do recurso, o autor centrou a sua atenção apenas no último dos fundamentos acima referidos, isto é, unicamente dirigiu a sua atenção impugnativa contra a sentença na parte em que esta considerou inexistir motivo para a pretendida anulação em face da impossibilidade da  presença do seu advogado na assembleia geral social.
+Cremos, porém, que não tem razão.
+A sentença, sobre o tema asseverou o seguinte:
+«Relativamente à impossibilidade de o Autor estar acompanhado por contabilistas e auditores na consulta dos documentos disponíveis para se preparar para a assembleia geral, está provado que a Ré impediu que um auditor e uma contabilista o acompanhassem na consulta destes documentos.
+O Código Comercial de Macau é omisso quanto à possibilidade de os sócios procederem à consulta dos documentos acompanhados de terceiros.
+Contrariamente, prevê expressamente o artigo 214º do Código das Sociedades Comerciais português que “1. Os gerentes devem prestar a qualquer sócio que o requeria informação verdadeira, completa e elucidativa sobre a gestão da sociedade, e bem assim facultar-lhe na sede social a consulta da respectiva escrituração, livros e documentos. A informação será dada por escrito, se assim for solicitado. 2. O direito à informação pode ser regulamentado no contrato de sociedade, contanto que não seja impedido o seu exercício efectivo ou injustificadamente limitado o seu âmbito; designadamente, não pode ser excluído esse direito quando, para o seu exercício, for invocada suspeita de práticas susceptíveis de fazerem incorrer o seu autor em responsabilidade, nos termos da lei, ou quando a consulta tiver por fim julgar da exactidão dos documentos de prestação de contas ou habilitar o sócio a votar em assembleia geral já convocada. 3. Podem ser pedidas informações sobre actos já praticados ou sobre actos cuja prática seja esperada, quando estes sejam susceptíveis de fazerem incorrer o seu auto em responsabilidade, nos termos da lei. 4. A consulta da escrituração, livros ou documentos deve ser feita pessoalmente pelo sócio, que pode fazer-se assistir de um revisor oficial de contas ou de outro perito, bem como usar da faculdade reconhecida pelo artigo 576º do Código Civil. 5. O sócio pode inspeccionar os bens sociais nas condições referidas nos números anteriores. 6. O sócio que utilize as informações obtidas de modo a prejudicar injustamente a sociedade ou outros sócios é responsável, nos termos gerais, pelos prejuízos que lhes causar e fica sujeito a exclusão. 7. A prestação de informações em assembleia geral é aplicável o disposto no artigo 290.º. 8. O direito à informação conferido nesta secção compete também ao usufrutuário quando, por lei ou convenção, lhe caiba exercer o direito de voto.”
+Qual o sentido dessa omissão no ordenamento jurídico de Macau?
+Da nota justificativa do Código Comercial pode-se ler o seguinte: “21. Indicam-se de seguida alguns dos elementos legislativos que serviram de fontes para a elaboração do Código Comercial de Macau, os quais se completam nos parágrafos relativos às sociedades, cuja consulta, bem como especialmente da respectiva elaboração doutrinária, se espera possa vir a contribuir para a resolução da maioria das questões que se venham a levantar. 22. Partiu-se do anterior Código Comercial de 1888 e teve-se sempre em conta o direito vigente em Portugal, v.g., na disciplina da firma, na da escrituração mercantil, na das sociedades comerciais, na do agrupamento de interesse económico, na do contrato de consórcio, na do contrato de associação em participação, na do contrato de agência, na do contrato de locação financeira.”
+Tendo em conta que o Código Comercial foi elaborado e aprovado 13 anos depois da aprovação e entrada do Código das Sociedades Comerciais português, julga-se que o seu silêncio quanto à possibilidade de assistência na consulta dos documentos da sociedade por quotas corresponde a uma opção legislativa no sentido de não proporcionar idêntica faculdade aos sócios de sociedades de Macau.
+Assim, está-se longe de poder concluir pela violação de qualquer direito do Autor quando este foi impedido de proceder à consulta dos documentos acompanhado dos citados terceiros.
+Ademais, à semelhança com as situações anteriores, a pretensão de invalidação das deliberações pressupõe que a falta de assistência tenha prejudicado o Autor na formação da sua vontade quanto ao sentido do seu voto como resulta da análise feita mais acima.
+Também nada indica que isso ocorreu.
+Pelo que, as deliberações impugnadas também não podem ser anuladas com esse fundamento.
+*
+Entende o Autor que a Ré violou o seu direito de ser assistido por advogado durante a reunião da assembleia geral.
+Está provado que, no dia da assembleia geral impugnada, o Autor compareceu na sede da Ré acompanhado do seu advogado tendo a Ré proibido que este último participasse também na assembleia geral.
+Urge, então, aquilatar se assiste ao Autor o direito de participar na assembleia acompanhado do seu advogado.
+*
+Sobre o direito de participação nas reuniões da assembleia geral, estipula o artigo 218º do Código Comercial o seguinte: “1. Salvo disposição legal em contrário, todos os sócios têm direito a participar nas reuniões da assembleia geral e aí discutir e votar. 2. Salvo disposição dos estatutos em contrário, o sócio apenas pode fazer-se representar na assembleia geral por outro sócio, pelo cônjuge, por descendente ou ascendente, bastando, como instrumento de representação voluntária, uma carta por aquele assinada dirigida ao presidente da mesa. 3. Salvo disposição dos estatutos em contrário, o sócio pode ainda fazer-se representar na assembleia geral por outra pessoa para além das previstas no número anterior, desde que para o efeito lhe atribua poderes representativos nos termos gerais. 4. As pessoas que integrem os órgãos sociais devem comparecer às reuniões da assembleia geral, quando convocadas pelo presidente da mesa.”
+Como se pode constatar, o Código Comercial não prevê qualquer direito de assistência como pretende pelo Autor.
+Entende o Autor que tal direito resulta das normas dos artigos 36º da Lei Básica e 12º do Estatuto do Advogado. Segundo essas normas, “Aos residentes de Macau é assegurado o acesso ao Direito, aos tribunais, à assistência por advogado na defesa dos seus legítimos direitos e interesses, bem como à obtenção de reparações por via judicial. Os residentes de Macau têm o direito de intentar acções judiciais contra actos dos serviços do órgão executivo e do seu pessoal” e “1. O mandato judicial, a representação e a assistência por advogado são sempre admissíveis e não podem ser impedidos perante qualquer jurisdição, autoridade ou entidade pública ou privada, nomeadamente para a defesa de direitos, patrocínio de relações jurídicas controvertidas, composição de interesses ou em processos de mera averiguação, ainda que administrativa, oficiosa ou de qualquer outra natureza. 2. O mandato judicial não pode ser objecto, por qualquer forma, de medida ou de acordo que impeça ou limite a escolha directa e livre do mandatário pelo mandante. ”.
+*
+Como, então, articular as normas acima transcritas?
+Não há dúvida que as normas dos artigos 36º da Lei Básica e 12º do Estatuto do Advogado consagram um direito geral de representação e defesa por advogado como bem salienta Duarte Santos, A Representação dos Sócios em Assembleia Geral das Sociedades, in Boletim da Faculdade de Direito da Universidade de Macau, Ano X, nº 21, 2006, pgs 186. Porém, também é verdade que há interesses privados a salvaguardar no seio das sociedades comerciais evitando intromissões indesejadas por parte de terceiros estranhos à sociedade. Daí a razão de ser da limitação prevista no artigo 218º do Código Comercial acima transcritos.
+Ora, tal como qualquer direito legalmente previsto, o direito de representação e defesa por advogado não é ilimitado ao ponto de impor o direito de ser acompanhado por advogado em todas e quaisquer situações, como manda o bom senso. Mais razão existe para essa limitação quando estão em causa outros interesses também merecedores de tutela.
+Para Luis Brito Correia, Direito Comercial, 3º volume, AAFDL, 1989, pg 44, “A regra é, pois, que as pessoas estranhas à sociedade (que não sejam sócios, membros de órgãos sociais, obrigacionistas ou respectivos representantes) não podem participar, nem sequer estar presentes na assembleia, a menos que o presidente da mesa os autorize e a própria assembleia não se oponha a essa autorização. Compreende-se que assim seja. A sociedade é um agrupamento de particulares e as assembleias gerais dizem respeito à sua vida privada; não são abertas ao público (CCiv, art. 80.º). Mesmo quando a sociedade atinja uma dimensão que ponha eventualmente em causa o interesse público, a defesa deste só pode efectivar-se nos termos da lei (v.g., mediante intervenção de administradores por parte do Estado, delegados do Governo ou até agentes da polícia).Por isso mesmo, em regra, um sócio não pode, por si só, exigir a presença de estranhos na assembleia, contra a vontade do presidente da mesa ou da própria assembleia. E o presidente da mesa pode impor a saída da sala de reuniões a estranhos não autorizados ou que estejam a perturbar os trabalhos – podendo inclusivamente recorrer à força pública, nos termos legais, para o conseguir.”.
+Ponderados os interesses em jogo, designadamente a “… a natureza eminentemente personalística das sociedades comerciais, com excepção das sociedades anónimas, assim como a necessidade de resguardar os outros sócios relativamente a terceiros … ”, bem como a clara opção do legislador de não consagrar tal direito no Código Comercial, lei especial em relação aos citados dois diplomas – cfr. Duarte Santos, ob. cit., pgs 186 a 188, julga-se de seguir o entendimento defendido por este, no sentido de limitar o direito em questão não permitindo a participação de advogados nas reuniões da assembleia geral.
+Assim, mais uma vez nada há a apontar quanto à proibição imposta pela Ré razão.
+Pelo que, o pedido de anulação das deliberações com base nesse fundamento também não pode deixar de improceder.»
+Nada temos contra o que se acaba de transcrever, por corresponder à boa decisão sobre o assunto (salvo na parte em que foi feita a firmação de que o Código Comercial é omisso quanto à possibilidade de os sócios procederem à consulta de elementos acompanhados de contabilistas e auditores, já que quanto às sociedades em nome colectivo, o sócio pode, no exercício do direito à informação, e na consulta da escrituração, livros e documentos, fazer-se acompanhar de peritos, face ao disposto no art. 336º, nº2, do C.Com.). Razão pela qual fazemos nossa esta fundamentação, nos termos do art. 631º, nº5, do CPC.
+Acrescentamos somente o seguinte:
+É evidente que o sócio se pode fazer representar em assembleia por qualquer pessoa, bastando que lhe confira os necessários poderes de representação (art. 218º, nº3, do Código Comercial). Todavia, a presença de pessoas estranhas à sociedade só é permitida nessa única condição: de representação do sócio ausente. Nessas circunstâncias, quem participa e vota é o sócio através do seu representante. Não era o caso dos autos.
+Por outro lado, o facto de se tratar de um advogado não traz à situação outra ordem de considerações que seja preciso equacionar. O advogado, também aí, só poderá estar em representação do sócio, e não ao lado ou a par do sócio. Nessa hipótese já são duas as pessoas presentes: o sócio e um terceiro. E tal não está previsto.
+Certo é que percebemos a lógica do raciocínio exposto em tom interrogativo, quando o recorrente argumenta: como se não deverá deixar estar presente o advogado “acompanhante” e já se deixe estar o advogado “participante” enquanto “representante”?! A lógica aconselharia a que quem permite o mais, também permite o menos. Assim o pensa o recorrente.
+Mas não é assim que as coisas se resolvem em direito. O advogado representante é um terceiro como qualquer outro, que dispõe de poderes para participar, intervir e votar, como se fosse o próprio sócio. É diferente a situação quando o sócio participa, intervém e vota com o seu advogado presente, na qualidade de técnico jurista.
+Como, aliás, não pode o sócio fazer-se acompanhar, em princípio, do seu cardiologista para intervir numa situação de exaltação ou comoção na discussão acalorada dos pontos previstos na ordem de trabalhos.
+A lei não faz distinção a este respeito.
+É que a presença de estranhos à vida da sociedade poderia trazer mais danos do que benefícios à pessoa colectiva, que se rege pelas regras da confidencialidade dos seus dados e pela reserva da sua vida social privada. Daí que, só com a anuência da assembleia, e desde que os estatutos o prevejam, a presença do advogado nestas condições é possível (neste sentido (neste sentido, v.g., Pinto Furtado e Duarte Santos, Curso de Direito das Sociedades, 5ª ed., pág. 419) ou com autorização do presidente da mesa (J. M. Coutinho de Abreu, Código das Sociedades Comerciais em Comentário, VI, pág. 92).
+Portanto, não havendo lacuna nesta matéria de intervenção de terceiros na assembleia geral, e estando a situação prevista e regulada com carácter restritivo nos arts. 218º e 450º, nº3, do Cód. Comercial, não se vê que outra pudesse ser a decisão da 1ª instância (no mesmo sentido, ver o Ac. do TSI, de 4/10/2018, Proc. nº 126/2018).
+Pelo exposto, o recurso não merece provimento.
+***
+IV – Decidindo
+Face ao exposto, acordam em negar provimento ao recurso.
+Custas pelo recorrente.
+T.S.I., 11 de Outubro de 2018
+(Relator)	                                                      José Cândido de Pinho
+(Primeiro Juiz-Adjunto)                                         Tong Hio Fong
+(Segundo Juiz-Adjunto)       Lai Kin Hong
+1 Desde que munido da competente carta mandadeira devidamente assinada pelo sócio e dirigida ao presidente da mesa nos termos do n.º 2 do artigo 218.º do Código Comercial.
+---------------
+------------------------------------------------------------
+---------------
+------------------------------------------------------------
+249/2018                                                                                                                                                  26

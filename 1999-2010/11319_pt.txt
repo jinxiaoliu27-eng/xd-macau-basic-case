@@ -1,0 +1,198 @@
+- Extemporaneidade do recurso hierárquico necessári
+- Acto confirmativo
+body {
+font-size: 13px;
+line-height: 25px;
+background-color: #fff;
+}
+.highlight-key {
+font-weight: bold;
+background: #FFFF00;
+}
+打印全文
+﻿Processo nº 9/2010
+(Recurso Contencioso)
+Data:    27/Outubro/2011
+Assuntos:
+- Extemporaneidade do recurso hierárquico necessári
+- Acto confirmativo
+SUMÁRIO:
+1. Para haver um acto confirmativo mostra-se necessário que haja identidade de partes, de pretensão e da causa de pedir, para além da  definitividade do acto confirmado e do seu conhecimento do interessado.
+2. Mas para haver identidade de decisão importa não apenas a existência de identidade da resolução dada ao caso concreto, mas também identidade da fundamentação da decisão e identidade das circunstâncias ou pressupostos da decisão.
+3. Se numa dada decisão que indeferiu um pedido de restituição de determinadas quantias surge uma fundamentação algo diferente, incidindo já sobre argumentos invocados (alegada violação da LB, a irrelevância da ligação a outra entidade fora da RAEM, violação dos direitos adquiridos) e um parecer da DSAFP que não tinham sido anteriormente considerados não estamos perante um acto confirmativo de um outro que mandou o funcionário repor dadas quantias.
+O Relator,
+João A. G. Gil de Oliveira
+Processo n.º 9/2010
+(Recurso Contencioso)
+Data  :        27 de Outubro de 2011
+Recorrente:     A
+Recorrido:      Secretário para a Economia e Finanças
+ACORDAM OS JUÍZES NO TRIBUNAL DE SEGUNDA INSTÂNCIA DA R.A.E.M.:
+I - RELATÓRIO
+A, melhor identificada nos autos, a exercer funções de adjunta-técnica especialista do 3.° escalão na Direcção dos Serviços de Finanças, tendo sido notificada, por carta registada com aviso de recepção expedida em 19 de Novembro de 2009, do despacho do Exmo. Senhor Secretário para a Economia e Finanças de 12 de Novembro de 2009 que rejeitou recurso hierárquico necessário que a ora Recorrente havia interposto em 27 de Julho de 2009, por considerar ultrapassado o prazo dessa interposição, e não se conformando com a decisão, vem interpor
+RECURSO CONTENCIOSO DE ANULAÇÃO
+alegando, em síntese:
+O despacho objecto do presente recurso foi notificado à Recorrente por carta registada com aviso de recepção expedida em 19 de Novembro de 2009, pelo que é tempestivo.
+A Senhora Directora dos Serviços de Finanças, por despacho de 26 de Abril de 2007, notificado à Recorrente por Comunicação Interna de 11 de Setembro de 2007, ordenou a reposição de montantes que vinham sendo recebidos pela Recorrente a título de dois prémios de antiguidade, vencidos respectivamente em 9 de Fevereiro de 1994 e 9 de Fevereiro de 1999, fazendo tal reposição retroagir a 2002, e não também a anos antecedentes, apenas por motivo de prescrição do direito da Administração a reclamar a devolução de pagamentos processados antes de 2002.
+Sucede que o primeiro prémio de antiguidade da Recorrente lhe foi atribuído mediante requerimento de 28 de Janeiro de 1994, sobre o qual incidiu um despacho com o teor "Visto. Transite-se ao Dep. de Contabilidade Pública. Em 17/2/94. (assinatura) XXX, Chefe de Secção" e um outro despacho que diz: "Transite-se ao (ilegível) (assinatura) 17.02.94".
+Estes despachos ou, pelo menos, o último subsumiu a situação particular da Recorrente à norma atributiva do prémio de antiguidade, pondo em marcha o processamento administrativo interno necessário ao início do pagamento do prémio.
+O acto de 17 de Fevereiro de 1994 nunca poderia ter sido revogado, ainda que tacitamente, sem o acordo da Recorrente.
+Ainda que ele estivesse viciado de anulabilidade, a sua revogação só podia ter ocorrido com fundamento nessa invalidade e no prazo do respectivo recurso contencioso ou até à resposta da entidade recorrida, nos termos do artigo 122.°, n.º 1, do mesmo Código.
+O mesmo regime sobre a revogabilidade dos actos constitutivos de direitos, sejam os válidos sejam os anuláveis, aplica-se ao acto administrativo de 26 de Fevereiro de 1999, com mais propriedade, aliás, visto que o Código de Procedimento Administrativo de 1994 já estava em vigor quando aquele foi praticado.
+O novo Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 57/99/M, de 11 de Outubro, contém regras idênticas, enunciadas nos seus artigos 129, n.ºs 1, b), e 2, e 130°, n.º 1, às do anterior Código, em matéria de revogabilidade dos actos administrativos, válidos ou anuláveis, que constituam direitos na esfera dos destinatários.
+O despacho de 26 de Abril de 2007 revogou tacitamente os despachos de 1994 e 1999, decorridos cerca de treze e oito anos, respectivamente, sobre a constituição do direito concreto da Recorrente aos aludidos prémios de antiguidade, com o que violou flagrantemente os preceitos legais citados, que consagram o direito fundamental dos administrados à protecção dos direitos que lhes sejam conferidos por actos irrevogáveis e irrecorríveis da Administração.
+Os actos que ofendam o conteúdo essencial dum direito fundamental são nulos, por força do disposto no artigo 122°, n.º 2, d), do actual Código do Procedimento Administrativo.
+Assim sendo, o despacho de 26 de Abril de 2007 é nulo.
+Particularizando para os funcionários e agentes públicos, o princípio dos direitos adquiridos é plasmado no artigo 98.°, primeiro parágrafo, da Lei Básica da RAEM, que garante aos funcionários e agentes públicos os direitos adquiridos por serviço anteriormente prestado, para efeitos de antiguidade (v. neste sentido, o parecer emitido pela Direcção dos Serviços de Administração e Função Pública, a pedido da Recorrente – doc . 5).
+Os actos nulos são insusceptíveis de confirmação porque não produzem quaisquer efeitos jurídicos, independentemente da declaração de nulidade, nos termos do artigo 123.°, n.º 1, do Código do Procedimento Administrativo.
+No entanto, o despacho ora em recurso considerou que o anterior despacho da Senhora Directora dos Serviços de Finanças, de 23 de Junho de 2009, de que aquele conheceu em sede de recurso hierárquico necessário era meramente confirmativo do despacho de 26 de Abril de 2007.
+Só assim se pode entender a declaração de rejeição do recurso hierárquico necessário "por ﻿estar ultrapassado o prazo para interposição do recurso"
+Enferma assim o acto recorrido do vício de violação de lei, a saber, o artigo 123°, n.º 1, do CPA, acima referido, o que, à luz do estabelecido no artigo 124°, o torna anulável.
+Termos em que, conclui,
+deve o presente recurso ser julgado provado e procedente, anulando-se o despacho aqui contenciosamente recorrido, com fundamento em violação de lei, a saber, o artigo 123.°, n.º 1, do CPA, posto o que deverá a entidade recorrida, moldando a sua conduta futura à ratio ﻿decidendi da decisão judicial, em obediência ao princípio do efeito performativo ou conformativo do caso julgado, conhecer do pedido ínsito no recurso hierárquico necessário que a Recorrente lhe dirigiu, no sentido de que seja deferida a restituição dos montantes dos prémios de antiguidade já repostos e ordenada a retoma do seu processamento mensal, com efeitos retroactivos a Julho de 2007, momento em que foi interrompido esse processamento.
+O Exmo Senhor Secretário para a Economia e Finanças, entidade recorrida nos autos de recurso contencioso contesta, alegando em sede de conclusões:
+O despacho de 26/07/07, não revogou expressa ou tacitamente os despachos de 1994 e 1999, já que em caso algum estes poderiam perdurar para além do momento em que a recorrente se desvinculou do quadro e integrou a Administração Pública Portuguesa, na medida em que foram proferidos em circunstâncias de facto e de direito que se alteraram com a referida desvinculação;
+Tendo a recorrente celebrado um novo vínculo haveria sempre que produzir-se um novo despacho reconhecendo o direito à percepção dos prémios de antiguidade, se fosse caso disso;
+O despacho de 26/07/07 não padece de qualquer vício gerador da nulidade;
+Pelo que inexistem os pressupostos de facto e de direito que possam dar acolhimento à pretensão da recorrente quanto à anulação do despacho do Ex.mo Senhor SEF;
+Sendo de todo irrelevante para o objecto do presente recurso a bondade do despacho de 26/07/07, na medida em que, no momento próprio, a recorrente não a questionou.
+Nestes termos, deve o presente recurso ser julgado improcedente, em virtude da inexistência de qualquer ilegalidade do acto recorrido.
+Por sua vez, A, veio, ao abrigo do disposto no art. 61º n.º 1 do CPAC, expor e requerer o seguinte:
+1.  A entidade ora recorrida vem, nos artigos 24.º e 25.º da contestação, alegar que os despachos de 17 de Fevereiro de 1994 e de 26 de Fevereiro de 1999 não foram revogados, expressa ou tacitamente, pelo despacho de 26 de Julho de 2007 que ordenou a reposição dos prémios de antiguidade pela ora Recorrente,
+2.  daí se retirando, consequentemente, que sustenta que o despacho de 26 de Julho de 2007 configura um acto administrativo novo, importando novos efeitos jurídicos na esfera da ora Recorrente.
+3.  Essa alegação, se provada, obstaria ao conhecimento do presente recurso (ou comprometeria seriamente o seu êxito, aspecto que, na interpretação lata que se julga correcta do artigo 61.°, n.º 1, do CPAC, deve considerar-se abrangido na previsão desse normativo).
+4.  Com efeito, o presente recurso assenta na perspectiva de que o despacho de 26 de Abril de 2007 - que ordenou à Recorrente a reposição das quantias que esta pretende agora reaver - revogou tacitamente os despachos de 1994 e 1999, os quais tinham atribuído à Recorrente o direito às referidas quantias, e enferma, por isso, de nulidade.
+5.  A ser isso verdade, o despacho de 12 de Novembro de 2009 do Senhor Secretário para a Economia e Finanças, que é propriamente o objecto do recurso, é anulável porque tem como pressuposto a natureza meramente confirmativa do despacho de 23 de Junho de 2009 da Senhora Directora dos Serviços de Finanças.
+6.  A suposta confirmação operada pelo despacho da Senhora Directora dos Serviços de Finanças respeitaria ao referido despacho de 2007.
+7.  Porém, os actos nulos são insusceptíveis de confirmação, pelo que, de duas uma
+-  ou o despacho de 2007 é revogatório dos de 1994 e 1999 e, por conseguinte nulo, o que determina então também a invalidade do despacho de 23 de Junho de 2009 e do despacho, objecto do presente recurso, de 12 de Novembro de 2009 e, em última análise, a procedência do presente recurso,
+-  ou o despacho de 2007 é, como veio dizer a entidade recorrida na contestação, um acto administrativo novo, caso em que a construção jurídica da recorrente soçobraria.
+Assim sendo, a contestação, ao pôr em crise a natureza revogatória do despacho de 2007, traz à discussão matéria nova, fundamental sobre a qual a recorrente deve ter o ensejo de se pronunciar.
+A mesma recorrente, em sede de alegações facultativas, diz, em síntese:
+A.  A Recorrente transitou de funcionária para agente da Administração Pública de Macau, sem interrupção temporal.
+B.  Ambos os estatutos conferem o direito a receber prémios de antiguidade, por força do disposto no artigo 180.°, n.º 1, do ETAPM.
+C.  A lei não associa a concessão de prémios de antiguidade à futura aposentação, efectiva ou hipotética, do funcionário ou agente, mas apenas uniformiza o critério de cômputo de antiguidade para efeitos de aposentação e de prémios de antiguidade.
+D.  Assim, tem direito a prémios de antiguidade, não quem vai aposentar-se, real ou hipoteticamente, pela Administração Pública de Macau, mas quem cumpre tempo de serviço com as características do tempo de serviço que também releva para aposentação.
+E.  Por conseguinte, nem a transição da Recorrente de funcionária para agente nem a sua integração em Portugal comprometeram o direito aos dois prémios de antiguidade que adquiriu em 1994 e 1999,
+F.  sendo incorrecto julgar que os actos administrativos de 1994 e 1999 que conferiram o direito aos mencionados prémios caducaram em 1 de Outubro de 1999, quando a prestação de serviço da Recorrente deixou de se basear no seu vínculo ao quadro da Administração Pública de Macau e passou a assentar num contrato além do quadro.
+G.  O despacho da Senhora Directora dos Serviços de Finanças de 26 de Julho de 2007, ao suprimir o direito à percepção dos prémios de antiguidade que foram conferidos à Recorrente em 1994 e 1999, veio revogar, cerca de treze e oito anos depois e sem o assentimento da interessada, dois actos constitutivos de direitos,
+H.  o que ofende o conteúdo essencial dum direito fundamental - o da estabilidade dos direitos adquiridos - da Recorrente, plasmado no artigo 98.°, primeiro parágrafo, da Lei Básica da RAEM,
+I.  e fere, por isso, esse despacho de nulidade, por força do disposto no artigo 122.°, n.º 2, d), do Código do Procedimento Administrativo.
+J.  O despacho da Senhora Directora dos Serviços de Finanças de 23 de Junho de 2009, tendo confirmado o seu anterior despacho de 26 de Julho de 2007, é destituído de objecto porque o acto que confirma, por ser nulo, não produz quaisquer efeitos jurídicos, em obediência ao estabelecido no artigo 123.°, n.º 1, do Código do Procedimento Administrativo,
+K.  e é nulo, por aplicação a fortiori da regra da nulidade dos actos consequentes de actos administrativos anteriormente anulados ou revogados, constante do artigo 122.°, n.º 2, i), do Código do Procedimento Administrativo.
+L.  Por último, o acto administrativo objecto do presente recurso é anulável por violação de lei, em harmonia com o disposto no artigo 124.° do Código do Procedimento Administrativo, já que se apoia no argumento jurídico de que o despacho de 26 de Julho de 2007 é válido e, por ser válido, só podia ter sido impugnado dentro de certo prazo, que não teria sido respeitado pelo presente recurso, o qual viria interposto desse despacho de 26 de Julho de 2007 e não do de 23 de Junho de 2009 (por virtude de este ser meramente confirmativo daquele).
+M.  Acontece, porém, que o despacho de 23 de Julho de 2007 é nulo e, portanto, podia ser impugnado a todo o tempo.
+Reitera assim quanto disse no requerimento inicial, pugnando pela procedência do recurso.
+O Exmo Senhor Secretário para a Economia e Finanças, em sede de alegações facultativas, reafirma, em suma:
+I.  O despacho de 26/07/2007, não revogou os despachos de 1994 e 1999 que haviam reconhecido à recorrente o direito à percepção dos prémios de antiguidade, porquanto a recorrente desvinculou-se dos , quadros da Administração Pública da RAEM, passou a integrar os quadros da Administração Pública Portuguesa, transferindo para esta todos os direitos que aqui havia adquirido.
+II.  O facto de, seguidamente, ter celebrado com a DSF um contrato além do quadro, não lhe atribui, por si só, o direito à continuação da percepção dos prémios de antiguidade, sendo que para que tal acontecesse sempre seria necessário um despacho que lhe reconhecesse tal direito, dada a sua nova situação.
+III.  É extemporâneo um recurso hierárquico necessário, interposto 2 anos depois do acto que lhe determinou a restituição de quantias indevidamente recebidas e cujo dever de restituição ainda não prescreveu, quando à data de tal determinação, restituiu sem reserva e não reclamou ou recorreu.
+﻿Nestes termos, deve o presente recurso ser julgado improcedente, em virtude da inexistência de qualquer ilegalidade do acto recorrido, mantendo-se, em consequência o acto praticado em 12/11/2009.
+O Digno Magistrado do MP emite o seguinte douto parecer:
+A recorrente pretendeu impugnar em 4/2/09 um despacho de 26/4/07, notificado a 12/9/07.
+Esta, a realidade essencial que, obviamente, suscita, desde logo, a questão da tempestividade e que a própria pretende ressalvar, esgrimindo com a nulidade desse despacho.
+Daí que, em nosso critério, esta seja a única questão a dilucidar, isto é, se, relativamente a tal despacho se antevê qualquer vício passível de o fulminar com aquela forma extrema de invalidade.
+Entre 9/2/89 e 30/9/99, a recorrente prestou serviço efectivo, descontando para o Fundo de Pensões, tendo-lhe sido atribuídos 2 prémios de antiguidade.
+A partir de Outubro de 1999, passou a descontar para a C.G.A. de Portugal, mantendo, contudo, vínculo e serviço em Macau, desta feita como contratada além do quadro.
+A recorrente não contesta que, a partir desse momento, não lhe são devidos mais prémios de antiguidade, pretendendo apenas que se mantenham os anteriormente adquiridos.
+Nos termos do art. 98°, LBRAEM, "À data do estabelecimento da Região Administrativa de Macau, os funcionários e agentes públicos que originalmente exerçam funções em Macau, incluindo os da polícia e os funcionários judiciais, podem manter os seus vínculos e continuar a trabalhar com vencimento, subsídios e benefícios não inferiores aos anteriores, contando-se, para efeitos da sua antiguidade, o serviço anteriormente prestado ".
+Independentemente de tudo o resto, revela-se inequívoco que, aquando da implementação da RAEM, a recorrente já detinha o vínculo funcional em causa (além do quadro) e vinha, de todo o modo, recebendo os prémios de antiguidade em questão.
+Razão por que, não se antevendo como manifestamente ilegal tal prática (aliás, sufragada, já no domínio da RAEM, por entendimento assumido pela DSAFP), vejamos o acto questionado, de 26/4/07 como ofensivo do dispositivo daquela lei constitucional.
+Só que, em nosso critério, e ao arrepio do sustentado pela recorrente, não enquadramos tal como eventual ofensa de núcleo essencial de qualquer direito fundamental, nem a isso se reportando o normativo em questão, razão por que, podendo, quiçá, assistir alguma razão à recorrente na questão controvertida, designadamente quanto a eventual revogação de actos constitutivos de direitos, o limite processual temporal se impõe e esse foi, manifestamente excedido.
+Donde, em nosso critério, não merecer provimento o presente recurso.
+Foram colhidos os vistos legais
+III - FACTOS
+Com pertinência, resulta dos autos a factualidade seguinte:
+A recorrente integrou os quadros da Direcção dos Serviços de Finanças em 9 de Fevereiro de 1989 e nele se manteve até 30 de Setembro de 1999, data a partir da qual, por sua opção, passou a integrar os quadros da Administração Pública Portuguesa, sendo que nessa ocasião lhe foram abonados todos os quantitativos que lhe eram devidos por força da sua cessação de funções.
+Em 1 de Outubro de 1999, a recorrente, devidamente autorizada pela Administração Pública Portuguesa, voltou a vincular-se à Direcção dos Serviços de Finanças, agora através de um contrato além do quadro.
+A partir de 1 de Outubro de 1999 a recorrente deixou de proceder a descontos para o Fundo de Pensões de Macau.
+Por despacho da Ex.ma Senhora Directora dos Serviços de Finanças de 26/07/2007, o qual foi comunicado à ora recorrente através da Comunicação Interna n.º 41488/DAF/SRH/2007, de 11/09/2007, foi a esta determinado que procedesse à reposição dos prémios de antiguidade que havia auferido desde Setembro de 2002, num montante total de MOP$25 687,90.
+Resulta dessa Comunicação Interna:
+"Da leitura conjugada dos artigos 180.n.º 1, 181.n.º 1 e 260.n.º1 do ETAPM, conclui-se que apenas o tempo de serviço durante o qual o trabalhador descontou para o FP conta para efeito de concessão do prémio de antiguidade.
+Uma vez que V. Ex. a foi integrada nos quadros da AP Portugal, e deixou de proceder a descontos para o FP, cessou de imediato o direito à percepção do prémio de antiguidade."
+Da mesma Comunicação Interna ainda se alcança que:
+"Os montantes entretanto recebidos, por indevidos, devem ser repostos, nos termos do artigo 31° a 38° do Ran.º &/2006, que revogou o DL 59/94, de 5 de Dezembro.
+No entanto, há que ter em conta que, quer no artigo r do referido DL então em vigor, quer no artigo 350 do RA agora em vigor, prevê-se um prazo prescricional de 5 anos, após a data de recepção do montante a repor.
+Pelo que deve V. Ex.ª repor apenas os quantitativos recebidos a partir de Setembro de 2002, no montante total de $25,687,90."
+A recorrente procedeu à reposição da quantia em questão, entre Julho e Setembro de 2008, em prestações mensais e consecutivas, sem impugnar, a qualquer título, o despacho que a havia determinado,
+Em 04/02/2009, a recorrente veio expor e requerer à Ex.ma Senhora Directora dos Serviços de Finanças que, na sequência de um pedido seu formulado à Direcção dos Serviços de Administração e Função Pública, em 25 de Novembro de 2008, esta lhe havia transmitido que nada obstava a que lhe fossem mantidos os prémios de antiguidade em questão, podendo requerer a restituição da quantia reposta nos termos do artigo 30° do REGA 6/2006, pelo que requeria a revogação do despacho que havia determinado a reposição, a restituição da quantia reposta e que se procedesse ao pagamento dos referidos prémios de antiguidade desde a data de suspensão do seu processamento.
+Analisada a pretensão da recorrente, por despacho de 23/06/09, exarado na Informação n.º 122/NAJ/CRF/09, de 27/05/09, a Ex.ma Senhora Directora dos Serviços manteve o seu despacho de 26/07/07.
+Não se conformando a recorrente com o indeferimento da sua pretensão, interpôs recurso hierárquico do despacho confirmativo de 23/06/09, o qual veio a ser rejeitado nos termos antes referidos, por despacho de 12/11/09.
+Foi notificado a requerente desse despacho nos seguintes termos:
+“Notificação do Despacho do Sr. Secretário para a Economia e Finanças de 12/11/09, referente ao recurso hierárquico interposto por A
+Na qualidade de ilustre mandatária de A, no recurso hierárquico interposto para o Ex.mo Sr. Secretário para a Economia e Finanças, fica V. Ex.ª pelo presente notificada, nos termos e para os efeitos previstos nos artigo 68º e ss. do Código do Procedimento Administrativo, que o mesmo foi objecto de despacho datado de 12/11/2009, ex arado na Informação n.º 206/NAJ/CRF/09, de 13/10/09, sendo o seu teor o que a seguir se transcreve:
+"Por estar ultrapassado o prazo para interposição do recurso, rejeito o mesmo.
+Ass.:  XXX, aos 12/11/09."
+Da informação referida reproduzem-se os fundamentos de facto e de direito que sustentam o presente despacho e que são os seguintes:
+“1. Em cumprimento do determinado pelo Ex.mo Senhor Coordenador do Núcleo de Apoio Jurídico, somos a emitir parecer sobre o recurso hierárquico necessário interposto por A, do despacho da Ex.ma Senhora Directora dos Serviços de Finanças, de 23 de Junho de 2009.
+I - Da interposição do recurso hierárquico
+2. A recorrente, de acordo com que alega, " ... tendo sido notificada do despacho da Ex.ma Senhora Directora dos Serviços de Finanças, de 23 de Junho de 2009, e com este não se conformando, vem, ao abrigo do oficio n.º 042/NAJ/AS/2009, da Direcção dos Serviços de Finanças, e atento o disposto nos artigos 153º e seguintes do Código do Procedimento Administrativo, interpor RECURSO HIERÁRQUICO NECESSÁRIO ... ".
+3.  E, mais adiante, esclarece que o despacho que coloca em crise, proferido em sede de "reclamação com efeito suspensivo", indeferiu o pedido de restituição dos montantes já repostos pela Recorrente, relativos aos dois prémios de antiguidade percebidos desde 1 de Outubro de 1999 e até 26 de Abril de 2007, e subsequente processamento desses mesmos dois prémios de antiguidade a contar desde a data da sua suspensão.
+4.  A primeira questão que desde logo se coloca é a de saber se o presente recurso hierárquico é tempestivo.
+5.  Como se alcança do Requerimento que a Recorrente invoca, a reposição dos referidos prémios de antiguidade, foi-lhe determinada por despacho da Ex.ma Senhora Directora de Serviços, datado de 26 de Abril de 2007, tendo ela dado cumprimento ao mesmo (cfr. n.º 1 do referido Doc.).
+6.  Ainda de acordo com o citado Requerimento, em 25 de Novembro de 2008, solicitou parecer à Direcção dos Serviços de Administração e Função Pública.
+7.  Veio a obter resposta daquela em 21/01/2009, através de oficio que lhe foi dirigido com o n.º 0901210012/DTJ, aí se dizendo que " ... somos de opinião que V. Exª. tem o direito a manter os 2 prémios de antiguidade referentes ao período em que efectuou descontos para o Fundo de Pensões de Macau. Como tal, e salvo melhor opinião, poderá V. Exª. nos termos do artigo 30° do Regulamento Administrativo n.º 6/2006, requerer a restituição dessas quantias. Finalmente, e uma vez que se encontra inscrita no regime de Previdência, poderá beneficiar, nos termos do artigo 9º da Lei n.º 8/2006, de um Prémio de tempo de contribuição por cada 5 anos completos de tempo de contribuição."
+﻿8.  Posteriormente, face ao que lhe foi informado por aquela Direcção de Serviços, veio, em 04 de Fevereiro de 2009, expor e requerer à Ex.ma Senhora Directora dos Serviços de Finanças a revogação do despacho de 26 de Abril de 2007, a restituição do montante reposto e a retoma do processamento dos prémios de antiguidade desde aquela data (sublinhado nosso).
+9.  A Direcção dos Serviços de Finanças, face ao pedido da ora Recorrente, solicitou à Direcção dos Serviços de Administração e Função Pública confirmação do entendimento veiculado à ora Recorrente através do oficio supracitado, dando-lhe conta da posição destes Serviços quanto a tal questão.
+10.  Na ocasião informou a ora Recorrente de tal diligência, o que fez através do oficio com a ref.ª 042/NAJ/AS/2009, de 17 de Abril de 2009, dando-lhe ai conta que, por força de diligências que estavam a ser efectuadas, o seu requerimento datado de 4 de Fevereiro de 2009, teria efeito suspensivo nos termos do disposto no número 1 do artigo 150º do Código do Procedimento Administrativo, não cabendo recurso contencioso do acto que venha a decidir a sua reclamação o qual, após notificação, apenas poderá ser hierarquicamente recorrível.
+11. Claro é que o conteúdo de tal notificação no que à necessidade de interposição de recurso hierárquico se refere, deverá sempre ser entendido como na medida em que tal meio lhe seja permitido por lei, nunca se podendo entender que, por tal constar da notificação, tal direito lhe fica consagrado ainda que contrarie as normas legais.
+12.  Posteriormente e na sequência da resposta daquela Direcção de Serviços, a qual confirma a posição anteriormente veiculada à ora Recorrente, mas que não é partilhada por esta Direcção de Serviços, veio a ser indeferido o requerido pela Recorrente, sendo esta informada através do oficio n.º 070/NAJ/CRF/2009, datado de 26 de Junho de 2009, " ... que, por despacho da Ex.ma Senhora Directora dos Serviços de Finanças, foi mantido o despacho de 26/04/07, cuja revogação V. Ex.ª requeria. O presente acto é meramente confirmativo do despacho anterior, em nada tendo sido alteradas as razões de facto e de direito que o fundamentaram."
+13.  Clarificado o processado, desde logo se alcança que a ora Recorrente, como perfeitamente admite no seu Requerimento datado de 04/02/09, notificada que foi em 12 de Setembro de 2007, do despacho de 26 de Abril de 2007 e que determinou a reposição dos prémios de antiguidade em questão, deu cumprimento àquele, sem o questionar de qualquer forma, só o vindo a fazer em 04/02/09, através do citado Requerimento em que, pela primeira vez, solicita a sua revogação, a restituição das quantias repostas e a retoma do processamento dos mesmos.
+14.  Atente-se que a Recorrente não seguiu o parecer da Direcção dos Serviços de Administração e Função Pública que lhe havia sugerido que procedesse ao pedido de restituição das quantias repostas ao abrigo do artigo 30º do REGA n.º 6/2006, antes optando por caminho diverso, o da revogação do despacho supracitado, com a consequente restituição e retoma do pagamento dos prémios.
+15.  Isto é, a ora Recorrente, pretendeu impugnar em 4 de Fevereiro de 2009, um despacho datado de 26 de Abril de 2007 e que lhe havia sido notificado em 12 de Setembro do mesmo ano.
+16.  E, constatando que o mesmo foi mantido por confirmação dos seus pressupostos, pretende agora recorrer daquele acto, como se ele só agora tivesse sido produzido.
+17.  Sem mais delongas na apreciação desta matéria, importa ter presente o disposto no artigo 149º do Código do Procedimento Administrativo, o qual fixa o prazo de 15 dias para a apresentação da reclamação.
+18.  E o disposto no artigo n.º 155º do mesmo Código no que se refere à fixação do prazo para a interposição do recurso hierárquico necessário, sendo que quando se trata de recurso hierárquico facultativo o mesmo deve ser interposto no prazo do recurso contencioso.
+19. Ora, como desde logo se constata, face ao desenvolvimento processual anteriormente descrito, para impugnar o despacho de 26/04/2007, a Recorrente deveria ter apresentado Reclamação no prazo de 15 dias a contar da sua notificação a qual aconteceu em 12 de Setembro de 2007, não podendo de forma alguma pretender como podendo produzir tal efeito o seu Requerimento que deu entrada em 4 de Fevereiro de 2009 e no qual expressamente requeria a revogação do despacho de 26/04/07.
+20.  E muito menos pode pretender, como pretende, que através do despacho que recaiu sobre aquele Requerimento, que se limitou a confirmar o despacho de 26 de Abril de 2007, e pela via do Recurso hierárquico necessário de um despacho proferido decorridos mais de dois anos sobre aquele que produziu efeitos na sua esfera jurídica, possa agora requerer a revogação daquele, ainda que não o refira expressamente, mas apenas remeta para os seus efeitos (restituição da quantia reposta e retorno do processamento do pagamento dos prémios).
+21.  Pelo que fica dito, manifesto é que o Recurso hierárquico necessário interposto pela Recorrente, foi apresentado fora de prazo, devendo, por força do disposto na alínea d) do artigo 160º do Código do Procedimento Administrativo ser rejeitado.
+II - Conclusão
+22.  O presente recurso hierárquico foi interposto fora do prazo legalmente fixado para o efeito, pelo que deve ser rejeitado, o que se propõe.
+À Consideração Superior.
+Mais se informa V. Ex.ª que, nos termos do disposto no parágrafo (2) da alínea 8) do migo 36.° da Lei n.º 9/1999, com as alterações introduzidas pela Lei n.º 9/2004, e na alínea a) do n.º 2 do artigo 25.° do Código de Processo Administrativo e Contencioso, do acto administrativo em apreço cabe recurso contencioso a interpor, no prazo de 30 dias a contar da lata da notificação, junto do Tribunal de Segunda Instância da Região Administrativa Especial de Macau.
+Com os melhores cumprimentos,
+Direcção dos Serviços de Finanças, na RAEM, aos 18 de Novembro de 2009
+A Coordenadora do NAJ”
+III - FUNDAMENTOS
+1. O presente recurso incide sobre o acto do Exmo Senhor Secretário para a Economia e Finanças, de 12 de Novembro de 2009, que rejeitou o recurso hierárquico necessário apresentado pela recorrente em 27 de Julho de 2009, por estar ultrapassado o prazo para a sua interposição.
+Importa reter que o que está em causa é saber se o recurso hierárquico necessário interposto pela  ora recorrente para o Exmo Senhor Secretário para a Economia e Finanças foi ou não extemporâneo, pois que o teor do despacho vai exactamente no sentido do não recebimento do recurso pelas razões acolhidas na informação que o integra e oportunamente comunicadas à interessada.
+E só na medida em que interesse à caracterização da natureza desse despacho se indagará do direito que está em causa e que a recorrente pretende acautelar, qual seja, a restituição do valor dos prémios de antiguidade indevidamente pagos, na óptica da recorrente, escudada em parecer da DSAFP, sendo que sobre essa questão a DSF tem entendimento oposto.
+2. Importa ainda registar que no seu requerimento de 4 de Fev. De 2009 a ora recorrente formulou três pedidos, a saber: a revogação do despacho de 26/7/2007 (passe o lapso ao indicar 26/4/07), a restituição do montante dos dois prémios e a retoma do processamento desse dois prémios de antiguidade retroagida ao momento em que os mesmos foram suspensos.
+E na óptica da entidade recorrida, em termos simples: a recorrente foi notificada em 2007 de que devia restituir dois prémios de antiguidade, anuiu, conformou-se, pagou em prestações entre Julho de 2007 e Setembro de 2008, e só em 2009, depois de ter feito demarches de aconselhamento, vem reagir, solicitando a revogação daquele despacho e restituição daquilo que considera indevidamente pago.
+Mais adianta que, perante o indeferimento da sua pretensão, em 2009, invoca a recorrente a nulidade do despacho de 2007, pretendendo ela questionar o mérito do despacho de 26/07/07, que havia determinado a reposição das quantias indevidamente recebidas e ainda não prescritas.
+3. Na verdade, importa reter que  no recurso de anulação ora interposto, basicamente, a recorrente defende a nulidade do despacho de 2007 por ofender o conteúdo essencial de um direito ou direitos que lhe havido sido conferidos  8 e 13 anos atrás por actos irrevogáveis e irrecorríveis da Administração, em violação até do disposto no artigo 98º da Lei Básica que garante aos funcionários e agentes da Administração Pública os direitos adquiridos por serviço anteriormente prestado.
+A rejeição do recurso hierárquico terá ocorrido por se entender que o despacho de 2009 era meramente confirmativo do despacho de 2007.
+Ora, na óptica da recorrente, em suma, o acto confirmativo de 2009 de um acto nulo de 2007 enferma de vício de violação de lei, face ao disposto no artigo 123º, n.º 1 e 124º do CPA
+Convém relembrar que no seu recurso hierárquico a requerente pede tão somente a reposição e a retoma do processamento normal, tendo deixado cair o primeiro pedido que formulara primeiramente junto dos Serviços.
+Há que apreciar se o despacho de 2007 que terá revogado os despachos de 17 de Fevereiro de 1994 e 24 de Fevereiro de 1999 ou esvaziado os seus efeitos, no dizer da Administração, tem o mesmo conteúdo do despacho de 2009, o que não deixa de relevar para integrar a nulidade que lhe é assacada.
+4. Decorre do P. I. (processo instrutor) que a Administração apenas se limitou a determinar a reposição de prémios a que, em seu entender, a interessada não tinha direito, uma vez que os efeitos daqueles despachos de 1994 e 1999 se haviam esgotado com a desvinculação da recorrente dos quadros da RAEM e não existiam despachos que lhe reconhecessem tal direito na sua nova situação contratual.
+No entendimento de que a recorrente se desvinculou dos quadros da RAEM, transferiu todas as quantias que havia descontado para efeitos de aposentação do Fundo de Pensões de Macau para a Caixa Geral de Aposentação de Portugal, tendo passado a integrar os quadros da Administração Pública Portuguesa;
+E, beneficiando de legislação que permitia que lhe fosse concedida uma licença especial para o exercício de funções transitórias na RAEM, celebrou um contrato além do quadro com a DSF;
+Contrato além do quadro esse que não lhe confere o direito à percepção de prémios de antiguidade, já que para tal não basta o tempo de serviço com a qualidade de agente;
+Para que tal aconteça, adiantou ainda a Administração, é ainda necessário que proceda aos descontos para efeitos de aposentação, facto de que está bem ciente a recorrente, ao contrário do que alega.
+5. Cremos que mais do que apurar o direito que assiste à recorrente - o que não nos compete por ora apreciar -, é, no fundo, saber se o acto de 2009 é confirmativo do despacho de 2007.
+Ora, se o é no segmento em que se pediu a revogação do despacho de 2007, o certo é que se evidenciam outros dois pedidos da requerente, o da restituição e o do processamento em conformidade, o que pela própria natureza, do conteúdo, do objecto e do circunstancialismo temporal, aponta agora para um pedido com efeitos diferentes na parte em que se pede a restituição do que fora ordenado em 2007.
+Não se ignora que a fundamentação que levou à tomada de posição da ordem de reposição seja a mesma que venha a ser utilizada agora para indeferir o pedido de restituição.
+Para haver um acto confirmativo mostra-se necessário que haja identidade de partes, de pretensão e da causa de pedir, deixando agora de lado outros que genericamente se intuem como a definitividade do acto confirmado e que este fosse do conhecimento do interessado.1
+Mas é o mesmo autor, o Prof. Freitas do Amaral, que diz que “para haver identidade de decisão importa não apenas a existência de identidade da resolução dada ao caso concreto, mas também identidade da fundamentação da decisão e identidade das circunstâncias ou pressupostos da decisão.”
+Ora, se no caso se observa o primeiro requisito, já o mesmo não se observa em relação ao segundo e duvidoso se mostra o terceiro.
+Flui dos pareceres que enformam a decisão de 2009 uma fundamentação algo diferente, incidindo já sobre argumentos invocados (alegada violação da LB, a irrelevância da ligação a outra entidade fora da RAEM, violação dos direitos adquiridos) e um parecer da DSAFP que não tinham sido anteriormente considerados.
+Tudo isto a fim de pedir a restituição do que se considera indevidamente pago.
+Trata-se, pois de uma outra pretensão que não se reconduz exactamente ao objecto do decidido em 2007.
+Donde sermos a considerar que há um segmento inovatório no despacho de 2009, não o tendo como meramente confirmativo do primeiro.
+Nesta conformidade o recurso não deixará de ser julgado procedente, mostrando-se tempestivo.
+V - DECISÃO
+Pelas apontadas razões, acordam em conceder provimento ao presente recurso contencioso, anulando a decisão proferida que não recebeu o recurso hierárquico necessário por extemporâneo.
+Sem custas por não serem devidas.
+Macau, 27 de Outubro de 2011,
+Presente        							(Relator)                            Vítor Manuel Carvalho Coelho           	João A. G. Gil de Oliveira
+(Primeiro Juiz-Adjunto)
+Ho Wai Neng
+(Segundo Juiz-Adjunto)
+José Cândido de Pinho
+1 - Freitas do Amaral, Lx, 1989, III,233
+---------------
+------------------------------------------------------------
+---------------
+------------------------------------------------------------
+9/2010                                                                      1/27

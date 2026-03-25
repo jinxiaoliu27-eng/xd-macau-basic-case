@@ -1,0 +1,202 @@
+- Declaração da caducidade da autorização da permanência em Macau
+body {
+font-size: 13px;
+line-height: 25px;
+background-color: #fff;
+}
+.highlight-key {
+font-weight: bold;
+background: #FFFF00;
+}
+打印全文
+﻿Processo n.º 452/2020
+(Autos de recurso contencioso)
+Relator: Fong Man Chong
+Data: 25 de Fevereiro de 2021
+Assuntos:
+- Declaração da caducidade da autorização da permanência em Macau
+SUMÁRIO:
+I – Em matéria da concessão (ou não concessão) (e de declaração da caducidade, artigo 24º do Regulamento Administrativo nº 5/2003, de 14 de Abril) de autorização da permanência, no caso do artigo 9º da Lei nº 4/2003, de 17 de Março, o legislador atribui, propositadamente, ao Chefe do Executivo o poder discricionário (delegável) de decisão nesta matéria, pois, o legislador proclama mediante a forma de “pode conceder” (norma interpretada a contrário significa “pode não conceder”).
+II - No caso sub judice, poderá discutir-se se a decisão ora recorrida viola ou não os princípios gerais de Direito Administrativo, nomeadamente o princípio de justiça e de proporcionalidade, mas à Recorrente cabe alegar e provar o alegado erro nos pressupostos de facto, com base nos quais foi tomada a respectiva decisão recorrida, não o tendo feito, há-de manter-se a decisão por esta não merecer censura.
+O Relator,
+_______________
+Fong Man Chong
+Processo n.º 452/2020
+(Autos de recurso contencioso)
+Data	:	25/Fevereiro/2021
+Recorrente	:	A
+Entidade Recorrida	:	Secretário para a Segurança
+*
+ACORDAM OS JUÍZES NO TRIBUNAL DE SEGUNDA INSTÂNCIA DA RAEM:
+I – RELATÓRIO
+A, Recorrente, devidamente identificada nos autos, discordando do despacho do Secretário para a Segurança, datado de 20/03/2020, que declarou a caducidade da autorização de residência da Recorrente em Macau, dela veio, em 15/05/2020 interpor o presente recurso contencioso para este TSI, com os fundamentos constantes de fls. 2 a 6, tendo formulado as seguintes conclusões:
+1. 於2020年03月20日，保安司司長作出批示，內容為宣告司法上訴人的居留許可失效。(附件一，相關內容在此視為完全轉錄)
+2. 司法上訴人認為被上訴的決定基於事實認定存有錯誤以及違反合法性原則，繼而應被宣告撤銷。
+3. 首先，須陳述司法上訴人所認知的事實發展經過。
+4. 司法上訴人的兒子B想到澳門尋找工作，司法上訴人找由一名認識的同鄉介紹工作予兒子，及後，其兒子獲聘擔任家務助理並取得外地僱員身份。
+5. 司法上訴人實際上沒有給予任何報酬予任何人，只是單純聯絡同鄉幫忙。
+6. 事實上，司法上訴人的兒子與其僱主所訂立的僱傭合同是真實的，其兒子曾真實作出勞動給付，然而之後其兒子認為該工作不合適故決定離職及取消藍卡，而在取消藍卡的審批程序之期間內，其兒子合法逗留於本澳。
+7. 本案卷宗內沒有任何客觀證據能證明司法上訴人為此付出金錢報酬予他人以訂立虛偽合同。
+8. 故此「利害關係人A以中介及代辦申請人文件之協助下，兩度以虛假聘用之方式為其兒子B取得外地僱員身份，目的並非讓其在本澳工作，而是藉此逗留本澳」這一事實不應視為獲得證實，繼而不應以此決定司法上訴人的居留許可失效。
+9. 其次，保安司司長於其批示認為，司法上訴人的行為涉嫌觸犯刑法，治安警察局已向檢察院作出檢舉；並以此認為司法上訴人一己之私利而欺瞞行政當局，為人不誠實，令行政當局失去了在給予居留許可時對共具有良好個人品格的信賴，並對其將來是否誠信、守法沒有信心。因此，根據第5/2003號行政法規第24條1款及第4/2003號法律第9條，決定宣告司法上訴人的居留許可失效(附件一，相關內容在此視為完全轉錄)。
+10. 換言之，被訴當局決定宣告司法上訴人的居留許可失效的事實理由，是基於司法上訴人一己之私利而欺瞞行政當局，為人不誠實，令行政當局失去了在給予居留許可時對共具有良好個人品格的信賴，並對其將來是否誠信、守法沒有信心。
+11. 根據第4/2003號法律第9條第2款第1項規定，以及適用同一法律第4條第2款第2項及第3項規定，是否批給居留許可時應審視利害關係人的犯罪前科紀錄、是否曾在澳門或外地被判處剝奪自由的刑罰，以及是否有強烈跡象顯示利害關係人曾實施或預備實施犯罪行為；換言之，利害關係人是否曾實施或預備實施犯罪行為應以達到強烈跡象為考慮居留批給的最低標準。
+12. 因此，在行政程序的事實認定方面，亦應以刑事訴訟理論上的強烈跡象為標準。
+13. 在本案事實認定方面，被訴當局認為司法上訴人為人不誠實以及對其人格失去信心，而此認定是來源於針對司法上訴人的刑事程序的偵查資料為依據。
+14. 目前來說，針對司法上訴人的刑事程序，檢察院尚未提出控訴書，亦未有確定判決認定司法上訴人作出任何犯罪行為。
+15. 故此，並根據澳門刑事訴訟法典第265條第一款規定之反義解釋，現階段而言，由於司法上訴人未被提出控訴，因此可視為尚未存有充分跡象顯示司法上訴人作出犯罪行為。
+16. 強烈跡象所要求的犯罪跡象比充分跡象所要求的高，換言之，當現時尚未存有充分跡象顯示司法上訴人作出被指控之犯罪行為時，亦等同尚未存有強烈跡象顯示司法上訴人作出被指控之犯罪行為。
+17. 故此，目前未有任何控訴或有罪判決時，應視未存有強烈跡象顯示司法上訴人作出被指控之犯罪行為。
+18. 再者，司法上訴人現僅被懷疑作出犯罪行為，在適用無罪推定原則的前提下，僅僅被懷疑不能直接推論為司法上訴人為人不誠實又或人格不能被信任；被訴當局針對司法上訴人的人格作判斷時，僅僅以懷疑作出犯罪行為為依據，並沒有作出完整的調查，在此應屬違反行政程序法典第86條規定之調查原則。
+19. 綜上，被訴當局以司法上訴人涉嫌作出犯罪行為作為事實依據時，便是存有事實認定的錯誤。
+20. 另一方面，根據第5/2003號行政法規第24條1款及第4/2003號法律第9條規定，在審視是否應批給居留許可時，沒有規定須審查利害關係人的道德品格。
+21. 本案中，被訴當局認為司法上訴人為人不誠實、對其人格失去信心而決定居留失效。
+22. 根據行政程序法典第3條規定的合法性原則規定，被訴當局應於法律規定的範圍內作出行為。
+23. 現時被訴當局作出的決定明顯已超出第5/2003號行政法規第24條1款及第4/2003號法律第9條規定的範圍內，故此，被訴當局的行為應屬法律適用錯誤。
+24. 綜上所述，被訴當局的決定存有事實認定錯誤以及法律適用錯誤的瑕疵，根據行政程序法典第124條規定，被訴行為應被撤銷。
+* * *
+Citada a Entidade Recorrida, o Senhor Secretário para a Segurança veio contestar o recurso com os fundamentos constantes de fls. 17 a 21, tendo formulado as seguintes conclusões:
+1. 上訴人針對保安司司長於2020年3月20日所作之宣告其居留許可失效的決定提起本司法上訴，指責被上訴行為存在事實及法律前提錯誤。
+2. 上訴理由是不成立的。
+3. 被上訴的批示全文如下：
+“事項：宣告居留許可失效
+利害關係人：A
+參件：治安警察局第300131/SRDARPREN/2019P號補充報告書
+經考慮上述補充報告書所載意見以及治安警察局第242/CIRDCF/2019P號報告(內容在此均予以完全轉載)，利害關係人為方便其兒子長期留澳，先後兩次協助其辦得外地僱員身份認別證，但實際上卻從未向僱主提供任何工作，特別是最近一次，除其兒子本人以外，兒子僱主夫婦、其同鄉(C)均承認接受利害關係人的提議在不存在真實僱傭關係的情況下，為其兒子辦得外地僱員身份認別證，並為此收取其支付的報酬。
+利害關係人的行為涉嫌觸犯刑法，治安警察局已向檢察院作出檢舉。
+利害關係人為一己之私利而欺瞞行政當局，為人不誠實，令行政當局失去了在給予居留許可時對其具有良好個人品格的信賴，並對其將來是否誠信、守法沒有信心。因此，根據第5/2003號行政法規第24條1款及第4/2003號法律第9條，決定宣告A的居留許可失效。”
+4. 第5/2003號行政法規第24條規定，當不再符合給予居留許可時所依據的任何前提及要件，將導致居留許可的失效。
+5. 第4/2003號法律第9條2款列舉了行政當局在批給居留許可時，尤其應考慮的一系列因素，但對行政當局如何考慮並沒有作出任何規定及限制，賦予行政當局極大的自由裁量權，令其可以自由選擇考慮上述條文所列出的全部或部分因素，甚至是未列於其中的其他因素，以決定是否批給或維持居留許可。
+6. 在這些因素當中就包括，利害關係人不存在刑事犯罪前科和違法紀錄，推定其具備良好的品行，不會做出危害本地社會公共治安及秩序的行為，行政當局對其遵守澳門法律寄予信任。
+7. 然而，根據卷宗資料所載，特別是第242/CIRDCF/2019P號報告，可以得出上訴人為達到讓其兒子長期逗留澳門的目的，不惜與他人一同欺瞞行政當局，利用不實的聘用關係為其辦得以僱員身份的逗留許可。雖然，上訴人予以否認，但是其兒子、兒子的僱主夫婦、其同鄉(C)均承認接受上訴人的提議，在不存在真實僱傭關係的情況下，協助其兒子辦理外地僱員身份認別證，並為此收取其支付的報酬。
+8. 上訴人的行為除擾亂出入境逗留秩序，給治安帶來潛在的危險以外，亦表明其並非誠實可信之人，不再維持給予居留許可時，行政當局對其具有良好個人品行的認定，並對其將來遵守法律失去信任。
+9. 鑑於，上訴人不再符合批給居留許可所依據的前提及要件，其居留許可因此被宣告失效。
+10. 任何國家或獨立地區均有完全的自由空間制訂及執行其移民政策。基於出入境管控、公共利益、公共秩序及公共安全等，幾乎可以完全自由地決定是否接納非本地居民。
+11. 上訴人係外籍人士，被批准在澳門居留與丈夫團聚，但卻做出批示所指行為，不但涉嫌觸犯刑法，而且事實上擾亂出入境管理秩序，對公共治安及秩序構成潛在危害，令人擔憂其可能會做出其他相同或類似的行為，因此，行政當局決定不再維持其居留許可，避免其繼續長期居留，減少再次做出有損本地社會公共利益行為的風險。
+12. 法律並沒有規定，行政當局僅侷限於考慮是否存在強烈跡象顯示作出犯罪行為，從而決定給予或維持居留許可。被上訴行為所根據的是具體事實，並對此作出正確判斷，正確歸入相應的法律條文，不存在事實及法律前提錯誤而引致的違法瑕疵。
+13. 需要強調的是，被上訴行為從未以上訴人涉嫌犯罪作為事實依據，就其行為涉嫌觸犯刑法已向檢察院作出檢舉，純粹是作為事實被提及而己，並非被上訴批示所依據的理由。
+14. 儘管卷宗資料表明存在強烈跡象顯示上訴人觸犯偽造文件罪，但是被上訴批示並沒有以此作為依據。隨著刑事訴訟程序的展開，司法機關將釐清上訴人是否需要承擔刑事責任，而這並不會改變行政當局根據上訴人的具體行為，對其人格品行所作出的評估及預測，只要該行為是事實存在的，並且在行政調查卷宗中得到證明的便已足夠。
+15. 根據無罪推定這一刑事訴訟的基本原則，嫌犯在被法院確定判處有罪之前推定為清白，但這並不意味著在刑事訴訟以外，特別是在行政程序當中，不能引用相關的事實，以及就該等事實進行適當的分析，並作出相應的決定以捍衛公共利益。
+* * *
+O Digno. Magistrado do Ministério Público junto do TSI emitiu o seguinte douto parecer constante de fls. 76 a 78, pugnando pela improcedência do recurso.
+* * *
+Foram colhidos os vistos legais.
+Cumpre analisar e decidir.
+* * *
+II – PRESSUPOSTOS PROCESSUAIS
+Este Tribunal é o competente em razão da nacionalidade, matéria e hierarquia.
+O processo é o próprio e não há nulidades.
+As partes gozam de personalidade e capacidade judiciária e são dotadas de legitimidade “ad causam”.
+Não há excepções ou questões prévias que obstem ao conhecimento do mérito da causa.
+* * *
+III – FACTOS
+São os seguintes elementos, extraídos do processo principal e do processo administrativo com interesse para a decisão da causa:
+- Depois de realizadas as diligências pertinentes pela PSP, pela Entidade Recorrida foi proferido o seguinte despacho com os factos relevantes (provados) para a decisão ora posta em crise:
+批示
+事項：宣告居留許可失效
+利害關係人：A
+參件：治安警察局第300131/SRDARPREN/2019P號補充報告書
+經考慮上述補充報告書所載意見以及治安警察局第242/CIRDCF/2019P號報告(內容在此均予以完全轉載)，利害關係人為方便其兒子長期留澳，先後兩次協助其辦得外地僱員身份認別證，但實際上卻從未向僱主提供任何工作，特別是最近一次，除其兒子本人以外，兒子僱主夫婦、其同鄉(C)均承認接受利害關係人的提議在不存在真實僱傭關係的情況下，為其兒子辦得外地僱員身份認別證，並為此收取其支付的報酬。(sublinhado nosso)
+利害關係人的行為涉嫌觸犯刑法，治安警察局已向檢察院作出檢舉。
+利害關係人為一己之私利而欺瞞行政當局，為人不誠實，令行政當局失去了在給予居留許可時對其具有良好個人品格的信賴，並對其將來是否誠信、守法沒有信心。因此，根據第5/2003號行政法規第24條1款及第4/2003號法律第9條，決定宣告A的居留許可失效。
+保安司司長
+XXX
+二零二零年三月二十日
+- Notificada, em 15/05/2020 veio a Recorrente interpor o presente recurso contra a decisão acima referida.
+* * *
+IV – FUNDAMENTOS
+A resolução do presente recurso passa pela análise e resolução das seguintes questões:
+1) – Erro nos pressupostos de facto e de direito;
+2) – Vício da violação da lei.
+*
+O Digno. Magistrado do MP junto deste TSI teceu as seguintes considerações em sede de vista final:
+“(…)
+2.1.
+Alegou a Recorrente que não se podem dar como provados os pressupostos de facto em que assentou o acto recorrido, tanto mais que a investigação criminal desses factos e na qual a mesma figura como Arguida, ainda não está terminada, não podendo considerar-se, por isso, que existem fortes indícios de que a Recorrente praticou o crime de que vem acusada.
+Vejamos.
+Da fundamentação do acto recorrido resulta que o seu pressuposto de facto é o seguinte:
+«(…) a interessada, para facilitar a permanência do seu filho em Macau por longo período de tempo, ajudou-o por duas vezes a obter o título de trabalhador não residente, porém, na realidade, o seu filho nunca prestou qualquer trabalho aos empregadores (…)».
+Como se sabe, o vício do erro nos pressupostos de facto consiste na divergência entre os pressupostos de que o autor do acto partiu para proferir a decisão administrativa final e a sua efectiva verificação na situação em concreto. Esse vício resulta, pois, de se terem considerado na decisão administrativos factos não provados ou desconformes com a realidade, de tal modo que os fundamentos da motivação do acto em causa não existiam ou não tinham a dimensão que foi por ele suposta.
+Daqui decorre, portanto, que a procedência do vício do erro nos pressupostos de factos exige a demonstração da desconformidade entre a realidade e a ideia que sobre ela a Administração formou para decidir o que decidiu (cfr., na jurisprudência comparada, o acórdão do Supremo Tribunal Administrativo de 12.03.2009, processo n.º 545/08, disponível para consulta em www.dgsi.pt).
+No caso, a Recorrente impugnou o facto que constituiu o pressuposto do acto recorrido.
+Como se sabe, tratando-se de um acto positivo, como é o acto recorrido, é sobre a Administração que recai o ónus da prova dos pressupostos constitutivos do seu direito ou da base legal da respectiva actuação. No caso, cremos que a Administração, na sequência da actividade instrutória que desenvolveu, logrou provar esses factos.
+É irrelevante, a nosso ver, o facto de o inquérito criminal em que a Recorrente é Arguida não estar ainda concluído dado que mesmo que esse inquérito viesse a ser arquivado nem por isso a Administração deixaria de estar legitimada a actuar da forma como o fez através do acto impugnado. A jurisprudência dos nossos Tribunais superiores é, a este propósito, uniforme neste mesmo sentido.
+Deve improceder, em nosso modesto entendimento, o primeiro dos fundamentos do recurso.
+2.2.
+Alega também a Recorrente que acto impugnado enferma do vício de violação de lei porquanto, em seu entender, o artigo 24.º, n.º 1 do Regulamento Administrativo n.º 5/2003 e o artigo 9.º da Lei n.º 4/2003 não prevêem a apreciação da conduta moral do interessado e a decisão recorrida declarou a caducidade por considerar que a recorrente é uma pessoa desonesta e não merecedora de confiança.
+A nosso ver, não tem razão.
+Consignou-se no acto recorrido o seguinte: «A interessada, para os seus próprios interesses pessoais, enganou a Administração, sendo uma pessoa desonesta, fazendo com que a Administração perdesse a confiança na boa conduta moral pessoal da interessada quando lhe concedeu a residência e não tivesse fé na honestidade e no cumprimento da lei no futuro da interessada. Nestes termos, ao abrigo do artigo 24.º, n.º 1 do Regulamento Administrativo n.º 5/2003 e do artigo 9.º da Lei n.º 4/2003, decido declarar caducada a autorização de residência de A».
+Nos termos da norma da alínea 1) do artigo 24.º do Regulamento Administrativo n.º 5/2003, é causa de caducidade da autorização de residência o decaimento de quaisquer pressupostos ou requisitos sobre os quais se tenha fundado a autorização.
+Por sua vez, da norma da alínea 1) do n.º 2 da norma do artigo 9.º da Lei n.º 4/2003 resulta que constitui pressuposto da autorização de residência um juízo de prognose favorável por parte da Administração relativamente ao cumprimento das leis da Região por parte do interessado, constituindo o comprovado incumprimento dessas leis, em princípio, obstáculo àquela autorização.
+No caso, dos factos que constituíram os pressupostos da actuação administrativa contenciosamente questionada e que, segundo cremos, se devem considerar provados, resulta que a Recorrente terá comparticipado directamente em factos susceptíveis de ser criminalmente punidos ao abrigo do artigo 18.º da Lei n.º 6/2004 e que, ainda que o não sejam, constituem, em qualquer caso uma violação das leis que regulam a atribuição de autorizações de permanência em Macau aos trabalhadores não residentes.
+Verifica-se, deste modo, que um dos pressupostos nos quais se fundou a autorização de residência e que anteriormente referimos, qual seja o do prognóstico favorável relativamente ao interessado quanto ao cumprimento das leis da Região, decaiu e por isso mostra-se preenchido a hipótese da norma da alínea 1) do artigo 24.º do Regulamento Administrativo n.º 5/2003 que legitima a Administração a declarar a caducidade da Autorização de residência.
+(…)”.
+Subscrevendo inteiramente esta douta argumentação, que se dá por reproduzida aqui para a fundamentação desta decisão e, além disso, acrescentamos ainda o seguinte:
+1) – Por um lado, o artigo 24.º, n.º 1, do Regulamento Administrativo n.º 5/2003, 14 de Abril, manda:
+2) São causas de caducidade da autorização de residência:
+1) O decaimento de quaisquer pressupostos ou requisitos sobre os quais se tenha fundado a autorização;
+2) Qualquer circunstância que, nos termos da lei de princípios e do presente regulamento, seja impeditiva da manutenção da autorização, nomeadamente a falta de residência habitual do interessado na RAEM.
+3) – Por outro, o artigo 9º da Lei nº 4/2003, de 17 de Março, prevê
+Autorização
+1. O Chefe do Executivo pode conceder autorização de residência na RAEM.
+2. Para efeitos de concessão da autorização referida no número anterior deve atender-se, nomeadamente, aos seguintes aspectos:
+1) Antecedentes criminais, comprovado incumprimento das leis da RAEM ou qualquer das circunstâncias referidas no artigo 4.º da presente lei;
+2) Meios de subsistência de que o interessado dispõe;
+3) Finalidades pretendidas com a residência na RAEM e respectiva viabilidade;
+4) Actividade que o interessado exerce ou se propõe exercer na RAEM;
+5) Laços familiares do interessado com residentes da RAEM;
+6) Razões humanitárias, nomeadamente a falta de condições de vida ou de apoio familiar em outro país ou território.
+3. A residência habitual do interessado na RAEM é condição da manutenção da autorização de residência.
+Em matéria da concessão ou não concessão de autorização de residência, importa destacar as seguintes ideias:
+a) – Ninguém pode afirmar que tem direito à fixação de residência na RAEM, salvo as pessoas que reúnem os pressupostos fixados no artigo 24º da Lei Básica da RAEM;
+b) – O poder de decisão sobre esta matéria é normalmente reservado à Administração, concedendo-se-lhe uma grande margem de manobra, tendo em conta a variedade de situações e flexibilidade de posições em alguns casos particulares. É a Administração Pública, que melhor do que ninguém está numa posição privilegiada de tomar decisões acertadas nesta matéria tendo em conta as circunstâncias concretas rodeadas de caso a resolver, razão pela qual lhe é concedido tal poder discricionário.
+c) – No caso de Macau, concretamente no do artigo 9º da Lei nº 4/2003, de 17 de Março, o legislador atribui, propositadamente ao Chefe do Executivo o poder discricionário de decisão nesta matéria, pois, o legislador proclama mediante a forma de “pode conceder” ( norma interpretada a contrário significa “pode não conceder”):
+1. O Chefe do Executivo pode conceder autorização de residência na RAEM.
+2. Para efeitos de concessão da autorização referida no número anterior deve atender-se, nomeadamente, aos seguintes aspectos:
+1) Antecedentes criminais, comprovado incumprimento das leis da RAEM ou qualquer das circunstâncias referidas no artigo 4.º da presente lei;
+2) Meios de subsistência de que o interessado dispõe;
+3) Finalidades pretendidas com a residência na RAEM e respectiva viabilidade;
+4) Actividade que o interessado exerce ou se propõe exercer na RAEM;
+5) Laços familiares do interessado com residentes da RAEM;
+6) Razões humanitárias, nomeadamente a falta de condições de vida ou de apoio familiar em outro país ou território.
+3. A residência habitual do interessado na RAEM é condição da manutenção da autorização de residência.
+Em matéria da concessão de discricionariedade aos agentes administrativos pelo legislador, ensina a doutrina:
+(…)
+40. Depois do que se disse, parece-nos legítimo sustentar que a discricionariedade pode ser atribuída por diversas vias:
+a) Os poderes discricionários do administrador são eventualmente resultado duma remissão para conceitos-tipo, sem se curar de saber se a indeterminação reside na hipótese ou na estatuição.
+b) A discricionariedade surgirá ainda porque se impôs ao agente o dever de utilizar padrões de valoração de qualidade de pessoas ou coisas dos quais tem o monopólio legal. É o que se passa com o funcionamento de júris de exame, que se apoia na suposição de que os seus membros usufruem dos conhecimentos técnicos suficientes – que poderiam ser também encontrados em outros órgãos equivalentes – mas, além disso, duma capacidade incontrolável de apreciação da importância relativa dos conhecimentos ou da habilidade demonstrada para o desempenho duma tarefa específica, da atribuição duma habilitação genérica ou de concessão dum status. Quer dizer: não se trata apenas de decidir se está certo ou errado, bem ou mal feito, mas se os resultados positivos são bastantes para preencher um estalão incontrolável ou alcançar um dos seus sucessivos degraus. Identicamente acontece com a classificação de coisas do ponto de vista artístico, histórico, paisagístico ou ecológico.
+A estes casos deve somar-se o conjunto das situações caracterizadas por uma avaliação de circunstâncias futuras (“decisões de prognose”).
+É isto que, sem o querer, a corrente do controlo total acabar por ter de aceitar quando se afasta duma revisão judicial nos casos de prerrogativa de avaliação.
+c) E, naturalmente, por fim, a discricionariedade surge ainda nas situações em que o legislador directamente concede ao agente uma “faculdade de acção”, isto é, em que remete para duas ou mais soluções à escolha.
+Chegarmos às conclusões anteriores não invalida contudo o trabalho de análise do material jurídico posto à disposição do administrador, que as várias correntes representam. É que compreender o sentido de cada grau de vinculação não satisfaz um desejo bizantino. Convém não esquecer que qualquer discricionariedade que se atribua não equivale à aceitação do arbítrio, não permite uma solução de moeda ao ar. Nem sequer vale como uma remissão para uma responsabilidade moral do agente. Ora, se há encargo jurídico que pesa sobre o agente, ele careceria de sentido caso não se previsse a existência de um controlo. (in Direito Administrativo, Rogério Soares, lições ao alunos do 2º ano da Faculdade de Direito da Universidade do Porto, pág. 61 e seguintes).
+No caso em análise, como está em causa o exercício de poder discricionário, poderá discutir-se se a decisão ora recorrida viola ou não os princípios gerais de Direito Administrativo, nomeadamente o princípio de justiça e de proporcionalidade, mas como estes factos não foram invocados pela Recorrente, ficamos dispensados de tecer mais considerações nesta ordem.
+Por outro lado, a decisão ora recorrida assenta nos seguintes pressupostos:
+“(…)
+利害關係人為方便其兒子長期留澳，先後兩次協助其辦得外地僱員身份認別證，但實際上卻從未向僱主提供任何工作，特別是最近一次，除其兒子本人以外，兒子僱主夫婦、其同鄉(C)均承認接受利害關係人的提議在不存在真實僱傭關係的情況下，為其兒子辦得外地僱員身份認別證，並為此收取其支付的報酬。
+利害關係人的行為涉嫌觸犯刑法，治安警察局已向檢察院作出檢舉。
+利害關係人為一己之私利而欺瞞行政當局，為人不誠實，令行政當局失去了在給予居留許可時對其具有良好個人品格的信賴，並對其將來是否誠信、守法沒有信心。因此，根據第5/2003號行政法規第24條1款及第4/2003號法律第9條，決定宣告A的居留許可失效。”
+4. 第5/2003號行政法規第24條規定，當不再符合給予居留許可時所依據的任何前提及要件，將導致居留許可的失效。
+(…)”.
+De realçar que, nesta sede do recurso, a Recorrente pode vir provar que tal relação de emprego efectivamente existia, apresentando provas idóneas, ex. o pagamento mensal de salários, mas não foi feita prova nesse sentido. Caindo por baixo os pressupostos de manutenção da autorização da permanência em Macau, pela Entidade Recorrida foi declarada a caducidade da autorização da permanência nos termos legalmente fixados.
+Pelo que, não se verificando erro nos pressupostos de facto nem violação da lei aplicável, julga-se improcedente o argumento dos vícios alegados, mantendo-se a decisão recorrida.
+*
+Síntese conclusiva:
+I – Em matéria da concessão (ou não concessão) (e de declaração da caducidade, artigo 24º do Regulamento Administrativo nº 5/2003, de 14 de Abril) de autorização da permanência, no caso do artigo 9º da Lei nº 4/2003, de 17 de Março, o legislador atribui, propositadamente, ao Chefe do Executivo o poder discricionário (delegável) de decisão nesta matéria, pois, o legislador proclama mediante a forma de “pode conceder” (norma interpretada a contrário significa “pode não conceder”).
+II - No caso sub judice, poderá discutir-se se a decisão ora recorrida viola ou não os princípios gerais de Direito Administrativo, nomeadamente o princípio de justiça e de proporcionalidade, mas à Recorrente cabe alegar e provar o alegado erro nos pressupostos de facto, com base nos quais foi tomada a respectiva decisão recorrida, não o tendo feito, há-de manter-se a decisão por esta não merecer censura.
+*
+Tudo visto, resta decidir.
+* * *
+V - DECISÃO
+Em face de todo o que fica exposto e justificado, os juízes do TSI acordam em julgar improcedente o recurso, mantendo-se a decisão recorrida.
+*
+Custas pelo Recorrente que se fixa em 7 UCs.
+*
+Notifique e Registe.
+*
+RAEM, 25 de Fevereiro de 2021.
+Fong Man Chong
+Ho Wai Neng
+Tong Hio Fong
+Mai Man Ieng
+17
+2020-452-caducidade-residência
