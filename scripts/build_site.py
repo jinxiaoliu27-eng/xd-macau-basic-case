@@ -13,16 +13,24 @@ ROOT = Path(__file__).resolve().parent.parent
 OUTPUT = ROOT / "docs"
 ASSETS = OUTPUT / "assets"
 
-YEAR_DIRS = [
+SOURCE_DIRS = [
     ("1999-2010", ROOT / "1999-2010"),
     ("2011-2018", ROOT / "2011-2018"),
     ("2019-2025", ROOT / "2019-2025"),
+]
+
+YEAR_BUCKETS = [
+    ("1999-2010", 1999, 2010),
+    ("2011-2018", 2011, 2018),
+    ("2019-2025", 2019, 2025),
 ]
 
 
 @dataclass
 class CaseRecord:
     year_bucket: str
+    source_bucket: str
+    decision_year: int | None
     source_name: str
     slug: str
     lang: str
@@ -47,7 +55,7 @@ def slugify(value: str) -> str:
 
 
 def normalize_space(text: str) -> str:
-    text = text.replace("\u3000", " ").replace("\ufeff", "")
+    text = text.replace("\u3000", " ").replace("\ufeff", "").replace("\x00", "")
     lines = [re.sub(r"[ \t]+", " ", line).strip() for line in text.splitlines()]
     return "\n".join(lines)
 
@@ -336,14 +344,33 @@ def paragraphs_to_html(lines: list[str]) -> str:
     return "\n".join(blocks)
 
 
-def parse_case(path: Path, bucket: str) -> CaseRecord:
+def extract_decision_year(date_text: str, lines: list[str]) -> int | None:
+    probes = [date_text] + lines[:20]
+    for probe in probes:
+        match = re.search(r"(19\d{2}|20\d{2})", probe)
+        if match:
+            return int(match.group(1))
+    return None
+
+
+def determine_year_bucket(year: int | None, fallback_bucket: str) -> str:
+    if year is not None:
+        for bucket, start, end in YEAR_BUCKETS:
+            if start <= year <= end:
+                return bucket
+    return fallback_bucket
+
+
+def parse_case(path: Path, source_bucket: str) -> CaseRecord:
     raw = path.read_text(encoding="utf-8-sig", errors="ignore")
     lines = strip_css_noise(clean_lines(raw))
     meta = parse_metadata(lines, detect_lang(path))
+    decision_year = extract_decision_year(str(meta["date"] or ""), lines)
+    year_bucket = determine_year_bucket(decision_year, source_bucket)
 
     plain_text = "\n".join(lines)
     number = str(meta["number"] or path.stem)
-    slug = slugify(f"{bucket}-{path.stem}")
+    slug = slugify(f"{year_bucket}-{path.stem}")
     title = str(meta["title"] or meta["theme"] or number)
     summary = str(meta["summary"] or "")
     if not summary:
@@ -353,7 +380,9 @@ def parse_case(path: Path, bucket: str) -> CaseRecord:
     theme = str(meta["theme"] or title)
 
     return CaseRecord(
-        year_bucket=bucket,
+        year_bucket=year_bucket,
+        source_bucket=source_bucket,
+        decision_year=decision_year,
         source_name=path.name,
         slug=slug,
         lang=detect_lang(path),
@@ -370,8 +399,6 @@ def parse_case(path: Path, bucket: str) -> CaseRecord:
         plain_text=plain_text,
         source_relpath=str(path.relative_to(ROOT)).replace("\\", "/"),
     )
-
-
 def case_card(case: CaseRecord) -> str:
     summary = html.escape(case.summary[:170] + ("..." if len(case.summary) > 170 else ""))
     tags = "".join(f"<span>{html.escape(tag)}</span>" for tag in case.keywords[:4])
@@ -610,7 +637,7 @@ def render_case(case: CaseRecord) -> str:
           <dt>标题</dt><dd>{html.escape(case.title)}</dd>
           <dt>法院</dt><dd>{html.escape(case.court or '未标明')}</dd>
           <dt>裁判书制作人</dt><dd>{html.escape(case.author or '未标明')}</dd>
-          <dt>分类</dt><dd>{html.escape(case.category or '未标明')}</dd>
+          <dt>分类</dt><dd>{html.escape(case.category or '未标明')}</dd>`r`n          <dt>原始分组</dt><dd>{html.escape(case.source_bucket)}</dd>`r`n          <dt>现归档分组</dt><dd>{html.escape(case.year_bucket)}</dd>
         </dl>
       </section>
       <section>
@@ -1066,15 +1093,21 @@ def main() -> None:
     OUTPUT.mkdir(parents=True, exist_ok=True)
     write_assets()
 
-    grouped: dict[str, list[CaseRecord]] = {}
+    grouped: dict[str, list[CaseRecord]] = {bucket: [] for bucket, _, _ in YEAR_BUCKETS}
     all_cases: list[CaseRecord] = []
+    moved_cases: list[CaseRecord] = []
 
-    for bucket, folder in YEAR_DIRS:
-        cases = sorted((parse_case(path, bucket) for path in folder.glob("*.txt")), key=lambda c: (c.date, c.number))
-        grouped[bucket] = cases
-        all_cases.extend(cases)
+    for source_bucket, folder in SOURCE_DIRS:
+        for path in folder.glob("*.txt"):
+            case = parse_case(path, source_bucket)
+            grouped.setdefault(case.year_bucket, []).append(case)
+            all_cases.append(case)
+            if case.year_bucket != case.source_bucket:
+                moved_cases.append(case)
 
-    all_cases.sort(key=lambda c: (c.year_bucket, c.date, c.number))
+    for bucket in grouped:
+        grouped[bucket].sort(key=lambda c: (c.decision_year or 0, c.date, c.number))
+    all_cases.sort(key=lambda c: (c.decision_year or 0, c.date, c.number))
 
     (OUTPUT / "index.html").write_text(render_home(all_cases, grouped), encoding="utf-8")
 
@@ -1085,8 +1118,26 @@ def main() -> None:
         for case in cases:
             (target_dir / f"{case.slug}.html").write_text(render_case(case), encoding="utf-8")
 
+    mismatch_report = [
+        {
+            "number": case.number,
+            "date": case.date,
+            "decision_year": case.decision_year,
+            "source_bucket": case.source_bucket,
+            "year_bucket": case.year_bucket,
+            "source_name": case.source_name,
+            "source_relpath": case.source_relpath,
+        }
+        for case in sorted(moved_cases, key=lambda c: (c.decision_year or 0, c.number))
+    ]
+    (OUTPUT / "bucket-reassignment-report.json").write_text(
+        json.dumps(mismatch_report, ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
 
 
 if __name__ == "__main__":
     main()
+
+
 
