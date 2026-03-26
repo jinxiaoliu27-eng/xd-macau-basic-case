@@ -1,0 +1,20 @@
+body {
+font-size: 13px;
+line-height: 25px;
+background-color: #fff;
+}
+.highlight-key {
+font-weight: bold;
+background: #FFFF00;
+}
+打印全文
+﻿Proc. nº 170/2012
+Acordam no Tribunal de Segunda Instância da RAEM
+O acórdão de fls. 520 a 532 contém uma imprecisão, que importa rectificar, nos termos dos arts. 633º e 570º, nº1, do CPC.
+Assim, acordam proceder à rectificação do erro material nos seguintes termos:
+- A fls. 8 do aresto, linha 4 do facto 13, onde está escrito “fracção designada por “A” do 10 andar”, deve figurar “fracção designada por “A” do 1º andar”.
+Corrija-se no lugar próprio.
+TSI, 25/10/2012
+(Relator)                                                            José Cândido de Pinho
+(Primeiro Juiz-Adjunto)                                                  Lai Kin Hong
+(Segundo Juiz-Adjunto)		                                         Choi Mou Pan

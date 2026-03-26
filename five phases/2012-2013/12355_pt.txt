@@ -1,0 +1,419 @@
+body {
+font-size: 13px;
+line-height: 25px;
+background-color: #fff;
+}
+.highlight-key {
+font-weight: bold;
+background: #FFFF00;
+}
+打印全文
+﻿Processo n.º 29/2012
+(Recurso laboral)
+Data:               26/Abril/2012
+RECORRENTE :     A
+RECORRIDA :	  S.T.D.M.
+ACORDAM OS JUÍZES NO TRIBUNAL DE SEGUNDA INSTÂNCIA DA R.A.E.M.:
+I - RELATÓRIO
+A, mais bem identificada nos autos, patrocinada primeiro pelo MP e, depois, por advogado constituído, propôs contra a Ré, "Sociedade de Turismo e Diversões de Macau (STDM)", com sede na Avenida do ……, …° andar, Macau, acção para efectivação do direito ao pagamento da compensação pelo dias de descanso semanal anual e feriados obrigatórios, por si não gozados, pedindo a condenação da Ré no pagamento de MOP$301.187,39 e ainda no pagamento de juros vencidos e vincendos desde a cessação da relação laboral.
+Veio esta, a final, a ser condenada a pagar a quantia de MOP$5.121,60, bem como o montante de juros a contar da data da sentença.
+Da decisão final vem recorrer a parte A., a trabalhadora, alegando basicamente que as gorjetas devem integrar o salário do trabalhador.
+A STDM, Sociedade de Turismo e Diversões de Macau, S.A.R.L. defende a bondade do decidido.
+Oportunamente, foram colhidos os vistos legais.
+II - Factos
+Vêm provados os factos seguintes:
+“Da confissão e das provas documentais resultam provados os seguintes factos:
+A Autora começou a trabalhar para a Ré em 1 de Julho de 1978. (A)
+A relação laboral entre Autora e Ré cessou em 1 de Julho de 2000. (B)
+A Autora foi admitida como empregada de casino (潔淨) e recebia de dez em dez dias da entidade patronal, como contrapartida da sua actividade laboral, duas quantias, uma fixa, no valor de MOP$ 6,6 por dia e outra variável, em função do dinheiro recebido dos clientes de casinos vulgarmente designado por “gorjetas” desde o início da relação laboral até à data da cessação da relação laboral. (C)
+As gorjetas eram distribuídas pela entidade patronal segundo critério por esta fixado. (D)
+As gorjetas eram distribuídas por todos os empregados de casino da R., e não apenas aos que têm “contacto directo” com clientes nas salas de jogo. (E)
+Os empregados que não trabalhavam directamente nas mesas ou os que não lidavam com clientes tinham também direito a receber a distribuição das gorjetas. (F)
+Tanto a parte fixa como a parte variável (as gorjetas) relevavam para efeitos de imposto profissional. (G)
+As gorjetas eram provenientes do dinheiro recebido dos clientes dos casinos. (H)
+Dependentes do espírito de generosidade desses mesmos clientes. (I)
+A Autora prestou serviços em turnos, conforme os horários fixados entidade patronal, sendo a ordem e o horário dos turnos o seguinte:
+1) 1º e 6º turnos: das 07h00 até 11h00, e das 03h00 até 07h00;
+2) 3º e 5º turnos: das 15h00 até 19h00, e das 23h00 até 03h00 (dia seguinte);
+3) 2º e 4º turnos: das 11h00 até 15h00, e das 19h00 até 23h00. (J)
+A Ré nunca procedeu ao pagamento de qualquer quantia ao trabalhador (ora Autora) quer por descansos semanais quer por descansos anuais e feriados obrigatórios não gozados. (K)
+A Autora tinha direito de pedir licença, mas essas licenças, sendo concedidas, não eram remuneradas, quer no que se refere a salário fixo, quer em gorjetas. (L)
+Os rendimentos efectivamente recebidos pela Autora entre os anos de 1984 a 2000 foram de:
+a) 1984 ＝MOP$ 15.783,00
+b) 1985 ＝MOP$ 33.611,00
+c) 1986 ＝MOP$ 43.388,00
+d) 1987 ＝MOP$ 40.605,00
+e) 1988 ＝MOP$ 39.855,00
+f) 1989 ＝MOP$ 56.901,00
+g) 1990 ＝MOP$ 65.772,00
+h) 1991 ＝MOP$ 67.505,00
+i) 1992 ＝MOP$ 66.548,00
+j) 1993 ＝MOP$ 69.644,00
+k) 1994 ＝MOP$ 73.884,00
+l) 1995 ＝MOP$ 82.464,00
+m) 1996 ＝MOP$ 83.734,00
+n) 1997 ＝MOP$ 80.127,00
+o) 1998 ＝MOP$ 69.307,00
+p) 1999 ＝MOP$ 64.983,00
+q) 2000 ＝MOP$ 34.772,00. (6º)
+A Autora sempre prestou serviços nos seus descansos semanais. (7º)
+A Autora nunca recebeu qualquer compensação salarial pelos serviços prestados. (8º)
+Nem compensado com outro dia de descanso pela Ré por cada dia de descanso semanal não gozado. (9º)
+A Autora prestou serviços também nos feriados obrigatórios de 1 de Maio e 1 de Outubro do ano 1989, de 1 de Janeiro, 3 dias do Ano Novo Chinês, 1 de Maio e 1 de Outubro dos anos 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 3 dias do Ano Novo Chinês, 1 de Maio e 1 de Outubro dos anos 1999 e bem como de 1 de Janeiro, 3 dias do Ano Novo Chinês e 1 de Maio do ano 2000. (10º)
+A Autora nunca recebeu qualquer compensação salarial pelos serviços prestados nos feriados obrigatórios. (11º)
+A Autora prestou serviços nos descansos anuais, respeitantes ao período compreendido entre 1 de Setembro de 1984 a 1 de Julho de 2000. (12º)
+A Autora nunca recebeu qualquer compensação salarial pelos serviços prestados à Ré nos seus descansos anuais. (13º)
+Sem prejuízo das respostas dadas aos quesitos 7.º, 10.º e 12.º, a Autora gozou os seguintes dias de descanso:
+i No ano 1994, o (a) A. gozou 15 dias de descanso, entre eles o dia de feriado obrigatório não-remunerado de Chong Yeong, em 13 de Outubro de 1994;
+ii No ano 1995, o (a) A. gozou 5 dias de descanso;
+iii No ano 1997, o (a) A. gozou 11 dias de descanso;
+iv No ano 1998, o (a) A. gozou 50 dias de descanso, entre eles os 2 dias de feriado obrigatório não-remunerado de Cheng Meng, em 5 de Abril de 1998, e de Dia de Portugal, em 10 de Junho de 1998;
+v No ano de 1999, o (a) A. gozou 15 dias de descanso, entre eles o dia de feriado obrigatório remunerado do Fraternidade Universal em 1 de Janeiro de 1999 e o dia de feriado obrigatório não remunerado de Chong Yeong em 17 de Outubro de 1999;
+vi No ano 2000, o (a) A. gozou 5 dias de descanso. (18º)
+III - FUNDAMENTOS
+1. O objecto do presente recurso passa pela análise das seguintes questões:
+- Da natureza jurídica do acordo celebrado entre recorrente e recorrida;
+- Do salário justo; determinação da retribuição; as gorjetas auferidas pelos trabalhadores de casino integram ou não o seu salário?
+- Do não gozo de dias de descanso semanal, descanso anual e feriados obrigatórios;
+. prova dos factos; prova do impedimento do gozo;
+. liberdade contratual; da admissibilidade de renúncia voluntária ao gozo de dias de descanso semanal, anual, feriados obrigatórios;
+- Integração da natureza do salário; mensal ou diário;
+- Determinação dos montantes compensatórios dos dias de trabalho prestado em dias descanso e festividades.
+As diferentes questões foram abordadas em vários e abundantes arestos dos Tribunais de Macau, referindo-se que em praticamente todos eles se conseguiu uma unanimidade de entendimento, tanto na 1ª Instância, como neste Tribunal de Segunda instância.1
+Depois disso, sobrevieram algumas decisões do TUI2, que decidiu contrariamente à posição que granjeara unanimidade total numa questão fundamental, qual seja a de saber se as gorjetas dos trabalhadores dos casinos da STDM integravam o salário.
+Perante tais decisões daquele Alto Tribunal, essa questão, bem como as outras que se colocavam, foram já tratadas devidamente numa série de acórdãos deste Tribunal de Segunda Instância e nesta secção em particular, aí se explicando, com o devido respeito, as razões do não acatamento da interpretação do TUI, cientes de que a responsabilidade pela uniformização da Jurisprudência não pode depender unicamente do critério de cada julgador, devendo ser implementada pelo legislador.3
+Por essa razão, nessa, bem como nas restantes questões, remetemo-nos para a Jurisprudência deste Tribunal de Segunda Instância.
+Ressalva-se a inflexão nessa Jurisprudência, a partir de 31/3/2011, v.g. com o processo n.º 780/2007, de 31/3/2011, deste TSI, apenas para os cálculos de algumas compensações relativamente aos descansos não gozados.
+2.  Posto, isto, passa-se de imediato à abordagem das questões que vêm colocadas no recurso, o que se fará, pelas razões acima aduzidas, em termos sintéticos.
+A primeira questão que se deve apreciar é a da caracterização da relação jurídica existente, o que se reconduz, no fundo, a saber se estamos ou não perante um contrato de trabalho entre ambos celebrado.
+Em face do artigo 1079.º do Código Civil, artigos 25º e 27º do anterior RJRL - cfr. artigos 1º, 4), 9º, 2), 57º da actual LRT, Lei 7/2008, de 12 de Agosto, em princípio não aplicável aos contratos findos, face à redacção do disposto no art. 93º -, art. 23°, n.º 3 da Declaração Universal dos Direitos do Homem, art. 7º do Pacto sobre Direitos Económicos Sociais e Culturais e pela Convenção da OIT n.º 131, direitos que por essa via não deixam de ser tutelados pela própria Lei Básica no seu artigo 40º, decorre, face à factualidade apurada, que parece não restarem quaisquer dúvidas de que nos encontramos perante um verdadeiro e puro contrato de trabalho entre o empregado e a empregadora, em que esta, mediante uma retribuição, sob autoridade, orientações e instruções daquela, começou a trabalhar na área de actividade ligada à exploração de jogos de fortuna ou azar.
+Temos assim por certo que o contrato celebrado entre um particular e a Sociedade de Turismo e Diversões de Macau, S.A., para aquele trabalhar naquela área dos casinos, sob direcção efectiva, fiscalização e retribuição por parte desta, deve ser qualificado juridicamente como sendo um genuíno contrato de trabalho remunerado por conta alheia, contrato esse que deve ser remunerado com uma retribuição justa.
+3.  Fundamentalmente, o que está em causa é saber se as gorjetas integram o salário do trabalhador. Anote-se que o que interessa é a consideração do que seja o salário para efeitos das compensações a contemplar, face ao que reclamado vem nos autos.
+O cerne da questão residirá em saber se, face à matéria de facto, melhor apreendida pelas Instâncias, filtrada e burilada através de tantos e tantos outros processos, se ela não predispõe num outro sentido compreensivo mais abrangente da realidade com que deparamos nos casos da STDM e neste em particular.
+A questão não pode ser desenquadrada do seu todo, do rendimento efectivo expectável, da prática adoptada e reiterada anos e anos a fio, da natureza específica da exploração e actividade de um casino, da realidade diversa da de outros ordenamentos em termos de Direito comparado.
+O carácter de liberalidade e eventualidade das gorjetas é contrariado pelo facto de as mesmas, no caso dos casinos da STDM, serem por esta reunidos, contabilizados e distribuídos e não se diga que o sistema de contabilização e distribuição pela empresa representa o sistema mais justo e que mais beneficia o trabalhador não é argumento decisivo, pois que sempre se pode entender que essa prática se insere no próprio processo contratual entre as partes e que por isso mesmo o trabalhador espera com uma forte probabilidade vir a auferir uma massa de rendimentos, só por via dela anuindo à celebração daquele contrato de trabalho.
+É verdade que quanto à perspectiva tributária incidente sobre as gorjetas esse argumento não se mostra decisivo.
+Na perspectiva tributária de direito público, o imposto profissional é um imposto parcelar, estruturado cedularmente, mediante o qual se submete a regime específico de incidência, determinação da matéria colectável e taxa os rendimentos decorrentes do trabalho, por conta de outrem ou por conta própria. Englobam-se nesse tipo de rendimento as gratificações ou gorjetas espontânea e livremente entregues, na sequência de uma reiterada prática social, pelos beneficiários de um determinado serviço ou trabalho, e por causa deste, aos que executaram esses serviço ou trabalho.4
+Não obstante o princípio da autonomia privada, há que ter em conta, principalmente no que respeita à liberdade de estipulação do conteúdo, determinadas normas que não podem ser afastadas pela vontade das partes, as quais limitam a liberdade contratual, impondo, pelo menos, um conteúdo mínimo imperativo.
+As gorjetas dos trabalhadores da STDM, na sua última ratio devem ainda ser vistas como "rendimentos do trabalho", sendo devidos em função, por causa e por ocasião da prestação de trabalho, ainda que não originariamente como correspectividade dessa mesma prestação de trabalho, mas que o passam a ser a partir do momento em que pela prática habitual, montantes e forma de distribuição, com eles o trabalhador passa a contar, estando nós seguros de que sem essa componente o trabalhador não se sujeitaria a trabalhar com um salário que na sua base é um salário de miséria.
+Não se deixam de encontrar no Direito Comparado situações em que a gorjeta integra o valor da remuneração, assim acontecendo no Brasil, compreendendo-se na remuneração do empregado, para todos os efeitos legais, além do salário devido e pago directamente pelo empregador, como contraprestação do serviço, as gorjetas que receber e considerando-se gorjeta não só a importância espontaneamente dada pelo cliente ao empregado, como também aquela que for cobrada pela empresa ao cliente, como adicional nas contas, a qualquer título, e destinada à distribuição aos empregados.
+Salvaguardando a diferença de sistemas, assim acontece igualmente nos EUA.
+Assim acontece em Hong Kong, onde ainda recentemente o Court of Final Appeal decidiu ratificar o entendimento do Court of Appeal no sentido de que as gorjetas deviam integrar o salário com argumentos próximos dos acima expendidos.5
+Por outro lado, em Portugal, não minimizando a douta doutrina citada pelo TUI, não se deixa de assinalar, como acima se referiu, que a realidade fáctica diverge em ambos os ordenamentos e num ponto que se nos afigura essencial, qual seja o de em Portugal o rendimento mínimo estar garantido por lei.
+4.  Do não gozo de dias de descanso semanal, descanso anual e feriados obrigatórios;
+. prova dos factos
+. liberdade contratual; da admissibilidade de renúncia voluntária ao gozo de dias de descanso semanal, anual e feriados obrigatórios.
+Provou-se que o trabalhador em questão trabalhou nos dias de descanso semanal, anual e também feriados obrigatórios e não recebeu qualquer acréscimo.
+Para que haja erro manifesto na apreciação da prova tem de resultar da alegação da parte recorrente e dos elementos dos autos a probabilidade de existência de erro de julgamento, o que decorre da indicação não só dos pontos considerados incorrectamente julgados, como da indicação dos concretos meios probatórios que impunham uma decisão diversa (cfr. artigo 599º, n.º 1, a) e b) e 629º do CPC).
+No que ao ónus da prova respeita só importaria apreciar a questão em caso de falta de prova dos factos alegados pela parte a quem cabia o ónus de provar os factos integrantes do seu direito(cfr. o n.º 1 do art. 335° do CC), de forma a daí retirar as devidas consequências.
+5.  Da liberdade contratual.
+Ao interpretar e aplicar qualquer legislação juslaboralística em sede do processo de realização do Direito, temos que atender necessariamente ao “princípio do favor laboratoris”, princípio que para além de “orientar” o legislador na feitura das normas juslaborais (sendo exemplo paradigmático disto o próprio disposto no art.º 5.º, n.º 1, e no art.º 6.º do Decreto-Lei n.º 24/89/M, de 3 de Abril), deve ser tido pelo menos também como farol de interpretação da lei laboral, sob o qual o intérprete-aplicador do direito deve escolher, na dúvida, o sentido ou a solução que mais favorável se mostre aos trabalhadores no caso considerado, em virtude do objectivo de protecção do trabalhador que o Direito do Trabalho visa prosseguir.
+Do que acima fica exposto decorre que se A. e Ré podiam acordar nos montantes da retribuição (e o problema que se põe nessa sede não é já o do primado da liberdade contratual mas sim o da determinação da vontade das partes quanto à integração dessa retribuição) já o mesmo não acontece quanto ao gozo dos dias de descanso, férias e feriados e sua remuneração.
+6. Da errada interpretação e aplicação do n.° 4, do art. 26° do RJRT - da violação do n.° 2 do art. 564º do CPC
+E ainda da configuração do salário como mensal.
+As características e natureza do trabalho, tal como vem provado, harmonizam-se mais com o considerar que se tratava de um salário mensal, estando a remuneração não já dependente do resultado de trabalho efectivamente produzido, nem, tão-pouco, do período de trabalho efectivamente prestado.
+Da redacção do n.º 4 do artigo 26º decorre uma consequência importantíssima na interpretação das normas que atribuem as compensações pelo trabalho prestado nesses dias. É que o n.º 1 do art.º 26.º do Decreto-Lei n.º 24/89/M, atentos os termos empregues na redacção da sua parte final, - os trabalhadores que auferem um salário mensal...não podendo sofrer qualquer dedução pelo facto de não prestação de trabalho nesses períodos (períodos de descanso semanal e anual e feriados obrigatórios) - visa tão-só proteger o trabalhador contra eventual redução do seu salário mensal por parte do seu empregador sob pretexto de não prestação de trabalho nesses períodos e, por isso, já não se destina a determinar o desconto do valor da remuneração normal na compensação/indemnização pecuniária a pagar ao trabalhador no caso de prestação de trabalho em algum desses dias.
+Essa posição, no respeitante ao tipo do salário, releva para aplicação do n.º 6 do art.º 17.º do Decreto-Lei n.º 24/89/M, de 3 de Abril, na actual redacção dada pelo artigo único do Decreto-Lei n.º 32/90/M, de 9 de Julho, já que na hipótese de pagamento do trabalho prestado em dia de descanso semanal, por força do n.º 6, é ao disposto na sua alínea a) que se atende e já não ao determinado na sua alínea b).
+7.  Da lei aplicável.
+Ainda aqui nos remetemos para o desenvolvimento feito nos acórdãos já citados.
+Posto isto, assim se entra na análise da correcção da sentença recorrida quanto ao apuramento das compensações devidas pela entidade patronal, por violação dos diferentes tipos de descanso do trabalhador e assim do invocado erro de direito em relação às pertinentes normas reguladoras daquelas compensações.
+Neste caso particular acompanhamos as fórmulas adoptadas na Jurisprudência quase unânime deste Tribunal, unanimidade que sofreu até ao momento apenas a excepção da compensação do trabalho prestado em dias de feriados obrigatórios e a inflexão a partir de 31/3/2011, com o processo n.º 780/2007, de 31/3/2011, deste TSI .6
+Donde resultam aos fórmulas seguintes que aqui se entendem ser as correctas:
+No âmbito do
+Descansos semanais
+Descansos anuais
+Feriados Obrigatórios
+DL101/84/M
+X17
+X1
+X18
+DL24/89/M
+X2
+X19
+X3
+8.  Os rendimentos deste processo constam da matéria acima dada como provada.
+Ano
+Salário Médio Diário
+1
+1984
+43.84
+2
+1985
+93.36
+3
+1986
+120.52
+4
+1987
+112.79
+5
+1988
+110.71
+6
+1989
+158.06
+7
+1990
+182.70
+8
+1991
+187.51
+9
+1992
+184.86
+10
+1993
+193.46
+11
+1994
+205.23
+12
+1995
+229.07
+13
+1996
+232.59
+14
+1997
+222.58
+15
+1998
+192.52
+16
+1999
+180.51
+17
+2000
+190.01
+Importará reter que nos cálculos a efectuar só relevarão os créditos não prescritos, tal como definido no saneador, ou seja, os posteriores a 14/51989.
+Há, assim, que refazer os cálculos a partir dos valores integrantes do salário do trabalhador, na certeza de que o objecto principal do recurso é circunscrito pela própria recorrente ao conceito de salário, não deixando ainda de se pronunciar sobre as fórmulas.
+Donde terem de se alterar as fórmulas e factores de cálculo adoptados pela Mma Juíza a quo, na medida em que impugnadas pela própria recorrente.
+9.	Trabalho prestado em dia de descanso semanal
+Em sede do DESCANSO SEMANAL importa alterar os montantes, face aos valores do salário relevante apurado, alterando-se a fórmula encontrada por vir recurso interposto quanto a essa questão.
+Assim, configura-se o seguinte quadro para o DESCANSO SEMANAL
+(- vista a prescrição dos créditos anteriores - a 14/5/89, sob a alçada do Decreto-Lei n.° 24/89/M):
+Ano
+número de dias
+vencidos e não gozados
+(A)
+remuneração
+diária média
+em MOP
+(B)
+Quantia indemnizatória
+(A x B x 2)
+1989
+33
+158.06
+10,431.96
+1990
+52
+182.70
+19,000.80
+1991
+52
+187.51
+19,501.04
+1992
+52
+184.86
+19,225.44
+1993
+52
+193.46
+20,119.84
+1994
+52
+205.23
+21,343.92
+1995
+52
+229.07
+23,823.28
+1996
+52
+232.59
+24,189.36
+1997
+52
+222.58
+23,148.32
+1998
+52
+192.52
+20,022.08
+1999
+52
+180.51
+18,773.04
+2000
+26
+190.01
+9,880.52
+Total das quantias
+→
+229,459.60
+Vs o total na sentença:
+MOP$3.821,40
+10.  Descanso anual
+Em sede de DESCANSO ANUAL, importa igualmente recalcular os montantes apurados, adoptando-se a formula X 1 e não x 2, face à nova orientação já citada
+Nesta conformidade, no âmbito do
+Decreto-Lei n.º 101/84 e
+n.º 24/89/M
+Ano
+dias vencidos mas não gozados
+nesse ano
+(A)
+valor da remuneração diária média nesse ano em MOP
+(B)
+Quantia indemnizatória
+em MOP
+(A x B x 1)
+1989
+4
+158.06
+632.24
+1990
+6
+182.70
+1,096.20
+1991
+6
+187.51
+1,125.06
+1992
+6
+184.86
+1,109.16
+1993
+6
+193.46
+1,160.76
+1994
+6
+205.23
+1,231.38
+1995
+6
+229.07
+1,374.42
+1996
+6
+232.59
+1,395.54
+1997
+6
+222.58
+1,335.48
+1998
+6
+192.52
+1,155.12
+1999
+6
+180.51
+1,083.06
+2000
+3
+190.01
+570.03
+Total de todas as quantias →
+13,268.45
+vs o total achado na sentença:
+MOP$442,20
+11. Feriados obrigatórios
+Ainda aqui há que alterar os valores encontrados.
+Assim,
+FERIADOS OBRIGATÓRIOS “REMUNERADOS”
+sob a alçada do Decreto-Lei n.° 24/89/M)
+Dias
+Não gozados e vencidos
+(A)
+valor da remuneração
+Diária média em MOP
+(B)
+Quantia indemnizatória
+em MOP
+(A x B x 3)
+1989
+1
+158.06
+474.18
+1990
+6
+182.70
+3,288.60
+1991
+6
+187.51
+3,375.18
+1992
+6
+184.86
+3,327.48
+1993
+6
+193.46
+3,482.28
+1994
+6
+205.23
+3,694.14
+1995
+6
+229.07
+4,123.26
+1996
+6
+232.59
+4,186.62
+1997
+6
+222.58
+4,006.44
+1998
+6
+192.52
+3,465.36
+1999
+5
+180.51
+2,707.65
+2000
+5
+190.01
+2,850.15
+Total dessas quantias →
+38,981.34
+vs o total achado na sentença:
+MOP$858,00
+12.  Concluindo,
+Os valores encontrados para a compensação dos descansos semanais , anuais e feriados obrigatórios alteram-se em conformidade com os valores constantes dos mapas supra;
+Conclui-se assim pela existência dos apontados vícios de interpretação dos factos e de direito.
+Tudo visto e ponderado, resta decidir,
+IV - DECISÃO
+Nos termos e fundamentos acima expostos, acordam os Juízes que compõem o Colectivo deste Tribunal, em conferência, em:
+-  julgar procedente o recurso da decisão final interposto pelo trabalhador, alterando a sentença proferida e condenando a Ré a pagar à A. os montantes em conformidade com os valores calculados nos mapas supra;
+-  em condenar no pagamento dos juros de mora, a contar a partir do momento desta decisão, vista a alteração verificada em relação à liquidação feita em 1ª Instância (cfr. Ac. TUI n.º 69/2010, de 2/3/11).
+Custas do recurso e por via desta decisão custas em ambas as instâncias, pela A. e Ré, na proporção dos respectivos decaimentos.
+Macau, 26 de Abril de 2012,
+(Relator)
+João A. G. Gil de Oliveira (vencido apenas quanto às fórmulas na parte divergente da Jurisprudência dominante deste Tribunal até 31/3/11, de acordo, designadamente, com os Acs n.ºs 330/05, de 11/5/06; 76/06, de 22/6/06 e 295/06, de 5/10/06)
+(Primeiro Juiz-Adjunto)
+Ho Wai Neng
+(Segundo Juiz-Adjunto)
+José Cândido de Pinho
+1 - Processos 241/2005, 297/05, 304/05, 234/05, 320/05, 255/05, 296/05, respectivamente de 23/5/06, 23/2/06, 23/2/06, 2/3/06, 2/3/06, 26/1/06, 23/2/06, 330/2005 , 3/2006, 76 /2006.
+2 - Processos 28/2007, 29/2007, 58/2007, de 21/7/07, 22/11/07 e 27/2708, respectivamente
+3 - Cfr. processos, deste TSI, de 19/2/09, 314/2007, 346/2007, 347/2007, 360/2007, 370/2007
+4 - Parecer da PGR n.º P001221988, de 18/11/88
+5 - Proc. 55/2008, de 19/1/09, betweeen XXX and HK XX Travel Service Limited, in http://www.hklii.org/hk
+6 - Vd. douto voto vencido nos Acórdãos 234/2005 e 257/2007, de 2/3/06 e 9/3/06, respectivamente
+7 - Na Jurisprudência uniforme deste TSI até 31/3/11 não havia compensação no âmbito do DL101/84/M, de 25 de Agosto
+8  - Na Jurisprudência uniforme deste TSI até 31/3/11 não havia compensação no âmbito do DL101/84/M, de 25 de Agosto
+9 - Na Jurisprudência uniforme deste TSI até 31/3/11 a fórmula era x2
+---------------
+------------------------------------------------------------
+---------------
+------------------------------------------------------------
+29/2012                                                                   1/22

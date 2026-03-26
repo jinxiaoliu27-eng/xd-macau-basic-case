@@ -1,0 +1,513 @@
+- Posse
+- Templo
+- Direito de administrar
+body {
+font-size: 13px;
+line-height: 25px;
+background-color: #fff;
+}
+.highlight-key {
+font-weight: bold;
+background: #FFFF00;
+}
+打印全文
+﻿Processo nº 52/2024
+(Autos de Recurso Civil e Laboral)
+Data do Acórdão: 06 de Junho de 2024
+ASSUNTO:
+- Posse
+- Templo
+- Direito de administrar
+Rui Pereira Ribeiro
+Processo nº 52/2024
+(Autos de Recurso Civil e Laboral)
+Data: 		06 de Junho de 2024
+Recorrentes:	(A), (B) e (C) (Recurso Interlocutório / Recurso Final)
+Recorridos:   Região Administrativa Especial de Macau,                   Interessados incertos, (D) e (E) (Recurso Interlocutório / Recurso Final)
+*
+ACORDAM OS JUÍZES DO TRIBUNAL DE SEGUNDA INSTÂNCIA DA RAEM:
+I. RELATÓRIO
+(F), entretanto falecido e substituído na causa pelos seus herdeiros (A), (B) e (C), todos com os demais sinais dos autos,
+vem instaurar acção declarativa sob a forma de processo ordinário contra
+Região Administrativa Especial de Macau e                           Interessados incertos, pedindo que:
+1. Seja declarado e os RR condenados a reconhecer o A como dono e legítimo proprietário do acervo dos bens móveis que constituem o recheio do Templo (X), supra descritos, por os ter adquirido por usucapião;
+2. Seja declarado e os RR condenados a reconhecer o A como titular do poder de administração do Templo (X) e respectivas construções anexas e terreno em que os mesmos estão edificados, desde 13 de Outubro de 1980, no que sucedeu ao seu pai (G), no exercício da mesma actividade, iniciada por este em 22 de Fevereiro de 1946.
+No decorrer da acção foi admitida a intervenção de (D) e (E).
+(D) veio deduzir contestação e Reconvenção pedindo que:
+a. seja declarado o Autor condenado a reconhecer a R. e ora Reconvinte, (D) como dona e legítima proprietária duas casas de construção metálicas em causa por as ter adquirido por usucapião; e
+Caso doutamente assim não entender, deverá
+b. seja declarado reconhecer a posse da R. e ora Reconvinte, (D) sobre as duas casas de construção metálica em causa como possuidora das mesmas desde 6.10.2008, e
+Ainda caso doutamente assim não entender, deverá
+c. seja reconhecido e declarar a R. e ora Reconvinte, (D) como administradora que exerce do poder de facto sobre as mesmas casas de construção metálica desde 6.10.2008.
+(E) veio deduzir contestação e Reconvenção pedindo que:
+1. julgue que o Réu não tem legitimidade para ser parte e é indeferida a petição inicial do Autor; caso a V. Exa. entenda que o Réu tem legitimidade para ser parte, requer-se que
+2. julgue improcedentes todos os fundamentos apresentados pelo autor, e em consequência, sejam indeferidos todos os pedidos formulados do Autor.
+3. julgue procedente totalmente o pedido reconvencional formulado pelo Réu e, condene o Autor a pagar ao Réu a indemnização patrimonial de MOP50.000,00; e,
+(…)
+Nas suas Réplicas veio o Autor pedir a ampliação do pedido nos seguintes termos:
+1) Seja declarado e os RR condenados a reconhecer o A como legítimo possuidor do Templo, construções anexas e respectivo terreno, identificados nos autos, ainda que a posse em causa não seja considerada como boa para efeitos de usucapião, no que sucedeu ao seu pai, no exercício da mesma, após a morte deste, iniciada por este em 22 de Fevereiro de 1946;
+2) Sejam declarados nulos, quer por vício de forma, quer por simples simulação, os contratos de alienação de duas construções anexos do Templo e respectivo terreno, mencionados no Cap. II da Réplica de 16/10/2018.
+Proferido despacho saneador não foi admitido o pedido reconvencional de (E) nem as alterações do pedido do Autor.
+Não se conformando com aquele despacho veio o Autor interpor recurso apresentando as seguintes conclusões:
+1. Constitui objecto do presente recurso jurisdicional o despacho, de fls. 505 e ss. dos autos, de 14 de Janeiro de 2021, na parte em que indeferiu a ampliação do pedido formulado pelos ora Recorrentes, no que respeita ao pedido mencionada como pedido 2);
+2. O despacho recorrido padece de erro de julgamento por erro de interpretação e aplicação da norma do artigo 217.º/2 do CPC;
+3. Por força do princípio da estabilidade da instância, contido no artigo 212.º do CPC, após a citação do réu aquela deve manter-se inalterada quanto ao pedido, salvo as possibilidades de modificação consignadas na lei;
+4. O artigo 217.º/2 do CPC prevê a possibilidade de alteração ou ampliação do pedido na réplica, podendo ainda o pedido ser reduzido ou ampliado em qualquer altura do processo até ao encerramento da discussão em 1ª instância, sendo que no caso de ampliação, a mesma seja o desenvolvimento ou consequência do pedido primitivo;
+5. No caso dos autos, havia lugar à réplica, nos termos das normas do artigo 420.º/1-a-b do CPC e a ampliação foi formulada nesta peça processual;
+6. A ampliação formulada nos autos não está sujeita à restrição consagrada na norma do artigo 217.º/2, 2.ª parte, ou seja, à condição de que deve ser o desenvolvimento ou consequência do pedido primitivo;
+7. O Tribunal recorrido não poderia ter usado fundamento ligado a tal condição para justificar o indeferimento da ampliação dos autos que ocorreu na réplica, porque a lei não exige que tal pedido seja desenvolvimento ou consequência do pedido primitivo;
+8. O pedido ampliado não deriva de diferentes factos concretos, mas, antes, se alicerça na matéria de facto alegada na p.i.;
+9. Na p.i. foram alegados factos que demonstram que o Autor goza do domínio de facto sobre o edifício do Templo, as construções anexas e o terreno e respectivo terreno, traduzido no exercício efectivo de poderes materiais sobre os mesmos, como titular do direito correspondente àquele domínio de facto, factos que são juridicamente necessários e pertinentes a fundamentar a ampliação requerida;
+10. O pedido dos autos reconduz-se mais a uma ampliação da pretensão primitiva do que a uma cumulação de pedidos, uma vez que a ampliação requerida é feita no quadro da mesma causa de pedir;
+11. Se a lei admite, na réplica, a ampliação do pedido com base em causa de pedir ex novo ou numa ampliação da causa de pedir, muito mais há-de admitir a ampliação dos autos, dado que a mesma ocorre no quadro da mesma causa pentendi;
+12. O pedido ampliado não configura um pedido novo completamente independente e contraditório do pedido primitivo, sendo compatíveis e susceptíveis de serem decididos no mesmo sentido;
+13. Não deixa de existir conexão relevante entre os pedidos primitivos e o pedido acrescentado na réplica;
+14. Com a ampliação requerida não se enxerta no processo pendente um novo objecto processual, em oposição ao que decorre do artigo 217.º/6 do CPC;
+15. O facto de o Autor ter reconhecido na sua p.i. a impossibilidade de aquisição por prescrição aquisitiva do terreno onde está implantado o Templo e das construções e de se ter oposto à pretensão reconvencional formulada pela Ré, não constitui, contrariamente ao afirmado na decisão recorrida, fundamento válido para o indeferimento da ampliação requerida;
+16. Pode existir posse e esta não ser boa para efeitos de usucapião;
+17. O pedido formulado pelo Autor visa apenas obter o reconhecimento da posse por parte do Autor sobre o edifício do Templo, as construções anexas e o respectivo terreno, ainda que a mesma não seja boa para efeitos de usucapião;
+18. A ampliação do pedido requerido nos presentes autos é processualmente admissível, dado existir base legal para tanto;
+19. O despacho recorrido violou, nomeadamente, a norma do artigo 217.º/2 do Cf'C.
+Foi proferida sentença a julgar parcialmente procedentes a acção e Reconvenção deduzida por (D).
+Não se conformando com a decisão proferida vêm os Autores interpor recurso da mesma, formulando as seguintes conclusões e pedido:
+1. O acórdão recorrido não conheceu do pedido do poder de administração formulado pelos recorrentes acerca das diferentes partes, pelo que padece do vício da omissão de pronúncia.
+2. O pedido do poder de administração formulado pelos recorrentes não só se refere às construções dentro da área do Templo, mas também ao terreno relevante.
+3. Independentemente do enquadramento jurídico do “terreno” em questão, mesmo que o acórdão recorrido tenha considerado que o terreno é bem do domínio público, o tribunal a quo também deveria conhecer ou se pronunciar sobre o pedido formulado pelos autores sobre o poder de administração do “terreno”.
+4. No entanto, relativamente ao 2.º pedido dos recorrentes sobre o poder de administração, na fundamentação do acórdão recorrido, só se pronunciou e foi tomada a decisão sobre o Templo (X) e as respectivas construções anexas, mas, nunca se pronunciou sobre o pedido do terreno relevante.
+5. Nestes termos, o acórdão recorrido padece do vício da omissão de pronúncia e viola o art.º 571.º, n.º 1, al. d) CPC, pelo que deve ser revogado o acórdão recorrido e serão remetidos os presentes autos ao tribunal a quo para conhecer de tal questão e se pronunciar.
+6. Além disso, o acórdão recorrido vinculou erradamente o “poder de administração” alegado pelos autores com o “direito real”, conduzindo a que exista erro no julgamento e sejam violados os art.º 458.º e ss. do Código Civil.
+7. O “poder de administração” alegado pelos recorrentes no 2.º pedido da petição inicial não se reporta a direito do objecto (Templo (X) em questão), ou seja, não a produção de um direito real.
+8. O direito real está sujeito ao numerus clausus previsto no art.º 1230.º do Código Civil. O legislador de Macau aplicou o princípio de enumeração fechada /enumeração exaustiva em termos do tipo do direito real.
+9. Uma vez que a lei não dispõe expressamente que o “poder de administração” seja uma das espécies do direito real, pode-se excluir a possibilidade de este poder ser um direito real.
+10. Mas, o acórdão recorrido entende que, reconhecer alguém como titular do poder de administração do Templo equivale a reconhecer que essa pessoa tem um dos direitos jurídicos do Templo e, entende que o poder de administração é um direito dos recorrentes sobre o Templo (X), ou seja, sobre a coisa.
+11. Mas, de acordo com a lei, o “poder de administração” não é um direito real, então, o fundamento do tribunal a quo parece naturalmente claudicado.
+12. O “poder de administração” alegado pelos recorrentes refere-se realmente a um direito obrigacional que decorre da gestão efectiva dos recorrentes desde a geração do seu avô sob a forma de gestão de negócios, conduzindo o direito obrigacional decorrente do acto de gestão ao proprietário.
+13. Em suma, o respectivo poder de administração (direito obrigacional) reporta-se ao verdadeiro “proprietário” do Templo (X) e terreno, e não ao “Templo (X) e terreno” (direito real).
+14. Através do ponto 4 dos factos provados, refere-se que o Templo (X) foi classificado como monumento do Património Cultural previsto nos art.º 115.º, n.º 1 e art.º 117.º, n.º 2 da Lei n.º 11/2013.
+15. Conforme os elementos dos autos, o Templo (X) não tem o proprietário, tratando-se de coisa imóvel sem dono. Nos termos do disposto no art.º 1265.º do Código Civil, as coisas imóveis sem dono consideram-se do património do território de Macau.
+16. Nestes termos, o poder de administração alegado pelos recorrentes é um direito obrigacional da Região Administrativa Especial de Macau como destinatário.
+17. De acordo com os pontos 13, 15 a 34, 37 a 49, 55 a 60, 63 a 70 e 83 a 84 dos factos provados, basta comprovar que o pai dos recorrentes (ou seja, o então Autor da causa) e o avô administraram efectivamente o Templo (X) durante muitos anos.
+18. Através dos factos acima dados como provados, basta comprovar que os recorrentes são gestor de negócios previstos nos art.º 458.º e ss. do Código Civil.
+19. Além disso, os recorrentes também satisfazem os requisitos da gestão de negócios: em primeiro, alguém (gestor) assuma a direcção do negócio alheio; em segundo, o gestor actue no interesse e por conta do dono do negócio; em terceiro, não haja autorização deste.
+20. Quanto aos primeiro e terceiro requisitos e, face ao pai de (F), os pontos 13 e 15 dos factos provados indicam que, o pai de (F) passou a administrar o Templo e as construções anexas que, à altura, se destinavam à serventia do Templo, desde o ano 1962; e, foi o pai de (F) quem desde o ano de 1962, e sem qualquer interrupção até à sua morte, administrou o Templo, em todos os seus aspectos.
+21. Os pontos 32 a 34 dos factos provados referem que, (F) sucedeu ao seu pai no exercício da mesma actividade em 13 de Outubro de 1980, dada em que o pai de (F) faleceu; e, até 13 de Abril de 2019, o mesmo tinha vindo a exercer a actividade, sem qualquer interrupção até à sua morte.
+22. Nestes termos, dos dois pontos acima referidos, pode-se saber que, desde pelo menos 1962, a família dos recorrentes passou a administrar o Templo (X), e a respectiva gestão foi herdada pela seguinte geração até agora que os recorrentes actuam no exercício da gestão do Templo  (X).
+23. Relativamente ao segundo requisito, do ponto 43 dos factos provados refere-se que, devido às medidas preventivas tomadas por (F), nunca ocorreu um incendio no Templo (X); e, no ponto 64 dos factos provados também refere-se: participou em actividades de sensibilização, divulgação e formação organizadas pelo Instituto Cultural, tendo em conta os trabalhos preparativos para as celebrações mais importantes, como o Ano Novo Lunar, etc..
+24. Por isso, sem dúvida, todas as actividades desenvolvidas pelos pai de (F), (F) e os recorrentes são em conformidade com o interesse e vontade real da recorrida (RAEM), facto que se comprova pelo excelente estado de conservação do Templo (X).
+25. Dos factos provados (nomeadamente os pontos 20, 41, 48, 76, 77, 78 e 84 dos factos provados) pode-se saber que, os recorrentes vivem de actividades comerciais/ profissionais no Templo (X).
+26. Mas, quanto à questão de saber se há a gestão de negócios quando o gestor actuar no interesse alheio e, também, no seu próprio interesse, refere-se no acórdão proferido pelo TUI em 18 de Abril de 2012 no processo de recurso civil n.º 3/2012: “Citando tais doutrinas, é de concluir pela possibilidade de coexistência no instituto de gestão de negócios dos dois interesses: o interesse do dono do negócio e o do próprio gestor.”
+27. Por outras palavras, os recorrentes satisfazem os requisitos da gestão de negócios. Por isso, podemos entender que o poder de administração sempre alegado pelos recorrentes é resultante da gestão de negócios por si actuada no Templo (X), as construções anexas e o terreno em que os mesmos estão edificados, o que é claro que foi implementado um poder de administração para o proprietário (administrar o bem do proprietário), ou seja, pode existir um poder de administração em relação ao proprietário (RAEM), derivando assim um direito obrigacional.
+28. E, a aprovação deste poder tem o seu significado jurídico. Nos termos do disposto no art.º 463.º do Código Civil dispõe-se: “a aprovação da gestão implica a renúncia ao direito de indemnização pelos danos devidos a culpa do gestor e vale como reconhecimento dos direitos que a este são conferidos no n.º 1 do artigo anterior.”
+29. Uma vez que este direito não tem natureza de direito real, o Templo (X), as construções anexas e o terreno em que os mesmos estão edificados são classificados como bem imóvel e bem do domínio público, o que não afecta que os recorrentes invoquem o respectivo direito.
+30. Pela razão de que, de acordo com o acórdão recorrido, entende-se que os recorrentes não podem invocar o gozo de qualquer poder de administração em relação ao bem do domínio público (templo e o terreno) (objecto). No entanto, a invocação do recorrente é contra o proprietário do bem do domínio público (templo e terreno) e não o objecto, bem do domínio público. Face a tal, o tribunal a quo parece ter mal-entendido.
+31. O acórdão recorrido entendeu mal que é vinculado o poder de administração alegado pelos recorrentes com o direito real, resultando em erro no reconhecimento de factos e na aplicação da lei, conduzindo a erro na direcção lógica da sentença e, em consequência, julgando erradamente improcedentes os pedidos dos recorrentes.
+32. Sem dúvida, padece do erro no reconhecimento dos pressupostos de facto e de direito (é erradamente vinculado o “poder de administração” com o “direito real”) e são violadas as disposições da gestão de negócios previstas nos art.º 458.º e ss. do Código Civil, pelo que deve ser revogado o acórdão recorrido e, serão remetidos os presentes autos ao tribunal a quo para conhecer de tal questão.
+33. No acórdão recorrido, relativamente à parte sobre o Templo (X)e as construções de chapa metálica designadas por “H” e “I”, foram feitos diferentes regimes jurídicos, levando a um erro no enquadramento jurídico.
+34. No acórdão recorrido, nos pontos 85 a 107 dos factos assentes, o tribunal a quo comprovou uma série de cadeira de posse dos recorridos a partir de (H), pelo que (H), (I) e a recorrida (D), tinham adquirido por posse as duas construções de chapa metálica designadas e identificadas pelas letras por “H” e “I”.
+35. Em consequência, foi julgado que, desde 6 de Outubro de 2008, os recorridos têm posse das duas construções de chapa metálica designadas e identificadas pelas letras “H” e “I”, que são referidas no ponto 85 dos factos provados.
+36. Quando o tribunal a quo realizou uma análise jurídica sobre a propriedade dos recorridos em relação às construções de chapa metálica designadas por “H” e “I”, esta análise foi feita com base na premissa de que estas duas construções foram construídas em terreno do Estado.
+37. Mas, o tribunal a quo omitiu pronúncia sobre a matéria de saber se as construções de chapa metálica designadas por “H” e “I” em questão já foram consideradas como partes integrantes do Templo (X) e classificadas conjuntamente como monumento em nome de Templo (X) (de Cheoc Ka)!
+38. O acórdão recorrido não decidiu nem conheceu da questão de saber se as construções de chapa metálica designadas por “H” e “I” em questão não foram incluídas no monumento do Templo (X) de Cheoc Ka, resultando em que ocorreram dois tratamentos e conclusões completamente diferentes em relação às construções situadas na mesma área do terreno do domínio público.
+39. Dos pontos 85 e 87 dos factos provados, é pelo menos razoável concluir que as construções de chapa metálica designadas por “H” e “I” já existiam em 1975.
+40. De acordo com o ponto 4 dos factos provados, o Templo (X), em nome de Templo (X) (de Cheoc Ka), foi classificado como monumento no anexo II do D.L. n.º 83/92/M.
+41. Isto é, o Templo (X) (de Cheoc Ka) foi classificado como monumento em 1992 pelo então governo, e as construções de chapa metálica designadas por “H” e “I” também já existiam naquela altura.
+42. Em conjugação com o ponto 1 dos factos assentes, a área do terreno onde hoje se situam o Templo (X) e as construções anexas é de 1.387 metros quadrados, resultante das demarcações realizadas em 2004 durante a construção da actual Rua de Tin Chon.
+43. Assim, nesta área de terreno (1.387 metros quadrados), quando foi classificado em 1992, já foram incluídos o Templo (X) e as construções anexas, ou seja, as construções de chapa metálica designadas por “H” e “I”, então, as construções de chapa metálica “H” e “I” foram consideradas como partes integrantes do Templo (X) (de Cheoc Ka) pelo então governo e classificadas conjuntamente como monumento em 1992? Isto é muito importante para saber se o pedido dos recorrentes é procedente, mas, o acórdão recorrido não conheceu!
+44. Caso as construções de chapa metálica designadas por “H” e “I” sejam consideradas como partes integrantes do Templo (X) (de Cheoc Ka) e já sejam classificadas como monumento, nos termos do disposto nos art.º 115.º, n.º 1, art.º 117.º, n.º 2 e n.º 5, al. 1) da Lei n.º 11/2013, as construções de chapa metálica designadas por “H” e “I” devem ser consideradas como partes integrantes do bem imóvel classificado.
+45. Nos termos do disposto no art.º 37.º da Lei n.º 11/2013, os bens imóveis classificados ou em vias de classificação são insusceptíveis de aquisição por usucapião.
+46. Portanto, sob este pressuposto, põe-se em causa que a recorrida ainda possa alegar a posse das construções de chapa metálica designadas por “H” e “I”.
+47. Além disso, caso as construções de chapa metálica designadas por “H” e “I” sejam consideradas como partes do Templo (X) (de Cheoc Ka) e classificadas conjuntamente como monumento, as construções de chapa metálica designadas por “H” e “I” e o próprio Templo (X) devem ser considerados como um todo jurídico.
+48. Nestes termos, o Templo (X), como um todo jurídico, não pode ser alegado por diferentes indivíduos para ter a posse de diferentes partes constitutivas.
+49. Analisando a presente causa, o tribunal a quo não conheceu da questão sobre a caracterização jurídica das construções de chapa metálica designadas por “H” e “I”.
+50. Enquanto não foi resolvida esta questão que deve ser tratada, foi julgado e declarado que os recorridos têm posse das construções de chapa metálica desde 6 de Outubro de 2008, o que estão violados os art.º 115.º, n.º 1, art.º 117.º, n.º 2 e art.º 5, al. 1) e art.º 37.º da Lei n.º 11/2013.
+51. Portanto, devido aos vícios da omissão de pronúncia do acórdão recorrido e da insuficiência para a decisão da matéria de facto, ocorreu a decisão errada, pelo que deve ser revogada a decisão do tribunal a quo sobre as construções de chapa metálica designadas por “H” e “I” e, serão remetidos os presentes autos ao tribunal a quo para conhecer.
+52. Caso siga a lógica do acórdão recorrido, no mesmo terreno do domínio público, existem várias construções chamadas (em denominação), respectivamente, por “Templo” e por “construções de chapa metálica designadas por “H” e “I””, mas, o acórdão recorrido proferiu dois resultados diferentes relativamente às construções de denominação diferente existentes no mesmo terreno.
+53.  Pela razão de que uma construção é valiosa (o Templo é classificado como monumento) e as outras duas construções (construções de chapa metálica) não são valiosas. Então, é essencialmente importante a questão de saber se “H” e “I” foram classificadas como monumento.
+54. o Tribunal a quo deve conhecer da questão de saber se as duas construções de chapa metálica designadas por “H” e “I” já foram classificadas como monumento conjuntamente em nome do Templo  (X) (de Cheoc Ka) em 1992.
+55. Mesmo que não houvesse julgamento sobre se as duas construções de chapa metálica designadas por “H” e “I” em questão foram conjuntamente classificadas como monumentos em nome de Templo (X) (de Cheoc Ka) já em 1992, deveria ainda ser explicado por que existem dois julgamentos, posições lógicas completamente diferentes e o diferente enquadramento jurídico relativamente às construções (valores diferentes) existentes no mesmo terreno.
+56. Obviamente, o acórdão recorrido enferma de erros no reconhecimento de factos e na lógica, e padece do vício da insuficiência para a decisão da matéria de facto, pelo que a decisão é nula e o acórdão recorrido deve ser revogado.
+57. O acórdão recorrido qualificou os recorrentes de “sacristão”, e entendeu erradamente a diferença entre “titular” e “sacristão”.
+58. Através dos factos assentes, nomeadamente dos pontos 13, 15 a 34, 37 a 49, 55 a 60, 63 a 70 e 83 a 84 dos factos provados, são suficientes para comprovar que o pai dos recorrentes (ou seja, o Autor no início da causa) e o avô administraram o Templo (X) duranta muitos anos, e não há prova nos autos que comprove que os recorrentes são apenas um pessoal de “sacristão”.
+59. Pelo contrário, um grande número de factos assentes comprovou que os recorrentes passaram a administrar efectivamente o Templo em questão desde a geração do seu avô, podendo até dizer que dele efectivamente tomaram posse desde a geração do seu avô.
+60. Os recorrentes não são apenas titulares do Templo, mas também titulares do cargo de “sacristão”, e não são apenas uma pessoa de “sacristão”.
+61. O obrigado previsto na lei refere-se aos proprietários, detentores, possuidores e demais titulares de direitos reais, e não ao pessoal de “sacristão”. Não cabem ao “sacristão” quaisquer obrigações legais, pela razão de que o mesmo é apenas um administrador.
+62. É claro que, os proprietários, detentores, possuidores e demais titulares de direitos reais podem contratar administrador para gerir o templo (vulgarmente conhecido por “sacristão”).
+63. Os recorrentes em causa não são apenas titulares do Templo, mas também titulares do cargo de “sacristão”.
+64. Através de uma série das tarefes concretas de “sacristão”, os recorrentes manifestam que os mesmos têm vindo a administrar efectivamente o Templo há muitos anos, desde a geração do avô.
+65. No entanto, o acórdão recorrido concluiu que os recorrentes são apenas de “sacristão”, o que obviamente não tem fundamento de factos.
+66. Mais, nos termos do disposto no Código Civil, a aquisição da posse pode ser feita por sucessão. Em que fundamento de facto ou de direito os recorrentes se basearam para herdar a identidade de administrador do seu pai como “sacristão”?
+67. Através dos factos assentes, os recorrentes adquiriram por sucessão o poder de administração efectivo do Templo dos seus avô e pai, mas, o acórdão recorrido concluiu que os recorrentes adquiriram por sucessão o cargo de “sacristão” dos seus avô e pai.
+68. Assim, através de vários factos assentes, o tribunal a quo proferiu uma decisão contrária aos factos e, considerou que os recorrentes não tinham qualquer estado jurídico relativamente ao Templo (X), o que viola as disposições legais da Lei n.º 11/2013.
+69. Pelo exposto, uma vez que o acórdão recorrido violou o art.º 36.º da Lei n.º 11/2013, pede-se ao Tribunal que se digne revogar tal acórdão ou, conforme os factos constantes dos autos, julgar que os recorrentes são titulares legais do Templo (X).
+Pelo exposto, o acórdão recorrido padece do vício de nulidade e viola as disposições legais acima referidas, pelo que se requer a V. Exa. que se digne julgar procedente o recurso e anular o acórdão recorrido ou reenviar para novo julgamento.
+Contra-alegando veio a Região Administrativa Especial de Macau apresentar as seguintes conclusões:
+1. Nos termos do disposto no art.º 571.º, n.º 1, al. d) do CPC, quando o juiz deixe de pronunciar-se sobre questões que devesse apreciar ou conheça de questões de que não podia tomar conhecimento, é nula a sentença.
+2. De acordo com as disposições do direito civil, os autores devem invocar os factos para comprovar os seus direitos.
+3. Depois de ouvir as testemunhas dos autores e réus, analisar as provas documentais dos autos e realizar uma inspecção in loco, o Tribunal a quo realizou o reconhecimento dos quesitos.
+4. Os autores não apresentaram reclamação contra a leitura do julgamento dos factos.
+5. O Templo (X) é oficialmente classificado como edifício de interesse arquitectónico.
+6. O Templo (X) foi construído no terreno do governo, e as suas construções anexas e o terreno são considerados como bem do domínio público de acordo com a Lei Básica.
+7. Os autores também sabem que o bem do domínio público não pode ser adquirido por usucapião.
+8. No entanto, após a audiência de julgamento, foi apenas dado como provado que “(F) e o seu pai foram “sacristão (廟祝)” profissional que exerciam funções de cuidar e vigilância do Templo e que sobreviviam à custa das actividades comerciais/profissionais e desenvolvidas no Templo em causa”.
+9. Não foi possível provar que (G) e (F) tinham adquirido o título do poder de administração do terreno em questão.
+10. Na esteira dos seguintes preciosos ensinamentos doutrinários do saudoso PROFESSOR JOSÉ ALBERTO DOS REIS: Quando as partes põem ao tribunal determinada questão, socorrem-se, a cada passo, de várias razões ou fundamentos para fazer valer o seu ponto de vista; o que importa é que o tribunal decida a questão posta; não lhe incumbe apreciar todos os fundamentos ou razões em que elas se apoiam para sustentar a sua pretensão.
+11. Nestes termos, segundo os factos provados, o Tribunal a quo julgou improcedente o segundo pedido dos autores, ou seja, é apropriada rejeitar a alegação de que os autores exercem o poder de administração do Templo (X) e respectivas construções anexas e terreno em que os mesmos se situam, desde 13 de Outubro de 1980, e o seu pai exercia a mesma actividade no início de 22 de Fevereiro de 1946.
+12. Além disso, os autores alegam que têm o poder de administração do Templo (X), das respectivas construções anexas e do terreno, pela razão de que o exercício do poder de administração por parte dos autores foi direcionado para RAEM, e feito para o interesse da RAEM.
+13. Os autores alegam que o seu poder de administração (direito obrigacional) se reporta ao verdadeiro “proprietário” do Templo (X) e do terreno, e não ao “Templo (X) e ao terreno” (direito real).
+14. Mais, in casu, o Tribunal a quo não aplicou o regime de gestão de negócios previsto na lei civil, conduzindo a erro na lógica da sentença.
+15. Não se conforma com os fundamentos alegados pelos autores.
+16. De acordo com os factos dados como provados na audiência, deve-se salientar que (G) (o pai do autor) foi encarregado pela Associação ** para administrar o Templo (X) e as respectivas construções anexas e terreno desde 1962, e sobrevivia à custa das actividades comerciais e religiosas.
+17. Até à morte de (G) em 1980, os autores exercem a gestão do Templo (X).
+18. Tanto (G) como os autores deviam também pagar uma quantia de $150 à Associação **, equivalente a título de aluguel anual.
+19. Por isso, os autores alegam que (G) (o pai do autor no início da causa) e o seu avô administraram efectivamente o Templo (X) por muitos anos, e que a família dos recorrentes começou a administrar o Templo (X) desde pelo menos 1962, e tem transmitido a gestão relevante à geração seguinte, até ao presente momento em que os recorrentes exercem a gestão do Templo (X). Estas alegações são improcedentes.
+20. Conforme os factos apresentados pelos autores, o Tribunal a quo deu como provado que os autores não tinham adquirido a gestão do Templo (X), das respectivas construções anexas e do terreno.
+21. (G) e os autores foram autorizados pela Associação ** para administrar o Templo (X), as respectivas construções anexas e o terreno.
+22. Como pode uma gestão “com causa” mudar para uma gestão “sem causa”?
+23. In casu, o Tribunal a quo não aplicou o regime da gestão de negócios previsto no art.º 458.º do Código Civil e julgou a improcedência dos pedidos dos autores, pela razão de que o Juízo estava limitado pelos factos alegados pelos autores.
+24. O facto é que, os autores carecem de factos para sustentar a sua alegação.
+25. Portanto, a presente causa não padece do vício da nulidade da sentença (art.º 571.º n.º 1, al. c) do CPC, ou seja, quando os fundamentos estejam em oposição com a decisão)
+26. Por outro lado, o Tribunal a quo considerou que os autores eram “sacristão” e não “titulares” do Templo. Face a tal, os autores consideram o que viola o art.º 36.º da Lei n.º 11/2013.
+27. Este artigo dispõe que os proprietários, detentores, possuidores e demais titulares de direitos reais sobre bens imóveis classificados ou em vias de classificação e de bens imóveis especificados nos termos das alíneas 3) a 5) do artigo 29.º devem comunicar de imediato ao IC as situações susceptíveis de conduzir à sua deterioração, destruição ou perda.
+28. Os autores têm vindo a receber um grande número de documentos enviados pelo Instituto Cultural e pela Direcção dos Serviços de Turismo e a prestar a cooperação com as actividades da RAEM. Pelo menos, os autores, na qualidade de titulares do Templo, são reconhecidos pela RAEM e, têm vindo a prestar a manutenção do Templo (X).
+29. Mas, consideramos que as actividades acima referidas foram realizadas pelos autores na qualidade de “sacristão (廟祝)”.
+30. O Tribunal a quo reconheceu que (F) e o seu pai foram “sacristão (廟祝)” profissional que exerciam funções de cuidar e vigilância do Templo e que sobreviviam à custa das actividades comerciais/profissionais e desenvolvidas no Templo em causa.
+31. De acordo com o reconhecimento acima referido, (G) e (F) são meros detentores previstos no art.º 1177.º, al. c) do Código Civil (este artigo dispõe que são havidos como detentores os representantes ou mandatários do possuidor e, de um modo geral, todos os que possuem em nome de outrem).
+32. Os autores, na qualidade de “sacristão”, receberam os ofícios enviados pelos diferentes departamentos, como Instituto Cultural e a Direcção dos Serviços de Turismo; e, prestaram a cooperação com a RAEM para realizar as actividades, o que é claro não conduzir a que os mesmos sejam considerados como titular ou possuidor legal do Templo.
+33. Do início ao fim, o animus de gestão do Templo (X) pelos autores não foi alterado, e os mesmos não são proprietário ou possuidor do Templo (X).
+34. Quando muito, os autores podem ser considerados como meros detentores.
+35. Nestes termos, o Tribunal a quo reconheceu os mesmos como “sacristão”, o que não viola o art.º 36.º da Lei n.º 11/2013.
+Foram colhidos os vistos.
+Cumpre, assim, apreciar e decidir.
+II. FUNDAMENTAÇÃO
+A. Do Recurso interlocutório
+É do seguinte teor o despacho recorrido:
+«Ampliação do pedido:
+O Autor vem requerer a ampliação do pedido nas réplicas apresentadas respectivamente a fls. 339 a 358 e 457 a 468 dos autos.
+Ambas a Ré e o Interveniente vêm responder no sentido de discordar ao requerimento de ampliação por intempestividade e falta do suporte legal.
+Os pedidos ampliandos incluem os seguintes:
+“…2)	Declarado e os RR condenados a reconhecer o A como legítimo possuidor do Templo, construções anexas e respectivo terreno, identificados nos autos, ainda que a posse em causa não seja considerada como boa para efeitos de usucapião, no que sucedeu ao seu pai, no exercício da mesma, após a morte deste, iniciada por este em 22 de Fevereiro de 1946;
+… … …
+4)	Declarados nulos, quer por vício de forma, quer por simples simulação, os contratos de alienação de duas construções anexos do Tempo e respectivo terreno, mencionados no Cap. II da Réplica de 16/10/2018.”
+(ver fls. 467 dos autos).
+Com efeito, na réplica apresentada a fls. 339 a 358 dos autos o Autor requer já a ampliação destes pedidos (ver art.º 149.º a 155.º daquele articulado) alegando o seguinte:
+“154º
+No entanto e porque a Reconvinte pediu que lhe fosse reconhecida a sua posse sobre as casas metálicas supra mencionadas e para a hipótese de não serem atendidos os argumentos supra expostos sobre a insusceptibilidade de haver posse sobre terrenos ou construções edificadas em terrenos do Estado, o que se afirma sem conceder, requer a ampliação do pedido formulado na p.i. por forma a incluir o reconhecimento da posse do A sobre o Templo, construções anexas e o respectivo terreno, ainda que a mesma não seja boa para efeitos de usucapião.
+155º
+Além disso, tendo na presente peça alegado factos que fundamentam a invalidade dos negócios aí referidos, quer por vício de forma, quer por simulação, requer sejam os mesmos declarados nulos com base nesses fundamentos.”
+(ver fls. 357 a 358 dos autos).
+Bem analisando os referidos dois pedidos ampliandos não se pode considerar que forem proveniente do desenvolvimento ou consequência dos pedidos primitivos formulados na p.i., sobretudo, em face do motivo justificativo da ampliação invocado naquele articulado.
+Anota-se que na p.i. o Autor defende a impossibilidade da aquisição por prescrição aquisitiva do terreno onde está implantado o Templo e as construções anexas em causa pela entrada em vigor da Lei Básica da RAEM (ver art.ºs 225.º a 240.º da p.i.). Além disto, na réplica apresentada a fls. 339 a 358 dos autos, o Autor deduz argumentos relativamente ao pedido reconvencional formulado pela Ré de lhe reconhecer como dona e legítima proprietária das duas casas de construção metálicas por as ter adquirida por usurcapião ou caso assim não entender, de reconhecer a sua posse das referidas casas de construção metálicas como possuidora desde 06/10/2008 (ver alíneas a) e b) dos pedidos formulados pela Ré a fls. 209 dos autos).
+Neste contexto, é difícil de concluir da alínea 2) do pedido ampliando é proveniente de desenvolvimento ou consequência dos pedidos primitivos formulados na p.i..
+Da alínea 4) do pedido ampliando se pode concluir facilmente é um verdadeiro novo pedido.
+Pelo que, é de indeferir o requerimento da ampliação do pedido do Autor.
+Custas do presente incidente ao cargo do Autor, com taxa de justiça fixada em 2UCs.».
+Na ausência de acordo das partes (artº 216º do CPC) quanto à alteração e ampliação do pedido dispõe o nº 2 do artº 217º do CPC o seguinte:
+«(…)
+2. O pedido pode também ser alterado ou ampliado na réplica; pode, além disso, o autor, em qualquer altura, reduzir o pedido e pode ampliá-lo até ao encerramento da discussão em primeira instância se a ampliação for o desenvolvimento ou a consequência do pedido primitivo.
+(…)».
+Como resulta da leitura do preceito são previstas duas situações, a saber a de alteração e a de ampliação do pedido.
+Quanto à alteração havendo réplica esta pode acontecer na réplica.
+Quanto à ampliação pode ser feita na réplica se a houver e pode além disso ser ampliado até ao encerramento da discussão em primeira instância se for o desenvolvimento ou a consequência do pedido primitivo.
+Sobre esta matéria ensina Viriato Lima em Manual de Direito Processual Civil, Acção Declarativa Comum, 3ª Edição, pág. 288:
+«Não havendo acordo das partes:
+- É livre a alteração do pedido e causa de pedir na réplica, se o processo a admitir, isto é, só no processo declarativo ordinário e se este, no caso concreto, admitir a réplica – artigo 217.º, n.ºs 1 e 2 (se o réu tiver deduzido excepção ou reconvenção e somente para o autor responder aquela e para se defender desta e, nas acções de simples apreciação negativa, se o réu alegar factos constitutivos e o autor impugnar estes factos e alegar factos impeditivos ou extintivos do direito invocado pelo réu – artigo 420.º, n.º 1);1
+Tem-se posto problema de saber se tem de existir alguma conexão entre a alteração do objecto da acção, no caso de falta de acordo das partes, e a matéria das excepções alegadas pelo réu ou com a reconvenção, uma vez que só nestes casos é admissível réplica (artigo 420.º).
+M. TEIXEIRA DE SOUSA2 defende a necessidade de conexão.
+Mas a maioria da doutrina entende – parece-nos que bem – que a lei apenas diz que sendo a réplica admissível, pode o autor alterar o objecto. “É isto e apenas isto que se retira da lei”3
+Concordando inteiramente com a Doutrina ali referida e não se podendo retirar da letra da lei outro entendimento que não seja a de que havendo réplica pode ser alterado o pedido sem qualquer condicionante, somos a entender que o despacho recorrido enferma de erro de julgamento quanto ao indeferimento dos novos pedidos introduzidos.
+Contudo, no que concerne ao provimento do recurso, face ao disposto no artº 628º do CPC, relegamos a decisão para momento posterior caso haja interesse no seu provimento.
+B. Do Recurso da Decisão Final
+a) Factos
+Na decisão sob recurso foi apurada a seguinte factualidade:
+- Da Matéria de Facto Assente:
+1. O terreno onde está implantado o Templo (X) e construções anexas tem hoje uma área de 1387 m2, resultante da delimitação ocorrida em 2004, por altura da construção do que é hoje a Rua Tin Chon (ver fls. 36 dos autos). (alínea A) dos factos assentes)
+2. Sendo que tem as seguintes confrontações:
+NE – Lar São Luís Gonzaga junto à Rua de Tin Chon e Templo (X) junto ao Caminho da Povoação de Cheok Ká;
+SE - Terreno junto à Rua de Tin Chon (n.ºs 10032 e 10232) e Templo (X) junto ao Caminho da Povoação de Cheok Ká;
+SW – Caminho da Povoação de Cheok Ká (n.º 10258) e Templo (X) junto ao Caminho da Povoação de Cheok Ká;
+NW – Rua de Tin Chon, Caminho da Povoação de Cheok Ká, Lar São Luís Gonzaga junto à Rua de Tin Chon e Templo (X) junto ao Caminho da Povoação de Cheok Ká (ver idem). (alínea B) dos factos assentes)
+3. O terreno encontra-se omisso na Conservatória do Registo Predial. (alínea C) dos factos assentes)
+4. O Templo (X) foi classificado oficialmente como monumento, cfr. Parte B do Anexo I do Decreto-Lei n.º 83/92/M, de 31 de Dezembro. (alínea D) dos factos assentes)
+- Da Base Instrutória: (no que à sua motivação concerne, vejam-se as fls. 993 a 1021v)
+5. O Templo (X) foi fundado e construído entre 1662 e 1723, em data que não é hoje possível precisar. (resposta ao quesito 1º da base instrutória)
+6. Consta de fls. 37 dos presentes autos uma planta elaborada pela Direcção dos Serviços de Cartografia e Cadastral em que estão assinaladas, com as letras “A” a “I”, as construções e barracas existentes no terreno identificado na al. A) dos Factos Assentes. (resposta ao quesito 3º da base instrutória)
+7. O edifício do Templo (assinalado com a letra “A” na planta supra referida) é constituído por dois pavilhões, com entradas próprias, situada um ao lado do outro, separados por uma parede e ligados entre si por um pátio interior e beneficiando ambos do mesmo telhado. (resposta ao quesito 4º da base instrutória)
+8. O pavilhão do lado direito, no sentido de quem está virado para as entradas do Templo, é dedicado ao deus Kuan Tai e, o do lado esquerdo, à deusa Tin Hau. (resposta ao quesito 5º da base instrutória)
+9. Anexo ao edifício do Templo existe uma pequena sala (assinalada com a letra “B”), então destinada à leitura do futuro, através de tabuinhas da sorte. (resposta ao quesito 6º da base instrutória)
+10. Contígua a esta sala, existe uma outra (assinalada com a letra “C” ). (resposta ao quesito 7º da base instrutória)
+11. Em frente do Templo (lado oeste) existe um logradouro, onde está implantado um pequeno santuário dedicado ao deus da Terra, destinado à queima de panchões e às danças tradicionais. (resposta ao quesito 8º da base instrutória)
+12. No lado leste do Templo, existe terreno onde estão edificadas pequenas construções destinadas à serventia do Templo. (resposta ao quesito 9º da base instrutória)
+13. O pai de (F) passou a administrar o templo e as construções anexas que, à altura, se destinavam à serventia do Templo, desde o ano de 1962. (resposta ao quesito 15º da base instrutória)
+14. Em data não concretamente apurada, o pai do (F) passou a viver com a mulher nas dependências do Templo. (resposta ao quesito 16º da base instrutória)
+15. Foi o pai do (F) quem, desde o ano de 1962, e sem qualquer interrupção até à sua morte, administrou o Templo, em todos os seus aspectos. (resposta ao quesito 17º da base instrutória)
+16. O pai do (F) procedia todos os dias à abertura das suas portas, pelas 7:00 horas da manhã, e ao seu encerramento, pelas 18:00 horas da tarde. (resposta ao quesito 18º da base instrutória)
+17. Conjuntamente com a sua mulher, procedia, diariamente, à limpeza do Templo e suas dependências e espaço circundante. (resposta ao quesito 19º da base instrutória)
+18. Acendia as velas e os incensos e garantia que os mesmos permanecessem acesos até ao encerramento. (resposta ao quesito 20º da base instrutória)
+19. Procedia à recepção dos crentes, individualmente ou em grupo, que iam ao Templo para orar e para a prática dos rituais religiosos. (resposta ao quesito 21º da base instrutória)
+20. Sempre que o solicitassem, vendia-lhes velas, círios, paus e espirais de incenso, estatuetas das divindades aí veneradas e papéis votivos para queimar. (resposta ao quesito 22º da base instrutória)
+21. Vigiava a queima de incensos e de papéis votivos, para que não houvesse risco de incêndio. (resposta ao quesito 23º da base instrutória)
+22. Dirigia e orientava todas as actividades religiosas que tinham lugar no Templo. (resposta ao quesito 24º da base instrutória)
+23. Organizava as cerimónias religiosas por altura das principais festividades, tais como as dos aniversários de Tin Hau, Wa To e de Tchau Chong, e do Ano Novo Lunar, etc. (resposta ao quesito 25º da base instrutória)
+24. Procedia à compra dos objectos necessários à prática dos ritos religiosos, bem como para venda aos crentes, tais como velas, pivetes, espirais de incenso, papéis votivos, tabuinhas da sorte, tecidos, etc. (resposta ao quesito 26º da base instrutória)
+25. Todos os dias apagava os incensos e velas. (resposta ao quesito 27º da base instrutória)
+26. Procedia à limpeza sistemática dos objectos que constituíam o recheio do Templo e que infra se identificam. (resposta ao quesito 28º da base instrutória)
+27. Efectuou obras de reparação, manutenção e melhoria do Templo e suas dependências. (resposta ao quesito 29º da base instrutória)
+28. As construções assinaladas com as letras “H” e “I” na planta de fls. 37 dos autos foram edificadas em ferro e chapa de zinco, tal como se mantêm ainda hoje. (resposta ao quesito 31º da base instrutória)
+29. Em 1979, (F), com 46 anos de idade, veio viver para Macau para ajudar o seu pai. (resposta ao quesito 33º da base instrutória)
+30. Passou a viver, tal como o seu pai, nas dependências do Templo. (resposta ao quesito 34º da base instrutória)
+31. E ajudava-o em todos os actos relativos à administração do mesmo. (resposta ao quesito 35º da base instrutória)
+32. Em 13 de Outubro de 1980, ocorreu o falecimento do pai de (F). (resposta ao quesito 36º da base instrutória)
+33. Passou a ser (F) a praticar todos os actos que anteriormente eram praticados pelo seu pai. (resposta ao quesito 37º da base instrutória)
+34. O que fazia, ininterruptamente, até ao seu falecimento, em 13 de Abril de 2019. (resposta ao quesito 38º da base instrutória)
+35. (F) passou a viver com a sua mulher na construção assinalada com a letra “B” (ver fls. 37 dos autos), estando a mulher dele ainda hoje vive nesta construção. (resposta ao quesito 39º da base instrutória)
+36. E a usar a construção identificada com a letra “C” (ver fls. 37 dos autos) como sua cozinha. (resposta ao quesito 40º da base instrutória)
+37. Passou a ser (F) quem procedeu à abertura das portas do Templo, pelas 8 horas da manhã, e as encerra cerca das 18:00 horas. (resposta ao quesito 41º da base instrutória)
+38. A efectuar, com a ajuda da sua mulher, a limpeza diária do Templo, suas dependências e espaço circundante. (resposta ao quesito 42º da base instrutória)
+39. A acender as velas e incensos e garantir que os mesmos permanecessem acesos até ao enceramento diário do Templo. (resposta ao quesito 43º da base instrutória)
+40. Foi (F) quem, diariamente, passou a acolher os crentes que visitam o Templo, individualmente ou em grupo, para orar e praticar os rituais religiosos. (resposta ao quesito 44º da base instrutória)
+41. A vender a estes, quando solicitado, velas, círios, paus e espirais de incenso, estatuetas das divindades aí veneradas e papéis votivos para queimar. (resposta ao quesito 45º da base instrutória)
+42. A vigiar a queima de incensos e de papéis votivos, para que não ocorra risco de incêndio. (resposta ao quesito 46º da base instrutória)
+43. Por causa de tais cuidados é que nunca se registou qualquer incêndio no referido Templo. (resposta ao quesito 47º da base instrutória)
+44. Antes do seu falecimento, foi (F) quem passou a dirigir e orientar as práticas do culto religioso que têm lugar no Templo. (resposta ao quesito 48º da base instrutória)
+45. A organizar as cerimónias religiosas, tais como as alusivas ao nascimento de Tin Hau, Wa To e de Tchau Chong, as do Ano Novo Lunar, etc. (resposta ao quesito 49º da base instrutória)
+46. A tratar das decorações e enfeites para essas cerimónias. (resposta ao quesito 50º da base instrutória)
+47. A organizar as danças de dragão, queima de panchões e leitura das tabuinhas de sorte. (resposta ao quesito 51º da base instrutória)
+48. (F) comprava os objectos necessários ao culto e à venda aos crentes que vinham ao Templo para orar e praticar actos rituais. (resposta ao quesito 52º da base instrutória)
+49. Tal como o seu pai, (F) fez obras de manutenção, conservação e beneficiação do edifício do Templo e das construções adjacentes, designadamente as referidas a fls. 59 a 65 dos autos, sempre que as considerava necessárias e convenientes. (resposta aos quesitos 53º e 54º da base instrutória)
+50. Foi edificada, em data não apurada, a construção assinalada com a letra “D”, junto da construção assinalada com a letra “C” na planta de fls. 37. (resposta ao quesito 55º da base instrutória)
+51. Foi edificada, em data não apurada, a construção assinalada com a letra “E” na planta de fls. 37. (resposta ao quesito 56º da base instrutória)
+52. Tal construção destinava-se, tal como ainda hoje, ao uso do Templo. (resposta ao quesito 57º da base instrutória)
+53. Foi construída uma pequena edificação assinalada com a letra “G” (ver fls. 37 dos autos), em ferro e chapa de zinco, destinada a sanitário, a ser utilizado pelos frequentadores do Templo. (resposta ao quesito 58º da base instrutória)
+54. Foi construída uma pequena edificação assinalada com a letra “F” (ver fls. 37 dos autos), em ferro e chapa de zinco, destinada a local de repouso. (resposta ao quesito 59º da base instrutória)
+55. (F), em data não apurada, procedeu à instalação do sistema eléctrico no Templo e em todas as construções que se encontravam à serventia do Templo. (resposta ao quesito 61º da base instrutória)
+56. Tendo sido (F) quem pagou a mesma. (resposta ao quesito 62º da base instrutória)
+57. Em 2008, (F) requereu o fornecimento de água, tendo assinado, em seu nome, o respectivo contrato com a SAAM. (resposta ao quesito 63º da base instrutória)
+58. (F) procedeu à instalação da rede de água, ligando uma parte das construções que se encontravam à serventia do Templo, no que despendeu uma quantia não concretamente apurada. (resposta ao quesito 64º da base instrutória)
+59. Em data não apurada mas necessariamente antes de 1998, (F) contratou a prestação de serviço telefónico, tendo celebrado, em seu nome, o respectivo contrato com a CTM. (resposta ao quesito 65º da base instrutória)
+60. Desde a sua respectiva instalação, a electricidade, serviço telefónico e água são fornecidos de forma ininterrupta até hoje, sendo (F) quem, antes da sua morte, procedia ao pagamento dos respectivos consumos. (resposta ao quesito 66º da base instrutória)
+61. Por volta de 2017, (F) arrendou a construção assinalada com a letra “I” a um terceiro, celebrando o respectivo contrato de arrendamento. (resposta ao quesito 67º da base instrutória)
+62. Cobrando a renda mensal de HKD6,000.00. (resposta ao quesito 68º da base instrutória)
+63. (F) fazia a manutenção do equipamento contra incêndios do Templo. (resposta ao quesito 69º da base instrutória)
+64. Tendo participado, aliás, em acções de sensibilização, divulgação e de formação organizadas pelo Instituto Cultural, tendo principalmente em conta os preparativos relativos às festividades mais importantes, tal como o Ano Novo Lunar. (resposta ao quesito 69-Aº da base instrutória)
+65. Antes do seu falecimento, foi (F) quem procedia à permanente limpeza, manutenção e beneficiação de acervo de bens que constitui o recheio do Templo. (resposta ao quesito 70º da base instrutória)
+66. De entre esses bens destacam-se os seguintes:
+1) Dois altares de madeira, com 180 cm de altura e 70 cm de largura, instalados, um do lado direito e outro do lado esquerdo do Templo (fls. 98 dos autos, fotografias 1 e 2);
+2) Altar de madeira vermelha, de 100 cm de altura, 110 cm de largura e 170 cm de comprimento, dedicado à veneração do deus Kuan Tai (fls. 98 dos autos, fotografia 3);
+3) Altar de madeira, de 100 cm de altura e 175 cm de comprimento e 150 de largura, dedicado à deusa Tin Hau (fls. 99 dos autos, fotografia 1);
+4) Retábulo de madeira, com trabalho em baixo-relevo, alusivo às divindades da fortuna, felicidade e longevidade, colocado por cima de entrada do pavilhão do deus Kuan Tai (fls. 99 dos autos, fotografia 2);
+5) Retábulo de madeira esculpida, alusivo a divindades (fls. 100 dos autos, fotografia 1);
+6) Retábulo de madeira, com caracteres chineses e trabalho em baixo-relevo, alusivo a divindades, com 110 cm de altura e 110 de largura (fls. 100 dos autos, fotografia 2);
+7) Retábulo em madeira, com 50 cm de altura e 180 cm de comprimento, representando 1 pérola e 2 dragões (fls. 100 dos autos, fotografia 3);
+8) Três estatuetas, com 30 cm, 30 cm e 35 cm de altura, e 15 cm, 15 cm e 20 cm de largura, alusivas às divindades da fortuna, da riqueza e da porta (fls. 98 dos autos, fotografias 1 e 2);
+9) Estatueta em cerâmica do deus Kuan Tai, estatueta principal do pavilhão da referida divindade (fls. 101 dos autos, fotografia 1);
+10) Estatueta em cerâmica do deus Kuan Tai, de 80 cm de altura e 40 cm de largura (fls. 101 dos autos, fotografia 2);
+11) Estatueta em cerâmica do bonzo Tchai Kong, de 50 cm de altura e 30 cm de largura (fls. 101 dos autos, fotografia 3);
+12) Estatueta em madeira do deus Kuan Tai, de 60 cm de altura e 30 cm de largura (fls. 102 dos autos, fotografia 1);
+13) Estatueta em madeira do general Kuan Peng (fls. 102 dos autos, fotografia 2);
+14) Estatueta, em madeira, do general Zhao Chong (fls. 102 dos autos, fotografia 3);
+15) Estatueta, em madeira, do médico Hua Tó, de 30 cm de altura e 20 cm de largura (fls. 103 dos autos, fotografia 1);
+16) Estatueta, em madeira, Kuan Tai, de 40 cm de altura e 20 cm de largura (fls. 103 dos autos, fotografia 2);
+17) Estatueta, em madeira e folha de ouro, de buda, de 28 cm de altura e 15 cm de largura (fls. 103 dos autos, fotografia 3);
+18) Estatueta, em madeira, da divindade tauista Tai Song, de 38 cm de altura e 20 cm de largura (fls. 104 dos autos, fotografia 1);
+19) Estatueta, em cerâmica, da deusa Tin Hau, de 38 cm de altura e 20 cm de largura (fls. 104 dos autos, fotografia 2);
+20) Quadro a tinta-da-china da divindade budista guardião do inferno (fls. 105 dos autos, fotografia 1);
+21) Duas esculturas de animais da mitologia chinesa (Kei Lon), em mármore, com 38 cm de altura e 50 cm de largura (fls. 105 dos autos, fotografia 2);
+22) Uma tartaruga da fortuna, em cobre, de 30 cm de altura e 48 cm de comprimento (fls. 105 dos autos, fotografia 3);
+23) Conjunto de quatro vasos para flores e suporte para roupas de culto, em cobre, com cerca de 70 cm de altura (fls. 106 dos autos, fotografia 1);
+24) Conjunto de quatro vasos para flores e suporte para roupas de culto, em cobre, com cerca de 50 cm de altura (fls. 106 dos autos, fotografia 2);
+25) Conjunto de quatro vasos para flores e suporte para roupas de culto, em cobre, com cerca de 40 cm de altura (fls. 106 dos autos, fotografia 3);
+26) Incensário, em cobre, de 3 pernas, com as dimensões de 110 cm de altura e 60 cm de diâmetro (fls. 107 dos autos, fotografias 1 e 2);
+27) Três incensários ou vasos para incenso, dois em ferro fundido e um em cobre, com dimensões, respectivamente, de 30 cm, 26 cm e 20 cm de altura e 40 cm, 30 cm e 30 cm de diâmetro (fls. 108 dos autos, fotografias 1, 2 e 3);
+28) Dois incensários, em cobre, de 30 cm de altura e 40 cm de diâmetro (fls. 109 dos autos, fotografia 1);
+29) Incensário, em cobre, de 46 cm de altura e 60 cm de diâmetro (fls. 109 dos autos, fotografia 2);
+30) Incensário, em cobre, de 30 cm de altura e 20 cm de diâmetro (fls. 110 dos autos, fotografia 1);
+31) Incensário, em cobre, de 20 cm de altura e 20 cm de diâmetro (fls. 110 dos autos, fotografia 2);
+32) Par de painéis verticais, em madeira, com 183 cm de altura e 33 cm de largura, com referência às virtudes do deus Kuan Tai (fls. 111 dos autos, fotografia 1);
+33) Par de painéis verticais de madeira, com 182 cm de altura e 33 cm de largura, com inscrição alusiva às virtudes da deusa Tin Hau (fls. 111 dos autos, fotografia 2 e 3);
+34) Par de quadros com versos em caracteres chineses e pintura chinesa, com 148 cm de altura e 35 cm de largura cada (fls. 112 dos autos, fotografia 1);
+35) Par de quadros com verso em caracteres chineses e pintura chinesa, com 148 cm de altura e 35 de largura (fls. 112 dos autos, fotografia 2);
+36) Par de painéis verticais semicirculares, em madeira, com 175 cm de altura e 30 cm de largura, com inscrições alusivas à deusa Tin Hau (fls. 113 dos autos, fotografias 1 e 2);
+37) Par de painéis verticais semicirculares, em madeira, com 195 cm de altura e 33 cm de largura, com inscrições alusivas ao deus Kuan Tai (fls. 114 dos autos, fotografia 1);
+38) Dois painéis verticais, de madeira, ambos com 223 cm de altura e 28 cm de largura, com inscrições evocativas do deus Kuan Tai (fls. 114 dos autos, fotografias 2 e 3);
+39) Par de painéis verticais com dístico alusivo ao deus Kuan Tai (fls. 115 dos autos, fotografias 1 e 2);
+40) Par de quadros rectangulares verticais, em madeira trabalhada, de 180 cm de altura e 42 cm de largura, com dizeres alusivos ao deus Kuan Tai, tendo sido um deles doado por (J) e (K), tal como resulta de registo dele constante (fls. 116 dos autos, fotografias 1 e 2);
+41) Par de painéis verticais, em madeira, com 220 cm de altura e 28 cm de largura, com inscrições chinesas alusivas à deusa Tin Hau (fls. 117 dos autos, fotografias 1 e 2);
+42) Painel em pedra, de 200 cm de altura e 90 cm de largura, com o registo dos nomes das pessoas que fizeram doações ao Templo (fls. 118 dos autos, fotografia 1);
+43) Painel horizontal de madeira, de 50 cm de altura e 110 cm de largura, aludindo à virtude da lealdade do deus Kuan Tai (fls. 118 dos autos, fotografia 2);
+44) Painel horizontal de madeira, de 50 cm de altura e 120 cm de largura, com referência às virtudes de lealdade e sabedoria do deus Kuan Tai (fls. 119 dos autos, fotografia 1);
+45) Painel horizontal de madeira, de 38 cm de altura e 90 cm de largura, com referência às virtudes de lealdade e sabedoria do deus Kuan Tai (fls. 119 dos autos, fotografia 2);
+46) Painel horizontal de madeira, de 43 cm de altura e 110 cm comprimento, pedindo protecção e de felicidade, oferta de (L), tal como resulta do mesmo (fls. 119 dos autos, fotografia 3);
+47) Painel horizontal de madeira, de 60 cm de altura e 130 cm de largura, com caracteres chineses alusivos à virtude da lealdade do deus Kuan Tai (fls. 120 dos autos, fotografia 1);
+48) Painel horizontal de madeira, de 45 cm de altura e 110 cm de comprimento, com caracteres chineses pedindo segurança à deusa Tin Hau (fls. 120 dos autos, fotografia 2);
+49) Painel horizontal de madeira, de 48 cm de altura e 110 cm de comprimento, com caracteres chineses rogando bênçãos à deusa Tin Hau, doação de 16 crentes, tal como resulta do mesmo (fls. 121 dos autos, fotografia 1);
+50) Painel horizontal em madeira, de 50 cm de altura e 150 cm de comprimento, com caracteres chineses agradecendo ao céu os dons da paz (fls. 121 dos autos, fotografia 2);
+51) Painel horizontal em madeira, de 50 cm de altura e 110 cm de comprimento, com caracteres chineses alusivos às virtudes da deusa Tin Hau, evidenciando os efeitos do fumo (fls. 122 dos autos, fotografia 1);
+52) Quatro espadas ou gládios do deus Kuan Tai, em cobre e ferro, de 40 cm, 40 cm, 60 cm e 36 cm de lâmina (fls. 114 dos autos, fotografia 1);
+53) Vaso de flores de porcelana vitrificada, de 40 cm de altura e 10 cm de diâmetro, para decoração de altar (fls. 122 dos autos, fotografia 2);
+54) Doze taças de vinho, em cobre, de diferentes tamanhos, para culto do deus Kuan Tai (fls. 123 dos autos, fotografia 1);
+55) Vinte e seis placas, umas de madeira, outras de ferro, para impressão de papel com os significados dos resultados das tabuinhas de sorte (fls. 123 dos autos, fotografia 2);
+56) Campainha, de 8 cm de altura e 10 cm de largura, usada no culto religioso para manter afastados os espíritos maus (fls. 124 dos autos, fotografia 1);
+57) Peixe de madeira, 12 cm de altura e 12 cm de largura, usado para manter o ritmo das orações (fls. 124 dos autos, fotografia 1);
+58) Campainha, de ferro, de 60 cm de altura e 60 cm de largura (fls. 124 dos autos, fotografia 2);
+59) Sete recipientes para tabuinhas da sorte, de tamanhos vários (fls. 122 dos autos, fotografia 2);
+60) Lamparina de cerâmica, com 30 cm de altura e 15 cm de largura (fls. 125 dos autos, fotografia 1);
+61) Incinerador de tijolo, com 250 cm de altura e 120 cm de largura, para queima de papéis votivos e imitações em papel (fls. 125 dos autos, fotografia 2);
+62) Incinerador de ferro fundido, de 120 cm de altura e de 60 cm de largura, para queima de papel votivo (fls. 126 dos autos, fotografia 1);
+63) Santuário, em cimento, ao deus da Terra, com 160 cm de altura, 160 de largura e 200 cm de comprimento (fls. 126 dos autos, fotografia 2). (resposta ao quesito 71º da base instrutória)
+67. Foi o pai de (F), e depois da sua morte, o próprio (F) quem sempre e de forma ininterrupta, procedeu, com a ajuda da sua mulher, à limpeza e manutenção de tais objectos. (resposta ao quesito 72º da base instrutória)
+68. Limpeza e manutenção que são e sempre foram regulares e constantes, em virtude da necessidade de preservar tais bens do fumo intenso e permanente, resultante da queima das velas, incenso e papéis votivos. (resposta ao quesito 73º da base instrutória)
+69. Tendo inclusive adquirido objectos para substituir os deteriorados e insusceptíveis de reparação, tais como por exemplo, mesas, quadros de flores, tecidos de decoração, roupas das estatuetas. (resposta ao quesito 74º da base instrutória)
+70. Foi (F) quem mandou, em data não apurada, construir o incinerador referido na resposta dada à alínea 61) do Quesito 71º da Base Instrutória, tendo despendido uma quantia não concretamente apurada. (resposta ao quesito 77º da base instrutória)
+71. Foi ainda (F) quem, em 2016, encomendou, em Taiwan, o incensário identificado na resposta dada à alínea 26) do Quesito 71º da Base Instrutória. (resposta ao quesito 78º da base instrutória)
+72. Tendo despendido com a sua aquisição uma quantia não concretamente apurada. (resposta ao quesito 79º da base instrutória)
+73. Foi (F) quem, depois do falecimento do seu pai, se responsabilizava, de forma ininterrupta e permanente, pela segurança de tais objectos, exercendo apertada vigilância para que os mesmos não fossem danificados ou furtados. (resposta ao quesito 80º da base instrutória)
+74. Tendo procedido à sua preservação. (resposta ao quesito 81º da base instrutória)
+75. Foi (F) quem sempre decidiu sobre que objectos seriam usados em cada momento no Templo para o culto das divindades aí veneradas. (resposta ao quesito 82º da base instrutória)
+76. Da actividade desenvolvida por (F), tal como sucedia com o seu pai, advinha-lhe receitas financeiras, que o mesmo fazia suas as doações que os crentes faziam ao Templo. (resposta ao quesito 84º da base instrutória)
+77. (F) cobrava remuneração pelos serviços religiosos que prestava a solicitação dos crentes. (resposta ao quesito 85º da base instrutória)
+78. (F) recebia o preço resultante da venda dos artigos pretendidos pelos crentes para a prática dos rituais. (resposta ao quesito 86º da base instrutória)
+79. Tal dinheiro revertia para (F), tal como sucedia com o seu pai, dispondo do mesmo como lhe aprouver, não tendo de prestar contas a quem quer que seja. (resposta ao quesito 87º da base instrutória)
+80. Sendo que é com tal dinheiro que (F) fazia face às despesas que tinha com o Templo. (resposta ao quesito 88º da base instrutória)
+81. Tal como também fazia o seu pai. (resposta ao quesito 89º da base instrutória)
+82. Além de que foi também com tal dinheiro que (F) suportou a sua vida pessoal e familiar. (resposta ao quesito 90º da base instrutória)
+83. Os actos de administração do Templo, acima referidos, foram praticados à vista de todos, de forma pacífica e ininterrupta. (resposta ao quesito 96º da base instrutória)
+84. (F) e o seu pai foram “廟祝” profissional que exerciam funções de cuidar e vigilância do Templo e que sobreviviam à custa das actividades comerciais/profissionais e desenvolvidas no Templo em causa. (resposta ao quesito 100º da base instrutória)
+85. As duas construções assinaladas e identificadas por letras “H” e “I” a fls. 37 dos autos foram constituídas pela (H), em data não concretamente apurada, e estas eram, sem interrupção, exclusivamente administradas e usadas pela (H) como sua morada e para armazenamento dos instrumentos e das cultivas que a mesma aí desenvolvia. (resposta ao quesito 101º da base instrutória)
+86. Tendo a senhora (H) requerido a montagem do sistema eléctrico e o fornecimento da energia eléctrica junto da CEM, do sistema de abastecimento de agua, pagando as respectivas mensalidades pelo consumo. (resposta ao quesito 102º da base instrutória)
+87. Dada a senhora (H) moradora nas supra identificadas casas de construção metálica na Ilha da Taipa, bem como com a profissão de (pequena) agricultora, a mesma aderiu as associações dos moradores da Taipa denominadas “澳門**會” e “澳門**社” respectivamente em 04/02/1975 e 28/06/1975. (resposta ao quesito 103º da base instrutória)
+88. Foi a senhora (H) quem, de forma reiterada, administrou e usou as duas casas de construção metálica. (resposta ao quesito 104º da base instrutória)
+89. Não tendo nunca ninguém manifestar a discordância e/ou deduzir qualquer oposição contra a ocupação da senhora (H) relativamente às duas construções metálicas em questão. (resposta ao quesito 105º da base instrutória)
+90. A situação supra referida mantém, sem qualquer interrupção, até certa data não concretamente apurada, data em que dada a avançada idade da senhora (H), as ditas casas de construção metálica já não eram adequadas para sua morada, nem tão pouco para continuar a sua actividade de agricultura. (resposta ao quesito 106º da base instrutória)
+91. Em 08/08/2006, por contrato celebrado no escritório do advogado Dr. X, de fls. 254 e verso dos autos, a senhora (H) vendeu as duas construções metálicas ora em causa, ao senhor (I), pelo preço de HKD2,600,000.00, conforme melhor especificados no referido contrato de transmissão. (resposta ao quesito 107º da base instrutória)
+92. Tendo efectuado a tradição das duas construções metálicas e as respectivas chaves, bem como a outorga de uma procuração a favor do comprador, senhor (I). (resposta ao quesito 108º da base instrutória)
+93. Sendo o senhor (I) comerciante, as duas casas de construção metálica por ele adquiridas foram destinadas a lar dos seus trabalhadores não residente e ao arzenamento de instrumentos e objectos. (resposta ao quesito 109º da base instrutória)
+94. A supra referida situação permaneceu, sem qualquer interrupção até 2008, cuja data exacta se desconhece, (I) vendeu as duas casas de construção metálica, à 3ª Ré (D). (resposta ao quesito 110º da base instrutória)
+95. As partes acordaram em 06/10/2008 que poderá a Ré pagar o preço da compra e venda no montante de HKD6,000,000.00 em prestações sucessivas. (resposta ao quesito 111º da base instrutória)
+96. Tendo acordado ainda que a compradora podia ficar já com as chaves das ditas casas de construção metálica, podendo desde já, nessa mesma data de 06/10/2008, começar a usar as casas em causa. (resposta ao quesito 112º da base instrutória)
+97. Ficando o respectivo contrato de transmissão do direito por outorgar quando a Ré pagar a totalidade do preço de HKD6,000,000.00. (resposta ao quesito 113º da base instrutória)
+98. Em 16/10/2012, as partes celebraram o referido contrato de transmissão do direito no escritório do Dr. Ivan Fong, de fls. 257 a 259 dos autos, por o preço de HKD6,000,000.00 já tinha sido totalmente liquidado pela Ré. (resposta ao quesito 114º da base instrutória)
+99. Tendo a R. pago, pela aquisição das duas referidas casas de construção metálica, os respectivos selos de imposto de transmissão no montante total de MOP163,325.00. (resposta ao quesito 115º da base instrutória)
+100. Posteriormente, os selos de imposto de transmissão das duas casas de construção metálica foram objecto de revisão pelo Serviços de Finanças, tendo a Ré efectivar o pagamento adicional a título de selos de imposto de transmissão no montante de MOP22,036,833.00. (resposta ao quesito 116º da base instrutória)
+101. Desde a celebração do acordo com o (I) em 06/10/2008, a 3ª Ré começou a usar as duas casas de construção metálica para servir de armazém, para além de outros usos. (resposta ao quesito 117º da base instrutória)
+102. Tendo armazenado os mais diversos objectos e produtos, tendo em conta o tipo de negócio que a Ré fazia em cada momento, nomeadamente, garrafões de água, plantas do ano novo chinês, vasos, instrumentos etc. (resposta ao quesito 118º da base instrutória)
+103. (H) era viúva e tinha mais de 4 filhos menores a seu cargo. (resposta ao quesito 119º da base instrutória)
+104. Foi (H) quem procedeu às respectivas obras, dando às duas construções a configuração e tamanho que as mesmas têm hoje. (resposta ao quesito 123º da base instrutória)
+105. Em data não concretamente apurada, (H) passou a viver mais tempo em Hong Kong. (resposta ao quesito 124º da base instrutória)
+106. A partir de 2008, (F) começou a ver pessoas, que não conhecia, a frequentar as duas construções em causa, acompanhadas, de vez em quando, pela filha de (H). (resposta ao quesito 128º da base instrutória)
+107. Em momento não concretamente apurado, (F) tomou conhecimento que alguém havia comprado as referidas construções e que as pretendia utilizar para armazenamento de instrumentos e produtos e para dormida dos seus trabalhadores não residentes. (resposta ao quesito 129º da base instrutória)
+b) Do Direito
+É do seguinte teor a decisão recorrida:
+«O 1º pedido formulado pelo Autor consiste em ser o mesmo declarado, e os Réus condenados a reconhecê-lo como dono e legítimo proprietário do acervo dos bens móveis que constituem o recheio do Templo (X), melhor descritos na douta petição inicial, por os ter adquirido por usucapião.
+Na sua contestação, o Ministério Público sustenta que, mesmo a provarem-se todos os factos articulados pelo Autor, o que não se concede, sempre o referido pedido terá de improceder, uma vez que, o Templo, cuja propriedade não é susceptível de ser adquirida por usucapião, não pode ser considerado como tal sem o acervo de todo o seu recheio, sendo os bens móveis que constituem acervo do recheio do Templo, nos termos do art. 5º n.º 2 da Lei 11/2013 “bens móveis classificados”, pois estamos em presença de “bens móveis de interesse cultural relevante ligados materialmente e com carácter de permanência a um bem imóvel classificado.”
+Estamos em crer que, face aos factos provados, sem necessidade de entrar na questão suscitada pelo Ministério Público na sua douta contestação, o pedido (com a exepção do objecto referido no Facto 71º pelas razões que passamos a expor infra) em questão estará votado ao insucesso.
+Feito o julgamento, ficou provado (cfr. Facto 84º) que “(F) e o seu pai foram “廟祝” profissional que exerciam funções de cuidar e vigilância do Templo e que sobreviviam à custa das actividades comerciais/profissionais e desenvolvidas no Templo em causa”, donde se infere que foi neste contexto que (F) e o seu pai – como meros detentores do Templo e dos afectos ao seu uso (art. 1177º al. c do Código Civil) – praticaram os actos de administração referidos na matéria de facto provada. No caso vertente, porém, não está provado nenhum facto a demonstrar a ocorrência de qualquer inversão do título da posse de modo a converter (F) (bem como seus sucessores) ou o seu pai de detentores em possuidores, não tendo, aliás, a matéria constante do quesito 95º sido comprovada, não resta outra hipótese senão a improcedência do 1º pedido formulado pelo Autor.
+Quanto ao objecto referido no Facto 70º, da fotografia a fls. 125 vê-se que o incinerador, não obstante ter sido montado no local ao serviço do Templo por forma duradoura, a sua construção e colocação no local não tem a virtualidade de alterar a substância do Templo, sendo certo que o incinerador está dotado de utilidade específica destinando-se a complementar e melhorar o Templo e podendo ser demolido ou reconstruído noutra área do Templo consoante a necessidade de quem o gera, com ou sem o qual o Templo continua a ter a mesma utilidade e subsistência. Por isso, o incinerador construído no local deve ser considerado como benfeitorias feitas ao Templo, o que, após a sua construção e ligação ao solo, não pode ser tratado como coisa autónoma (art. 193º n.º 1 do Código Civil), tendo em conta a sua ligação duradoura com o terreno e a impossibilidade da sua manutenção como tal após a sua separação do terreno. Uma vez que não há uma propriedade autónoma do incinerador, ficará improcedente o pedido do Autor mesmo referente a este objecto, sem prejuízo das eventuais reivindicações por parte do Autor por causa das benfeitorias nos termos permitidos pela Lei.
+Por fim, no que ao objecto referido no Facto 71º respeita, o objecto móvel, sem uma associação aparente e necessária com a história do Templo, foi adquirido por (F) em 2016, pelo que, nada obsta ao reconhecimento do Autor como seu proprietário.
+*
+Pede também o Autor que seja o mesmo declarado e os Réus condenados a reconhecê-lo como titular do poder de administração do Templo (X) e respectivas construções anexas e terreno em que os mesmos estão edificados, desde 13 de Outubro de 1980, no que sucedeu ao seu pai (G), no exercício da mesma actividade, iniciada por este em 22 de Fevereiro de 1946.
+Salvo o devido respeito e melhor opinião, deve o pedido do Autor improceder.
+O pedido do Autor consiste no seu reconhecimento como titular do poder de administração dum Templo constituído há séculos atrás, num terreno que hoje, conforme a Lei Básica da RAEM, faz parte do terreno público. O Autor, no entanto, não logrou comprovar que o seu pai, tal como alegou, tinham adquirido o Templo (vejam-se as respostas, entre outros, aos quesitos 11º a 12º). Ora, estando em discussão um Templo construído por outrem, num terreno público, sem que o Autor consiga comprovar a existência de qualquer título adquisitivo do Templo ou do direito justificativo da titularidade do poder que vem arrogar-se, não pode deixar de soçobrar o pedido em apreço, De facto, reconhecer alguém como “titular do poder de administração do Templo” é o mesmo considerar a pessoa como titular de certo direito reconhecido pela Lei ou adquirido por via de negócio jurídico. No caso vertente, não resulta dos factos provados os respectivos factos constitutivos para a demonstração de qualquer direito do Autor reconhecido legalmente pela Lei ou concedido a seu favor por via de qualquer negócio jurídico pelo qual lhe havia sido concedido o  poder de administração do Templo que vem reclamar, a situação é análoga à outra em que uma pessoa, apesar de estar a ocupar uma via pública ou uma empresa comercial de outrem, exerce materialmente poder de facto sobre esses bens, mas, sem qualquer factos demonstrativos do nascimento de qualquer direito, não pode ser reconhecida de titular de qualquer poder ou direito sobre os bens.
+*
+Analisamos agora os pedidos reconvencionais formulados pela Ré (D).
+Constata-se do Facto 85º que “as duas construções assinaladas e identificadas por letras “H” e “I” a fls. 37 dos autos foram constituídas pela (H), em data não concretamente apurada, e estas eram, sem interrupção, exclusivamente administradas e usadas pela (H) como sua morada e para armazenamento dos instrumentos e das cultivas que a mesma aí desenvolvia.”
+O terreno, omisso no registo, onde as construções “H” e “I” estão erguidas, sem ninguém conseguir invocar qualquer aquisição reconhecida nos termos do art. 7º da Lei Básica, não pode deixar de ser qualificado como terreno do Estado.
+Dos factos provados resulta que, a certa altura, por acto de (H), o terreno passou a unir-se com as construções feitas por esta, ocorrendo assim uma ligação material, definitiva e permanente entre o terreno e as construções as quais inovaram e alteraram a substância do terreno, passando o mesmo a ser um prédio com construções. Perante esta situação, cabe analisar que direitos é que (H) passou a ter com a edificação das construções.
+Sobre a figura de acessão, afirmou OLIVEIRA ASCENSÃO (Direito Civil, Reais, 5ª edi. revista e ampliada, p. 308 e 309) o seguinte:
+“IV - Concluímos pois que a acessão tem carácter potestativo. Por isso há um verdadeiro direito, ou faculdade, de acessão, que cabe ao titular beneficiário.
+Até ao exercício deste, as titularidades mantêm-se distintas. Cada sujeito pode exercer, tanto quanto as circunstâncias autorizem, o seu direito, e inclusivamente cedê-lo a outrem. A situação é anómala para a ordem jurídica portuguesa, nem para a acessão imobiliária, que de várias maneiras se afasta da regra rígida de que tudo o que está dentro dos limites verticais do prédio deve pertencer ao mesmo proprietário.
+Note-se inclusivamente que só assim é admissível a figura da acessão imobiliária. Se a aquisição fosse auto-mática, a acessão produzia-se sobre cada semente, sobre cada material incorporado no solo. Com a consequência de que nunca se poderia chegar a uma situação em que um sujeito fosse titular de uma obra, ou de uma sementeira, ou de uma plantação, mais valiosas que o terreno em que estão incorporadas. Coerentemente com esta visão, o Código Civil germânico desconhece a figura da acessão imobiliária. Mas a lei portuguesa segue orientação decididamente diversa.
+V - A acessão é uma causa de aquisição originária. O beneficiário recebe um novo direito totalmente independente das vicissitudes que possa ter sofrido o anterior direito, que se extingue.
+Escreveu o estudioso Professor, noutra obra sua, o seguinte (Cfr. Oliveira Ascensão, As Relações Jurídicas Reais, 1962, p. 141-141, apud. Ac. STJ, de 27/05/2008, proc. n.º 08B1276; Ac. RE, de 07/10/2009, proc. n.º 161/2000.E1):
+“Na base do instituto da acessão há um conflito de direitos reais, uma vez que enquanto a acessão não actua, subsistem duas propriedades (. . .).
+E o conflito toma claramente a fisionomia dum conflito entre direitos a partes da coisa. O direito do dono do solo, não havendo aquisição automática, passa a ficar limitado a parte; e o direito do construtor limita-se sempre ao edifício. Entre os dois direitos a partes da coisa o conflito é patente”
+A propósito da questão em análise, o STJ, no seu Acórdão de 10/01/2019, tirado no processo 4982/15.0T8GMR.G1.S1, aqui citado a título de direito comparado, analisou profundamente a questão, tendo dito:
+“Verificados os respetivos pressupostos e efetuado o pagamento devido, a acessão opera retroativamente à data da incorporação, sendo esta o momento jurídico da aquisição do direito de propriedade sobre a nova unidade económica formada pelo terreno e pela construção nele edificada, nos termos do art. 1317º, al. d), do C. Civil.
+A verdade, porém, é que esta norma, ao estabelecer que, no caso da acessão, o momento de aquisição do direito de propriedade é «o da verificação dos factos respectivos», suscitou controvérsia no seio da doutrina.
+Assim, enquanto que Pires de Lima e Antunes Varela[17], Augusto Penha Gonçalves[18] e Júlio Gomes[19], defendem que a acessão tem carácter automático e imperativo, ipso jure, pelo que o direito ao todo adquire-se  desde o momento da incorporação, a corrente maioritária, defendida por Oliveira Ascensão[20], Carvalho Fernandes[21], José Alberto Vieira[22], Rui Pinto Duarte[23], Menezes Cordeiro[24], Menezes Leitão[25], A. Santos Justo[26], A. Carvalho Martins[27], José Alberto González[28] e seguida de forma praticamente unânime pela nossa jurisprudência[29], tem entendido que na acessão não há uma aquisição automática, mas apenas um direito potestativo de adquirir, que o respetivo titular pode exercer, ou não, conforme lhe aprouver e daí a acessão  ter carácter facultativo, dependendo a aquisição do direito de propriedade do conjunto da manifestação de vontade nesse sentido por parte daquele a quem aproveita.
+Mas, para além destas duas correntes, existem também na doutrina portuguesa teses mistas.
+É o caso de Quirino Soares[30] que defende a natureza potestativa da acessão, nos casos previstos nos nºs 1 e 2 do citado art. 1340º, na medida em que nestas situações o legislador, tendo em conta o valor ou a natureza da incorporação, entendeu tutelar o interesse do construtor, fazendo depender a aquisição do direito de propriedade de manifestação de vontade do mesmo, com efeitos retroativos até ao momento da incorporação.
+Todavia, já quanto à situação prevista no nº 3 deste mesmo artigo, entende que a acessão tem caráter automático, valendo o princípio da superfícies solo cedit (a superfície cede ao solo).
+Por sua vez, Elsa Sequeira Santos[31], sustenta que o escopo principal do instituto da acessão não é atribuir imediatamente a titularidade do direito de propriedade, mas, antes, desfazer uma situação de contitularidade que é criada automaticamente.
+Entende, assim, que o que ocorre na acessão não é uma aquisição automática do direito de propriedade, mas a «constituição automática de uma situação de contitularidade» e que a possibilidade de desfazer esta situação deve ser concedida não só aos intervenientes mas a todos os interessados.
+Daí defender que «podemos considerar a aquisição por acessão, quando ocorra, não como um direito potestativo do adquirente, mas como uma consequência da aplicação da lei, aplicação essa que pode ser desencadeada por qualquer sujeito, mesmo sem a vontade, ou contra a vontade, do beneficiário», evitando-se, desta forma que, perante a inércia do beneficiário da acessão, a parte sacrificada fique presa a uma situação de incerteza, podendo «exigir judicialmente a atribuição da coisa ao beneficiário da acessão, com a sua consequente condenação no pagamento previsto na lei ».
+Quanto a nós, sufragamos a tese já consolidada na nossa jurisprudência de que a aquisição originária do direito de propriedade por acessão industrial imobiliária tem natureza potestativa, dependendo da manifestação de vontade de adquirir a coisa, por parte do beneficiário da acessão, por considerarmos ser a mais conforme com o nosso sistema legal, sendo a que melhor se conjuga com o princípio da autonomia privada, com as regras administrativas sobre a divisão dos prédios e com a necessidade de determinação dos valores relativos da obra e do prédio[32].
+De realçar, por isso, como consequência da natureza potestativa da acessão e enquanto o respetivo direito não for exercido, cada uma das coisas ( obra e terreno)  mantém  certa individualidade, designadamente para efeitos jurídicos, e os respetivos sujeitos conservam os seus direitos  e podem exercê-los, de harmonia  com as circunstâncias[33] .”
+Voltando ao caso em apreço, em termos gerais, afigura-se ser de afirmar que, uma vez edificadas as construções, (H) passou a ser titular do direito a uma parte do prédio todo, assistindo-lhe a faculdade, por exemplo, de ocupar, utilizar, e tirar proveitos económicos das construções, podendo até, tal como afirma OLIVEIRA ASCENSÃO, cedê-lo a outrem, muito embora, sem a possibilidade de aquisição de todo o prédio (ou seja, o terreno mais as construções) por via de usucapião do direito de propriedade do terreno onde se encontram as construções (salvo quando o terreno em questão se tratar do reconhecido como propriedade privada; veja-se, a propósito, o Ac. TUI, de 29/11/2019, no proc. n.º 36/2017), nem por via de acessão industrial, por razão da proibição proveniente do art. 9º da actual Lei n.º 10/2013 e do art. 8º da pretérita Lei n.º 6/80/M.
+De salientar que (H) nunca adquiriu a “propriedade” das construções, tendo em consideração, tal como o que nota, e bem, o Autor nas suas réplicas (com pertinência, veja-se também as doutras observações do TSI, referidas no seu Ac. do proc. n.º 783/2016, de 16/02/2017, em que se suscitou a mesma dúvida), a indissociabilidade entre uma edificação e o terreno da implantação sobre o qual não está estabelecido direito de domínio útil ou superfície, etc.
+Afigura-se dúvida não há que (H) tem direito quanto às construções, cuja dimensão e conteúdo, como já vimos, são condicionados e dependem de natureza de terreno. Ainda que a natureza do terreno em concreto importe a impossibilidade de aquisição do prédio por via de usucapião ou acessão industrial, no caso de a Administração pretender desocupar e recuperar o terreno, podia sempre (H), como construtora, demolir as construções e depois, ficar com os materiais de construção. Dessa possibilidade de (H) emana o direito de (H) quanto às construções.
+A situação de (H) pode também ser ilustrada com um exemplo, em que se misturou vinho de duas garrafas, de propriedade de titulares diferentes. Neste caso, face à impossibilidade física de cisão dos líquidos, cada um dos titulares originais têm faculdade de invocar a aquisição da propriedade do vinho novo, nos termos do art. 1252º do Código Civil. Contudo, enquanto a determinação sobre a propriedade do novo vinho ainda estiver pendente, cada um dos titulares originais conservam os respectivos direitos quanto ao novo vinho. E se a posse da garrafa do vinho novo vier a ser esbulhada por terceiro, parece que nada obsta a que cada um dos titulares originais possa, sozinho ou acompanhado do outro, lançar mão à tutela possessória, mesmo antes da determinação sobre a propriedade do vinho novo.
+Questão mais delicada consiste na de saber se o titular do direito de barraca (no caso vertente, as construções “H” e “I”) pode ou não pode invocar a “posse” de todo o prédio (ou seja, o terreno mais as construções) contra o Estado (questão que parece ainda não ter resposta certa na jurisprudência, mas que a resposta parece dever ser no sentido negativo, face ao art. 9º da Lei n.º 10/2013), que não interessa para o caso em apreço. Seja como for, e salvo melhor opinião, parece que a posse (perspectivada somente nas construções, ou, doutra forma, em todo o prédio) é sempre invocável pelo respectivo possuidor contra esbulhadores particulares, sob pena de os possuidores das barracas ou construções informais em terrenos pertencentes ao Estado, ainda que sejam de boa-fé, não poderem lançar mão à tutela possessória para reaver a posse das construções esbulhadas por roubadores manifestamente de má-fé e com violência.
+No caso em apreço, dos Factos 91º a 99º resulta que:
+“91.	Em 08/08/2006, por contrato celebrado no escritório do advogado Dr. X, de fls. 254 e verso dos autos, a senhora (H) vendeu as duas construções metálicas ora em causa, ao senhor (I), pelo preço de HKD2,600,000.00, conforme melhor especificados no referido contrato de transmissão.
+92.	Tendo efectuado a tradição das duas construções metálicas e as respectivas chaves, bem como a outorga de uma procuração a favor do comprador, senhor (I).
+93.	Sendo o senhor (I) comerciante, as duas casas de construção metálica por ele adquiridas foram destinadas a lar dos seus trabalhadores não residente e ao arzenamento de instrumentos e objectos.
+94.	A supra referida situação permaneceu, sem qualquer interrupção até 2008, cuja data exacta se desconhece, (I) vendeu as duas casas de construção metálica, à 3ª Ré (D).
+95.	As partes acordaram em 06/10/2008 que poderá a Ré pagar o preço da compra e venda no montante de HKD6,000,000.00 em prestações sucessivas.
+96.	Tendo acordado ainda que a compradora podia ficar já com as chaves das ditas casas de construção metálica, podendo desde já, nessa mesma data de 06/10/2008, começar a usar as casas em causa.
+97.	Ficando o respectivo contrato de transmissão do direito por outorgar quando a Ré pagar a totalidade do preço de HKD6,000,000.00.
+98.	Em 16/10/2012, as partes celebraram o referido contrato de transmissão do direito no escritório do Dr. Ivan Fong, de fls. 257 a 259 dos autos, por o preço de HKD6,000,000.00 já tinha sido totalmente liquidado pela Ré.
+99.	Tendo a R. pago, pela aquisição das duas referidas casas de construção metálica, os respectivos selos de imposto de transmissão no montante total de MOP163,325.00.”
+Salvo melhor opinião, pelas razões que se vem exposto, não obstante o contrato celebrado entre (H) e (I) e o celebrado entre (I) e a Ré, o objecto de transmissão nunca foi “a propriedade” das construções, que nunca existia, mas sim, os direitos que (H) passou a ter por causa das construções.
+Como já vimos, nada obsta que os “titulares” (in casu, (H), os seus sucessores, ou seja, (I) e a Ré) pedir a restituição das construções (ou até todo o prédio) esbulhadas por terceiros particulares por via possessória.
+Dos Factos 85º a 107º fica demonstrada a cadeia de posse desde (H) até a Ré (cfr. art. 1187º al. a) e b) do Código Civil). Os factos referentes à “posse” do Autor relativamente às construções “H” e “I” são parcos, ficando revelado, por via dos Factos 61º e 62º, somente que por volta de 2017 é que (F) arrendou a construção assinalada com a letra “I” a um terceiro, tendo sido celebrado o respectivo contrato de arrendamento. A posse de (H) é posse melhor que a “posse” do Autor, porque é mais antiga, conforme o art. 1203º n.º3º do Código Civil, e por isso, por cuja posse ter sido adquirida de (H), também o é a posse de (I) e a da Ré.
+Por tudo ficou exposto e explanado, deve ser julgado improcedente o pedido principal da Ré, e procedente o seu pedido subsidiário formulado na primeira ordem.».
+Vejamos então.
+Nas suas conclusões de recurso 1 a 5 vem o Autor/Recorrente invocar omissão de pronúncia porquanto o tribunal “a quo” não se pronunciou sobre o poder de administrar o terreno onde está implantado o templo.
+Ora, a segunda parte da fundamentação da decisão recorrida versa expressamente sobre o pedido do Autor de administrar o templo e o terreno em que o mesmo está edificado logo como resulta do primeiro parágrafo, concluindo-se pela improcedência deste pedido, porquanto o Templo está construído em terreno público e como tal da RAEM e não se ter provado facto algum de onde resulte que tinham comprado o Templo (como alegavam), ou que por qualquer meio houvessem adquirido direito reconhecido por lei que lhes atribuísse o direito à administração do Templo e terreno, pelo que, na míngua de prova de factos constitutivos do direito improcede este pedido do Autor.
+Como se vê a questão foi apreciada em conjunto a administração do Templo e do terreno em que o mesmo está implantado, improcedendo assim as indicadas conclusões de recurso.
+Nas suas alegações de recurso 6 a 32 vem o Autor/Recorrente invocar que a sentença recorrida padece de erro de aplicação de direito porque confunde o direito à administração do Templo com o direito real sobre o Templo e depois invocar a gestão de negócios como fonte do seu direito à administração do Templo.
+No que concerne à alegada confusão entre o direito real e o invocado “direito a administrar” não há confusão nenhuma.
+O que se diz é que o Templo é coisa pública e não se prova que o Autor tenha a ele direito algum como invocava e que não tendo direito algum sobre o Templo e respectivo terreno que é bem público, nem demonstrando, a que título adquiriu o “direito a administrar o Templo e terreno que quer ver reconhecido”, conclui-se pela improcedência da acção.
+No que concerne à alegada gestão de negócios vai uma grande confusão de conceitos.
+Aconselhamos para melhor se perceber a matéria a leitura de Antunes Varela em Das Obrigações em Geral, Vol. I, 4ª Edição, pág. 367 e seguintes.
+Ali consta a definição da gestão de negócios a saber:
+À intervenção, não autorizada, das pessoas na direcção de negócio alheio, feita no interesse e por conta do respectivo dono, dão a lei e a doutrina o nome de gestão de negócios.
+Para que se perceba melhor gerir, gestão, administrar têm aqui o mesmo significado.
+Ora como dali resulta no caso da gestão de negócios a pessoa não está autorizada, isto quer dizer que em princípio se está a meter onde não deve, a fazer aquilo para o qual não tem poderes, daí que, para além de estar obrigado a fazê-lo no interesse do gerido ainda pode ser responsabilizado pelos danos a que der causa – vejam-se artº 459º e seguintes do C.Civ. -.
+Ou seja, o gestor não tem direito nenhum a administrar a gerir aquele negócio ou bem, mas por uma qualquer razão que impede o titular do negócio de o fazer e no interesse deste assume a gestão do mesmo até que o impedimento cesse.
+Louvamos que o Autor Recorrente tenha vindo invocar esta figura – a gestão de negócios – pois embora daqui não resulte benefício algum para a sua pretensão resulta evidente que reconhece que não tem direito nenhum a gerir nem a  administrar o Templo e que se o faz, fará no interesse da RAEM, durante e enquanto esta o consentir.
+Ora, o pedido do Autor era de que lhe fosse reconhecido o direito a administrar o Templo.
+Se como invoca a figura parecida com a sua actuação seria a gestão de negócios então é por demais evidente que o Autor não tem direito algum a administrar nem a gerir o Templo.
+Esta conclusão está de acordo com o decidido.
+Na decisão recorrida diz-se que não se prova facto algum de onde possa emergir que o Autor tem direito a administrar o Templo, o que é certo e verdadeiro, porque se o faz enquanto gestão de negócios alheio reconhece que esse direito de administrar que quer ver reconhecido pertence a outrem, neste caso à RAEM e não a si.
+Se tal não fosse bastante, o Autor confunde-se um pouco, pretendendo com esta acção criar uma figura parecida com a usucapião/prescrição aquisitiva do direito de administrar o Templo pelo decurso do tempo.
+Porém, como também invoca a existir esse direito de administração seria de natureza obrigacional e não real.
+A usucapião baseia-se na posse como resulta do artº 1212º do C.Civ. e a posse só existe relativamente aos direitos reais como também resulta do artº 1175º do C.Civ..
+As obrigações por sua vez resultam de um vinculo jurídico entre duas ou mais pessoas que ficam adstritas à realização de uma prestação – veja-se artº 391º do C.Civ. -.
+Ora o que resulta da sentença recorrida é que o Autor/Recorrente não provou de onde emana esse vinculo jurídico que lhe dá o direito à administração do Templo o qual pretende ser vitalício e transmissível por sucessão, pois não há lei que lhe dê tal direito, não é titular de direito algum de onde emane o direito à administração nos termos em que pede seja reconhecido, nem foi celebrado contrato onde tal haja sido estabelecido.
+Aliás o que o Autor pretende sob a capa de administrar, não é o direito a administrar, mas sim o direito a explorar o Templo como se fosse negócio seu.
+Não se provando que tenha direito algum ao Templo seja ele de ordem real ou obrigacional outra solução não se podia tirar que não fosse a que consta da decisão recorrida.
+Improcedem assim as conclusões de recurso 6 a 32.
+Nas suas conclusões 33 a 69 vem o Recorrente insurgir-se contra a decisão recorrida na parte em que reconhece o direito de (D) às indicadas construções.
+Para o efeito estende-se em explicações de que essas construções estão em terreno público e fazem parte do Templo.
+Ora, quanto à circunstância das construções estarem em terreno público o contrário não resulta da decisão recorrida.
+Apenas se reconhece a posse das edificações, dizendo-se inclusivamente que quando o terreno for reclamado pela RAEM a dona das ditas tem o direito de as demolir e levar os materiais para onde quiser.
+Destarte, é completamente alheio à posse que se reconheceu estarem em terreno público, porque é expressa a decisão quanto a que relativamente ao terreno não adquire o titular daquelas direito algum, mas tem a posse das construções ocupando o terreno onde estão implantadas por tolerância da RAEM e enquanto a RAEM quiser e autorizar sem que esta tenha ou possa vir a adquirir direito algum.
+Não se prova que as construções sejam parte integrante do Templo, resultando antes demonstrado que foram construídos posteriormente por outrem.
+Pelo que, também nesta parte improcedem as conclusões de recurso do Recorrente.
+Aqui chegados impõe-se concluir pela improcedência do Recurso interposto quanto à decisão final.
+Voltando ao recurso interlocutório do despacho saneador.
+Conforme supra se referiu teria sido de admitir a alteração dos pedidos.
+Da decisão recorrida resulta apenas ter sido procedente a pretensão do Autor no que concerne a um bem móvel.
+Também de tudo quanto já se disse resulta que sendo o terreno onde está implantado o Templo um bem do domínio público não pode ser reconhecida a posse do Autor.
+Logo, ainda que pudesse e devesse ter sido admitida a alteração do pedido da posse do Templo, do terreno e das construções em nada este iria alterar a decisão proferida uma vez que tal posse não é possível.
+No que concerne ao pedido de nulidade dos negócios que levaram à aquisição por (D) das construções metálicas com base na invocada simulação o que ocorre é que não sendo o Autor nenhuma das pessoas a que alude o artº 232º do C.Civ., não demonstra que tenha direito algum a essas construções nem tão pouco, como resultou demonstrado, direito à administração das mesmas como invocava, as quais nem sequer fazem parte do Templo.
+Logo, improcedendo a acção quando à posse e administração do Templo e respectivo terreno, carece o Autor de interesse em invocar a nulidade dos indicados contratos, não havendo assim qualquer utilidade no provimento desse recurso.
+Termos em que, embora o despacho de indeferimento de alteração do pedido assente em pressupostos de direito errados e havendo ao tempo de ter sido deferido, mostra-se agora inútil prover o recurso interposto do mesmo em face da decisão proferida e seus fundamentos.
+III. DECISÃO
+Nestes termos e pelos fundamentos expostos nega-se provimento aos recursos interpostos, mantendo-se a sentença proferida nos seus precisos termos.
+Custas a cargo do Recorrente.
+Registe e Notifique.
+Comunique ao Instituto Cultural e à DSSCU esta decisão no seguimento do que já havia sido ordenado a fls. 1048.
+RAEM, 06 de Junho de 2024
+Rui Pereira Ribeiro (Juiz Relator)
+Fong Man Chong (Primeiro Juiz-Adjunto)
+Ho Wai Neng (Segundo Juiz-Adjunto)
+1 PAULA COSTA E SILVA, Acto e …, p. 295.
+2 M. TEIXIERA DE SOUSA, As Partes …, p. 159.
+3 MARIANA FRANÇA GOUVEIA, A Causa …, p. 278.
+---------------
+------------------------------------------------------------
+---------------
+------------------------------------------------------------
+52/2024 CÍVEL		4

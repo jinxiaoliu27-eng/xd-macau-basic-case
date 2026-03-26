@@ -1,0 +1,287 @@
+Visto
+Médicos
+Irrecorribilidade do acto
+Legitimidade passiva
+body {
+font-size: 13px;
+line-height: 25px;
+background-color: #fff;
+}
+.highlight-key {
+font-weight: bold;
+background: #FFFF00;
+}
+打印全文
+﻿Processo nº 499/2013
+(Autos de recurso jurisdicional em matéria administrativa)
+Data: 6/Novembro/2014
+Assunto:  Visto
+Médicos
+Irrecorribilidade do acto
+Legitimidade passiva
+SUMÁRIO
+- Não é contenciosamente recorrível o despacho do Director dos Serviços de Saúde que se limitou a pôr o “Visto” e ordenar a remessa do expediente ao Serviço de Apoio e Administração Geral, para efeitos de elaboração de Proposta com vista à revisão e renovação do contrato individual de trabalho do recorrente, para posteriormente ser submetida à autorização do Chefe do Executivo.
+- Tendo o contrato individual de trabalho sido firmado entre o recorrente e a RAEM, sendo esta última representada pelo Director dos Serviços de Saúde, a acção destinada a obter o pagamento da diferença pecuniária resultante da valorização indiciária reportada a determinada data deve ser intentada contra a própria RAEM e não os Serviços de Saúde de Macau.
+- Verificada a falta de legitimidade processual do Réu, é este absolvido da instância.
+O Relator,
+________________
+Tong Hio Fong
+Processo nº 499/2013
+(Autos de recurso jurisdicional em matéria administrativa)
+Data: 6/Novembro/2014
+Recorrente:
+- A
+Entidade recorrida:
+- Serviços de Saúde
+Acordam os Juízes do Tribunal de Segunda Instância da RAEM:
+I) RELATÓRIO
+A, médico, residente de Macau, melhor identificado nos autos, intentou junto do Tribunal Administrativo acção sobre contratos administrativos, pedindo que se condene os Serviços de Saúde de Macau a pagar-lhe a diferença pecuniária resultante da valorização indiciária desde 1.7.2007 a 7.9.2010, e ao mesmo tempo, formulou a cumulação do pedido de anulação do acto administrativo do Exmº Director dos Serviços de Saúde, de 8.4.2011, assacando-lhe o vício de violação de lei.
+Por sentença proferida pelo Tribunal Administrativo, foi julgada procedente a excepção de ilegitimidade passiva na acção, tendo os Serviços de Saúde sido absolvidos da instância, e rejeitado o recurso contencioso por irrecorribilidade do acto.
+Inconformado com a decisão, interpôs o recorrente o presente recurso jurisdicional, em cujas alegações formulou as seguintes conclusões:
+A. Vem o presente recurso interposto da sentença de fls. 146 a 155, datada de 12 de Abril de 2013 que, quanto ao pedido de anulação do despacho do Director dos SSM, rejeitou o respectivo recurso contencioso por aquele “...acto não possuir de recorribilidade nos termos e do disposto no art.º 28 do CPAC”; e, quanto à acção sobre contrato administrativo, julgou “...procedente a excepção da ilegitimidade passiva, absolvendo-se o Réu da instância”.
+B. São essencialmente três as questões sobre que a sentença em apreço se debruça e com as quais o recorrente, salvo o devido respeito, não concorda:
+• a irrecorribilidade do acto do Director dos Serviços de Saúde;
+• a ilegitimidade passiva da Direcção dos Serviços de Saúde para ser demandada na presente lide; e
+• a natureza do contrato em questão.
+C. O despacho objecto de litígio, não se limitou a esclarecer, opinativamente, uma dúvida da Divisão de Pessoal da DSS (doravante DPSS) relativa a claúsulas de reserva apostas pelos médicos nos respectivos averbamentos contratuais, deixando, à DSS, inteira liberdade de escolha e de decisão.
+D. Não é verdade que o despacho do Director dos SS revista essa mesma natureza (preparatória e opiniativa), já que:
+• trata-se da resolução final de um procedimento administrativo, em que culmina o referido Parecer 36/GJ/2011 (definitividade horizontal);
+• o seu conteúdo traduz-se numa decisão:
+a) homologatória (de concordância com o mesmo Parecer);
+b) vinculativa dos agentes hierarquicamente inferiores (no caso concreto do Chefe da DSS); e que,
+c) implicando a denegação do pagamento do “montante pecuniário” em causa, define, por essa via, a situação jurídica do A. e de outros particulares (definitividade material), projectando-se, de modo irremediavelmente lesivo, na sua esfera jurídica.
+E. O despacho do CE, homologatório da Proposta do Chefe de Divisão de Pessoal dos Serviços de Saúde n.º 295/PP/DP/2011, de 18 de Abril de 2011 é um acto duplamente definitivo:
+• No plano horizontal, porque culmina o procedimento administrativo de que esta Proposta é acto preparatório;
+• No plano material, porque define a situação jurídica do A., na medida em que autorizou:
+a) a renovação do seu contrato, através do averbamento, com efeitos, respectivamente:
+(1) a 30 de Janeiro de 2011 (data da cessação do contrato anterior); e
+(2) a 7 de Setembro de 2010 (data da sucessão das leis no tempo), procedendo, desse modo, à ratificação-sanação da remuneração abonada ao A., como contrapartida pelo serviço por si prestado, durante o período em que o seu contrato já não estava em vigor, nos termos da legislação que antecedeu a Lei n.º 10/2010 (isto é, do Decreto-Lei n.º 68/92/M), e a data em que foi assinado; e
+b) a alteração do contrato, de acordo com a Lei n.º 10/2010 e respectivos anexos.
+F. Se a entidade recorrida se considera incompetente para tomar posição sobre matéria que, em seu entender, só o CE poderia tomar, mas não tomou, então o seu acto padece de vício de incompetência - vício que ora, por mera razões de cautela, se argui, embora seja de conhecimento oficioso.
+Porém, se a entidade recorrida se considera competente para tomar posição sobre tal matéria, então, ao decidir do modo como decidiu, definindo uma situação jurídica, em divergência com os termos do despacho do CE e em violação da lei, praticou um acto materialmente definitivo, não podendo invocar o seu carácter “preparatório”, “instrutório” e “opinativo”.
+G. Revestindo o despacho anulando a natureza de acto de execução e não sendo a sua ilegalidade consequência da ilegalidade do acto exequendo (despacho do CE) e porque aquele acto de execução excede os limites do acto exequendo, independentemente da sua qualificação como acto horizontalmente definitivo, o Código do Procedimento Administrativo (CPA), no seu artigo 138º:
+• proíbe, aos órgãos da Administração Pública, a prática de “acto (...) de que resulte limitação de direitos subjectivos ou interesses legalmente protegidos dos particulares, sem terem praticado previamente o acto administrativo que legitime tal actuação” (n.º 1);
+• admite, a impugnação administrativa e contenciosa:
+c) dos “actos (...) de execução que excedam os limites do acto exequendo” (n.º 3), bem como
+d) dos “actos (...) de execução arguidos de ilegalidade, desde que esta não seja a consequência da ilegalidade do acto exequendo” (n.º 4).
+H. Deste modo, a ilegalidade que se imputa ao despacho - como referido na petição inicial - resulta da violação do disposto no artigo 138º do CPA, já que, destinando-se a executar o despacho do CE, do acto resulta limitação de direitos subjectivos ou interesses legalmente protegidos do A., sem que haja previamente um acto administrativo que legitime tal actuação, porquanto o despacho do CE, não apenas é insusceptível de interpretação extensiva, como dispõe mesmo em sentido contrário ao do acto anulando.
+I. O CE, através do seu despacho, concorda que, “cessando” o contrato do A., em vigor em 7/9/2010, o mesmo possa ser renovado, através de averbamento, e que a prestação da actividade médica seja disciplinada juridicamente “de acordo com o disposto no art. º 1º, da Lei n.º 10/2010, de 6 de Setembro” (cláusula 1ª), isto é, de acordo com “o regime jurídico da carreira médica”, estabelecido na referida lei, que o mesmo é admitir que o averbamento se rege pelo n.º 1 do artigo 43º.
+J. Diversamente, o Director dos SS vai em sentido contrário: “o novo averbamento não pode ser feito ‘nos termos’ desta disposição legal [n.º 1 do artigo 43º] (por esta lei não ser aplicada a estes CITs)” (ponto 10), concluindo-se o que já se dissera em momento anterior: “As leis que posteriormente entraram em vigor com o propósito de regularem ﻿especificamente cada uma das carreiras públicas ligadas aos Serviços de Saúde (nomeadamente a Lei n.º 10/2010) não se aplicam, por natureza, aos já referidos trabalhadores recrutados ao exterior e providos por CIT” (ponto 5).
+K. Inexiste, pois, deste modo, “acto opinativo” e não é verdade que o despacho do Director dos SS não integra a previsão normativa do artigo 110º do CPA, constituindo mero acto instrumental, um parecer meramente facultativo e, logo, não vinculativo.
+L. Por todas estas razões e por aquelas que se deixaram ditas na petição inicial, o despacho do Director dos SS integra a previsão normativa do artigo 110º do CPA, visto que, o Director dos SS, que o praticou, é um órgão da Administração que, “ao abrigo de normas de direito público”, visou “produzir efeitos numa situação jurídica” (negação, ao A., do direito ao “montante pecuniário”, consagrado no n.º 2 do artigo 47º da Lei n.º 10/2010), quer essas normas lhe atribuam competência para tanto ou não: no primeiro caso, o acto padece de vício de violação de lei; no segundo, padece ainda de vício de incompetência.
+Por outro lado, quanto à segunda questão:
+M. A alegada ilegitimidade passiva da DSS foi suscitada no Parecer do Digno Agente do M.P. de fls. 132 a 134.
+A decisão ora recorrida acolheu coma boa esta posição decidindo:
+“... falta aos SSM a legitimidade passiva para ser accionada na presente acção, onde se incide um contrato que lhe é alheio.
+Não se nos afigurar aperfeiçoável neste momento a ilegitimidade passiva.
+(...)”
+N. É certo que a relação contratual sub judice se constituiu entre a RAEM, pessoa colectiva de direito público, e o ora Recorrente, embora aquela representada pelo Director dos Serviços de Saúde.
+Todavia, o Código de Processo Administrativo Contencioso (CPAC), aprovado pelo Decreto-Lei n.º 110/99/M, de 13 de Dezembro, diz no seu artigo 13º: «A citação dos órgãos administrativos é feita por carta registada com aviso de recepção».
+O. Tendo em conta o disposto nos 46° e 47° do CPAC, mesmo que se considerasse inaplicável o disposto no artigo 13º do CPAC - o que por mero raciocínio se admite, sem conceder - a verdade é que, preenchendo a lacuna, com recurso, por via da analogia, aos mencionados preceitos do recurso contencioso, sempre se concluirá que «o erro na identificação do autor do acto recorrido» [art. 46º, n.º 2/al. f)] não tem consequências processuais significativas (art. 47º, n.º 2) e só o terá nos casos de erro manifestamente indesculpável, o que não é o caso dos autos.
+P. Por outro lado, face ao disposto no art.º 59º do CPAC, se o Director dos Serviços de Saúde interveio, supõe-se que em representação da R.A.E.M.; e, se a R.A.E.M. teria de fazer-se representar por alguém, então, o alegado vício está sanado.
+E, ainda,
+Q. Face às disposições invocadas do CPAC (art.º 51º e art.º 99º) e do CPC (art.º 394º, art.º 397), entende o recorrente que, ao contrário do que refere a sentença recorrida, mesmo que se verificasse a ilegitimidade passiva da DSS, a petição inicial poderia e deveria ter sido alvo do despacho de aperfeiçoamento.
+Finalmente, a terceira questão:
+R. Não é, pois, salvo o devido respeito, verdade a afirmação do Tribunal a quo, no sentido de que “não estamos perante um contrato administrativo, mas sim um mero contrato de direito privado”, quando a opinião expendida no Parecer n.º 4/2010 da 3ª Comissão Permanente da Assembleia Legislativa da RAEM, que o Tribunal considera ir no mesmo sentido do Tribunal (ver a nota) vai, pelo contrário, em sentido oposto.
+S. Também não é verdade, salvo o devido respeito, a afirmação do Tribunal de que “Em matéria de emprego público, aparte a nomeação, que é uma forma de provimento unilateral, a tal relação jurídica administrativa só é passível de constituição através das formas contratuais previstas no ETAPM (artigo 19º e seguintes). Entre essas formas de provimento não consta o contrato individual de trabalho”.
+Não é verdade, porque o Tribunal a quo limita-se a mencionar o ETAPM e ignora a Lei n.º 14/2009 (em nenhuma parte da sua sentença lhe faz referência própria) que, regulando “o regime das carreiras dos trabalhadores dos serviços públicos” da RAEM (art. 1º, n.º 1), neles inclui “os providos em regime de contrato individual de trabalho nos serviços públicos da RAEM” (art. 1º, n.º 2).
+T. Também não é verdade, sempre salvo o devido respeito, a afirmação de que “não obstante a aplicação supletiva do ETAPM ao contrato individual de trabalho em questão, por força de remissão, do próprio contrato não resulta nenhum poder especial ou prerrogativa da administração pública que fossem aqueles que um empregador normal de direito privado não goza”.
+É que, a remissão para o ETAPM já, por si, confere ao contrato “laivos de relação pública administrativa”. Mas, sobretudo, entre tais contratos individuais de trabalho e as restantes formas de provimento da função pública de Macau, existe uma “tendencial equivalência”, por aqueles estarem abrangidos:
+• pelo regime de Previdência dos Trabalhadores dos Serviços Públicos (artigo 3º, n.º 1, al. 5) da Lei n.º 8/2006;
+• pela lei preambular do Regime Eleitoral da Assembleia Legislativa da RAEM (art. 4º, n.º 5 da Lei n.º 3/2001);
+• pelo regime geral de avaliação do desempenho dos trabalhadores da Administração Pública (art. 1º, n.º 2 do Regulamento Administrativo n.º 31/2004);
+• pelo regime de Declaração de Rendimentos e Interesses Patrimoniais [al. c), do n.º 1, do art. 1º da Lei n.º 11/2003) e
+• ainda no facto da recentemente apresentada e aprovada na generalidade proposta de lei relativa ao apoio judiciário em virtude do exercício de funções públicas abranger os trabalhadores da função pública em regime de contrato de direito privado (art. 1º, n.º 1, al. 2) da versão original da supra referida proposta de lei)”.
+U. E, ainda, a posição assumida pela sentença recorrida é ainda manifestamente contraditada pelo acórdão do TSI, de 2010/11/04, no proc. n.º 507/2010.
+V. O facto de a renovação do contrato se ter operado ao abrigo do n.º 1 do art. 43º da Lei 10/2010 e não ao abrigo do seu n.º 2, em nada lhe retira a natureza de contrato administrativo, ou mais rigorosamente de contrato “híbrido” ou “misto”, isto é, de contrato sujeito ao direito administrativo e, consequentemente, à jurisdição administrativa, como anteriormente se demonstrou.
+W. O facto de o contrato individual de trabalho não conter uma cláusula, estipulando a diferença da valorização indiciária, resultante da retroactividade a 01/07/2007, constitui matéria de direito relativa ao mérito da causa, em que o Tribunal sobre ela decidiu, mas que o recorrente não teve a oportunidade de sobre ela se pronunciar.
+X. Diga-se, apenas, acompanhando o Parecer n.º 4/2010 da 3ª Comissão Permanente da Assembleia Legislativa que:
+• “A retroactividade na revisão das carreiras públicas tem-se reportado sempre a 1 de Julho de 2007 porque este foi o momento em que o Governo assumiu publicamente o compromisso político de reformular as carreiras da função pública de Macau” (p. 48), não integrando, pois, o estatuto remuneratório do contratado: está para além dele;
+• “para se apreciar se, em concreto, um determinado trabalhador em regime de contrato individual de trabalho se encontra ou não numa situação de facto igual quando comparado com um trabalhador que exerça funções similares ao abrigo de um contrato além quadro ou de assalariamento é necessário analisar as condições contratuais e o regime legal aplicável ao trabalhador da função pública de Macau com um contrato individual de trabalho.  Esta matéria apenas pode ser apurada perante uma análise do regime contratual acordado” (p. 53).
+Y. Daí, que nunca a lei poderia dizer que todos os trabalhadores dos serviços públicos providos em regime de contrato individual de trabalho têm “direito a receber um montante pecuniário equivalente à diferença entre os índices correspondentes à categoria e escalão resultantes da transição e os índices correspondentes à categoria e escalão detidos antes da transição”, tal como o diz, o artigo 47º, n.º 2 do da Lei 10/2010, para os demais contratados além do quadro e assalariados. Mas, também os não excluiu expressamente, como o fez o n.º 2 do artigo 81º da Lei 14/2009 para os contratos individuais de trabalho sujeitos ao regime geral estabelecido nesta lei. Impondo-se, por isso, ﻿interpretar este preceito legal à luz do princípio da igualdade, consagrado no artigo 25º da Lei Básica da RAEM.
+Conclui, pedindo que se conceda provimento ao recurso, e, em consequência, revogando-se a sentença recorrida.
+*
+Contra-alegou a entidade recorrida, pugnando pela improcedência do recurso.
+*
+Aberta vista ao Ministério Público, foi dado o seguinte parecer:
+“Nas alegações do recurso em apreço (cfr. fls.162 a 195 dos autos), o ora recorrente solicitou, em primeiro lugar, a revogação da douta sentença na parte de rejeitar o recurso contencioso por irrecorribilidade do acto que foi indicado na petição como ser despacho do Sr. Director dos Serviços de Saúde de 08/04/2011.
+Para o efeito por si pretendido, arguiu na conclusão H) das ditas alegações que o referido despacho do Sr. Director dos Serviços de Saúde infringia o art.138° do CPA, «já que, destinando-se a executar o despacho do CE, do acto resulta limitação de direitos subjectivos ou interesses legalmente protegidos do A., sem que haja previamente um acto administrativo que legitime tal actuação, porquanto o despacho do CE, não apenas é insusceptível de interpretação extensiva, como dispõe mesmo em sentido contrário ao do acto anulando.»
+Note-se que exarado no Parecer n.º 36/GJ/2011 (doc. de fls. 16 a 18 verso do P.A.) que visou a clarificar as consequências legais resultantes da declaração do ora recorrente (encontrando-se cujo texto a fls. 5 do P.A.), o despacho do Sr. Director dos Serviços de Saúde de 08/04/2011 determina só «閱，致SAAE» (as letras “SSAE” são abreviatura do “Subsistema de Apoio e Administração Geral”).
+﻿Tendo em conta as experiências colhidas pelos Serviços de Saúde durante a aplicação da Lei n.º 18/2009 (Regime da carreira de enfermagem), cujo art. 36º inspira e aproxima-se do art. 43º da Lei n.º 10/2010 (Regime da carreira médica), entendemos que esse despacho consiste em absolver a Conclusão do dito Parecer e ordenar o SAAE a elaborar proposta para submetê-la ao Exmo. Senhor Chefe do Executivo para autorização.
+Deste modo e dado que não vincularia o Exmo. Senhor Chefe do Executivo, tal despacho não é mais que um acto interno, não produzindo efeito externo. Daqui que nos termos do n.º 1 do art. 28º do CPAC, o qual carece da recorribilidade contenciosa.
+Nesta linha de consideração entendemos que se mostra sã e não merece nenhuma censura a douta sentença na apontada parte, pelo que não podem deixar de cair na insubsistência as conclusões A) a L) das alegações do recurso em apreço.
+De qualquer modo, visto que o referido despacho do Director dos SSM é cronologicamente anterior e precedente ao despacho do Exmo. Sr. Chefe do Executivo de 29/04/2011 (cfr. fls. 11 do P.A.), não faz sentido algum e é flagrantemente ilógico o argumento do recorrente de qualificar aquele como acto de execução deste.
+Na douta sentença recorrida, o MMº Juiz a quo julgou procedente a excepção da ilegitimidade passiva dos SSM como Réu para contestar os pedidos b) e c) da petição, decretando a absolvição da instância com fundamento de «não se nos afigurar aperfeiçoável neste momento a ilegitimidade passiva.»
+Neste ponto, o recorrente invocou a sanação consagrada no art. 59° do CPAC para criticar a douta sentença sob sindicância.
+Dado que cabe ao Ministério Público a representação em juízo da RAEM (art. 56°, n.º 1 e n.º 2-a) da Lei n.º 9/1999 e art. 4º n.º 4 do CPAC), a intervenção do Director dos SSM com a apresentação da contestação de fls. 62 a 80 dos autos não desencadeia a sanação ipso jure contemplada no n.º 2 do art. 59º do CPAC.
+Em relação a tal sentença na parte de julgar procedente a excepção da ilegitimidade passiva dos Serviços de Saúde de Macau, o recorrente arrogou ainda o aperfeiçoamento previsto nos arts. 51º e 99º do CPAC e os arts. 394º e 397º do CPC, pugnando pelo prosseguimento desta acção nos seus ulteriores termos.
+Quid juris?
+Antes de mais, é de sublinhar que devido à não impugnação tempestiva e à inexistência do vício conducente à nulidade, se forma caso resolvido o despacho lançado pelo Exmo. Senhor Chefe do Executivo na Informação n.º 295/PP/DP/2011 (doc. de fls. 11 a 13 do P.A.), despacho este que definiu, de acordo com o n.º 3 do art. 43º da Lei n.º 10/2010, a situação jurídica do recorrente.
+De outro lado, em harmonia com a jurisprudência consolidada dos Venerandos TSI e TUI respeitante a interpretação e aplicação do n.º 3 do art. 36º da Lei n.º 18/2009, temos tranquilamente por inquestionável que a mencionado despacho do Exmo. Sr. Chefe do Executivo não infringe o princípio de igualdade.
+Tudo isto determina indiscutivelmente inviáveis os pedidos b) e c) do recorrente na petição inicial, sendo nunca possível que lhe pagaria a pedida «diferença da valorização indiciária resultante do valor devido, determinado pela retroactividade da sua valorização indiciária, desde 1 de Julho de 2007 a 7 de Setembro de 2010.»
+Deste maneira, o aperfeiçoamento da petição para sanar a apontada ilegitimidade passiva teria de cair numa diligência inútil, colidindo com o princípio pro actione e designadamente com o da economia processual por provocar desperdício.
+Óbvio é que as doutas considerações do MMº Juiz a quo quanto ao mérito da acção não vieram a ser levadas na DECISÃO da sentença em questão. Significa isto que tais consideração foram expendida a título de por cautela e se destinavam a fundamentar a não aperfeiçoabilidade da dita ilegitimidade passiva.
+Nesta medida, não merecem apreciação as conclusões R) a Y) das Alegações do presente recurso.
+﻿Por todo o expendido acima, propendemos pela improcedência do recurso em apreço.”
+*
+Corridos os vistos, cumpre decidir.
+***
+II) FUNDAMENTOS DE FACTO E DE DIREITO
+A sentença recorrida deu por assente a seguinte matéria de facto:
+A.  Em 13/11/2000, o Sr. Secretário para os Assuntos Sociais e Cultura proferiu o despacho “同意” (“Concordo”) sobre a proposta n.º 76/SS/2000, decidindo celebrar contrato individual de trabalho, nos termos do disposto no artigo 48º n.º 3º do D.L. n.º 81/99/M, com o Autor. (fls. 122 a 128 do P.A., cujo teor aqui se dá por integralmente reproduzido)
+B.  Em 27/11/2000, a RAEM representada pelo Director dos SSM, substo. e o Autor celebraram o “CONTRATO INDIVIDUAL DE TRABALHO” constante de fls. 129 e 129v. do P.A., cujo teor aqui se dá por integralmente reproduzido.  O prazo de execução do contrato foi de 01/12/2000 até 31/05/2001.
+C.  O contrato foi renovado sucessivamente através do averbamento ao mesmo, subscrito pelas partes. (fls. 117 do P.A.)
+D.  Em 26/06/2003, a RAEM representada pelo Director dos SSM, e o Autor celebraram o “CONTRATO INDIVIDUAL DE TRABALHO” constante de fls. 100 a 104v. do P.A., cujo teor aqui se dá por integralmente reproduzido.  O contrato foi celebrado pelo prazo de um ano, com início no dia 01/06/2003.
+E.  Em 26/03/2004, a RAEM representada pelo Director dos SSM, e o Autor celebraram o “CONTRATO INDIVIDUAL DE TRABALHO” constante de fls. 89 a 93v. do P.A., cujo teor aqui se dá por integralmente reproduzido.  O contrato foi celebrado pelo prazo de um ano, com início no dia 01/06/2004.
+F.  O contrato referido na al. E. dos Factos Assentes foi renovado sucessivamente através dos averbamentos ao mesmo, subscritos pelas partes. (fls. 76 e 76v.; 67 a 68; 58 e 58v.; 49 e 49v.; 41 e 41v.; 32 e 32v. do P.A.)
+G.  Em 21/02/2011, o Autor manifestou, na nota interna n.º 0575/NI/DP/2011, a sua aceitação da revisão e renovação do seu contrato individual de trabalho por averbamento nos termos do n.º 1 do artigo 43º da Lei n.º 10/2010. (fls. 15 do P.A, cujo teor aqui se dá por integralmente reproduzido)
+H.  Em 02/03/2011, o Chefe de Divisão de Pessoal dos SSM emitiu o relatório n.º 274/PP/DP/2011, nos termos seguintes:
+“就部分外聘醫生在本局徵詢其按第10/2010號法律修改合同的內部工作備註上，加入聲明內容一事，茲報告如下：
+1. 第10/2010號法律《醫生職程制度》於2010年9月7日生效後，本局已陸續向部分個人勞動合同期滿的外聘醫生，發出內部工作備註，就參照第10/2010號法律修訂合同事宜諮詢其意向；
+2. 其中5名葡萄牙外聘醫生在該備註內作出以下聲明：
+2.1 「本人聲明同意根據第10/2010號法律第四十三條第一款規定，以合同附註方式，修改及更新本人的個人勞動合同。」
+(見附件1，包括A醫生)
+2.2 「本人聲明同意根據第10/2010號法律第四十三條第一款規定，以合同附註方式，績期本人的個人勞動合同。」
+(見附件2，包括B醫生、C醫生、D醫生、E醫生)
+為此，現呈上級考慮，就上述第2.1及第2.2的5名葡萄牙外聘醫生於有關內部工作備註上作出的聲明下，會否影響本局上呈修改合同的建議書，予社會文化司司長及行政長官審批的程序，建議代局長　閣下轉交予法律辦公室提供意見。
+呈上級批示。” (fls. 19 e 19v. do P.A.)
+I.  Em 04/03/2011, o Director dos SSM proferiu o despacho “致GJ” sobre o relatório n.º 274/PP/DP/2011.
+J.  Em 22/03/2011, o jurista dos SSM emitiu o parecer n.º 36/GJ/2011, nos termos seguintes:
+“就題述事宜及根據衛生局發出的第274/PP/DP/2011號公函，現提出下列意見：
+問題：
+一. 建議參考第10/2010號法律，修改衛生局五名醫生的個人勞動合同條款。該五名醫生分別為A醫生、B醫生、C醫生、D醫生及E醫生。
+二. 上述醫生回覆時全部發聲明同意“根據第10/2010號法律第43條第1款之規定以附註形式修改其個人勞動合同及續約。”
+三. 本局人事處想明確知道上述聲明所產生的法律後果。
+法律：
+四. 根據本法律辦公室及人事處之前發出的報告及意見(分別是第113/GJ/2009號及第188/PP/DP/2010/號)，均強調根據現行規範公務人員職程制度的第14/2009號法律不適用於根據基本法第99條以個人勞動合同任用的工作人員。
+五. 因此，其後生效並專門規範衛生局各公共職程的法律(例如：第10/2010號法律)，因性質理由，並不適用於上述以個人勞動合同對外招聘的工作人員。
+六. 然而，將來，在這些個人勞動合同的附註內，可以參考上述法律，加上專門適用於雙方的其他義務及/或合同權利。
+七. 關於是次情況：除非有更好的意見，該5名醫生的意願是聲明接受其個人勞動合同所作之修改及續期，換言之，
+八. 上述醫生提及條文如下：
+第43條
+現有個人勞動合同
+一. 本法律生效前訂立的個人勞動合同及其續期，繼續受該等合同的原有條款規範。
+九. 因此，該批醫生可表示其個人勞動合同不受規範或受第10/2010號法律規範。
+十. 雖然新的合同附注不得按該法律規定(因該法律不適用於個人勞動合同)作出，但該批醫生提出的要求，因參考上述法律的某些規定及經雙方同意，可予以滿足，也可維持其合同的規則。
+結論：
+上述醫生聲稱同意其個人勞動合同之修改及續期將根據第10/2010號法律第43條第1款之規定以附註形式作出，這表示他們不打算把適用於其合同的法律制度改為新生效的法律，即是說，第10/2010號法律不適用於他們。
+根據現行的法律的所有規定，不反對申請人的要求。
+藉此機會，本人想強調：公務人員職程制度(第14/2009號法律)及其後的醫生職程制度(第10/2010號法律)並不適用於上述醫生，因事實上，他們是根據基本法第99條規定以個人勞動合同聘用的。
+另一選擇是，倘若有需要及經雙方同意，在該批醫生的個人勞動合同的新附注內，可註明參考上述法律並作為合同的組成部分的表述。
+……
+Relativamente ao assunto em epígrafe, e no seguimento do ofício n.º 274/PP/DP/2011 dos Serviços de Saúde, cumpre-nos emitir o parecer seguinte:
+Da Questão:
+1. Foi proposta uma revisão às c1áusulas constantes nos contratos individuais de trabalho (adiante referidos por “CITs”), com referência à Lei n.º 10/2010, a 5 (cinco) médicos dos Serviços de Saúde de Macau, a saber, o Sr. Dr. A, a Sr.a. Dr.a. B, o Sr. Dr. C, o Sr. Dr. D e a Sr.a. Dr.a. E.
+2. Em resposta, todos os supra referidos médicos declararam que aceitam “a revisão e renovação do seu contrato individual de trabalho por averbamento nos termos do n.º 1 do artigo 43.o da Lei n.º 10/2010”.
+3. Salvo melhor interpretação pretende a Divisão de Pessoal destes Serviços ser clarificada sobre as consequências legais resultantes de tais declarações.
+Do Direito:
+4. De acordo com informações e pareceres que já têm sido emitidos por este Departamento Jurídico (nomeadamente o n.º 113/GJ/2009) e Departamento do Pessoal (a título de exemplo o n.º 188/PP/DP/2010) se reforça a opinião de que o regime das carreiras dos trabalhadores dos serviços públicos, regulado pela recente lei n.º 14/2009, não é aplicável aos trabalhadores providos por contrato individual de trabalho ao abrigo do artigo 99o da Lei Básica.
+5. Pelo que, consequentemente, as leis que posteriormente entraram em vigor com o propósito de regularem especificamente cada uma das carreiras públicas ligadas aos Serviços de Saúde (nomeadamente a lei n.º 10/2010) não se aplicam, por natureza, aos já referidos trabalhadores recrutados ao exterior e providos por CIT.
+6. Podendo, no entanto, ser possível fazer referências à estas Leis nos futuros averbamentos aos contratos de trabalho aqui em discussão para que, exclusivamente, sejam aplicadas outras obrigações ou/e direitos contratuais às partes envolvidas.
+7. Na presente situação, e salvo melhor opinião, foi esta a intenção dos 5 Médicos que vieram declarar aceitar a revisão e renovação do CIT, ou seja,
+8. versa o artigo referido pelos supra indicados médicos o seguinte:
+Artigo 43.o
+Contratos individuais de trabalho em vigor
+1. Os contratos individuais de trabalho celebrados antes da data da entrada em vigor da presente lei e as suas renovações continuam sujeitos à disciplina emergente desses contratos.
+9. Assim, pretendem estes médicos que os seus CIT não sejam regulados ou sujeitos à lei n.º 10/2010.
+10. Apesar de o novo averbamento não poder ser feito “nos termos” desta disposição legal (por esta lei não ser aplicada a estes CITs) o pedido dos médicos poderá ser concedido por referência a algumas normais aí dispostas se ambas as partes estiverem de acordo, mantendo-se, como pretendem, a disciplina dos seus contratos.
+Conclusão:
+Os médicos supra referidos declararam aceitar a revisão e renovação dos respectivos CITs por averbamento nos termos do n.º 1 do artigo 43 da lei n.º 10/2010 significado com isto, salvo melhor opinião, que pretendem que a disciplina jurídica a aplicar aos referidos contratos não seja alterada com a entrada em vigor da nova lei, ou seja, que a lei n.º 10/2010 não lhes seja aplicada.
+De acordo com todas as estipulações legais em vigor nada se opõe à pretensão dos requerentes.
+Aproveita-se o momento para reforçar a já assente opinião de que o regime das carreiras dos trabalhadores dos serviços públicos (Lei n.º 14/2009) e consequente regime da carreira médica (Lei n.º 10/2010) não são aplicáveis aos referidos médicos pelo facto destes serem providos por CIT ao abrigo do artigo 99o da Lei Básica.
+Como alternativa, em caso de necessidade e por mútuo acordo das partes, poderá o novo averbamento aos CITs dos referidos médicos conter referências às leis aqui referidas fazendo destas parte integrante dos contratos.
+…” (fls. 16 a 18v. do P.A.)
+K.  Em 08/04/2011, o Director dos SSM praticou o despacho: “閱. 致SAAG”. (fls. 16 do P.A.)
+L.  Em 18/04/2011, o Chefe de Divisão de Pessoal dos SSM emitiu a proposta n.º 295/PP/DP/2011, nos termos seguintes:
+“本局員工A醫生，於1992年11月25日起以編制外合同方式在本局擔任職務，現時以個人勞動合同方式在精神科擔任第三職階醫院主任醫生，且其合同將於2011年5月31日屆滿。
+合同續期
+對於其合同續期事宜，精神科負責人作出下列意見：「唯一的兒童青少年精神科專科醫生，為維持現時的臨床服務的不可或缺的條件，建議續期」，並獲仁伯爵綜合醫院院長同意續期。
+本處參照第10/2010號法律規定，就修訂合同內容事宜以內部工作備註諮詢其意向(附件2)，該醫生作出下列聲明：「本人聲明同意根據第10/2010號法律第四十三條第一款規定，以合同附註方式，修改及更新本人的個人勞動合同。」
+就上述事宜，本局法律辦公室第36/GJ/2011號法律意見為(附件3)：
+…倘若有需要及經雙方同意，在該批醫生的個人勞動合同的新附註內，可註明參考上述法律(即第10/2010號法律)並作為合同的組成部分的表述。
+參照第10/2010號法律，修改合同附註
+1. 隨著第10/2010號法律《醫生職程制度》於2010年9月7日生效，A醫生原合同中作為參照訂定職位和報酬依據的第68/92/M號法令(舊有醫生職程制度)已被廢止，此外新醫生職程中主任醫生的職務內容、職稱和薪俸點亦已作調整；
+2. 經諮詢仁伯爵綜合醫院院長的意見後，其同意該醫生之續約職級，參按新醫生職程的第三職階主任醫生，薪俸點900點(附件4)；
+3. 基於公平原則及參考本局對外聘人員的統一處理，現謹向局長　閣下建議如下：
+3.1 參按第10/2010號法律，A醫生之職級訂為第三職階主任醫生，薪俸點900點。以及參按同上法律第四十三條第三款之規定，該合同效力追溯至該法律之生效日開始(2010年9月7日)至2011年5 月31日，並修改合同附註(附件5)；
+3.2 另自2011年6月1日開始，將繼續以第三職階主任醫生職級聘用(薪俸點900點)，且按照11月15日第81/99/M號法令第四十八條第三款之規定，與 A醫生之個人勞動合同續期一年，並修改合同附註(附件6)。
+倘若局長　閣下同意上述建議，懇請進行有關手續，使本建議書上呈至澳門特別行政區　行政長官閣下，以便根據基本法第九十九條第二款之規定作出審批。
+……” (fls. 11 a 13 do P.A.)
+M.  Em 06/05/2011, o Sr. Chefe do Executivo proferiu despacho, concordando com a proposta supra aludida. (fls. 11 do P.A.)
+N.  Em consequência da autorização do Sr. Chefe do Executivo, o Autor celebrou, em 16/05/2011, com a RAEM representada pelo Director dos SSM, subst.o, averbamentos ao contrato individual de trabalho, referido na al. E. dos Factos Assentes. (fls. 1 a 3v. do P.A, cujo teor aqui se dá por integralmente reproduzido)
+O.  Aquando da celebração do averbamento, o Autor manifestou verbalmente a seguinte declaração de vontade: “Reservo-me o direito de acrescentar que a produção de efeitos ocorra sem prejuízo dos direitos que decorrem da lei n.º 10/2010 de 6/9/20”.
+P.  Em 15/06/2011, o Autor foi abonado da diferença entre a remuneração correspondente à categoria de Chefe de Serviço, 3º escalão, índice 900, segundo o disposto no Mapa I do Anexo da Lei n.º 10/2010 e a remuneração resultante da categoria, escalão e índice, constantes no anterior averbamento ao seu contrato.
+Q.  Como o mencionado abono produz efeitos a partir de 07/09/2010 (data da entrada em vigor da Lei 10/2010), não foi abonado ao Autor o “montante pecuniário”, por efeito da retroactividade, a 01/07/2007.
+R. Em resposta ao requerimento apresentado pelo Autor, relativo ao assunto sobre data de início da produção de efeitos de abono remuneratório, através do ofício n.º 1861/GSASC/2011, foi notificado o Autor a notificação exarada pelo Secretário para os Assuntos Sociais e Cultura e demais documentos solicitados. (fls. 27 a 54 dos autos)
+*
+São três as questões suscitadas no recurso
+1) Da (ir)recorribilidade do acto do Director dos Serviços de Saúde
+2) Da ilegitimidade passiva dos Serviços de Saúde de Macau na acção sobre contratos administrativos
+3) Da natureza do contrato individual de trabalho
+*
+Da (ir)recorribilidade do acto do Director dos Serviços de Saúde
+Formulou o recorrente pedido de anulação do acto do Director dos Serviços de Saúde de 8.4.2011.
+Entendeu o Tribunal a quo que o referido despacho é um mero acto interno, sem vertente decisória e inovadora, pelo que decidiu pela irrecorribilidade do acto.
+Pelo contrário, entende o recorrente que o referido despacho do Director de 8.4.2011 constitui a resolução final de um procedimento administrativo, em virtude de:
+- homologar o Parecer 36/GJ/2011, manifestando a sua concordância com o mesmo;
+- ser vinculativo para os agentes hierarquicamente inferiores; e
+- implicar a denegação do pagamento do montante pecuniário em causa, definindo por essa via a sua situação jurídica.
+Daí sustentou que:
+- Se o Director se achava incompetente para tomar decisão sobre a matéria que só ao Chefe do Executivo cumpria tomar, então o seu acto padece de vício de incompetência;
+- Mas se o Director se considerava competente para decidir o caso, então praticou um acto materialmente definitivo, não podendo ter um carácter preparatório, instrutório e opinativo;
+- E se tal acto for de mera execução, uma vez que excede os limites do acto exequendo, também por essa razão deveria ser recorrível, por que excede e é mesmo contrário ao acto do Chefe do Executivo, nos termos previsto no artigo 138º do CPA.
+*
+O caso
+Da matéria de facto que acima se elencou, verifica-se que em 2.3.2011, o Chefe de Divisão de Pessoal dos Serviços de Saúde sugeriu ao Director dos Serviços de Saúde que se solicitasse ao Gabinete Jurídico parecer jurídico sobre questões relacionadas com a renovação e revisão dos contratos individuais de trabalho dos cinco médicos, neles se incluía, entre outros, o recorrente (Relatório nº 274/PP/DP/2011).
+Acto contínuo, e em resposta ao solicitado, foi elaborado em 22.3.2011 o Parecer nº 36/GJ/2011, cujo teor se dá por integralmente reproduzido na alínea J) dos factos provados.
+Sobre esse Parecer recaiu, em 8.4.2011, o seguinte despacho do Director dos Serviços de Saúde: “閱，致SAAG”, em português significa “Visto, ao SAAG”.
+Na sequência do despacho supra, o Chefe de Divisão de Pessoal dos Serviços de Saúde elaborou, em 18.4.2011, a Proposta nº 295/PP/DP/2011, cujo teor se dá por integralmente reproduzido na alínea L) dos factos provados.
+Submetida a referida Proposta ao Exmº Chefe do Executivo, sobre a mesma recaiu, em 6.5.2011, o seguinte despacho: “同意”, significando em português, “Concordo”.
+*
+No caso vertente, o recorrente impugna contenciosamente do acto do Director dos Serviços de Saúde datado de 8.4.2011.
+Nesse mesmo despacho, o referido Director limitou-se a pôr o “Visto” e remeter o expediente ao SAAG (Serviço de Apoio e Administração Geral).
+Será tal acto recorrível tal como se entende o recorrente?
+Salvo o devido respeito, julgamos que não.
+O que é que se entende por “Visto”? Para dar resposta à questão, e por razões de economia processual, remete-se para o Acórdão deste TSI, proferido no âmbito do Processo 502/2013, nos seguintes termos transcritos:
+“Ora bem. Um mero acto de “visto” não tem sido alvo de grande atenção doutrinal e jurisprudencial e pode dizer-se que o seu sentido pode variar em função do contexto em que ele se inserir. Assim, podemos dizer que o despacho de “Visto” «tanto pode significar que o órgão competente entende não ter que proferir decisão, em casos em que o procedimento lhe é canalizado sem esse específico fim, mas para o inteirar, por exemplo, da junção de um documento, um parecer, etc., como pode revelar, efectivamente, uma vontade negatória ou de indeferimento, se todos os elementos estão coligidos e dele se espera uma decisão (quando haja o dever legal de decidir naquele momento)…»
+Pode não significar nada mais do que um mero sinal de que o titular do órgão se limitou a “ver” ou a “observar”, a “ficar ciente” de um documento, de um parecer, informação, etc. Em tal hipótese, o “visto” não tem significado decisório e dele “a se” não podem extrair-se efeitos na esfera jurídica de terceiros, nem directa, nem indirectamente.
+Mas o visto, como se sabe, se for aposto pelo órgão competente e na fase procedimental destinada à decisão final, já tem, o significado de uma verdadeira concordância com o conteúdo sobre que versa e, por conseguinte, com um sentido decisório pela via da homologação (mesmo que não leve esse nome).
+Quando assim é, o que se torna preciso é analisar o contexto da sua prolação e o ambiente das competências envolvidas em cada caso concreto.”
+Quanto ao nosso caso, somos a entender que o despacho do Director dos Serviços de Saúde datado de 8.4.2011, objecto do pedido de anulação, não contém virtudes decisórias, uma vez que não logrou definir a situação jurídica nem produziu qualquer efeito lesivo na esfera jurídica do recorrente, melhor dizendo, trata-se de um mero acto interno, através do qual foi ordenada a remessa do Parecer ao SAAG, para elaboração de Proposta com vista à revisão e renovação do contrato individual de trabalho do recorrente, para posteriormente ser submetida à autorização do Chefe do Executivo.
+Nesta conformidade, afigura-se ser o próprio despacho do Chefe do Executivo, de 6.5.2011, exarado sobre a Proposta nº 295/PP/DP/2011 que veio definir material e definitivamente a situação jurídica do recorrente, no respeitante à questão dos retroactivos salariais.
+Ao contrário do que entende o recorrente, por não revestir o despacho do Director dos Serviços de Saúde, objecto do pedido de anulação, natureza de acto final e definitivo, o acto em causa não deixa de ser contenciosamente irrecorrível, nos termos previstos no nº 1 do artigo 28º do CPAC e artigo 110º do CPA.
+E não se diga que se trata de um acto de execução do acto do Chefe do Executivo, contanto que o despacho do Chefe do Executivo é posterior ao despacho do Director dos Serviços de Saúde, daí que não se vislumbra em que termos é que o despacho do Director dos Serviços de Saúde se destina a executar um acto que lhe é posterior.
+Termos em que não merece reparo a decisão do Tribunal a quo que julgou irrecorrível o acto do Director dos Serviços de Saúde datado de 8.4.2011.
+*
+Da ilegitimidade passiva dos Serviços de Saúde de Macau na acção sobre contratos administrativos
+No que concerne ao pedido formulado na acção sobre contratos, entendeu a sentença recorrida que o contrato individual de trabalho foi celebrado entre o recorrente e a RAEM, sendo esta representada pelo Director dos Serviços de Saúde de Macau para os devidos efeitos, daí que quem tem legitimidade passiva nessa acção é a RAEM, e não os Serviços de Saúde.
+Sem embargo de melhor opinião, entendemos que a decisão recorrida não merece qualquer reparo.
+De facto, o contrato individual de trabalho foi firmado entre o recorrente e a RAEM, tendo o Director dos Serviços de Saúde intervindo no acto apenas na qualidade de representante da RAEM.
+Sendo assim, quem têm legitimidade para intervir como partes nessa acção sobre contratos, destinada a obter o pagamento da diferença pecuniária resultante da valorização indiciária reportada desde 1 de Julho de 2007 a 7 de Setembro de 2010, são o recorrente e a RAEM, esta como pessoa colectiva de direito público.
+Não se deve aplicar o disposto do artigo 37º do CPAC tal como entende o recorrente, uma vez que se trata de norma somente aplicável ao recurso contencioso.
+Defende ainda o recorrente a aplicação analógica do disposto nos artigos 46º, nº 2, alínea f) e 59º, ambos do CPAC, no sentido de que, não se verificando um caso de erro manifestamente indesculpável, deveria o Tribunal a quo proferir despacho de aperfeiçoamento destinado a suprir o erro na identificação da Ré.
+Salvo o devido respeito, entendemos igualmente não assistir razão ao recorrente.
+De facto, as referidas disposições legais são aplicáveis apenas ao recurso contencioso, ao abrigo do disposto no artigo 99º, nº 5 do CPAC.
+Enquanto as acções seguem os termos do processo civil comum de declaração, na sua forma ordinária, tal como se dispõe no nº 1 do mesmo artigo.
+Pelo que não há lugar a aplicação analógica dos artigos 46º, nº 2, alínea f) e 59º do CPAC.
+Por outro lado, ao abrigo dos artigos 394º, nº 1, alínea c) e 230º, nº 1, alínea d), ambos do Código de Processo Civil, sempre que se verifique a falta de legitimidade de alguma das partes, há lugar a indeferimento liminar ou absolvição da instância, conforme o caso.
+E não se diga ser suprível o referido pressuposto processual, uma vez que não há lugar a suprimento em caso de ilegitimidade singular.
+Também não é verdade dizer que a intervenção processual do Director dos Serviços de Saúde na acção serviria como meio de suprir a ilegitimidade passiva.
+Simplesmente, por que a parte legítima na acção é a RAEM, deveria esta ser representada pelo Ministério Público e não pelo Director, nos termos estatuídos na alínea 1) do nº 2 do artigo 56º da Lei de Bases da Organização Judiciária.
+Nesta conformidade, andou bem o Tribunal a quo ao julgar os Serviços de Saúde como parte ilegítima e, em consequência, absolvendo-a da instância nessa acção sobre contratos.
+*
+Da natureza do contrato individual de trabalho
+Uma vez confirmada a sentença recorrida no concernente à questão de ilegitimidade passiva, desnecessário se torna o conhecimento, nesta instância recursal, do mérito da questão.
+***
+III) DECISÃO
+Face ao exposto, acordam em negar provimento ao recurso jurisdicional, confirmando a sentença recorrida.
+Custas pelo recorrente, fixando-se a taxa de justiça em 8 U.C.
+Registe e notifique.
+***
+Macau, aos 6 de Novembro de 2014
+Presente        			 (Relator)                            Vítor Manuel Carvalho Coelho    Tong Hio Fong
+(Primeiro Juiz-Adjunto)
+Lai Kin Hong
+(Segundo Juiz-Adjunto)
+João A. G. Gil de Oliveira
+Processo 499/2013                                                        Página 34

@@ -1,0 +1,137 @@
+Legalidade do regulamento administrativo
+Regime sancionatório
+Violação da Lei Básica
+body {
+font-size: 13px;
+line-height: 25px;
+background-color: #fff;
+}
+.highlight-key {
+font-weight: bold;
+background: #FFFF00;
+}
+打印全文
+﻿Processo nº 733/2011
+(Autos de recurso jurisdicional em matéria administrativa)
+Data: 12/Junho/2014
+Assunto:  Legalidade do regulamento administrativo
+Regime sancionatório
+Violação da Lei Básica
+SUMÁRIO
+- O Chefe do Executivo pode aprovar regulamentos apenas com fundamento na Lei Básica, fora das matérias reservadas à lei pela Lei Básica e sem prejuízo do princípio da prevalência da lei segundo o qual o regulamento não pode contrariar os actos normativos de força hierárquica superior, designadamente, a Lei Básica, as leis, nem os princípios gerais de Direito, incluindo aqui os de Direito Administrativo.
+- O regime sancionatório tem natureza ablativa dos direitos e liberdades, uma vez que define os tipos de condutas ilícitas e estabelece as respectivas sanções, e estas traduzir-se-iam em limitações ao direito dos cidadãos, mormente ofensa a direito patrimonial.
+- Nesta conformidade, entendemos que o regime sancionatório previsto no artigo 9º do Regulamento Administrativo nº 17/2004 é ilegal, por violação do disposto no artigo 40º, 2º parágrafo da Lei Básica.
+- E não se diga que, com a entrada em vigor da Lei nº 13/2009, que vem definir o regime jurídico de enquadramento das fontes normativas internas, o problema ficou resolvido.
+- A Lei nº 13/2009 entrou em vigor em 15 de Agosto de 2009, ao passo que os factos imputados ao particular ocorreram antes daquela data.
+- Sendo ilegal a norma regulamentar no momento em que ocorreram os factos e com base nos quais foi aplicada uma multa administrativa ao particular, mesmo que a Lei nº 13/2009 venha posteriormente a pôr cobro a tal situação de ilegalidade, mas tendo em consideração a natureza sancionatória da norma regulamentar em causa, essa sanação não pode ter efeitos retroactivos.
+- Tendo a Administração praticado o acto administrativo em violação ao princípio da legalidade previsto nos termos do nº 1 do artigo 3º do Código do Procedimento Administrativo, deve ser anulado o acto.
+O Relator,
+________________
+Tong Hio Fong
+Processo nº 733/2011
+(Autos de recurso jurisdicional em matéria administrativa)
+Data: 12/Junho/2014
+Recorrente:
+- Subdirector da Direcção dos Serviços para os Assuntos Laborais
+Recorrida:
+- A
+Acordam os Juízes do Tribunal de Segunda Instância da RAEM:
+I) RELATÓRIO
+A, melhor identificada nos autos, recorreu contenciosamente para o Tribunal Administrativo do despacho do Subdirector da Direcção dos Serviços para os Assuntos Laborais, de 15.09.2010, que indeferiu o recurso hierárquico necessário do despacho do Chefe de Departamento da Inspecção de Trabalho, o qual lhe havia aplicado uma multa de $5.000,00, nos termos da alínea 3) do artigo 2º e da alínea 3) do nº 1 do artigo 9º, ambos do Regulamento Administrativo nº 17/2004.
+Por sentença proferida pelo Tribunal Administrativo, julgou ilegal o artigo 9º do Regulamento Administrativo nº 17/2004, com fundamento em violação do princípio de reserva de lei previsto no nº 1 do artigo 3º do Código de Procedimento Administrativo, rejeitando a aplicação daquele artigo no processo, e procedente o recurso, com declaração de nulidade do acto impugnado.
+Inconformada com a decisão, vem o Subdirector da Direcção dos Serviços para os Assuntos Laborais interpor o presente recurso jurisdicional, em cujas alegações formulou as seguintes conclusões:
+1. 就第17/2004號行政法規《禁止非法工作規章》的合法性方面，從終審法院的見解可見，在保留予立法會立法權以外的領域，行政長官擁有制定具創設性規章規範的職權，換言之，原案被上訴之行政行為應適用第17/2004號行政法規第9條的規定，而不應認定上述行政法規存在違反《行政程序法典》第3條第1款規定的“合法性原則”內含“法律保留原則”的情況。
+2. 而且，根據原案卷宗的資料，亦顯示非居民B確實從事了非獲批准的秘書職務，顯然上述非居民的行為已構成第17/2004號行政法規《禁止非法工作規章》第2條第3項規定之違反，而且，A作為非居民B之僱主，因此，根據同一行政法規第9條第1款第3項的規定，上述公司的行為已構成上述行政法規的違反，故勞工事務局是具備充足的事實依據及法律依據的前提下，對上述公司作出處罰。
+3. 基於上述，現請求中級法院宣告撤銷卷宗編號第743/10-ADM行政司法上訴的行政法院之判決。
+Conclui, pedindo que se conceda provimento ao recurso, e, em consequência, se anule a sentença recorrida.
+*
+A recorrida não contra-alegou.
+*
+Findo o prazo para alegações, o Ministério Público deu o seguinte parecer:
+“A douta sentença em questão declarou nulo o acto administrativo contenciosamente recorrido, com fundamento da ilegalidade do art. 9º do Regulamento Administrativo n.º 17/2004, traduzida em contrariar o princípio da reserva da lei previsto no n.º 1 do art. 3º do CPA como corolário do princípio da legalidade.
+Sem prejuízo o respeito pelo entendimento diferente, inclinamos ao provimento do recurso jurisdicional em apreço.
+Repare-se que o art. 6º da Lei n.º 4/98/M elenca, como um dos objectivos, «atingir e manter a situação de pleno emprego» e, nos termos da alínea a) do art. 7º desta Lei, uma das «medidas» traduz-se no aperfeiçoamento da legislação sobre as relações de trabalho e a revisão do seu regime sancionatório.
+À luz do seu art. 10º, o Chefe do Executivo adoptará as providências necessárias ao desenvolvimento, concretização e execução das bases constante da mesma Lei.
+Ponderando, afigura-se-nos que o art. 10º da Lei n.º 4/98/M pode ser considerada «lei habilitante” do art. 9º do Regulamento Administrativo n.º 17/2004. Nesta medida, não nos parece que este art. 9º ofenda o princípio da legalidade na sua vertente de reserva da lei.”
+***
+II) FUNDAMENTOS DE FACTO E DE DIREITO
+A sentença deu por assente a seguinte matéria de facto:
+於2009年1月13日，勞工事務局接獲一宗勞資糾紛投訴，在調查期間得悉上訴人將外地僱員配額交予C建築有限公司使用，C建築有限公司安排一名獲批職務為建築工人的外地僱員B，持編號XXXX4/20XX非本地勞工身份咭，於2008年8月21日至2008年12月31日期間，從事秘書的工作。因此，於2010年7月7日對其提起編號504/2010實況筆錄(見附卷第242-A頁，有關內容在此視為完全轉錄)。
+於2010年7月8日，勞工事務局勞動監察廳廳長作出批示，確認上述實況筆錄所載事實，指出上訴人已觸犯第17/2004號行政法規第2條第3)項及第9條第1款第3)項的規定，科處上訴人澳門幣5,000元罰款，並於同日發出處罰通知書(見附卷第242-A頁及第242-C頁，有關內容在此視為完全轉錄)。
+於2010年7月14日，勞工事務局發出罰款憑單(見附卷第242-D頁至第242-G頁，有關內容在此視為完全轉錄)。
+於2010年8月16日，上訴人針對上述處罰決定提起必要訴願(見附卷第246-A頁至第255頁，有關內容在此視為完全轉錄)。
+於2010年9月15日，勞工事務局副局長作出批示，同意編號19629/DIT/BECO/2010報告書，駁回上訴人的必要訴願(見附卷第256頁至第264頁，有關內容在此視為完全轉錄)。
+於2010年9月21日，勞工事務局發出第32502/27527/DIT/BECO/2010號公函，通知上訴人有關訴願已被駁回(見附卷第265頁至第269頁，有關內容在此視為完全轉錄)。
+於2010年10月26日，上訴人向行政法院提起司法上訴。
+*
+O caso
+A questão principal que se coloca neste recurso jurisdicional é a de saber se o Chefe do Executivo ou o Governo têm poder regulamentar, sobretudo no tocante aos regulamentos independentes, e concretamente, se o Chefe do Executivo poderia emitir o Regulamento Administrativo nº 17/2004, e com base no seu artigo 9º, nº 1, alínea 3) foi aplicada à recorrida a respectiva multa.
+Basicamente, a questão já foi objecto de apreciação quer pelo Venerando TUI quer por este TSI, embora as opiniões se divirjam.
+Segundo o TUI, nomeadamente no Processo nº 28/2006, entendeu que o Chefe do Executivo tem competência para elaborar regulamento administrativo, no sentido de que “o Chefe do Executivo pode aprovar regulamentos apenas com fundamento na Lei Básica, fora das matérias reservadas à lei pela Lei Básica (princípio da reserva de lei) e sem prejuízo do princípio da prevalência da lei, segundo o qual o regulamento não pode contrariar os actos normativos de força hierárquica superior, designadamente, a Lei Básica, as leis, nem os princípios gerais de Direito, incluindo aqui os de Direito Administrativo”.
+Mais decidiu aquele Acórdão que “o artigo 4º do Regulamento Administrativo nº 17/2004 pode ser considerado norma complementar do regime constante da Lei nº 4/2003”.
+No mesmo sentido, temos alguma jurisprudência deste TSI, por exemplo nos Processos 434/2009, 440/2009, 28/2011, em que se decidiu que “o Governo da RAEM, através do Chefe do Executivo, tinha competência para “por si próprio”, intervir na elaboração de regulamentos administrativos no âmbito da matéria contida no artigo 129º, 1º parágrafo da Lei Básica, nomeadamente para alterar o quantum da multa referente à infracção administrativa prevista nos artigos 68º, nº 1 e 2, alínea a) e 87º do Decreto-Lei nº 48/98/M, de 3/11, a respeito da actividade dos guias turísticos”.
+Em sentido divergente, regista-se outras decisões deste TSI, nomeadamente nos Processos nº 280/2005, 223/2005, em que se entendeu que o poder regulamentar conferido ao Chefe do Executivo pela alínea 5) do artigo 50º da Lei Básica pode ser exercido quando houver lei prévia habilitadora emanada pela Assembleia Legislativa, bem como pode o Chefe do Executivo elaborar regulamentos independentes ou autónomos com efeitos meramente internos, isto é, que versem sobre o próprio funcionamento do Governo.
+Cumpre decidir.
+*
+A Lei Básica não define o que é a lei e o regulamento.
+Mas segundo o citado Acórdão do Venerando TUI, “lei é o diploma aprovado como tal pela Assembleia Legislativa e que se encontra no topo da hierarquia dos actos normativos da Região. Trata-se de um conceito formal de lei…”, enquanto “a Lei Básica utiliza o regulamento com o sentido de normas jurídicas dimanadas de órgãos da Administração no exercício da função administrativa”.
+Na verdade, a Lei Básica não preceitua numa só norma que matéria deve ser feita por lei ou outra feita por regulamento.
+De qualquer modo, quanto aos regulamentos, estes têm que estar sujeitos ao princípio da legalidade.
+Este, por sua vez, pode traduzir-se em princípio da reserva de lei e princípio da prevalência da lei.
+Quando se diz na Lei Básica que certas matérias devem ser objecto por lei, tanto o Chefe do Executivo como o Governo não têm poder regulamentar, sob pena de a norma regulamentar violar o princípio da reserva de lei.
+No que toca ao princípio da prevalência da lei, entende-se que em caso algum podem os regulamentos contrariar actos legislativos, tais como a Lei Básica e as leis ordinárias (artigo 11º, 2º parágrafo da Lei Básica).
+Conforme o regime político estabelecido pela Lei Básica, só a Assembleia Legislativa tem competência legislativa (artigo 67º da Lei Básica).
+Mas já não resulta da Lei Básica uma reserva total de lei em relação aos regulamentos administrativos.
+De facto, não se deixa de assinalar que em várias disposições da Lei Básica conferem ao Governo ou ao Chefe do Executivo poderes de intervir na definição e na regulação de certo tipo de relações, nomeadamente reconhece-se no artigo 107º que “o Governo define, por si próprio, as políticas monetária e financeira…”, no artigo 115º que “a RAEM define, por si própria, a sua política laboral e aperfeiçoa as suas leis de trabalho”, no artigo 116º que “a RAEM define, por si própria, a política respeitante ao sistema de exploração e gestão dos transportes marítimos”, etc…
+Daí que, salvo o devido respeito por melhor opinião, não obstante não possuir o Governo ou o Chefe do Executivo poderes legislativos, mas cabendo-lhes gerir diversos assuntos administrativos, sendo assim é quase impossível concretizar tal atribuição se não lhe forem concedidos poderes regulamentares, sobretudo competência regulamentar independente.
+As suas competências, no fundo, dizem respeito à satisfação de todas as necessidades colectivas assumidas como interesses públicos: definir políticas, gerir assuntos administrativos, fazer cumprir as directrizes emanadas do Governo Popular Central são atribuições demasiado genéricas e importantes para se exigir sempre a existência de uma lei a conferir expressamente a competência para a elaboração de regulamentos. Daí a necessidade, para não paralisar a acção governativa, de uma grande largueza na definição das possibilidades do Chefe do Executivo e do Governo em relação à emissão de regulamentos.1
+Também referiu Lino Ribeiro que, fora das áreas de reserva de competência legislativa da Assembleia Legislativa, o Chefe do Executivo e o Governo possuem competência de normação regulamentar originária: a competência subjectiva resulta do nº 5 dos artigos 50º e 64º; e a competência objectiva encontra-se nas normas que conferem ao Governo o poder de definir “por si próprio” determinadas políticas.2
+Aqui chegados, somos a concluir que pela Lei Básica são conferidos ao Governo ou ao Chefe do Executivo poderes de intervir na definição e na regulação de certo tipo de relações, solução essa que foi adoptada pelo Venerando TUI no Acórdão acima citado, no sentido de que “o Chefe do Executivo pode aprovar regulamentos apenas com fundamento na Lei Básica, fora das matérias reservadas à lei pela Lei Básica e sem prejuízo do princípio da prevalência da lei segundo o qual o regulamento não pode contrariar os actos normativos de força hierárquica superior, designadamente, a Lei Básica, as leis, nem os princípios gerais de Direito, incluindo aqui os de Direito Administrativo”.
+Ora bem, já no caso que nos ocupa, somos a considerar que a Lei Básica reconhece à RAEM, através do seu artigo 115º, o poder de definir por si própria a sua política laboral e de aperfeiçoar as suas leis de trabalho.
+Mas o que está em causa no vertente caso não é somente uma questão de política laboral e aperfeiçoamento de leis de trabalho, mas também o regime sancionatório previsto no artigo 9º do Regulamento Administrativo nº 17/2004, o qual, salvo o devido respeito por opinião contrária, não deixaria de ser matéria relacionada com os direitos e liberdades dos residentes, ou seja, assunto da exclusiva competência do órgão legislativo, do foro reservado da Assembleia Legislativa.
+Em boa verdade, o regime sancionatório tem natureza ablativa dos direitos e liberdades, uma vez que define os tipos de condutas ilícitas e estabelece as respectivas sanções, e estas traduzir-se-iam, a nosso ver, em limitações ao direito dos cidadãos, mormente ofensa a direito patrimonial.
+Não podemos imaginar que num Estado de Direito, a Administração possa estabelecer regimes sancionatórios susceptíveis de ofender direitos e liberdades dos cidadãos, sem que a competência lhe tenha sido conferida por lei ou por um órgão legislativo.
+Nesta conformidade, entendemos que o regime sancionatório previsto no artigo 9º do Regulamento Administrativo nº 17/2004 é ilegal, por violação do disposto no artigo 40º, 2º parágrafo da Lei Básica, não podendo, por isso, ter aplicação para o caso.
+*
+Por outro lado, não se vislumbra que a Lei nº 4/98/M, que define as bases da política de emprego e dos direitos laborais, alguma vez tenha conferido competência regulamentar à Administração para, através de comandos regulamentares, ser ela própria a fixar o regime sancionatório sobre o trabalho ilegal.
+Salvo o devido respeito, entendemos que o referido diploma legal mais não seja do que um documento onde vem definir as medidas e os objectivos da política de emprego que o então Território de Macau pretendia alcançar.
+Embora se preveja, por um lado, na alínea a) do artigo 7º daquele diploma que a prossecução dos objectivos pressupõe a adopção de medidas que visam, nomeadamente, o aperfeiçoamento da legislação sobre as relações de trabalho e a revisão do seu regime sancionatório, e por outro, no artigo 10º que cabe ao Governador adoptar as providências necessárias ao desenvolvimento, concretização e execução das bases constantes daquela lei, mas isso não significa que se trata de uma lei habilitadora, uma vez que, face ao regime anterior a 1999, o Governador tinha poderes legislativos, e não se descortina que necessidade teria o órgão legislativo que delegar competência ao Governador para regulamentar sobre a matéria do regime sancionatório, antes pelo contrário, por ter o Governador poderes legislativos, foi “alertado” sobre a necessidade de tomar providências destinadas à execução das bases constantes da referida lei, mormente por meio de diplomas legislativos.
+Isto para concluir que os artigos 7º e 10º não têm natureza de lei habilitadora, pelo que o regime sancionatório previsto no artigo 9º do Regulamento Administrativo nº 17/2004 é ilegal, deixando, por isso, de ser aplicável no caso em apreço.
+*
+E não se diga que, com a entrada em vigor da Lei nº 13/2009, que vem definir o regime jurídico de enquadramento das fontes normativas internas, o problema ficou resolvido.
+Dispõe o artigo 10º daquela Lei que “os regulamentos administrativos publicados antes da entrada em vigor da presente lei, ainda que não observem o regime nesta estabelecido, continuam a produzir efeitos jurídicos até à sua alteração, suspensão ou revogação através de diplomas legais”.
+Face ao estatuído, os regulamentos administrativos publicados antes de 15 de Agosto de 2009 podem continuar a produzir efeitos jurídicos, mesmo que contrariem o regime estabelecido naquele diploma legal.
+Afigura-se-nos que o legislador pretendia, através da referida disposição transitória, “ratificar” os regulamentos administrativos que eventualmente pudessem ser considerados “ilegais”.
+Mas quanto ao nosso caso, se bem se reparar, a Lei nº 13/2009 entrou em vigor em 15 de Agosto de 2009, ao passo que os factos imputados à recorrida ocorreram antes daquela data.
+Preceitua o artigo 9º do Decreto-Lei nº 52/99/M (Regime Geral das infracções administrativas e respectivo procedimento), que “ao regime material das infracções administrativas são aplicáveis, com as necessárias adaptações, as disposições constantes dos nºs 1 e 3 do artigo 1º, dos artigos 2º, 3º, 18º, 119º, 120º e do nº 2 do artigo 123º do Código Penal”.
+Por sua vez, diz o nº 1 do artigo 1º do Código Penal que “só pode ser punido criminalmente o facto descrito e declarado passível de pena por lei anterior ao momento da sua prática”.
+Sendo ilegal a respectiva norma regulamentar no momento em que ocorreram os factos e com base nos quais foi aplicada uma multa administrativa à recorrida, mesmo que a Lei nº 13/2009 venha posteriormente a pôr cobro a tal situação de ilegalidade, mas tendo em consideração a natureza sancionatória da norma regulamentar em causa, essa sanação não pode ter efeitos retroactivos.
+Em boa verdade, o princípio da legalidade funda-se na necessidade de garantir aos cidadãos protecção jurídica face à possibilidade de incriminações e censuras arbitrárias por parte dos poderes públicos, em que foram férteis os períodos de absolutismo monárquico, onde as leis penais serviam mais o rei e os seus caprichos do que o bem comum.3
+Nesta conformidade, tendo a Administração praticado o acto administrativo em violação ao princípio da legalidade previsto nos termos do nº 1 do artigo 3º do Código do Procedimento Administrativo, somos a concluir pela anulação do acto, ao abrigo do artigo 124º do mesmo Código.
+***
+III) DECISÃO
+Face ao exposto, acordam em negar provimento ao recurso jurisdicional.
+Sem custas por a recorrente (DSAL) ser isenta ao abrigo do artigo 2º do Regulamento das Custas dos Tribunais.
+Registe e notifique.
+***
+Macau, 12 de Junho de 2014
+_________________________	   	          _________________________
+Tong Hio Fong   				           			    Mai Man Ieng
+(Relator)							                         (Fui presente)
+(Magistrado do M.oP.o)
+_________________________
+Lai Kin Hong
+(Primeiro Juiz-Adjunto)
+(Subscrevo o presente Acórdão em tudo quanto não colide com a minha posição já assumida nos Acórdãos nºs 225/2005 e 280/2005 deste TSI.)
+_________________________
+João Augusto Gonçalves Gil de Oliveira
+(Segundo Juiz-Adjunto)
+(vencido, com tudo o respeito pela posição expressa no acórdão, pois acompanho a posição do V.do TUI no proc. n.º 28/2006)
+1 José Eduardo Figueiredo Dias, in Manual de Formação de Direito Administrativo de Macau, 2006, CFJJ, página 180
+2 Lino José B. R. Ribeiro, in Código do Procedimento Administrativo de Macau Anotado e Comentado, 1998, Fundação Macau, página 543
+3 Manuel Leal-Henriques, in Anotação e Comentário ao Código Penal de Macau, Volume I, 2013, CFJJ, página 58
+---------------
+------------------------------------------------------------
+---------------
+------------------------------------------------------------
+Processo 733/2011                                                        Página 16

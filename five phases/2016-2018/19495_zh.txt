@@ -1,0 +1,215 @@
+-	不法吸食麻醉藥品及精神藥物罪與受麻醉藥品及精神科物質影響下駕駛罪的競合關係
+-	量刑
+body {
+font-size: 13px;
+line-height: 25px;
+background-color: #fff;
+}
+.highlight-key {
+font-weight: bold;
+background: #FFFF00;
+}
+打印全文
+﻿編號：第784/2014號 (刑事上訴案)
+上訴人：檢察院
+A
+日期：2016年1月21日
+主要法律問題：
+- 不法吸食麻醉藥品及精神藥物罪與受麻醉藥品及精神科物質影響下駕駛罪的競合關係
+- 量刑
+摘 要
+1. 受麻醉藥品或精神科物質影響下駕駛罪與不法吸食麻醉藥品及精神科藥物罪的犯罪性質完全不同，兩者更各自保障的不同的法益。受麻醉藥品或精神科物質影響下駕駛罪保護的法益為公共道路使用者之安全；而不法吸食麻醉藥品及精神科藥物罪則旨在先保障的行為人的個人健康，繼而是公共衛生。
+2. 在本案中，考慮有關情節及嫌犯之過錯，亦考慮到嫌犯的行為對道路交通安全所帶來的負面影響，因此，本合議庭認為嫌犯觸犯一項不法吸食麻醉藥品及精神科藥物罪，判處一個月徒刑；一項受麻醉藥品或精神科物質影響下駕駛罪，判處六個月徒刑。兩罪競合，合共判處七個月實際徒刑。
+裁判書製作人
+___________________________
+譚曉華
+合議庭裁判書
+編號：第784/2014號 (刑事上訴案)
+上訴人：檢察院
+A
+日期：2016年1月21日
+一、 案情敘述
+於2014年10月7日，嫌犯A在初級法院刑事法庭第CR4-14-0351-PCS號卷宗內被裁定觸犯一項《道路交通法》第90條第2款所規定及處罰的受麻醉藥品或精神科物質影響下駕駛罪，判處6個月的實際徒刑。
+作為附加刑，禁止嫌犯駕駛為期1年6個月（實際執行徒刑的期間不計算在內）。
+另外，嫌犯A被控以直接正犯、故意及既遂的行為構成一項8月10日第17/2009號法律第14條所規定及處罰的不法吸食麻醉藥品及精神科藥物罪，因被嫌犯所觸犯的《道路交通法》第90條第2款所規定及處罰的一項受麻醉藥品或精神科物質影響下駕駛罪所吸收而不再作獨立的論處。
+檢察院不服，向本院提起上訴，並提出了以下的上訴理由（結論部分）：
+1. 上訴人對原審法院認定的事實沒有異議，但不同意被上訴判決中將受麻醉品或精神科藥物影響下駕駛罪與不法吸食麻醉藥品及精神藥物罪之間認定為吸收關係，從而不對後罪進行獨立處罰的決定，認為該決定違反法律規定，存有《刑事訴訟法典》第400條第1款規定的錯誤適用法律的瑕疵。
+2. 根據澳門中級法院在第689/2013號及122/2014號合議庭裁判中所持的見解，受精神科物質影響下駕駛罪與一項不法吸食麻醉藥品及精神藥物罪之間不存在吸收關係，而是實質競合的關係。
+3. 雖然，構成毒駕罪的前提要件是行為人曾不法吸食麻醉品或精神科物質且在該物質影響下在公共道路上駕駛車輛，但上訴人認為毒駕罪的成立不會吸收作為構成要件的吸毒罪。
+4. 一方面，兩罪所保護的法益並不相同，吸毒罪保護的法益是行為人的身心健康，而毒駕罪保護的法益則是其他道路使用者的安全。
+5. 另一方面，立法者在訂定毒駕罪的刑罰時援引了醉酒駕駛罪的罰則，法律上，喝酒本身不構成犯罪，而不法吸食毒品則為犯罪行為，倘毒駕罪吸收吸毒罪，則毒駕罪與醉酒駕駛罪在刑幅上應有一定程度的差別，然而立法者卻將毒駕罪的處罰在抽象刑幅上與醉酒駕駛罪等同，由此可見，立法者在制定毒駕罪時將立足點置於該罪在公共道路上所造成的危險性，而非考慮吸毒對行為人本身所帶來的不良影響。
+6. 因此，本案中，嫌犯被裁定觸犯的一項不法吸食麻醉藥品及精神藥物罪應作獨立處罰及量刑。
+綜上所述，檢察院請求中級法院法官閣下裁定上訴理由成立，以及
+- 廢止被上訴判決中關於不對嫌犯所觸犯的一項第17/2009號法律第14條所規定及處罰的不法吸食麻醉藥品及精神藥物罪作獨立的判處之部份，並以該罪的刑幅對嫌犯重新量刑及將嫌犯於本案中被判處的兩罪進行刑罰競合。
+- 對嫌犯於本案中被判處的兩罪進行刑罰競合後，請求維持被上訴判決中對嫌犯處以實際徒刑的決定，以及維持禁止嫌犯駕駛為期1年6個月的附加刑(實際執行徒刑的期間不計算在內)。
+最後，請求尊敬的中級法院法官閣下作出一如既往的公正裁判！
+嫌犯亦不服，向本院提起上訴。1
+檢察院對嫌犯的上訴作出了答覆，並提出下列理據（結論部分）：
+1. 上訴人提出原審法院沒有依照《刑法典》第44條的規定將其被判處的徒刑以罰金代替，認為在一般預防及特別預防方面皆沒有實際執行徒刑的需要，主張應以非剝奪自由的刑罰替代所科處的徒刑。
+2. 對此，本院不認同。
+3. 本案中，原審法院基於緩刑不能達至處罰的目的，決定實際執行徒刑，正如中級法院於第807/2010號合議庭裁判中所言：“……原審法院在選擇不緩刑的時候已經以同樣的理由否定了使用第44條規定的罰金替代刑的規定， 即非剝奪自由刑已經不能實現刑罰的目的，尤其是達到特別預防犯罪的目的。”
+4. 本院認同原審法院不以罰金替代徒刑，理由在於上訴人非為初犯，曾在2011年因觸犯醉酒駕駛罪被第CR3-11-0087-PSM號案判處4個月徒刑，法院已給予其以罰金代替徒刑的機會，但上訴人又再次觸犯相同類型的犯罪，顯然，本案中應排除採用罰金的可能性。
+5. 關於緩刑方面，本院認為無論從一般還是特別預防方面都有實際執行徒刑的需要。
+基於此，請求尊敬的中級法院法官閣下裁定上訴理由全部不成立，維持原判，並作出一如既往的公正裁判！
+嫌犯對檢察院的上訴作出了答覆，並提出有關理據。2
+案件卷宗移送本院後，駐本審級的檢察院代表作出檢閱及提交法律意見，認為檢察院的上訴理由成立而嫌犯上訴理由不成立。
+本院接受上訴人提起的上訴後，組成合議庭，對上訴進行審理，各助審法官檢閱了卷宗，並作出了評議及表決。
+二、事實方面
+原審法院經庭審後確認了以下的事實：
+1. 2014年6月1日凌晨（具體時間不詳），嫌犯A於本澳皇朝區某卡拉OK內吸食由不知名人士提供之藥物後駕駛一輛編號ML-XX-XX輕型汽車離開。
+2. 約4時25分，警員B在孫逸仙大馬路近C娛樂場執行查車行動時截停嫌犯，發現嫌犯鼻孔沾有白色粉末且神情呆滯及反應遲緩，故帶同嫌犯到仁伯爵綜合醫院進行藥物檢驗，結果顯示嫌犯體內對第17/2009號法律表II-C第7項所管制的氯胺酮呈陽性反應（參見卷宗第6頁）。
+3. 嫌犯清楚認識上述毒品的性質及特徵。
+4. 嫌犯明知在未經獲得准許的情況下，不可取得及持有上述毒品以供個人吸食之用。
+5. 嫌犯明知會在公共道路上駕駛車輛，但仍然在駕駛前吸食毒品。
+6. 嫌犯是在自由、自願及有意識的情況下作出上述行為。
+7. 嫌犯知悉其行為觸犯法律，會受法律制裁。
+此外，還查明：
+8. 嫌犯對被指控的事實作出毫無保留的自認。
+9. 嫌犯具有小學六年級的學歷，現時任職文員兼任送貨司機，月薪為澳門幣12,000元，與沒有工作的未婚妻育有一名子女；此外，嫌犯表示還有一名兒子，嫌犯需要照顧其孫兒。
+10. 根據嫌8/犯的最新刑事記錄顯示，嫌犯並非初犯。
+1) 嫌犯曾因觸犯《道路交通法》第90條第1款所規定的1項醉酒駕駛罪，於2011年5月17日被第CR3-11-0087-PSM號卷宗判處4個月徒刑，該徒刑准以罰金代替，每日罰金訂定為澳門幣80元，合共澳門幣9,600元，倘若不支付罰金或不以勞動代替，則嫌犯須服被判處的4個月徒刑，作為附加刑，中止嫌犯的駕駛執照之效力為期1年，判決於2011年5月27日轉為確定，嫌犯已繳納該案所被判處的罰金。
+11. 嫌犯還確認有以下犯罪前科記錄：
+嫌犯曾因觸犯1886年《刑法典》第182條及第181條所規定及處罰的一項犯罪，於1990年9月6日被原第1庭第657/1990簡易刑事卷宗判處20日罰金，每日以澳門幣4元計算，如不繳納，則需服13日徒刑，嫌犯已繳納有關罰金。
+12. 此外，嫌犯表示1年前曾涉及傷人的案件。
+未能證明的事實：沒有。
+三、法律方面
+本上訴涉及下列問題：
+- 不法吸食麻醉藥品及精神藥物罪與受麻醉藥品及精神科物質影響下駕駛罪的競合關係
+- 量刑
+1.	 檢察院認為原審判決中將受麻醉品或精神科藥物影響下駕駛罪與不法吸食麻醉藥品及精神藥物罪之間認定為吸收關係，從而不對後罪進行獨立處罰的決定，違反法律規定，存有《刑事訴訟法典》第400條第1款規定的錯誤適用法律的瑕疵。
+《道路交通法》第90條第2款規定：
+“一、任何人在公共道路上駕駛車輛而其每公升血液中的酒精含量等於或超過1.2克，如其他法律規定無訂定較重處罰，則科處最高一年徒刑及禁止駕駛一年至三年。
+二、任何人受麻醉品或精神科物質的影響下在公共道路上駕駛車輛而其服食行為依法構成犯罪者，亦科處上款所定的刑罰。
+三、過失者，亦予處罰。”
+第17/2009號法律第14條規定：
+“不法吸食表一至表四所列植物、物質或製劑者，或純粹為供個人吸食而不法種植、生產、製造、提煉、調製、取得或持有表一至表四所列植物、物質或製劑者，處最高三個月徒刑，或科最高六十日罰金。”
+受麻醉藥品或精神科物質影響下駕駛罪與不法吸食麻醉藥品及精神科藥物罪的犯罪性質完全不同，兩者更各自保障的不同的法益。受麻醉藥品或精神科物質影響下駕駛罪保護的法益為公共道路使用者之安全；而不法吸食麻醉藥品及精神科藥物罪則旨在先保障的行為人的個人健康，繼而是公共衛生。
+同樣裁判可參見本院2013年12月12日第689/2013號及2014年4月10日第122/2014號裁判書。3
+因此，檢察院的上訴理由成立，改判嫌犯A同時觸犯一項8月10日第17/2009號法律第14條所規定及處罰的不法吸食麻醉藥品及精神科藥物罪，可被判處一至三個月徒刑。
+2. 嫌犯A提出了其受麻醉藥品或精神科物質影響下駕駛罪被判處六個月實際徒刑量刑不當，認為原審法院沒有優先考慮及裁定以罰金替代徒刑違反了《刑法典》第44條，另外，原審法院沒有給予嫌犯緩刑亦違反了《刑法典》第48條的規定。
+《刑法典》第44條的規定：“一、科處之徒刑不超逾六個月者，須以相等日數之罰金或以其他可科處之非剝奪自由之刑罰代替之，但為預防將來犯罪而有必要執行徒刑者，不在此限；下條第三款及第四款之規定，相應適用之。二、被判刑者如不繳納罰金，須服所科處之徒刑；第四十七條第三款之規定，相應適用之。”。
+根據《刑法典》第48條之規定，經考慮行為人之人格、生活狀況、犯罪前後之行為及犯罪情節後，認定僅對事實作譴責並以監禁作威嚇可適當及足以實現處罰之目的，法院得將所科處不超逾三年之徒刑暫緩執行。
+換言之，法院若能認定不需通過刑罰的實質執行，已能使行為人吸收教訓，不再犯罪，重新納入社會，則可將對行為人所科處的徒刑暫緩執行。因此，是否將科處之徒刑暫緩執行，必須考慮緩刑是否能適當及充分地實現處罰之目的。
+根據原審法院已確認之事實，於2014年6月1日，嫌犯被發現於本澳公共道路上駕駛車輛，因警員執行截查車輛行動，發現嫌犯鼻孔沾有白色粉末且神情呆滯及反應遲緩，故帶同嫌犯到仁伯爵綜合醫院進行藥物檢驗，結果顯示嫌犯體內對第17/2009號法律表II-C第7項所管制的氯胺酮呈陽性反應。
+嫌犯觸犯的一項《道路交通法》第90條第2款所規定及處罰的一項受麻醉藥品或精神科物質影響下駕駛罪，可被判處最高一年徒刑及禁止駕駛一年至三年；一項8月10日第17/2009號法律第14條所規定及處罰的不法吸食麻醉藥品及精神科藥物罪，可被判處最高三個月徒刑，或科最高六十日罰金。
+對嫌犯有利的情節是嫌犯對被控事實作完全及毫無保留的自認。然而，考慮到嫌犯是在現行犯的狀況下被捕，因此，其對事實的自認所顯示的悔意程度亦相對減弱。
+雖然嫌犯有固定職業，但是從嫌犯再次實施不法行為的事實可以顯示嫌犯漠視本澳法律，惘顧其他道路使用者的安全，嚴重缺乏交通安全意識，可顯示嫌犯守法意識薄弱，犯罪故意程度較高，特別預防的要求亦相應提高。
+另一方面，需考慮對犯罪一般預防的要求。
+與其他罪行相比，嫌犯所觸犯的受麻醉藥品或精神科物質影響下駕駛罪和不法吸食麻醉藥品及精神藥物罪雖然不屬嚴重的罪行，但考慮到這種犯罪在本澳普遍，而且對社會安寧造成一定的負面影響，由此而產生了預防和打擊同類罪行的迫切要求。
+考慮到澳門社會的現實情況，同時也考慮立法者以刑罰處罰吸毒及毒駕行為所要保護的法益及由此而產生的預防和打擊同類罪行的要求，需要重建人們對被違反的法律規定及正常的法律秩序的信任和尊重。
+因此，考慮到本案的具體情況和澳門社會所面對的現實問題，尤其是嫌犯已有的犯罪前科，本案對嫌犯以罰金代刑或處以緩刑並不能適當及充分實現刑罰的目的，尤其不能滿足特別預防的需要。
+根據《刑法典》第64條之規定，如對犯罪可選科剝奪自由之刑罰或非剝奪自由之刑罰，則只要非剝奪自由之刑罰可適當及足以實現處罰之目的，法院須先選非剝奪自由之刑罰。
+根據已經證明的事實，考慮到本案的犯罪情節普遍，同時為預防犯罪之需要，法院認為判處嫌犯罰金不適當亦不足以實現處罰之目的。
+量刑須根據《刑法典》第40及65條之規定。
+具體刑罰之確定須按照行為人之罪過及預防犯罪的要求為之，同時，亦須考慮不法程度、實行之方式、後果之嚴重性、對被要求須負義務之違反程度、故意之嚴重程度、所表露之情感、嫌犯之動機、嫌犯之個人狀況及經濟狀況、事發前後之行為及其他已確定之情節。
+所以，在本案中，考慮上述情節及嫌犯之過錯，亦考慮到嫌犯的行為對道路交通安全所帶來的負面影響，因此，本合議庭認為嫌犯觸犯一項不法吸食麻醉藥品及精神科藥物罪，判處一個月徒刑；一項受麻醉藥品或精神科物質影響下駕駛罪，判處六個月徒刑。兩罪競合，合共判處七個月實際徒刑。
+根據《刑法典》第48條之規定，考慮嫌犯之人格、生活狀況、犯罪前後之行為及犯罪情節後，尤其考慮到嫌犯的犯罪前科，犯罪後果嚴重，未能認定僅對事實作譴責並以徒刑作威嚇已適當及足以實現處罰之目的，因此合議庭決定不將所科處之徒刑暫緩執行。
+故此，嫌犯的上訴理由並不能成立。
+四、決定
+綜上所述，合議庭裁定檢察院的上訴理由成立，嫌犯的上訴理由不成立。
+本院改判嫌犯A觸犯：
+- 一項《道路交通法》第90條第2款所規定及處罰的一項受麻醉藥品或精神科物質影響下駕駛罪，判處一個月徒刑；
+- 一項8月10日第17/2009號法律第14條所規定及處罰的不法吸食麻醉藥品及精神科藥物罪，判處六個月徒刑；
+- 兩罪競合，合共判處七個月實際徒刑。
+維持原審其餘裁決。
+判處嫌犯繳付4個計算單位之司法費，上訴的訴訟費用。
+著令通知。
+2015年1月21日
+______________________________
+譚曉華 (裁判書製作人)
+______________________________
+蔡武彬 (第一助審法官)
+______________________________
+司徒民正 (第二助審法官)
+(Vencido quanto à condenação pelo crime de “condução sob influência de estupefacientes…”, p. e p. pelo ant.° 90°, n.° 2, de Lei n.° 3/2007, dando aqui como reproduzido o teor de minha declaração de voto anexa ao Ac. de 30.10.2014, Proc. n.° 638/2014)
+1其結論葡文內容如下：
+1. Vem o presente recurso interposto da decisão supra referida que condenou o arguido, A, ora recorrente, como autor material, na forma consumada, por um crime de “condução sob a influência de estupefacientes ou substâncias psicotrópicas ”, p. e p. pelo art.º 90º, nº 2 da Lei do Trânsito Rodoviário, na pena de prisão de 6 meses e na pena acessória de 1 ano e 6 meses de inibição de condução.
+2. Não concorda o recorrente, salvo o devido respeito, com a pena que ora lhe foi aplicada, basicamente porque:
+• O crime em causa - se bem que em termos comunitários tem de ser prevenido - não tem a gravidade que o Tribunal “a quo” lhe atribui;
+• O facto de o arguido ter cometido o mesmo crime, em 2011, não justificaria, agora, em termos de prevenção especial, a aplicação de uma pena efectiva; e
+• Não foi devidamente ponderada a situação pessoal do arguido.
+3. O crime p. e p. pelo art.º 90º da L.T.R. pune os respectivos autores numa pena até 1 ano de prisão.
+4. A privação de liberdade, só deveria ser aplicada em casos estritamente inevitáveis.
+5. É, para isso, que existem as penas de substituição, tão em “desuso” (e mal, salvo o devido respeito ... ) pelo Julgador da R.A.E.M ..
+6. O Código Penal opta nitidamente por uma censura penal que não implique a privação da liberdade.
+7. Nos termos do art.º 44º, nº 1 do C.P. “a pena de prisão aplicada em medida não superior a 6 meses é subsituida por igual número de dias de multa ... excepto se a execução da prisão for exigida pela necessidade de prevenir o cometimento de futuros crimes ...”.
+8. Trata-se efectivamente de um “poder/dever” e não de uma opção por parte do tribunal e, assim, uma vez verificados os pressupostos da prevenção geral (“uma vez que as finalidades de prevenção especial são sempre contrariadas pela aplicação de uma pena de curta duração”), esta pena de substituição não pode deixar de ser aplicada.
+9. Entende o recorrente, ainda, que, pelo facto de ter cometido, no ano de 2011 - isto é, volvidos mais de 3 anos sobre os factos dos presentes autos - um mesmo crime, tal não envolveria, pelo que acima se disse, a “necessidade” de lhe ser aplicada uma pena privativa de liberdade.
+10. Acresce, por outro lado, que o arguido recorrente não foi condenado por este mesmo crime, por factos ocorridos em 9 de Janeiro de 2014.
+11. Do registo criminal do arguido (v. fls. 62 dos autos) não consta tal condenação; logo o Tribunal “a quo” não poderia ter tomado em consideração tal facto, sob pena de violação do princípio nuclear do direito penal, da “presunção de inocência”.
+12. Finalmente, entende o arguido recorrente que a prisão efectiva por 6 meses não tem, também pelo que acima se disse, a menor utilidade em termos de finalidade reeducativa.
+Bem pelo contrário
+13. Tendo em conta a situação pessoal, familiar e profissional do arguido, o facto de ele poder vir a ser retirado ao meio sócio - familiar em que está inserido, poderá ter consequências desastrosas.
+14. Justificar-se-ia, salvo o devido respeito, perante o quadro factual, uma maior ponderação na pena aplicada.
+No que ao arguido diz respeito, como se vem referindo, meios haveria de o desviar de um caminho que negligentemente trilhou.
+O Tribunal teria forma de o verificar.
+Termos em que
+Deverá ser dado provimento ao presente recurso, substituindo a pena de prisão de 6 meses que foi aplicada ao arguido, A, por uma outra não detentiva de liberdade e que satisfaça a necessária prevenção que o caso merece.
+Assim se fazendo JUSTIÇA.
+2其葡文內容如下：
+1.  A Digna Delegada do Procurador motivou o seu recurso, alegando, em síntese:
+“上訴人尊重原審法院的法律理解，但不同意被上訴判決中將受麻醉品或精神科藥物影響下駕駛罪與不法吸食麻醉藥品及精神藥物罪之間認定為吸收關係，從而不對後罪進行獨立處罰。
+根據澳門中級法院在第689/2013號及122/2014號合議庭裁判中所持的見解，受精神科物質影響下駕駛罪與一項不法吸食麻醉藥品及精神藥物罪之間不存在吸收關係，而是實質競合的關係。”
+2. Para a fundamentação da sua Motivação, avançou ainda:
+“上訴人對原審法院認定的事實沒有異議，但不認同原審法院對法律的適用，認為被上訴裁決存有《刑事訴訟法典》第400條第1款規定的錯誤適用法律的瑕疵。”
+3.  Esclarecendo tamém:
+“雖然，構成毒駕罪的前提要件是行為人曾不法吸食麻醉品或精神科物質且在該物質影響下在公共道路上駕駛車輛，但上訴人認為毒駕罪的成立不會吸收作為構成要件的吸毒罪，因為一方面，兩罪所保護的法益並不相同，吸毒罪保護的法益是行為人的身心健康，而毒駕罪保護的法益則是其他道路使用者的安全。另一方面，立法者在訂定毒駕罪的刑罰時援引了醉酒駕駛罪的罰則，法律上，喝酒本身不構成犯罪，而不法吸食毒品則為犯罪行為，倘毒駕罪吸收吸毒罪，則毒駕罪與醉酒駕駛罪在刑幅上應有一定程度的差別，然而立法者卻將毒駕罪的處罰在抽象刑幅上與醉酒駕駛罪等同，由此可見，立法者在制定毒駕罪時將立足點置於該罪在公共道路上所造成的危險性，而非考慮吸毒對行為人本身所帶來的不良影響。因此，本案中，嫌犯被裁定觸犯的一項不法吸食麻醉藥品及精神藥物罪應作獨立處罰及量刑。”
+(Vide as p.p. 2, 4 e 5 da douta Motivação. Para os efeitos legais, dá-se por integralmente reproduzida)
+4. Salvo o devido respeito, o arguido não achou que o Tribunal a quo tem implicado o erro, ao abrigo do artigo 400º, nº 1 do Código de Processo Penal, mas sim, exerce independentemente a função judicial, sendo livre de qualquer interferência e estando apenas sujeito à lei, nos termos do artigo 83º da Lei Básica da RAEM.
+5. Além do Princípio de Independência do Juiz consagrado pela Lei Básica, o artigo 5º, nº 1 da Lei de Base da Organização Judiciária, aprovada pela Lei nº 9/1999, define claramente: “Os tribunais são independentes, decidindo as questões sobre que detenham jurisdição exclusivamente de acordo com o direito e não se encontrando sujeitos a interferências de outros poderes ou a quaisquer ordens ou instruções.”
+6. Pelo que, ora, o tribunal a quo, mesmo com uma interpretação e aplicação do direito positivista e normalizado em quesão diferente dos acordãos anteriormente proferidos pelo tribunal de 2ª Instância, não incorre ainda o erro, a não ser que o tribunal a quo decida de acordo com a uniformização de jurisprudência, ou seja, na matéria jurídico-processual-penal, o acordão proferido ao abrigo dos artigos 419º e seg. do Código de Processo Penal.
+7. A par da praxe ad judicia enraizada e formulada pelo Tribunal de 2ª Instância, agora, tribunal ad quem, nos recentes acordãos, em relação à interpretação e aplicação do artigo 90º, nº 2 da Lei do Trânsito Rodoviário, não carecem opiniões divergentes, maxime, o Ministério Público defendeu a existência da consumpção do crime de condução sob influência de estupefacientes ou substâncias psicotrópicas em relação ao crime de consumo ilícito de estupefacientes e de substâncias psicotrópicas.
+8. De facto, ninguém duvida que a doutrina da unidade e da pluralidade dos crimes “constitui um problema dogmático extremamente complicado, em todas as hipóteses, porque os conceitos jurídicos apontados se extremam entre si em razão das diferentes consequências jurídicas que se lhes seguem ou se pretende que se lhes sigam”. (CAVALEIRO DE PERREIRA Licões, I (1992), p.534, in José Lobo Moutinho, DA UNIDADE À PLURALIDADE DOS CRIMES NO DIREITO PENAL PORTUGUÊS, Universidade Católica Editora, Maio 2005, p. 11)
+9. ln casu, disse muito bem a Digna Delegada do Procurador que tutelando esses dois tipos legais de crime interesses eminentemente distintos, só há concurso efectivo real entre os dois tipos legais, e não concurso aparente, nem qualquer relação de absorção do primeiro tipo pelo segundo. Na verdade, pretende aquele primeiro tipo legal evitar que o seu agente tenha a sua própria saúde prejudicada pelo efeito consabidamente nocivo decorrente de todo o consumo ilegal de substância estupefaciente; enquanto o segundo tipo legal procura evitar o compreensível grande perigo de ofensa a acarretar pela conduta do agente de condução sob influência de estupefaciente, à vida e/ou à integridade física e/ou aos bens de outras pessoas.
+10. Salvo o devido respeito, o critério da definição do crime como ofensa de um bem jurídico não se colhe na corrente dominante, como o Professor JOSÉ LOBO MOUTINHO defende: “É inegável que, visando exprimir um dos vários momentos do crime, ainda entendido duma forma restrita, o bem jurídico contribuirá para identidade do crime e, pois, para a determinação da sua unidade e pluralidade. Mas “não é mais do que um dado a considerar” (Trata-se de afirmação tirada do Ac. STJ de 07-01-1999 (BMJ, n.º483, pp. 24ss), p.46, em sede de distinção entre concurso aparente e efectivo de normas), não podendo resolver por si só qualquer desses problemas e, por isso, resolver só por si qualquer problema de unidade e pluralidade das infracções: seja o do concurso ideal ou formal - a propósito do qual foi usado -, seja o do concurso aparente, seja o do crime continuado”. (Vide José Lobo Moutinho, DA UNIDADE À PLURALIDADE DOS CRIMES NO DIREITO PENAL PORTUGUÊS, Universidade Católica Editora, Maio 2005, p.375)
+11. Como a Ilustre Professora CARMONA SALGADA ao comentar o problema da segurança de tráfego como objecto de protecção, acrescenta: “aprofundando o seu conteúdo descobre-se que o tráfego seguro não é um fim em si mesmo, antes um instrumento para evitar riscos e lesões para a vida, a integridade física e bens patrimoniais. Quer dizer, a segurança do tráfego constitui-se como um bem jurídico autónomo, mas teleológicamente vinculado a bens jurídicos pessoais por estar ao serviço destes”. (Vide COMENTARIO CONIMBRICENSE DO CÓDIGO PENAL, PARTE ESPECIAL TOMO II, artigos 202º a 307º, dirigido por JORGE DE FIGUEIREDO DIAS, Coimbra Editora, Dezembro de 1999, p. 1094)
+12. A tal mesma preocupação e tutlea está obviamente prevista e regulada no seu artigo 291º do Código Penal de Portugal (equiparado ao artigo 279º do Código Penal de Macau), em que se consagra:
+“1. Quem conduzir veículo, com ou sem motor, em via pública ou equiparada,
+a) Não estando em condições de o fazer com segurança, por se encontrar em estado de embriaguez ou sob influência de álcool, estupefacientes. substâncias psicotrópicas ou produtos com efeito análogo, por deficiência física ou psíquica ou por fadiga excessiva, ou
+b) violando grosseiramente as regras da circulação rodoviária,
+e criar deste modo perigo para a vida, perigo grave para a integridade física de outrem ou perigo para bens patrimoniais alheios de valor elevado, é punido com pena de prisão até 3 anos ou com pena de multa.
+2. Se o perigo referido no número anterior for criado por negligência, o agente é punido com pena de prisão até 2 anos ou com pena de multa até 240 adias.
+3. Se a conduta referida no n.º 1 for praticado por negligência, o agente é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias”. (sublinhado nosso)
+13. Observado, a Ilustre Professora Paula Ribeiro de Faria, ao comentar a tal norma, anotando: “Fala o legislador em seguida de influência de estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo. É de considerar como substância psicotrópica, de acordo com a Convenção das Nações Unidas de 21-2-71 sobre o uso das mesmas substâncias: qualquer que possa produzir: 1) estado de dependência; 2) estimulação ou depressão do sistema nervoso contral, que tenham como resultado alucinações ou transtornos da função motora, do juízo ou do comportamento, ou da percepção ou do estado de ânimo, ou 3) um uso indevido de tipo análogo e efeitos nocivos parecidos com substâncias contidas em lista anexa. Incluem-se aqui drogas como a heroína, a cocaína, o ópio, e a morfina, bem como substâncias utilizadas em tratamentos de desintoxicação (metadona no caso do tratamento da habituação à heroína), e mesmo medicamentos que na sua utilização e dosagem actuem de forma similar (fala LACKNER § 315c 5 1243, no Dolviran, Valium e Lexotan). A insegurança na condução dependerá exclusivamente da análise do caso concreto, uma vez que se torna impossível apurar para este domínio valores de orientação ou fronteira, como sucede no caso da condução sob efeito do álcool. Acerca das substâncias e preprarações sujeitas de acordo com a nossa legislação a fiscalização e controlo, cf. tabela anexa ao DL 15/93, de 22-11, relativo ao tráfico e consumo de substâncias psicotrópicas e estupefacientes (ainda não foi publicada a legislação necessária ao controlo da influência destas substâncias sobre a condução, prevista pelo art. 159º do CE)”. (sublinhado nosso, vide COMENTÁRIO CONIMBRICENSE DO CÓDIGO PENAL, PARTE ESPECIAL TOMO II, artigos 202.º a 307.º, dirigido por JORGE DE FIGUEIREDO DIAS, Coimbra Editora, Dezembro de 1999, pp. 1081 e 1082)
+14. No mesmo comentário, a ilustre famosa professora Paula Ribeiro de Faria avançou, alegando: “Se o comportamento do agente realizar por mais do que uma forma o tipo legal do art. 291º (equivalente ao artigo 279º do Código Penal de Macau), mas der origem a uma só situaçào de perigo, teremos apenas um delito, já que o perigo unitário criado impede a consideração desligada dessas várias formas de realização típica (assim, S/ S / CRAMER § 315C 42). Diferente é a situação se no decurso de um mesmo trajecto o agente preenche sucessivamente os vários modos de actuaçào do art. 291º. Nesse caso estaremos em princípio perante um concurso efectivo, e isto mesmo que as diferentes criações de perigo se baseiem na mesma resolução da acção, e que exista uma evidente similitude no processo de actuação (contra a aceitação de um crime continuado a circunstância de estarem aqui na maior parte dos casos em jogo bens jurídicos de carácter marcadamente pessoal). Chegando-se a verificar a lesão de um dos bens jurídicos protegidos pelo nº 1, colocar-se-ia a questão de saber se a puniçào se devia fazer apenas pelas disposições correspondentes (arts. 131º ss., 142º ss. e 212º ss.) em conjugação com as regras do CE infringidas pelo agente, ou se teria antes lugar um concurso entre o art. 291º e os tipos legais referidos. Parece-nos que, tendo assumido o legislador penal a protecção da segurança da circulação rodoviária como bem jurídico a tutelar por esta norma, se teria que considerar como mais acertada a última das posições mencionadas. Todavia este é um falso problema uma vez que a agravação da punição não se fará segundo as regras do concurso de crimes, mas sim por força da aplicação do art. 285º por remissão do art. 294º (a não ser que tenha lugar a lesão de bens patrimoniais de valor elevado uma vez que não é contemplada pela agravação prevista pelo art.º 285º). Entre o artigo em análise e o art. 292º (equiparado ao artigo 90º, nº 1 da Lei do Trânsito Rodoviário, aprovada pela Lei nº 3/2007) poderá existir um concurso legal ou aparente, quando o agente ao conduzir embriagado crie um perigo concreto para os bens jurídicos individuais protegidos pelo art. 291º. Encontrará assim aplicação ao agente a moldura penal prevista para este crime”. (vide COMENTÁRIO CONIMBRICENSE DO CÓDIGO PENAL, PARTE ESPECIAL TOMO II, artigos 202º a 307º, dirigido por JORGE DE FIGUEIREDO DIAS, Coimbra Editora, Dezembro de 1999, pp. 1090 e 1091)
+15. Da mesma corrente, o Professor Eduardo Henriques da Silva Correia defende ainda:
+“Entre tais valores ou bens jurídicos verificam-se, assim, relações de mais e menos: uns contêm-se já nos outros. Ora isto não pode deixar de ter importância quando procuramos determinar aquelas relações de hierarquia entre os preceitos das quais pode resultar a exclusão da eficácia de alguns em benefício de outros. Se na verdade se apresentam ao mesmo tempo, para se aplicarem a uma certa situação de facto, diversos tipos de crimes, encontrando-se os respectivos bens jurídicos, uns relativamente aos outros, em tais relações, pode suceder que a reacção contra a violação concreta do bem jurídico, realizada pelo tipo informado pelo valor menos vasto, se efective já pela aplicação do preceito que tem em vista a defesa de bens jurídicos mais extensos.”
+Quanto isto acontece, as disposições penais vêm a encontrar-se numa relação de consunção: uma consome já a protecção que a outra visa. E como não pode oferecer dúvidas que a mais amplas, a lex consumens, tem em todo o caso de ser eficaz, é manisfesto, sob pena de clara violação do princípio ne bis in idem, que a menos amplas, a lex consumta, não pode continuar a aplicar-se.”
+(vide o mesmo autor, A TEORIA DO CONCURSO EM DIREITO PENAL, Almedina, 1996, p. 131)
+16. Da sentença, ora, recorrida resulta, dando-se como factos provados:
+“2014年6月1日凌晨（具體時間不詳），嫌犯A於本澳皇朝區某卡拉OK內吸食由不知名人士提供之藥物後駕駛一輛編號ML-XX-XX輕型汽車離開。
+約4時25分，警員B在孫逸仙大馬路近C娛樂場執行查車行動時截停嫌犯，發現嫌犯鼻孔沾有白色粉末且神情呆滯及反應遲緩，故帶同嫌犯到仁伯爵綜合醫院進行藥物檢驗，結果顯示嫌犯體內對第17/2009號法律表II-C第7項所管制的氯胺酮呈陽性反應（參見卷宗第6頁）。
+嫌犯明知在未經獲得准許的情況下，不可取得及持有上述毒品以供個人吸食之用。
+嫌犯明知會在公共道路上駕駛車輛，但仍然在駕駛前吸食毒品。
+嫌犯是在自由、自願及有意識的情況下作出上述行為。
+嫌犯知悉其行為觸犯法律，會受法律制裁。
+此外，還查明：
+嫌犯對被指控的事實作出毫無保留的自認。”
+(vide a p. 3 da sentença, e para os efeitos legais, dá-se por integralmente reproduzida)
+17. É evidente que quer na douta acusação, quer na sentença recorrida, quer no douto recurso, não tem indiciado nem provado que a actuação do arguido pôs em perigo concreto o trânsito, em causando eventual ofensa à vida e/ou à integridade fisica e/ou aos bens de outras pessoas.
+18. Ao contrário, o arguido, ao conduzir seguramente o seu automóvel ligeiro no percurso desde a ZAPE até ao Casino C, onde foi inteceptado pela Polícia, e parou o automóvel ligeiro.
+19. Pelo que, o Tribunal a quo condenou, proferindo na sua douta sentença, ora recorrida, o arguido por prática de um crime de condução sob influência de estupefacientes ou substâncias psicotrópicas, p.p. pelo artigo 90º, nº 2 da Lei do Trânsito Rodoviário, conjugado com um crime de consumo ilícito de estupefacientes e de substâncias psicotrópicas, p.p. pelo artigo 14º da Lei nº17/2009, e sem a conjugação do artigo 279º do Código Penal de Macau, aprovado pelo D.L. n° 58/95/M, de 14 de Novembro.
+20. Dando-se o artigo 292º do Código Penal de Portugal como fonte do normativo do artigo 90º da Lei do Trânsito Rodoviário, a Ilustre Professora Paula Ribeiro de Faria comentou, alegando: “Estamos perante um crime de perigo abstracto, que não pressupõe, diferentemente do tipo legal anterior a demonstração da existência de um perigo concreto para os bens jurídicos protegidos. Isso significa que o perigo não faz parte dos elementos típicos, existindo apenas uma presunção por parte do legislador, as mas das vezes fundada numa observação empírica, de que a situação é perigosa em si mesma, ou seja, que na maioria dos casos em que essa conduta teve lugar demonstrou ser perigosa sob o ponto de vista de bens jurídicos penalmente tutelados”. (vide COMENTÁRIO CONIMBRICENSE DO CÓDIGO PENAL, PARTE ESPECIAL TOMO II, artigos 202º a 307º, dirigido por JORGE DE FIGUEIREDO DIAS, Coimbra Editora, Dezembro de 1999, pp.1093)
+21. Pelo exposto, verifica-se uma agravação da pena entre o crime de consumo ilícito de estupefacientes e de substâncias psicotrópicas e o de condução sob influência de estupefacientes ou substâncias psicotrópicas, então, aquele faz parte dos elementos estruturantes deste, concluindo como a douta sentença ora recorrida:
+“8月10日第17/2009號法律第14條所規定及處罰的一項不法吸食麻醉藥品及精神科藥物罪，但因被嫌犯所觸犯的《道路交通法》第90條第2款所規定及處罰的一項受麻醉藥品或精神科物質影響下駕駛罪所吸收而不再作獨立的論處。” (vide a p. 8 da sentença, e para os efeitos legais, dá-se por integralmente reproduzido)
+22. A mesma ideia, não rara, partilha pela doutrina dominante, alegando: “Como modalidade da consunção, alguns autores alinham em primeiro lugar as constelações de factos acompanhantes (facto típico acompanhante de outros delitos). Nestes casos, não chega a suceder, como na especialidade, que o acto realiza necessariamente a descrição típica de vários preceitos: o que acontece é que normalmente a realização de um facto típico arrasta consigo a de outro, de tal forma que o legislador, ao estabelecer uma norma penal qualificada, já terá levado em conta a circunstância de que o facto costuma aparecer associado a outro com um conteúdo de ilícito essencialmente menor, como acontecerá quando um gatuno entra numa moradia por arrombamento. A realização do furto qualificado em habitação vai normalmente acompanhada da penetração por arrombamento (facto típico acompanhante). Para encontrar a moldura penal do furto assim sobrequalificado (artigo 204º, nº 2, alínea e)): pena de prisão de 2 a 8 anos) o legislador atendeu ao conjunto delitivo que supõe a subtracção, a violação de domicílio e o dano, de forma que a aplicação concreta da norma que prevê o crime menos grave deve considerar-se excluída, de acordo com o princípio “lex consumens derogat legi consuntae”. (Sublinhado nosso) (M. Miguez Garcia, O Risco de Comer uma Sopa e Outros Casos de Direito Penal, Almedina, Maio, 2011, pp. 749 e 750)
+23. In casu, o consumo ilícito de estupefacientes e de substâncias psicotrópicas (facto típico acompanhante)consubstancia o crime de condução sob influência de estupefacientes ou substâncias psicotrópicas, sem aquele faz inexistir este.
+24. Por ultimo, bem observado, a Digna Delegada do Procurador criticou, alegando na sua douta motivação: “(…)。另一方面，立法者在訂定毒駕的刑罰時援引了醉酒駕駛罪的罰則，法律上，喝酒本身不構成犯罪，而不法吸食毒品則為犯罪行為，倘毒駕罪吸收吸毒罪，則毒駕罪與醉酒駕駛罪在刑幅上應有一定程度的差別，然而立法者卻將毒駕罪的處罪在抽象刑上與醉酒駕駛罪等同，由此可見，立法者在制定毒駕罪時將立足點置於該罪在公共道路上所造成的危險性，而非考慮吸毒對行為人本身所帶來的不良影響。(…) (vide a p.4 da sentença, e para os efeitos legais, dá-se por integralmente reproduzido)
+25. Salvo o devido respeito, a Digna Delegada do Procurador ao defender a sua posição, desprezou ainda os requisitos estruturantes do tal facto típico, prevendo: “(...), quem conduzir veículo na via pública sob influência de estupefacientes ou de substâncias psicotrópicas cujo consumo seja considerado crime nos termos da lei”.(sublinhado nosso)
+26. Pelo que sem a criminalização do consumo (ilícito de estupefacientes e de substâncias psicotrópicas) não há crime como tal.
+27. O nosso ilustre Professor Catedrático, Jorge de Figueiredo Dias, no seu famoso ensino, já defende: “(...), não devem ser tomadas em consideração, na medida da pena, as circunstâncias que façam já parte do tipo de crime: nisto se traduz o essencial do princípio da proibição de dupla valoraçào. Sob este sua mais simples formulação, o princípio tem uma justificação quase evidente: não devem ser utilizadas pelo juiz para determinação da medida da pena circunstâncias que o legislador já tomou em consideração ao estabelecer a moldura penal do facto; e portanto não apenas os elementos do tipo-de-ilícito em sentido estrito, mas todos os elementos que tenham sido relevantes para a determinação legal da pena. Desta perspectiva se torna claro que o princípio da proibiçào de dupla valoração surge só, na sua forma de aparecimento imediata, como uma consequência necessária do sistema, (...)” (DIREITO PENAL PORTUGUÊS, AS CONSEQUÊNCIAS JURÍDICAS DO CRIME, Editorial Notícias, 1993, pp. 234 e 235)
+28. É ilógica a não diferenciação nem a graduação da pena entre o crime de condução sob influência de estupefacientes ou substâncias psicotrópicas com o de condução em estado de embriaguez, como a Delegada do Procurador, sob ponto de vista da dogmática da aplicação teleológica e axiológica
+29. A imperfeição legística, todavia, não deverá destruir nem valerá pena a derrocar o sistema doutrinal bem organizado e formado, pondo-se em causa o interesse do ora arguido, designadamente, o qual está, in casu, beneficiado do princípio in dubio pro reo no sentido de que um non liquet na questão da interpretação da norma em apreço.
+30. Pelo todo exposto, a sentença ora recorrida sem viciada do qualquer problema de questões de direito, nem da aplicação da subsunção por consumação do normativo, exceptuando aquele que o arguido tem motivado no seu recurso apresentado oportunamente.
+31. Pelo que, pede a improcedência do douto recurso apresentado pelo M.P., e mentém-se a aplicação por consumção do normativo em apreço.
+3 原文葡文內容如下：
+1. O tipo legal de consumo ilícito de estupefaciente do art.º 14.º da Lei n.º 17/2009, de 10 de Agosto, pretende evitar que o seu agente tenha a sua própria saúde prejudicada pelo efeito consabidamente nocivo decorrente de todo o consumo ilegal de substância estupefaciente.
+2. Enquanto o tipo legal de condução sob influência de estupefaciente do art.º 90.º, n.º 2, da Lei n.º 3/2007, de 7 de Maio, procura evitar o compreensível grande perigo de ofensa a acarretar pela conduta de
+condução do agente à vida e/ou à integridade física e/ou aos bens de outras pessoas.
+3. Tutelando esses dois tipos legais de crime interesses eminentemente distintos, só há concurso efectivo real entre os dois tipos, e não concurso aparente, nem qualquer relação de absorção do primeiro pelo segundo.
+---------------
+------------------------------------------------------------
+---------------
+------------------------------------------------------------
+1
+784/2014		p.20/20

@@ -1,0 +1,116 @@
+-	判決欠缺理據的瑕疵
+-	缺乏調查
+-	損害辯護權利
+-	缺乏故意要素
+body {
+font-size: 13px;
+line-height: 25px;
+background-color: #fff;
+}
+.highlight-key {
+font-weight: bold;
+background: #FFFF00;
+}
+打印全文
+﻿上訴案第795/2012號
+日期：2014年7月24日
+主題：  -	判決欠缺理據的瑕疵
+-	缺乏調查
+-	損害辯護權利
+-	缺乏故意要素
+摘 要
+1.	《刑事訴訟法典》第355條第2款規定，緊隨案件敍述部份之後為理由說明部份，當中列舉經證明及未經證明的事實，以及闡述即使扼要但儘可能完整、且作為裁判依據的事實上及法律上的理由，亦指明用作形成法院心證的證據。此部份的缺乏是出現在判決的形式上的瑕疵，尤其是在絕對缺乏說明理由的情況下才出現，而並非單純的判決理由的不足或者缺陷，也並不是對某個問題的論述不充分。
+2.	檢察院除了將勞工局的實況筆錄轉為控訴書之外，並沒有像其他案件那樣特別增加了顯示嫌犯主觀過錯的事實要素，原審法院並沒有像其他案件那樣認定顯示主觀過錯的事實要素，所以也不能說原審法院缺乏任何的調查和侵犯了嫌犯的辯護權利，因此也不能出現上訴人所說的無效。
+3.	勞動輕微違反的訴訟案件也不失為一個刑事性質的訴訟案件，並沒有可能推定嫌犯的故意或過失，也沒有客觀的刑事責任一說，因此在沒有證實嫌犯存在故意的情況下，嫌犯不能受到輕微違反的懲罰。
+裁判書製作人
+蔡武彬
+上訴案第795/2012號
+上訴人：A
+澳門特別行政區中級法院合議庭判決書
+一、案情敘述
+澳門特別行政區檢察院控告嫌疑人A觸犯了一項第24/89/M號法令《勞資關係法律制度》第9條第1款D項結合第7/2008號法律《勞動關係法》第10條5項及第85條第1款第(2)項所規定及處罰的勞動輕微違反，可處罰款澳門幣$20,000元至50,000元，並請求初級法院對其進行審理。
+初級法院刑事法庭第CR4-12-0032-LCT號勞動輕微違反案中，經過庭審，最後作出了以下的判決：
+1.	將違例者A被控以連續犯方式觸犯一項第24/89號法令《勞資關係法律制度》第9條第1款D項結合7/2008號法律第10條第(5)項及第85條第1款2項所規定及處罰的違例行為，改判以連續犯方式觸犯《勞動關係法》第37條、第77條、第85條第3款(5)項所規定及處罰的沒有支付超時補償的勞動輕微違反，科處澳門幣$8,000元。
+2.	另判處違例者A向員工B支付欠付工資為澳門幣三萬九千六百零一元九十一分（MOP$39601.91）及由判決作出之日起計至完全付清之法定利息。
+上訴人A不服初級法院所作的判決，向本院提起上訴，並提出了上訴理由。1
+檢察院就A提出的上訴作出答覆，認為上訴理由不成立。
+駐本院助理檢察長提出了法律意見書，認為上訴理由不成立。
+本院接受上訴人提起的上訴後，組成合議庭，對上訴進行審理，各助審法官檢閱了卷宗，並作出了評議及表決。
+二﹑事實方面
+-	﻿員工B，持編號為XXXXXX之澳門永久性居民身份證，居住於澳門XXXXX，電話：XXXXXX，於2006年9月18日至2011年6月14日期間受僱於資方，職位為保安員，於2006年9月18日至2006年10月25日期間的工資為月薪澳門幣6,600元，於2006年10月26日至2007年2月9日期間的工資為月薪澳門幣7,100元，於2007年2月10日至2007年5月31日期間的工資為月薪澳門幣8,778元，於2007年6月1日至於2008年5月31日期間的工資為月薪澳門幣9,217元，於2008年6月1日至2010年6月30日期間的工資為月薪澳門幣9,771元，於2010年7月1日至2011年2月28日期間的工資為月薪澳門幣10,113元，於2011年3月1日至2011年3月31日期間的工資為月薪澳門幣10,568元。
+-	上述員工B屬F職級員工。
+-	上述員工入職至2008年9月期間，在澳門D娛樂場工作。
+-	2008年9月起被調往屬同一集團的C工作。
+-	卷宗內第113頁的員工福利指引於2006年12月26日更新，適用於澳門D員工。當中載明F職級員工的工作時間為每天工作8小時及每週工作48小時（包括什膳時間）。
+-	C於2007年8月28日開幕，資方於2007年8月3日為入職C工作的員工制定員工工作指引。
+-	入職C工作的員工並不適用載於卷宗第113頁的員工工作指引。
+-	B被調往C時，薪酬福利並沒有改變，一直適用於2006年9月18日入職時的勞動合同。
+-	上述員工B，與資方訂立的勞動合同訂明員工每週工作48小時。
+-	B於2006年9月18日至2011年3月31日期間，每日在公司的時間為8.5小時，當中包括0.5小時的用膳時間。
+-	資方並沒有限制員工必須於員工餐廳用膳，但員工只能夠在資方安排的0.5小時時段內用膳。
+-	上述半小時是由資方根據公司的實際營運需要預先制定的。
+-	員工在每天的工作期間，資方均安排員工20分鐘的小息。
+未經證明之事實：
+-	其他與已證事實相反的事實。
+三﹑法律方面
+上訴人指責原審法庭在認定上訴人違例行為的主觀要素時欠缺理據，而且控訴書亦因缺乏調查及違反了上訴人公司的辯護權利而應屬無效，並請求開釋嫌疑人；另一方面指責原審法院在作出認定“嫌疑人在自願、自由及有意識的情況下實施上述行為，亦深知其行為屬法律所不容”的事實判決時欠缺理據，存有《刑事訴訟法典》第355條第2款所指的瑕疵，應屬無效。而在訴訟的實體問題中，上訴人指稱涉案員工由此至終每天工作時間為8小時，從未將用膳時間包括在內，因此不存在任何減低薪酬的情況，原審判決中“事實和證據”部份第三段至第六段欠缺理據，不應被認定為已證事實。
+我們逐一看看。
+（一）判決欠缺理據的瑕疵
+本案適用2014年之前的《刑事訴訟法典》。其第355條第2款（現行的訴訟法典比之前的在這條文有更高的要求）規定，緊隨案件敍述部份之後為理由說明部份，當中列舉經證明及未經證明的事實，以及闡述即使扼要但儘可能完整、且作為裁判依據的事實上及法律上的理由，亦指明用作形成法院心證的證據。
+在原來的訴訟法基礎上，上訴法院在多年的司法實踐一直明確表明，只要在事實的判決部分列舉已證事實和未證事實之後，指出法官心證所依據的證據來源，便應視為已做出了理由陳述，因為沒有任何程式法規要求法官詳細和完整地闡述邏輯推理的整個過程，或者要求法官指出認定或者不認定某一事實的心證所使用的證據。
+這個瑕疵是出現在判決的形式上的瑕疵，尤其是在絕對缺乏說明理由的情況下才出現，而並非單純的判決理由的不足或者缺陷，也並不是對某個問題的論述不充分。
+在本案中，原審法院在事實審方面指出了形成心證所依據的證據，而在法律的適用上也不失詳盡的論述，讓人明白原審法院的判決理由。至於其判決理由是否充足或者是否正確並不是這個瑕疵所要擔心的情況。
+因此，上訴人這方面的理由不能成立。
+（二） 缺乏調查及違反了上訴人公司的辯護權利
+事實上，先不論嫌犯在行政程序中的充分參與以及行使其辯護權，檢察院除了將勞工局的實況筆錄轉為控訴書（在勞動輕微違反訴訟程序中，根據《勞動訴訟法典》第91條的規定，勞工事務局所作成的實況筆錄等同於控訴書）之外，並沒有像其他案件那樣特別增加了顯示嫌犯主觀過錯的事實要素。雖然如此，原審法院並沒有像其他案件那樣認定顯示主觀過錯的事實要素，所以也不能說原審法院缺乏任何的調查和侵犯了嫌犯的辯護權利，因此也不能出現上訴人所說的無效。
+然而，由於原審法院沒有確認這些事實，卻又作出有罪判決，就提出了另外一個問題，就是法律適用的錯誤的問題，也就是第三個問題。
+（三） 關於輕微違反以及賠償
+在這一類涉及上訴人的輕微違反的案件中，雖然雇員的勞動環境以及所適用勞動合同的事實基本相同，但是由於原審法院認定的具體情況的差異，造成了有些案件被控告的輕微違反成立，有的則相反。因此，我們必須因不同的案件及其具體的情況而作不同的分析。
+像本案一樣的勞動輕微違反的訴訟案件也不失為一個刑事性質的訴訟案件，並沒有可能推定嫌犯的故意或過失，也沒有客觀的刑事責任一說，因此在沒有證實嫌犯存在故意的情況下，檢察院的控告明顯不能成立。2
+因此，不能認定嫌犯的行為違反勞動法規而構成勞動輕微違反，應該予以開釋。故嫌犯的上訴理由成立。
+四﹑決定
+綜上所述，中級法院合議庭裁定A的上訴理由成立，撤銷原審法院的判決並對嫌犯被控的勞動輕微違反予以開釋。
+本上訴不科處訴訟費用。
+澳門特別行政區，2014年7月24日
+蔡武彬
+José Maria Dias Azedo
+陳廣勝(但本人認為應維持原判，
+因為嫌犯是否在故意下作出遺法
+行為，是可從已被查證的實況筆
+錄事實推敲出來)。
+1 其葡文內容如下：
+1.	A Acusação encontra-se ferida das seguintes nulidades:
+(i)	a falta de inquérito por omissão da descrição na Acusação de todos os elementos que levaram a que a DSAL subsumisse a conduta da A, ao artigo 85º nº 1, alínea 2) da LRT, nos termos do disposto no artigo 106º, alínea d) do CPP (aplicável por remissão do artigo 89º CPT); e
+(ii)	a violação do direito de defesa da A porque tal omissão impediu que a Arguida se pronunciasse sobre a globalidade da Acusação, designadamente quanto aos elementos subjectivos do tipo contravencional, direito que está consagrado no artigo 50º nº 1, alínea b) do CPP) e no artigo 29º da Lei Básica da RAEM.
+Assim sendo, deve a Acusação ser considerada nula com tais fundamentos.
+2.	O Tribunal a quo – à semelhança da Acusação – não fundamenta as conclusões a que chegou quanto ao elemento subjectivo da (suposta) subsunção da conduta da Arguida à prática do ilícito contravencional que lhe é imputada na Sentença Recorrida, limitando-se a estabelecer uma multa no valor de 8.000,00 MOP, sem mais.
+Porém, quais sejam tais detalhes concretos da conduta supostamente ilícita, o grau de responsabilidade da Arguida ou, sequer, a capacidade económica da A – todos elementos cumulativos de que dependia a condenação da Arguida – a Sentença Recorrida nada esclarece…
+Não se clarifica se a (pretensa) contravenção teria sido praticada a título doloso ou meramente negligente ou, tão pouco, qual o grau de culpa da ora Recorrente, elementos essenciais à conclusão da operação de subsunção dos factos ao Direito aplicável.
+3.	A Acusação imputou à A a prática de uma contravenção laborais por (suposta) diminuição indirecta da remuneração de base da trabalhadora, prevista e punida pelo disposto no artigo 85º nº 1, alínea 2) da LRT.
+4.	O Tribunal veio efectivamente a condenar a A pela prática de uma contravenção por ter incumprido o dever de pagamento tempestivo da remuneração por trabalho extraordinário prestado pela trabalhadora B, em violação do disposto no artigo 77º da LRT, prevista e punida pelo artigo 85º nº 3, 5) da mesma Lei.
+5.	É face à acusação e após conhecer o seu teor (os factos aí descritos e respectiva qualificação jurídica) que o arguido está em condições de exercer o direito de defesa que lhe assiste no âmbito do processo de natureza sancionatória (como é o caso do processo contravencional), direito que se encontra consagrado quer na legislação processual penal (artigo 50º nº 1, alínea b) d CPP), quer pela Lei Básica da RAEM (vide artigo 29º).
+6.	Exigia-se à acusação – ao Ministério Público – que, antes da fase de julgamento, descrevesse toda a factualidade relevante que lhe permitiu concluir pela verificação não só dos pressupostos específicos previstos no artigo 85º nº 3, alínea 5) da LRT, mas também dos pressupostos gerais de que depende a imputação da prática de um novo ilícito contravencional: tipicidade, ilicitude, culpa e punibilidade – o que o Ministério Público não fez.
+7.	A contravenção não é um ilícito punido a título de responsabilidade objectiva, requer a verificação do elemento subjectivo na modalidade de dolo ou negligência, não podendo esta pressupor-se mas antes exigindo a respectiva comprovação em sede de prova dos factos constitutivos do ilícito, mediante a demonstração de que o arguido violou disposições legais ou direitos de terceiros ou que não procedeu com o cuidado a que, segundo as circunstâncias, estava obrigado.
+8.	A omissão da descrição de todos os elementos que levaram a que o Tribunal a quo subsumisse a conduta do Recorrente ao artigo 85º nº 3, alínea 5) da LRT resulta numa manifesta falta de fundamentação da Sentença Recorrida, nulidade insanável nos termos do disposto nos artigos 360º, alínea a) e 355º nº 2, ambos do CPP, aplicáveis por remissão do artigo 89º do CPT.
+9.	Na medida em que o Tribunal a quo inviabilizou a possibilidade de apresentação de uma defesa plena por parte da Arguida, a Sentença Recorrida é nula por violação inaceitável do direito de defesa da A, consagrado no artigo 50º nº 1, alínea b) do CPP) e no artigo 29º da Lei Básica da Região Administrativa Especial de Macau da República Popular da China.
+10.	A Sentença Recorrida é, ainda, nula nos termos do disposto no artigo 360º, alínea b) do CPP, na medida em que condena a Arguida por factos (jurídicos) não descritos na acusação (i.e., o Auto de Notícia, de acordo com o disposto no artigo 91º nº 4 do CPT e artigo 383º nº 2 do CPP).
+11.	Ainda que assim não se entendesse, - o que apenas se alega por mero dever de patrocínio e sem conceder -, sempre se dirá que, em qualquer caso, nunca poderá ser imputada à A, a prática de qualquer contravenção laboral.
+12.	De acordo com a matéria de facto provada nestes autos, o período normal de trabalho da trabalhador não sofreu qualquer alteração desde o início da sua prestação de actividade até 31.03.2011, nunca tendo ultrapassado as 48 horas de trabalho semanal contratualizadas.
+Ora, não se tendo alterado, de facto, o período normal de trabalho do trabalhador ao longo de toda a duração da respectiva relação laboral com a A, não se vislumbra em que medida poderia existir uma alteração das condições de trabalho da trabalhadora que resultasse na prestação de mais horas do que as estipuladas.
+13.	Cumpre, ainda, referir que o Guia de Benefícios de 26.12.2006 não foi entregue à trabalhadora ou sequer mencionado no momento da respectiva contratação, uma vez que este documento era inexistente à data.
+14.Acresce que não poderia o Tribunal a quo ter dado prevalência ao teor de qualquer “Guia de Benefícios” face ao do contrato individual de trabalho celebrado com a trabalhadora.
+Segundo o disposto no artigo 1º nº 1 do DL 24/89/M, “(a) contratação relativa a relações de trabalho entre empregadores directos e trabalhadores residentes é livre, sem prejuízo da observância dos condicionalismos mínimos que se encontram estabelecidos na lei, ou resultem de normas convencionais livremente aceites pelos respectivos representantes associativos, de regulamentos de empresa ou de usos e costumes geralmente praticado.”
+E, nos termos do artigo 14º da LRT, “(o)s empregadores e trabalhadores podem celebrar livremente contratos de trabalho reguladores das condições de trabalho, sem prejuízo do disposto nos números seguintes”.
+15.	Ou seja, dentro dos limites previstos por disposições imperativas da lei, empregador e trabalhador são livres de fixar o conteúdo do contrato de trabalho, que é auto-suficiente no que concerne à regulação da relação laboral.
+16.	Estando assente que a trabalhadora sempre prestou 48 horas de trabalho semanal efectivo e que o intervalo de descanso/refeição não estava incluído no respectivo período normal de trabalho, não há lugar ao pagamento de qualquer montante à trabalhadora.
+17.	Com efeito, de acordo com as disposições legais e contratuais aplicáveis (cfr. artigo 2º, alínea e) do Decreto-Lei nº 24/89/M, de 03.04 e cláusula 8ª alínea b) do contrato de trabalho junto aos autos), apenas o trabalho que fosse prestado para além do seu período normal de trabalho – i.e., das 48 horas semanais – poderia ser considerado e não ficou demonstrado que a trabalhadora tenha, alguma vez, prestado actividade não compensada para além deste limite.
+18.	Deve, pois, concluir-se que nunca foram as condições de trabalho da trabalhadora B alteradas desfavoravelmente conforme descrito na Sentença Recorrida, pelo que deverá a mesma ser declarada nula e substituída por outra de absolvição da Arguida, sob pena de violação do disposto nos artigos 77º e 85º nº 3, 5), ambos da LRT, e 360º, alínea a) e 355º nº 2, ambos do CPP, aplicáveis ex vi do artigo 89º do CPT.
+Nestes termos em que, admitido e julgado procedente o presente recurso, deverá a sentença impugnada ser revogada e substituída por decisão que corrija os pleiteados erros, absolvendo-se a Recorrente da Acusação contra si formulada e, bem assim, de quantia fixada a título de indemnização ao trabalhador em causa, assim se fazendo a esperada Justiça.
+Nos termos e para os efeitos do disposto no artigo 113º, nº 2, do CPT, requer a passagem de guias para depósito das quantias em cujo pagamento foi condenada, de forma a obter-se o efeito suspensivo deste recurso.
+2  參見中級法院2013年12月17日第796/2012號上訴案的判決。
+---------------
+------------------------------------------------------------
+---------------
+------------------------------------------------------------
+1
+TSI-795/2012		P.2

@@ -1,0 +1,243 @@
+- Erro na forma de processo e convolação para o processo de rectificação do registo predial conforme os pedidos formulados pelo Autor
+body {
+font-size: 13px;
+line-height: 25px;
+background-color: #fff;
+}
+.highlight-key {
+font-weight: bold;
+background: #FFFF00;
+}
+打印全文
+﻿Processo n.º 736/2022
+(Autos de recurso em matéria cível)
+Relator:  Fong Man Chong
+Data:      14 de Dezembro de 2022
+ASSUNTOS:
+- Erro na forma de processo e convolação para o processo de rectificação do registo predial conforme os pedidos formulados pelo Autor
+SUMÁRIO:
+I – O interesse directo de que deriva a legitimidade, segundo o artigo 72º do CPC, consiste em as partes terem fundamentos para usar de acções judiciais, tal deve ser referida à relação jurídica, objecto do pleito e determina-se, averiguando quais são os fundamentos da acção e qual a posição das partes relativamente a esses fundamentos. Quando o Autor pretende ver-se esclarecida a situação jurídica dum imóvel de que é titular, tem interesse em propor uma acção para este efeito.
+II – A causa de pedir está no acto ou facto jurídico de que a parte faz derivar a sua pretensão e não na coloração jurídica que entenda dever atribuir-lhe. Por isso não é inepta a petição inicial quando tenha sido indicada causa de pedir, embora os respectivos factos alegados não sejam suficientes e esclarecedores para determinar a procedência de todos os pedidos formulados, sendo a questão, então, de inviabilidade ou improcedência, cuja decisão poderá ser relegada para momento posterior.
+III – À luz do entendimento dominante e de acordo com o regime actualmente vigente,  a rectificação judicial pode ser requerida directamente, sem precedência do processo de rectificação administrativa (por acordo dos interessados), sendo certo que o pedido de rectificação é sempre apresentado na conservatória, não só para que o conservador sobre ele se possa pronunciar, como para que do mesmo seja dada a necessária publicidade.
+IV - Quaisquer inexatidões do registo predial, quer decorrentes do próprio título que serviu de base do registo, quer emergentes do procedimento da feitura do respectivo registo, não foram da autoria do Réu que não contribuiu (isso não significa que este não tenha interesse oposto ao do Autor), mas sim todos estes actos registrais provêm da mão do competente conservador, justifica-se assim a intervenção, desde a primeira hora, do autor do registo predial no respectivo processo de rectificação. O conservador, não sendo embora sujeito da relação jurídica controvertida, tem poder/dever de dizer “alguma coisa”, porque o seu acto é posto em crise, e tem o dever profissional de explicar, em nome da segurança jurídica do comércio,  por que razões é que tal acto foi registado nesses termos e não noutros
+V - Tendo em conta os pedidos formulados pelo Autor (“anexações das descrições duplicadas”, “eliminações”, “declaração da caducidade da posse” e “cancelamento”), não nos parece que todos os pedidos são manifestamente inviáveis, pelo menos a declaração da caducidade da posse poderá ser atendida (com a possível consequência do artigo 376º do CPC) e como tal não deve ser indeferida a PI, assim, em nome do princípio do economia processual e também o disposto no artigo 7º do CPC (princípio da adequação formal) e o regime de erro na forma de processo (artigo 145º do CPC), deve converter esta acção em processo especial de rectificação de registo predial, nos termos do artigo 114º e seguintes (processo de rectificação do registo) do CRP, remetendo-se os autos (ou remetendo-se o treslado do processado, fica o original no Tribunal) à competente conservatória  para que o conservador se possa pronunciar sobre todos os aspectos que caem na sua competência e pratique os actos necessários e úteis (cfr. artigo 122º/2 e 3 do CRP e seguintes) nos termos do disposto no artigo 394º/3 do CPC.
+O Relator,
+________________
+Fong Man Chong
+Processo nº 736/2022
+(Autos de recurso em matéria cível)
+Data		:	14 de Dezembro de 2022
+Recorrente	:	A
+Objecto do Recurso	:	Despacho que indeferiu liminarmente a petição inicial (初端駁回起訴狀之批示)
+Réu	:	B
+*
+Acordam os Juízes do Tribunal de Segunda Instância da RAEM:
+I -  RELATÓRIO
+A, Recorrente, devidamente identificada nos autos, discordando do despacho proferido pelo Tribunal de primeira instância, datado de 04/01/2022 (fls. 78 a 81), veio, em 07/02/2022, interpor recurso para este TSI, com os fundamentos constantes de fls. 93 a 113, tendo formulado as seguintes conclusões:
+1. 本上訴之標的為卷宗第78頁至81頁之根據澳門《民事訴訟法典》第394條第1款c)及d)項之規定初端駁回批示。
+2. 原審法院在初端駁回批示中不同段落中的見解主要可被歸納為認為：1.原告之第2至4點請求明顯不能成立；2.原告明顯無訴之利益；3.原告第3及4點請求明顯不能成立且原告明顯不具正當性。
+3. 在充分尊重原審法院意見的前提下，上訴人並不同意原審法院上述的見解。
+4. 原審法院認為即使證明起訴狀之事實，作為原告的上訴人的請求亦明顯不能成立。
+5. 即使原審法院認為澳門《物業登記法典》僅規定了登記的失效、註銷、不存在、無效及不準確以及對標示作廢的規定，但原告認為這並不影響原審法院對本案之審理，故此亦非屬訴訟上明顯不成立。
+6. 根據澳門《民事訴訟法典》第567條之規定：“法官不受當事人在選定、解釋及適用法律規則方面之陳述約束”。
+7. 事實上，誠如原審法院在被上訴批示亦已指出有關存在的制度是可以理解為對標示之作廢、對登錄之註銷。
+8. 即使原審法院認為有關起訴狀存在任何對請求狀況或法律依據不準確之描述，原審法院應採取的措施是根據《民事訴訟法典》第397條之規定出具補正批示，而非在初端批示駁回有關之起訴。
+9. 原審法院亦指出對重複標示(起訴狀中表述為重疊)之處理途徑是應根據澳門物業登記法典第77條之規定作出。
+10. 一般而言，土地標示重複可以是全部重複或者部份重複，而按照Vicente Monteiro對澳門物業登記法典第77條之註解，當中指出：“本條僅規範所謂的全部重複，因此，對我們似乎在將來對《法典》改革中應以更完備的方式規範重複標示的制度，以便明顯的規定，在部分重複的情況下，同樣地不管是由登記官依職權主動發起還是由任何利害關係人明示請求而提起核實重複程序。”
+11. 按照上述理解，有關條文只規範了完全重複，那麼對於部份重複的部份，現時在法律上並未有明確的方法應對，因此上述註解才會建議在將來改革中修法。
+12. 事實上，因澳門在回歸前土地登記及標示制度的並未有一個十分統一制度，土地登記標示的重複或不同標示顯示為重疊土地的情況時有發生，但這問題並不代表無須處理。
+13. Vicente Monteiro之註解亦表示：“依我們看，無論何種模式的重複，即使僅是部分重複，一旦肯定或高度地被視為具可能時，該事實應公示在登記內。”
+14. 如有關註解部份亦有提及，在對有關標示重複之處理，可以分為有協議與沒有協議兩種情況看待：“倘有協議時，則重複的標示作廢而僅保留其中一個標示及註銷不適當繕立的登記；然而，如無協議時，利售關係人應採用司法途徑，以便在宣告之訴裁定應保留那個或那些登記及應註銷那個或那些登記。無論如何，最低限度當全部重複而附註核實有重複時，登記官應把重複的標示作廢，而僅保留其中一個標示仍生效(通則是最舊的那個)，為此把關於被作廢的標示的生效的敘述備考移轉到該標示內。”
+15. 正如上訴人在起訴狀中提及(以及在CV3-15-0083-CAO之卷宗可見)，對於有關標示登錄的“利害關係人”B早已失蹤多年，上訴人已不可能尋找到有關人士去達成“倘有的協議”，那麼按照上述註解的意見，在沒有協議的情況下，上訴人無疑就只剩下宣告之訴一途!
+16. 而上訴人目前提起的宣告案，正正就是應以司法途徑以“宣告之訴裁定應保留那個或那些登記及應註銷那個或那些登記”。
+17. 原審法院亦指出，認為上訴人欲達至之目的應按照澳門物業登記法典之規定向物業登記局透過提出更正程序為之，因而認為上訴人並沒有訴之利益。
+18. 上訴人正在提起本案之訴訟前已向登記局提出有關標示出現重複(土地重疊)以及表示須由登記當局考慮如何作出登記上之合併或註銷。
+19. 根據澳門物業登記法典第120條第1款之規定：“一、如不適當繕立之登記有不準確之處或屬無效，而更正並非由全體利害關係人申請，則登記局局長須主動或應任何利害關係人之請求，以具收件回執之掛號信召集全體利害關係人開會，就是否更正進行議決，並在召集時表明如利害關係人不到場或在會議結束前不提出反對，即等同於同意作出更正。”
+20. 因尊敬的登記官 閣下認為在所呈交的關於CV3-15-0083-CAO司法裁判的效力並不包括標示第2XX4及2XX4-A與2XX0屬部份或完全重複這一事實，物業登記局亦未有對有關標示問題作出處理。
+21. 澳門物業登記法典第121條第1款之規定：“一、如並無作出上條第一款所指任一通知或未能獲得同意，則任何利害關係人均得聲請透過司法途徑作出更正。”
+22. 基於並未有任何更正程序上之“通知”，以及在事實上亦不可能獲得利害關係人的“同意”，因而上訴人提出以司法途徑來處理相關問題亦是最後辦法。
+23. 同時，原審法院亦質疑，認為如果上訴人不認同物業登記局的之批示，應透過聲明異議、訴願或司法上訴等途徑提出申訴。
+24. 上訴人所提出之聲請是希望登記局依職權地按照前述判決處理相關登記事宜，由於上訴人並不是佃底權的權利人，故並不具有針對上述批示提出上訴之正當性。
+25. 事實上，上訴人某程度上同意有關登記局之見解，因相關土地標示屬部份或完全重複這一事實並未包含在原來民事案判決書中。
+26. 基於此，基於欠缺必要前提，上訴人認為有關作為登記必要前提之欠缺是無法透過單純在登記局進行的更正程序作出。
+27. 原審法院亦質疑上訴人並未向物業登記局提交有關之地籍圖以讓局方考慮，同時亦質疑未有任何資料可以顯示2XX4及2XX4-A不動產分割自標示編號4XX9不動產。
+28. 原審法院忽略了的是，上訴人在起訴狀第38點提及：“參閱4XX9土地的物業登記申請編號“1 de 26/11/1894”的登記敍述的“其他參考”欄目，顯示"AP.1 DE 20/01/1897-JÁ FOI DESCRITO E FORMANDO DOIS PRÉDIOS SOB OS Nº S 2XX4 E 2XX4-A””
+29. 當中在起訴狀文件三所提交之物業登記證明書已經說明有關資訊，而“JÁ FOI DESCRITO E FORMANDO DOIS PRÉDIOS SOB OS Nº S 2XX4 E 2XX4-A。”
+30. 上述內容至少可以翻譯成“已經被描述及形成兩個不動產編號2XX4及2XX4-A”，有關土地標示編號是存在某程度上的重複。
+31. 根據澳門民法典第365條第1款之規定：“公文書對其本身所指由有關當局、官員或公證員作出之事實，以及對以作成文書實體之認知為依據而透過文書所證明之事實，均具有完全證明力。”
+32. 同時，根據澳門民法典第366條第1款之規定“公文書之證明力，唯以公文書為虛假作為依據時，方可予推翻。”
+33. 有關資訊是記載於澳門物業登記局所發出之物業登記證明書上，對於證明書上相關記載資訊理應被視為具有完全證明力。
+34. 原審法院認為上訴人不具有訴之利益的理解並非正確。
+35. 根據澳門民事訴訟法典第72條之規定：“如原告需要採用司法途徑為合理者，則有訴之利益。”
+36. 對此，參考Candida Pires在其撰寫的註解部份指出：“訴之利益作為獨立前提，等同於行事利益，因而有別於司法審查中具爭議之實體關係之權利人所擁有之(實體或實質)利益。亦即是，如要獲得司法保護，就要求存在一種程序上之利益。”1
+37. 同時上述學者亦繼續指出：“學術界及司法界在探討訴之利益這個問題時，一直作出大量批評(這可能是有點理由的)，尤其是針對在出現上述各項解釋為缺乏訴之利益之條件時，法院不應因此而拒絕審理實體問題，就如發生在因缺乏不可補正之訴訟前提時的一般情況中一樣。這並非因為不接受將訴之利益之前提獨立化，而是因為上述某些情況不能被定性為缺乏訴之利益。在這某些情況中，所涉及的應為請求之理由不成立之理據。”2
+38. 在本案中，上訴人作為涉案不動產利用權(DOMÍNIO ÚTIL)之權利人，應有權利對相關土地作出發展及利用，然而，因出現上述土地佃底存在占有的問題，以致上訴人按現行法律並不能自主發展有關土地，而必須先對相關佃底占有問題作出處理。
+39. 從上訴人與特區政府部門之接觸被告知上訴人因有關土地性質未明而不批准發展，故如上訴人作為利用權人欲發展有關土地，必須取得佃底權人以及佃底權利占有人之同意。
+40. 因此，根據澳門民事訴訟法典第73條之規定：“一、在確認之訴中，如原告採取行動欲解決一客觀上不確定及嚴重之情況，則有訴之利益。
+二、在形成之訴中，如不能透過原告作出一般之單方行為獲得所欲達致之法律效果，則有訴之利益。
+三、在給付之訴中，如屬下列情況，則有訴之利益：”
+41. 對此，Candida Pires在有關註解部份亦指出：“本條第2款關於形成之訴，應被理解為當擁有形成權之人不能透過簡單之意思表示而行使該權利時，就具有訴之利益。”
+42. 上訴人是不可能單純透過自己單方的行為獲得所欲達至的法律效果，按照有關規定則上訴人應被視為具有訴之利益
+43. 事實上，因在相關土地的物業登記上存在除特區外屬B之登錄，上訴人無法在存有上述登錄的情況下與特區作出任何發展及批地的聲請，這樣直接導致上訴人不能如願自主地對土地利用權作出法律上有意義的行使。
+44. 原審法院在初端駁回批示對於上述情況明顯亦未有適當考慮，就此認定上訴人並不具有訴之利益，有關見解是不應予以支持的。
+45. 原審法院亦指出上訴人在請求有關登錄之註銷時並未同時請求有關實體權利或事實之消滅。
+46. 上訴人認為在形式上有關事宜可以透過原審法院出具之補正批示作出補足。然而，原審法院亦在後續指出，認為在實質上有關訴請求並不具有訴訟可行性。
+47. 對此，原審法院認為對佃底權的單純占有並不必然否定作為物權的佃底權，亦認為根據澳門基本法第7條之規定並不導致被告獲登記的單純占有被註銷。
+48. 原審法院首先一方面認為由於被告的單純占有登記是在1932年作出，故認為在回歸前依法確認的單純占有亦應得到承認從而自回歸日起獲得過渡。
+49. 另一方面，原審法院亦不否認澳門特區回復其佃底權的可能性。
+50. 從原審法院前後兩段的見解，意味著有關佃底權利仍然具有回復為一個完整權利的可行性，只是原審法院認為不應由沒有正當性的上訴人提出(包括直接或間接地促使)，而是否回復佃底權的全貌是屬於澳門特區的權利。
+51. 有關登記標示重複狀況以及由一個長期多年不知所蹤人士名下之對佃底單純占有登記，此等屬歷史遺留下來的問題確實導致即使擁有土地利用權而不能發展的情況，這是明顯不利於特區土地資源的利用。(特別是在澳門特區土地資源是何等珍貴和稀缺的情況下)
+52. 根據澳門民事訴訟法典第58條之規定：“在原告所提出出現爭議之實體關係中之主體具有正當性，但法律另外指明者除外。”
+53. 對於上述規定，Candida Pires在其撰寫的內容中指出3：“現行法典立法者的取向是，為著決定正當性之效力，要對原告在提出其請求依據時所主張之實體關係作出衡量。這決定了缺乏這個訴訟前提甚少會導致初端駁回(起碼是涉及單一主體之正當性時)，而會留待訴訟程序後期才作審查，這最終亦符合了在以往法律制度中之主流意見，即當法官對正當性有疑問時，應聽取被告之意見以比較雙方當事人之不同版本；這做法顯示其與現行民事訴訟概念之主要方針相符，即盡可能排解爭議，而非因取得形式上之裁判而告終，由此體現了訴訟經濟原則。”
+54. 上訴人事實上亦從不否認有關回復完整佃權的權利屬於特區所有，故此上訴人才表示希望召喚澳門特區參加有關訴訟，即使原審法院認為上訴人並不直接具有回復佃底權的正當性，其亦理應經召喚特區參加後讓特區在案件中作出意思表示。
+55. 初端駁回後，特區根本沒有機會再在本案中發表意見。
+56. 至少現時由上訴人所擁有之利用權，在概念上(甚至在物理上)與特區所擁有的佃底權利(不論其是否完整)均有著直接的連結關係，故此認為上訴人(尤其基於上訴人自身利益)沒有正當性去推動有關回復權利的進行，這一看法是沒有道理的。
+57. 基於此，原審法院之初端駁回批示之理據違反澳門民事訴訟法典第394條第1款c)及d)之規定，應予廢止。
+58. 綜上所述，請求尊敬的中級法院法官 閣下裁定上訴人之理由成立，並裁定因原審法院之初端駁回批示違反澳門民事訴訟法典第394條第1款c)及d)之規定，廢止被上訴批示，並命令依法進行後續程序。
+*
+Corridos os vistos legais, cumpre analisar e decidir.
+* * *
+II - PRESSUPOSTOS PROCESSUAIS
+Este Tribunal é o competente em razão da nacionalidade, matéria e hierarquia.
+O processo é o próprio e não há nulidades.
+As partes gozam de personalidade e capacidade judiciária e são dotadas de legitimidade “ad causam”.
+Não há excepções ou questões prévias que obstem ao conhecimento do mérito da causa.
+* * *
+III – FACTOS ASSENTES:
+- Em 01/09/2021 foi proposta no TJB esta acção cível sob forma ordinária, em que o Autor formulou os seguintes pedidos:
+1) 命令將標示編號2XX0及4XX9中有關重疊的部分作出合併(即有關標示編號2XX4及2XX4-A)；
+2) 命令刪除標示編號4XX9中登錄編號為1XX15，與標示編號2XX4及2XX4-A相關的部分；
+3) 宣告4XX9不動產中登錄編號為1XX15並載於XX簿冊的第XX頁的中B之權利涉及原告所有利用權的土地2XX4及2XX4-A的佃底權單純占有登錄視為喪失；
+4) 命令取消登錄編號1XX15中與2XX4及2XX4-A相關之登錄；
+5) 召喚澳門特別行政區以便其在願意時參加訴訟；
+6) 以公示傳喚被告作出答辯。
+- Em 10/112021 foi proferido o despacho constante de fls. 78 a 82 pelo qual se indeferiu liminarmente a PI, sendo o seu reproduzido aqui para todos os efeitos legais;
+- Em 12/01/2022 foi interposto recurso ordinário contra tal despacho (fls. 85);
+0 13/10/2022 os autos foram remetidos para este TSI para decidir.
+* * *
+IV – FUNDAMENTAÇÃO
+É o seguinte despacho que constitui o objecto deste recurso, proferido pelo Tribunal de primeira instância:
+本案原告A請求將標示編號2XX0及4XX9中有關重疊部份作出合併、刪除標示編號4XX9中登錄編號為1XX15且與標示編號2XX4及2XX4-A相關的部份、宣告4XX9不動產中登錄編號為1XX15之B之權利涉及原告所有利用權的土地2XX4及2XX4-A的佃底權單純占有登錄視為喪失以及取消登錄編號1XX15中與2XX4及2XX4-A相關之登錄。同時聲請召喚澳門特別行政區參加訴訟。
+原告所主張的主要理由是，在其先前所提起的訴訟CV3-15-0083-CAO中，法院判處其承認XX街XX號及XX號不動產屬於標示編號2XX0的土地，並承認澳門特區為該土地的田底權人。此一宣告包括原告擁有該土地的利用權，且這權利的標示編號2XX4及2XX4-A則分割自標示編號4XX9的不動產。因此，此一狀況與標示編號4XX9中登錄編號1XX15的B之權利登錄互相衝突，並導致其不可能繼續占有特區所有的佃底權。為此，原告曾向物業登記局聲請取消B之權利登錄，但遭到拒絕。原告亦曾向CV3-15-0083-CAO訴訟案件聲請作出批示以通知物業登記局作出登記上的更正，但持案法官認為因審判權已消滅而未能作出更正批示。
+另外，原告指出B之權利登錄妨礙其向澳門特區政府申請發展及批地，而B多年來沒有行使占有權，應視為占有之拋棄，且因佃底權屬澳門特區所有，故該占有亦應視為喪失。此外，基於登錄其利用權的標示編號2XX4及2XX4-A包含在標示編號2XX0之土地中，且標示編號2XX0與標示編號4XX9存在部份重疊問題，故對B之權利登錄的註銷取決於對標示重疊的解決。
+我們現在審理原告的起訴狀是否存在導致初端駁回的情況。
+按照起訴狀的內容，原告所提出的請求僅僅涉及登記的合併與消滅，而沒有涉及任何實體權利的宣告。
+觀乎整部的《物業登記法典》及相關法例，立法者從來沒有設置任何刪除標示(第2點請求)、登錄喪失(第3點請求)及取消登記(第4點請求)的機制及可能性，而原告亦沒有援引任何法律依據以支持其第2至4點之請求內容。
+《物業登記法典》僅規定了登記的失效、註銷、不存在、無效及不準確(第11條至第19條)，以及標示的作廢(第83條)，而沒有規定登記刪除、喪失、取消等等，亦沒有規定以致無法令人知悉該刪除、喪失、取消之條件及效果。
+這樣，原告的第2至4點請求因不存在任何法律依據，故明顯地即使證實起訴狀的全部事實仍導致其請求不成立(《民事訴訟法典》第394條第1款d)項)。
+退一步而言，按照本法庭在分析起訴狀後所理解的請求意旨，假設我們視第2點請求的刪除標示的含意為較接近的標示之作廢、第3點請求的登錄喪失以及第4點請求的取消登記為較接近的登錄之註銷(明顯不屬於登記的失效、不存在、無效或不準確)，但這並不意味著有關的訴可予接納。
+同樣，第1點請求亦不應被接納。
+根據《物業登記法典》第77條規定，「一、如發現重複標示，則保留其一而將餘者之有效備考轉錄到該標示，並對不予保留之標示作附註，記明其已作廢及指出所保留之標示。二、對所保留之標示，亦須作附註，記明重複標示之情況及指出作廢標示之編號。」
+根據《物業登記法典》第78條規定，「一、標示不可註銷，但屬以下情況，應附註下列標示之作廢：a）獨立單位之標示，如屬拆毀樓宇或分層所有權之設定登錄已註銷或失效之情況；b）完全合併之房地產之各標示；c）從屬於基於疑問之臨時登記或基於性質之臨時登記而開立之標示，如該臨時登記已失效；d）第七十二條第二款所指之標示，如尚未消除引致拒絕登記之原因。二、就任何標示之作廢作附註時，應註明原因。」
+根據《物業登記法典》第82條規定，「一、就形成須登錄之房地產所需之有關合併及分割之附註，係依職權且從屬於該登錄而作出，並須分別對有關標示載明有關合併及分割之情況。二、因兩個或兩個以上房地產合併而引致標示之必備資料有任何變更時，應將此變更載於其中一個合併附註內。三、與經合併之房地產有關之嗣後其他一切附註及相關之有效登錄之備考，均須對已作上款所指附註之標示作出。」
+按照Vicente João Monteiro所作的註解，對於重複標示的情況，“明顯的是，當任何利害關係人提出重複登記的問題，應提起適當的登記更正程序，向重複的標示附註的不僅有對重複的核實，還有更正程序的待決，接續地還有卷示的其他書錄。當依職核實重複時，登記官應繕立實況筆錄，考慮到程序的開展而對每一重複標示內所有的憑證的對比，把這事實通知對各重複標示現有登錄中的全體經登錄的權利人。倘有協議時，則重複的標示作廢而僅保留其中一個標示及註銷不適當繕立的登記；然而，如無協議時，利害關係人應採用司法途徑，以便在宣告之訴裁定應保留那個或那些登記及應註銷那個或那些登記。無論如何，最低限度當全部重複而附註核實有重複時，登記官應把重複的標示作廢，而僅保留其中一個標示仍生效，為此把關於被作廢的標示的生效的敍述備考移轉到該標示內4。”
+關於標示的作廢及合併，該作者如此指出，“…僅透過利害關係人本身的要求，才有被合併標示的替代。今天已不存在這一要件，被合併標示的替代及作廢應由登記官發起，只要是他作出因合併引致難以識別由合併而產生的新房地產的結論5。”“合併經標示的兩幅房地產的附註，既可以基於(取得興建於分別標示的兩塊土地上的一幢建築物合成的一幅房地產)依職權作成的登錄，亦可應利害關係人的獨立聲請6。”
+由此得出，標示的合併及作廢屬於登記機關(物業登記局)的權限，利害關係人應向其聲請或促使其依職權核實及作出標示的合併及作廢之行為，尤其是應透過登記之更正程序為之。
+案中，按照原告所陳述的事實及所提交的文件，我們看不到原告曾就出現倘有的標示重疊問題提出過任何的登記更正程序以實現標示的合併及作廢之目的。相反，原告僅直接求諸法院(透過本訴訟)以實現根本無須透過此司法途徑實現的目的。明顯地，根據《民事訴訟法典》第72條規定，有關請求(第1點及第2點)並不具有訴之利益。
+退一步而言，即使我們視原告向物業登記局所提出的第302、303及304號申請為促使物業登記局作出標示的合併及作廢的措施，但仍不得不否定原告提出本訴訟的必要性。這是因為，正如物業登記局於卷宗第44至49頁之批示通知所指出，原告可透過聲明異議、訴願或司法上訴等途徑對物業登記局登記官閣下  所作的拒絕批示提出申訴，因此，原告應採取聲明異議、訴願或司法上訴等途徑，而非透過本訴訟以處理涉案標示的合併及作廢的問題。倘原告不採取前述救濟措施，這將視其接受不予合併或作廢的結果。這樣，不論原告是否有針對物業登記局的決定提出聲明異議、訴願或司法上訴，其在本案所提出的標示合併及作廢請求亦明顯不具有訴之利益。
+再退一步而言，如果我們閱讀物業登記局登記官閣下  就上述三項申請所作出的批示，可以看到，物業登記局拒絕作出原告所聲請的登記，其中的原因是，“只能透過對比標示第2XX4號及第2XX0號房地產的地籍圖才能證實該兩項標示部份或完全重覆”，以及“申請人沒有指出其欲註銷之登錄。在未能清楚知悉申請人所作出的請求的情況下，不能繕立登記。”結合卷宗所載資料(尤其是卷宗第65至77頁聲請)，一方面，卷宗未有顯示原告在提出上述聲請前後曾提交標示第2XX4號及第2XX0號房地產的地籍圖以便讓物業登記局登記官閣下  依職權審查是否存在標示部份或完全重覆的問題；另一方面，卷宗亦未有顯示原告曾向物業登記局澄清或補正其欲註銷之登錄。除此之外，與原告於起訴狀第14條所陳述者不同(且原告在第36條中亦有所確認)，按照本法庭從CV3-15-0083-CAO號案件所依職權獲悉的資料，以及從原告所提交的地籍圖(第53至55頁)的資料顯示，在涉案土地登記的爭議中，從未證實亦沒有任何資料顯示標示編號2XX4及2XX4-A不動產乃分割自標示編號4XX9的不動產。因此，原告應在向物業登記局的有關聲請中先予釐清前述問題，而非直接透過本訴訟以處理其有條件亦理應在物業登記局首先處理之上述事宜。
+由此總結出，原告明顯沒有任何訴之利益提出標示合併及作廢之訴訟請求(《民事訴訟法典》第394條第1款c)項)。
+關於註銷登錄的請求，根據《物業登記法典》第14條規定，「登記因其內所定之權利、附於財產上之負擔或其他負擔之消滅而註銷，又或因執行確定裁判而註銷。」
+根據《物業登記法典》第8條第1款規定，「一、在法院對登記所證明之事實提出爭議時，如不同時請求註銷該登記，則不得為之。」
+根據《物業登記法典》第117條規定，「不適當繕立之登記，按第十七條b項之規定屬無效者，得基於全體利害關係人同意或更正程序中法院所作之裁判而註銷。」
+根據《物業登記法典》第17條b)項規定，「下列登記均屬無效：…b）根據不足以作為被登記事實之法定證據之憑證繕立之登記；…」
+透過上述條文規定，登記的註銷發生在以下三種情況：1)因其內所定之權利、附於財產上之負擔或其他負擔之消滅而註銷；2)因執行確定裁判而註銷；3)根據不足以作為被登記事實之法定證據之憑證繕立之登記無效而導致的註銷。
+案中，按照原告於起訴狀所作的描述，其第3及4點請求明顯並非上述第三種的註銷情況。相反，其可能屬於第一或第二種註銷的情況。
+然而，不論是《物業登記法典》第14條所規定的哪一情況，結合同一法典第8條第1款規定，在訴訟中提出註銷權利或事實登錄的請求時，應首先(一併)提出宣告有關權利或事實業已消滅的請求，否則這將導致註銷的請求因未能認定有關權利或事實已經消滅而不符合註銷登記的前提(即權利或事實的消滅)。
+明顯地，原告的第3及4點請求明顯不能滿足這一要求，其沒有同時請求宣告B的占有消滅或喪失。
+退一步而言，假設我們理解原告的第3點請求為宣告被告佃底權的單純占有的喪失，但從原告的起訴狀分析，有關請求亦明顯不具有訴的可行性。
+尤其是，在尊重不同見解下，本法庭並不認同原告所述的上述單純占有的登記與澳門特區的佃底權之間存在衝突以及認為B單純占有為權利登錄的見解。
+事實上，(澳門特區的)佃底權是一項權利，而(被告獲登記的佃底權的)單純占有並非權利，更非佃底權本身。相反，其只是一個受法律保護的事實狀況。
+按照原告所提交的物業登記證明顯示，被告的單純占有的登記發生在1932年，對有關狀況應適用1867年《塞亞布拉民法典》。
+根據該法典第474條規定，“Diz-se posse a retenção ou fruição de qualquer coisa ou direito.”
+按照Manuel Rodrigues所述，“…segundo o Código, constitui posse todo o poder de facto sobre as coisas, exercido no próprio interesse…7.(我們加上底綫)
+即使適用現行《民法典》，單純占有的(法律)事實屬性亦獲立法者所保留。
+根據《民法典》第1175條規定，「占有係指一人以相當於行使所有權或其他物權之方式行事時所表現之管領力。」
+因此，單純占有(即使其標的為佃底權)僅為一人針對一物以行使物權的方式行事的事實管領，而物權(佃底權)則為針對一物的本身或其特定利益界定其歸屬的排他性權利。前述的存在並不必然否定後者，最多導致後者對物的事實管理的可能性在事實的層面被減損，對此則可透過物權人的物權保護機制予以回復(《民法典》第1235條至第1240條)。
+須注意的是，自澳門回歸日起，根據《中華人民共和國澳門特別行政區基本法》第7條規定，「澳門特別行政區境內的土地和自然資源，除在澳門特別行政區成立前已依法確認的私有土地外，屬於國家所有，由澳門特別行政區政府負責管理、使用、開發、出租或批給個人、法人使用或開發，其收入全部歸澳門特別行政區政府支配。」
+自此，不得再透過取得時效等機制取得未有在回歸前已依法確認為私有的其他土地(見終審法院第32/2005號合議庭裁判)。
+然而，上述情況並不自動導致被告獲登記的單純占有被註銷。
+一方面，正如上文所述，占有本身並不等同於物權(田底權)。按照終審法院第17/2010號合議庭裁判所述，“…所以我們認為，對相關物以所有權之名義占有不等於承認對相關地段的所有權。這一結論似乎是再明顯不過。根據《民法典》第 1175 條規定，占有係指一人以相當於行使所有權(或其他物權)之方式行事時所表現之管領力。而當占有具備某些確定的特點及持續某一段時期，可導致以時效制度的方式取得所有權(或其他的物權)。但是對所有權的占有並非就是所有權。…”
+另一方面，不應忘記的是，被告的佃底權的單純占有是在1932年(即澳門回歸以前)獲得登記。既然根據《中華人民共和國澳門特別行政區基本法》第7條承認在回歸前已依法確認的私有土地(包括所有權及利用權)，那麼結合容大納小原則，在回歸前已依法確認的單純占有亦應得到承認從而自回歸日起獲得過渡。
+當然，上述情況並不否認澳門特區回復其佃底權的可能性。
+然而，考慮到涉案的土地為所有權割裂(佃底權及利用權)以致兩佃權之間互不影響的情形，故是否回復佃底權的全貌屬於澳門特區的權利，應由澳門特區(透過檢察院)決定是否從被告手上獲返還有關占有，而原告並沒有正當性凌駕澳門特區的意志並在後者沒有決定回復其佃底權前直接行使或間接地透過第三人參加促使澳門特區行使上述權利。
+因此，本法庭認為，原告第3及4點請求明顯不能成立(《民事訴訟法典》第394條第1款d)項)。退一步而言，假設認為並非明顯不成立，但原告亦明顯不具正當性(包括透過第三人參加的方式召喚澳門特別行政區)透過行使佃底權的物權保護機制提出前述請求(《民事訴訟法典》第394條第1款c)項及第58條)。
+綜上所述，根據《民事訴訟法典》第394條第1款c)及d)項規定，初端駁回原告的起訴狀。
+訴訟費用由原告承擔。
+作出登錄及通知。
+*
+Quid Juris?
+Ora, salvo o merecido respeito, a decisão ora recorrida merece alguns reparos em vários aspectos, a saber:
+Na fundamentação afirmou-se: “案中，按照原告所陳述的事實及所提交的文件，我們看不到原告曾就出現倘有的標示重疊問題提出過任何的登記更正程序以實現標示的合併及作廢之目的。相反，原告僅直接求諸法院(透過本訴訟)以實現根本無須透過此司法途徑實現的目的。明顯地，根據《民事訴訟法典》第72條規定，有關請求(第1點及第2點)並不具有訴之利益。(…)”,
+Não nos parece que o Recorrente/Autor não tem interesse processual, pelo contrário, todos os factos por ele alegados confirmam, ou pelo menos, procuram confirmar que ele tem todo o interesse em esclarecer a situação jurídica do imóvel de que ele é dono, agora se os factos estão bem, clara e suficientemente invocados? Já é uma questão de mérito!
+Por interesse processual se entende que consiste na necessidade de usar do processo, de instaurar ou fazer prosseguir a acção. Tal como observou o Prof. Antunes Varela (Cfr. Manual de Processo Civil, Coimbra Editora, Limitada, 2ª edição, pág. 181):
+“O interesse processual constitui um requisito a meio termo entre os dois tipos de situações. Exige-se, por força dele, uma necessidade justificada, razoável, fundada, de lançar mão do processo ou de fazer prosseguir a acção, mas não mais do que isso”.
+O interesse directo de que deriva a legitimidade, segundo o artigo 72º
+do CPC (há interesse processual sempre que a situação de carência do autor justifica o recurso às vias judiciais), consiste em as partes serem sujeitos da relação jurídica material submetida à apreciação do Tribunal. Deve ser referida à relação jurídica, objecto do pleito e determina-se, averiguando quais são os fundamentos da acção e qual a posição das partes relativamente a esses fundamentos. No caso, quando o Autor pretende ver-se esclarecida a situação jurídica dum imóvel registado em seu nome com duplicação de descrições, tem todo o interesse em propor uma acção para este efeito.
+*
+Por outro lado, no entender do Tribunal recorrido, o recurso a esta acção judicial pelo Autor é dispensável, por entender que os problemas podem ser resolvidos em sede administrativa e junto da competente conservatória. Ou seja, dá-nos a ideia de que o processo administrativo é obrigatoriamente o primeiro passo, se não conseguir satisfizer o seu objectivo, então, no momento seguinte, é que poderá lançar mão da acção judicial. Esta ideia fica ainda bem demonstrada quando o Tribunal recorrido afirmou: “(…) 在涉案土地登記的爭議中，從未證實亦沒有任何資料顯示標示編號2XX4及2XX4-A不動產乃分割自標示編號4XX9的不動產。因此，原告應在向物業登記局的有關聲請中先予釐清前述問題，而非直接透過本訴訟以處理其有條件亦理應在物業登記局首先處理之上述事宜。
+由此總結出，原告明顯沒有任何訴之利益提出標示合併及作廢之訴訟請求(《民事訴訟法典》第394條第1款c)項)。(…)”. (destaque nosso)
+Não é esta posição dominante em matéria em discussão, já que se afirmou (Cfr. Vicente João Monteiro, in Código do Registo Predial de Macau, anotado e comentado, CFJJ, 2016, pág. 544):
+“(…) Segundo pensamento, no regime actual a rectificação judicial pode ser requerida directamente, sem precedência do processo de rectificação por acordo. De qualquer modo, como não pode deixar de ser, o pedido de rectificação é sempre apresentado na conservatória, não só para que o conservador sobre ele se possa pronunciar, como para que do mesmo seja dada a necessária publicidade.”
+Seguido o mesmo raciocínio do Autor citado, importa destacar os seguintes aspectos:
+1)  – Em rigor das coisas, quaisquer inexatidões do registo predial, quer decorrentes do próprio título que serviu de base do registo, quer decorrentes do procedimento da feitura do respectivo registo, não foram da autoria do Réu que não contribuiu (isso não significa que este não tenha interesse oposto ao do Autor), mas sim todos estes actos registrais provêm da mão do competente conservador, justifica-se assim a intervenção, desde a primeira hora, do autor do registo predial no respectivo processo.
+2)  – Nesta óptica, é de ver a particularidade da situação: o conservador, não sendo embora sujeito da relação jurídica controvertida, tem o poder/dever de dizer “alguma coisa”, porque o seu acto é posto em crise, e tem o dever de explicar, em nome da segurança jurídica do comércio,  por que razões é que tal acto foi registado nesses termos e não noutros! O que nos leva a  saber se existe algum processo especial para esta finalidade.
+3)  – Neste ponto, a resposta é forçosamente positiva, a título exemplificativo, o artigo 77º do CRP prescreve:
+(Descrições duplicadas)
+1. Quando se reconheça a duplicação de descrições, são transcritas para uma delas as cotas de referência em vigor nas restantes, averbando-se nestas a inutilização, com indicação da descrição subsistente.
+2. Na descrição subsistente é também averbada a duplicação verificada, com a menção dos números das descrições inutilizadas.
+A propósito deste normativo, anotou-se (in ob. citada, de Vicente João Monteiro, pág. 390 e seguintes):
+“O fenómeno da duplicação pode ter as mais variadas causas, nomeadamente a falta de meios por parte da conservatória para detectar as semelhanças entre duas realidades imobiliárias, passando pela deficiência ou inexactidão dos títulos apresentados a registo ou por outras causas meramente fortuitas (erro, distracção, confusão, etc.) e ainda pela actuação dolosa dos próprios interessados quando deliberadamente omitem elementos que facilmente poderiam conduzir à detecção da duplicação8.
+Têm sido apontadas pela doutrina duas modalidades de duplicação de descrições: a duplicação originária, quando se abre uma nova descrição quanto a um prédio que já então se encontra descrito; e a duplicação superveniente, quando se procede à actualização dos elementos de identificação de um prédio (averbamento de construção numa parcela de terreno, v.g.) de tal forma que ele, até aí distinto - embora desactualizado quanto aos seus elementos de identificação, repita-se - passa a ter a mesma identificação de outro prédio já descrito.
+A duplicação pode ainda ser total ou parcial. No primeiro caso, verifica-se a repetição da descrição de um prédio que já se encontra anteriormente descrito com os mesmos elementos de identificação, em especial a respectiva área; no segundo, verifica-se a repetição da descrição apenas de parte individualizada de um prédio que, na totalidade da sua dimensão, já se encontra anteriormente descrito. Quer a duplicação total, quer a duplicação parcial, podem assumir ambas as modalidades acima referidas (originária ou superveniente).
+O artigo sob anotação só regula directamente a chamada duplicação total, parecendo-nos, por isso, que em em futura reforma do Código se deve regular de forma mais completa o regime da duplicação de descrições, de modo a que fique claro que, mesmo no caso de duplicação parcial, se impõe instaurar o procedimento de verificação da duplicação, quer a iniciativa resulte da actividade oficiosa do conservador, quer ela resulte do pedido expresso de qualquer interessado.
+A nosso ver, seja qual for a modalidade da duplicação, e ainda que esta seja apenas parcial, logo que ela se confirme ou se considere altamente provável, deverá o facto ser publicitado no registo. Como é evidente, no caso de a duplicação ser suscitada por qualquer interessado, deverá instaurar-se o competente processo de rectificação de registo, averbando-se às descrições duplicadas, não apenas a verificação da duplicação, como a pendência do processo de rectificação (vide n.º 2 do artigo 120.° do Código), seguindo-se os demais termos deste processo. No caso de a verificação da duplicação ser oficiosa, deve o conservador lavrar Auto de Notícia, notificando do facto todos os titulares inscritos das inscrições que se encontrem em vigor sobre as várias descrições duplicadas, tendo em vista o desencadeamento do processo pelo qual se confrontem os títulos de que cada um dispõe. Havendo acordo, inutilizam-se as descrições duplicadas, mantendo-se apenas uma delas, e cancelam-se os registos indevidamente lavrados; mas, na falta de acordo, deverão os interessados socorrer-se dos meios judiciais para em acção declarativa ser decidido qual ou quais os registos que devem permanecer em vigor e qual ou quais os que devem ser cancelados. Seja como for, pelo menos quando a duplicação seja total, com o averbamento da verificação da duplicação deve o conservador inutilizar as descrições duplicadas, mantendo-se apenas uma delas em vigor (em regra a mais artiga), para a qual são transferidas as cotas de referência em vigor sobre as descrições inutilizadas.”
+Tendo em conta que os pedidos do Autor que abrange:  “anexações das descrições duplicadas”, “eliminações”, “declaração da caducidade da posse” e “cancelamento”, não nos parece que todos os pedidos são manifestamente inviáveis, pelo menos a declaração da caducidade da posse poderá ser atendida, só que, na procedência do seu pedido, o Autor suportará eventualmente as custas por ele tirar proveito da acção (artigo 376º/1  do CPC).
+Assim, em nome do princípio do economia processual e também o disposto no artigo 7º do CPC (princípio da adequação formal) e o regime de erro na forma de processo (artigo 145º do CPC), deve converter esta acção em processo de registo predial, ou seja, dando cumprimento ao artigo 114º e seguintes (processo de rectificação do registo) do CRP, remetendo-se os autos (ou remetendo-se o treslado do processado, fica o original no Tribunal) à competente conservatória  para que o conservador se possa pronunciar sobre todos os aspectos que caem na sua competência e pratique os actos necessários e úteis (cfr. artigo 122º/2 e 3 do CRP e seguintes), depois serão os autos remetidos ao Tribunal para decidir em conformidade, nos termos do disposto no artigo 394º/3 do CPC que manda:
+(Indeferimento liminar)
+1. A petição é liminarmente indeferida:
+a) Quando for inepta, nos termos do artigo 139.º;
+b) Quando seja manifesto que a acção não pode ser proposta nos tribunais de Macau, nos termos dos artigos 15.º e seguintes;
+c) Quando seja manifesta a falta de personalidade judiciária do autor ou do réu, a sua ilegitimidade ou a falta de interesse processual;
+d) Quando a acção for proposta fora de tempo, sendo a caducidade de conhecimento oficioso, ou quando, por outro motivo, for evidente que a pretensão do autor não pode proceder.
+2. Não é admissível o indeferimento liminar parcial da petição, a não ser que dele resulte exclusão de algum dos réus.
+3. Se a forma de processo escolhida pelo autor não corresponder à natureza ou ao valor da acção, manda-se seguir a forma adequada; mas quando não possa ser utilizada para essa forma, a petição é indeferida.
+Quando às demais questões analisadas no despacho recorrido em torno dos demais pedidos, poupamos a nossa reflexão visto que o competente conservador ainda não que pronunciou.
+Pelo expendido, por não se tratar de uma  situação que cai no âmbito de indeferimento liminar “total” (cfr. artigo 394º/1 do CPC), há assim violação do artigo 394º/1-c) e d) do CPC, devendo ser revogado o despacho recorrido e ordenada a baixa dos autos ao Tribunal recorrido para proferir nova decisão nos termos agora consignados.
+*
+Síntese conclusiva:
+I – O interesse directo de que deriva a legitimidade, segundo o artigo    72º do CPC, consiste em as partes terem fundamentos para usar de acções judiciais, tal deve ser referida à relação jurídica, objecto do pleito e determina-se, averiguando quais são os fundamentos da acção e qual a posição das partes relativamente a esses fundamentos. Quando o Autor pretende ver-se esclarecida a situação jurídica dum imóvel de que é titular, tem interesse em propor uma acção para este efeito.
+II – A causa de pedir está no acto ou facto jurídico de que a parte faz derivar a sua pretensão e não na coloração jurídica que entenda dever atribuir-lhe. Por isso não é inepta a petição inicial quando tenha sido indicada causa de pedir, embora os respectivos factos alegados não sejam suficientes e esclarecedores para determinar a procedência de todos os pedidos formulados, sendo a questão, então, de inviabilidade ou improcedência, cuja decisão poderá ser relegada para momento posterior.
+III – À luz do entendimento dominante e de acordo com o regime actualmente vigente,  a rectificação judicial pode ser requerida directamente, sem precedência do processo de rectificação administrativa (por acordo dos interessados), sendo certo que o pedido de rectificação é sempre apresentado na conservatória, não só para que o conservador sobre ele se possa pronunciar, como para que do mesmo seja dada a necessária publicidade.
+IV - Quaisquer inexatidões do registo predial, quer decorrentes do próprio título que serviu de base do registo, quer emergentes do procedimento da feitura do respectivo registo, não foram da autoria do Réu que não contribuiu (isso não significa que este não tenha interesse oposto ao do Autor), mas sim todos estes actos registrais provêm da mão do competente conservador, justifica-se assim a intervenção, desde a primeira hora, do autor do registo predial no respectivo processo de rectificação. O conservador, não sendo embora sujeito da relação jurídica controvertida, tem poder/dever de dizer “alguma coisa”, porque o seu acto é posto em crise, e tem o dever profissional de explicar, em nome da segurança jurídica do comércio,  por que razões é que tal acto foi registado nesses termos e não noutros
+V - Tendo em conta os pedidos formulados pelo Autor (“anexações das descrições duplicadas”, “eliminações”, “declaração da caducidade da posse” e “cancelamento”), não nos parece que todos os pedidos são manifestamente inviáveis, pelo menos a declaração da caducidade da posse poderá ser atendida (com a possível consequência do artigo 376º do CPC) e como tal não deve ser indeferida a PI, assim, em nome do princípio do economia processual e também o disposto no artigo 7º do CPC (princípio da adequação formal) e o regime de erro na forma de processo (artigo 145º do CPC), deve converter esta acção em processo especial de rectificação de registo predial, nos termos do artigo 114º e seguintes (processo de rectificação do registo) do CRP, remetendo-se os autos (ou remetendo-se o treslado do processado, fica o original no Tribunal) à competente conservatória  para que o conservador se possa pronunciar sobre todos os aspectos que caem na sua competência e pratique os actos necessários e úteis nos termos do disposto no artigo 394º/3 do CPC.
+*
+Tudo visto e analisado, resta decidir.
+* * *
+V ‒ DECISÃO
+Em face de todo o que fica exposto e justificado, os juízes do Tribunal de 2ª Instância acordam em conceder provimento ao presente recurso, revogando-se o despacho recorrido e baixando-se os autos ao Tribunal recorrido para que este profira nova decisão em conformidade com os termos consignados neste aresto, caso inexista outro obstáculo legal.
+*
+Sem custas nesta instância.
+*
+Registe e Notifique.
+*
+RAEM, 14 de Dezembro de 2022.
+_________________________
+Fong Man Chong
+_________________________
+Ho Wai Neng
+_________________________
+Tong Hio Fong
+1 P163，《澳門民事訴訟法典註釋及評論》，第一冊，法律及司法培訓中心。
+2 P165，同上著作。
+3 P126，同上著作。
+4 Vicente João Monteiro著，劉耀強譯，澳門物業登記法典，法律及司法培訓中心，2020年版，第338頁。
+5 同上，第343頁之註腳。
+6 同上，第350頁。
+7 Manuel Rodrigues, A Posse, Almedina, 1996, 第92頁。
+8 Referimo-nos, evidentemente, aos casos em que, no passado, não convindo ao registante de um dos factos que escapavam ao princípio do trato sucessivo na modalidade da inscrição prévia (a penhora ou o arresto, por exemplo, conforme já se dizia no Código do Registo Predial Anotado da DGRN, a pág. 43, e que se encontram previstos nas excepções da alínea a) do n.º 4 do artigo 9.° do Código actual) revelar que o prédio objecto do registo já se encontrava englobado numa determinada descrição, dando, por isso, lugar à abertura de uma nova descrição para efectuar o registo dessa penhora ou arresto. Tenha-se em conta que o exequente que sabia que o prédio sobre que pretendesse registar a penhora ainda não se encontrava registado a favor do executado, porque este ainda não havia efectuado o registo a seu favor, mas que o mesmo se encontrava descrito e registado a favor de anterior proprietário, embora com elementos de identificação desactualizados (parcela de terreno que entretanto passara a ser um edifício, v.g.), procuraria convencer a conservatória que o prédio ainda se encontrava omisso, assim evitando que o registo da penhora ou de arresto fosse efectuado como provisório por natureza nos termos da alínea p) do artigo 179.º do Código de 1967 (alínea a) do n.º 2 do artigo 86.º do Código actual), com todos os inconvenientes que para si daí adviriam, nomeadamente a eventualidade de ter de efectuar os registos em falta ou interpor a acção declarativa prevista nos n.os 4 e 5 do artigo 221.° do Código de 1967 (n.os 5 e 6 do artigo 106.º do Código actual).
+---------------
+------------------------------------------------------------
+---------------
+------------------------------------------------------------
+2022-736- duplicação-registo-predial-cancelamento                                                                                       17

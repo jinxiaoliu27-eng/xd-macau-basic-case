@@ -1,0 +1,378 @@
+- Concessão de residência por investimento
+- Manutenção da situação que justificou tal concessão
+- Comunicação da alteração
+body {
+font-size: 13px;
+line-height: 25px;
+background-color: #fff;
+}
+.highlight-key {
+font-weight: bold;
+background: #FFFF00;
+}
+打印全文
+﻿Processo n.º 43/2012
+(Recurso Contencioso)
+Data:  15/Novembro/2012
+ASSUNTOS:
+- Concessão de residência por investimento
+- Manutenção da situação que justificou tal concessão
+- Comunicação da alteração
+SUMÁRIO:
+A não manutenção da situação patrimonial de forma contínua durante o período da concessão da residência e a não comunicação injustificada, em 30 dias, da alteração da situação jurídica relevante, por parte do interessado, conferem à Administração o poder discricionário de cancelar a autorização de residência, ao abrigo do disposto no artigo 18º, n.º 4, do Regulamento Administrativo n.º 3/2005, de 4 de Abril.
+Relator,
+(João Gil de Oliveira)
+Processo n.º 43/2012
+(Recurso Contencioso)
+Data  :            15 de Novembro de 2012
+Recorrente:         A
+Entidade Recorrida:   Secretário para a Economia e Finanças
+ACORDAM OS JUÍZES NO TRIBUNAL DE SEGUNDA INSTÂNCIA DA R.A.E.M.:
+I - RELATÓRIO
+A, mais bem identificado nos autos, vem interpor recurso contencioso, do despacho proferido pelo Exmo Senhor Secretário para a Economia e Finanças no dia 10 de Novembro de 2011 que recusou o pedido de prorrogação de autorização de residência temporária deduzido pelo recorrente e a família, alegando, em síntese conclusiva:
+1. Está visto que não foi por dolo que o Recorrente não avisou o Instituto, antes por falta de conhecimento necessário de direito.
+2. “O não cumprimento de obrigação de comunicação” não teve origem no dolo do Recorrente, tão-pouco na sua vontade própria.
+3. O não cumprimento sem justa causa da obrigação de comunicação prevista no número anterior, dentro do respectivo prazo, poderá implicar o cancelamento da autorização de residência temporária. (Sublinhado e negrito nosso)
+4. Então estamos perante uma questão: o que quer dizer “justa causa”? Segundo as doutrinas: “O justo impedimento depende da verificação dos seguintes requisitos: a) que o evento seja normalmente imprevisto; b) que seja estranho à vontade da parte e, c) que seja determinador da impossibilidade do acto ser praticado pela parte ou mandatário. (Vide a fl. 257, ABÍLIO NETO ADVOGADO, CÓDIGO DE PROCESSO CIVIL ANOTADO, 19.ª EDIÇÃO ACTUALIZADA, SETEMBRO – 2007, EDIFORUM EDIÇÕES JURÍDICAS, LDA, LISBOA)”
+5. Remetamo-nos a prescrições mais rigorosas da legislação relativa a processo civil. Conforme o artigo 1.º do Código do Processo Administrativo Contencioso, podendo-se aplicar subsidiariamente o disposto na lei de processo civil.
+6. O artigo 96 do Código de Processo Civil prescreve o seguinte: “1. Considera-se justo impedimento o evento não imputável à parte nem aos seus representantes ou mandatários, que obste à prática atempada do acto. 2. A parte que alegar o justo impedimento deve oferecer logo a respectiva prova; o juiz, ouvida a parte contrária, admite o requerente a praticar o acto fora do prazo, se julgar verificado o impedimento e reconhecer que a parte se apresentou a requerer logo que ele cessou.”
+7. No presente, o não cumprimento da obrigação de comunicação não é imputável ao Recorrente. Pelo que logo à partida, este não sabia que a sua propriedade já tinha sido vendida. Depois de se informar, devido à falta de conhecimento de Direito a esse respeito, continuou a não comunicar ao Instituto de Promoção do Comércio e do Investimento de Macau. Não o fez por vontade própria, por conseguinte, encontram-se preenchidos os requisitos de justo impedimento previsto no artigo 96.º do Código de Processo Civil.
+8. O n.º 4 do artigo18 do Regulamento Administrativo n.º 3/2005 obriga “justa causa”, em vez de “justo impedimento”, ou seja, os requisitos de “justa causa” são mais fáceis de satisfazer do que aqueles de “justo impedimento”.
+9. Na verdade, a “justa causa” referida no n.º 4 do artigo18 do Regulamento Administrativo n.º 3/2005 alinha-se no âmbito de discricionariedade da autoridade.
+10. Visto que o caso do Recorrente corresponde ao de “justo impedimento”, os requisitos de “justa causa” encontram-se igualmente preenchidos.
+11. É evidente que o que foi dado pelo Recorrente constitui uma “justa causa”, estando exactamente conforme com o disposto no n.º 4 do artigo 18.º do Regulamento Administrativo n.º 3/2005.
+12. Em 2009 quando o Recorrente apresentou o seu pedido de prorrogação de residência, entregou pela sua iniciativa os documentos relativos e explicitou todas as razões das suas condutas anteriores.
+13. Ao abrigo das leis e do Regulamento Administrativo atrás mencionados, devia ser autorizado o pedido de prorrogação residência temporária apresentado pelo Recorrente.
+14. Na realidade, o conteúdo do despacho mostra-se totalmente ao contrário daquele que devia ter sido. Portanto, este pode ficar nulo nos termos da alínea f) do n.º 2 do artigo 122 do Código do Processo Administrativo, ou tem o vício de ser acto anulável segundo o artigo 124 do mesmo diploma legal, tendo em conta que agiu contra o disposto nas leis e no Regulamento Administrativo acima referido.
+15. Em função da alínea d) do n.º 1 do artigo 21 do Código do Processo Administrativo Contencioso, constitui fundamento do recurso a ofensa a violação de lei, nela incluindo o erro manifesto ou a total desrazoabilidade no exercício de poderes discricionários.
+16. Se o Meritíssimo Juiz entender que não são aplicáveis a circunstância de “justo impedimento” nem a de “justa causa”, o Recorrente acha na mesma que o acto recorrido tem os vícios seguintes:
+17. Em primeiro lugar, foi aplicado erroneamente o artigo 18 do Regulamento Administrativo n.º 3/2005.
+18. O artigo 18.º do Regulamento Administrativo n.º 3/2005, na perspectiva jurídica, não prescreve obrigatória e forçosamente o cancelamento da autorização. O facto é que a discricionariedade regula o cancelamento ou não.
+19. A alínea a) do n.º 2 do artigo 9 da Lei n.º 4/2003, Princípios gerais do regime de entrada, permanência e autorização de residência prevê outros factores necessariamente a levar em consideração, como, por exemplo, 2) Meios de subsistência de que o interessado dispõe; 3) Finalidades pretendidas com a residência na RAEM e respectiva viabilidade; 4) Actividade que o interessado exerce ou se propõe exercer na RAEM; 5) Laços familiares do interessado com residentes da RAEM; 6) Razões humanitárias, nomeadamente a faltam de condições de vida ou de apoio familiar em outro país ou território.
+20. No caso em apreço, é desejável que o órgão competente considere a contribuição que o Recorrente e a família farão ao desenvolvimento da sociedade de Macau, bem como a vontade do Recorrente de viver em Macau, agindo segundo os princípios do humanitarismo.
+21. B, o filho do Recorrente casou-se em 8 de Novembro de 2008 e o seu filho nasceu em XX de XX de 20XX. (Vide documentos 5 e 6)
+22. Desde Agosto de 2006 que o filho do Recorrente B conseguiu o BIR, trabalha sempre na Sociedade de Jogos de Macau, S.A (SJM). (Documento 7)
+23. C, mulher do Recorrente, encontra-se a trabalhar na XX Bakery. (Documento 8)
+24. Toda a família do Recorrente tem contribuindo para a sociedade de Macau, pelo menos no que toca ao papel positivo desempenhado por eles para satisfazer a necessidade de mão-de-obra.
+25. Além disso, a fim de conseguir residência temporária, o Recorrente já adquiriu um bem imóvel (vide nos autos) em Macau, exercendo influência positiva consideravelmente sobre a economia de Macau.
+26. A perda de residência de Macau implica certa consequência negativa ao Recorrente, concernente à sua família, à vida e ao estado económico, podendo, inclusivamente, traduzir-se em prejuízos irremediáveis.
+27. Em segundo, foi violada a Lei Básica de Macau.
+28. Como o Recorrente e os familiares já conseguiram BIR não permanente de Macau, eles já são residentes de Macau, pelo que têm direito de gozar de todos os direitos de residente.
+29. Nos termos do n.º 2 do artigo 40 da Lei Básica: “os direitos e as liberdades de que gozam os residentes de Macau, não podem ser restringidos excepto nos casos previstos na lei…”
+30. Já que as leis referentes à fixação de residência por investimento não estipulam em termos explícitos os casos especiais que o Recorrente encontrou, é imperativo revogar o acto administrativo.
+31. A veneranda autoridade deve equacionar o caso específico do Recorrente e defere o pedido de prorrogação apresentado pelo Recorrente, partindo da finalidade de garantir os seus direitos básicos.
+32. Se não o fizer, será um acto ilícito irrazoável.
+33. Convém o Meritíssimo Juiz deferir o pedido de prorrogação em referência, tendo em conta os interesses obtidos, assim como os princípios de protecção de direitos.
+34. Foi violado o artigo 4 do Código do Procedimento Administrativo.
+35. Aquando de prática de actos administrativos, é imperativo respeitar o Código do Procedimento Administrativo.
+36. O artigo 4.º (princípio da prossecução do interesse público e da protecção dos direitos e interesses dos residentes) deste diploma legal prescreve, “compete aos órgãos administrativos prosseguir o interesse público, no respeito pelos direitos e interesses legalmente protegidos dos residentes.”
+37. Isto quer dizer que ao praticar um dado acto administrativo, o primeiro factor a levar em consideração é os direitos e interesses dos residentes e depois vem o interesse público.
+38. De acordo com o n.º 2 do artigo 4 (princípio da igualdade e da proporcionalidade) do Código do Procedimento Administrativo: “As decisões da Administração que colidam com direitos subjectivos ou interesses legalmente protegidos dos particulares só podem afectar essas posições em termos adequados e proporcionais aos objectivos a realizar.”
+39. Ao decidir os actos administrativos a praticar, os órgãos administrativos hão-de observar os princípios de proporcionalidade, não podendo lesar ao acaso os direitos e interesses dos interessados.
+40. O Recorrente no processo conseguiu o seu Bilhete de Identidade de Residente não Permanente de Macau em Agosto de 2006. E daí até ao momento presente vive sempre em Macau, que já se tornou no seu único lar.
+41. Actualmente, a única aspiração do Recorrente constitui continuar a viver em Macau e contribuir na sua medida para a sociedade de Macau.
+42. Se o seu pedido for indeferido, pode-se imaginar quão profundo impacto na vida do Recorrente e da família implicará esta decisão, sendo que os prejuízos sofridos pelo interessado serão imensuráveis.
+43. Nesta conformidade, o deferimento do pedido de prorrogação proposto pelo Recorrente apresenta-se tanto legal como razoável.
+Em face do exposto, pede:
+a) Se dê procedência ao presente recurso, declarando revogado o acto recorrido dadas as justificações; ou
+b) Revogue o respectivo acto administrativo por razão da verificação dos vícios acima referidos de nulidade ou de anulabilidade; ou
+c) Em vista a defender os interesses do recorrente, revogue o acto recorrido; e
+d) Se defira o pedido de prorrogação apresentado pelo Recorrente;
+O Exmo Senhor Secretário para a Economia e Finanças contesta, dizendo, em suma:
+1. A procuração constante a fls. 120 do Processo Administrativo n.º 0034/2006/1R mostra que o recorrente autorizou outrem a vender os bens imóveis tidos como fundamento do seu pedido da fixação de residência por investimento. Mesmo que não soubesse quando foram vendidos os bens imóveis, não pode alegar que não tinha conhecimento em virtude da incompatibilidade entre tal alegação e a procuração feita por ele próprio.
+2. O recorrente não cumpriu a obrigação de comunicação imposta pelo artigo 18º, n.º 4 do Regulamento Administrativo n.º 3/2005 e deve arrostar com as consequências previstas legais por não cumprimento desta obrigação, isto é, o não conhecimento da lei não consiste em justo motivo pelo qual não cumpriu a obrigação de comunicação.
+3. A entidade recorrida negou, nos termos do artigo 18º e 19º do Regulamento Administrativo n.º 3/2005, o pedido do recorrente da renovação da fixação de residência por investimento por este não ter cumprido a obrigação de comunicação imposta pela lei, não existindo nenhum erro de pressuposto de facto ou de pressuposto de lei, nem padece vício na competência discricionária.
+Pelo exposto, conclui, deve-se negar o pedido formulado.
+A, ora recorrente, apresentou alegações facultativas, reproduzindo, basicamente, a sua posição inicial.
+Em sede de alegações facultativas o Exmo Senhor Secretário para a Economia e Finanças, diz, em síntese:
+1. Os autorizados da residência por investimento são obrigatórios a notificar a Administração da alteração da situação jurídica sobre o investimento dentro de 30 dias desde a sua verificação.
+2. O que é uma obrigação legal imposta pelo art. 18º do Regulamento administrativo n.º 3/2005 aos autorizados da residência por investimento. O não cumprimento da obrigação legal do recorrente poderá implicar o cancelamento da autorização de residência.
+3. O cancelamento ou não da autorização de residência do recorrente constitui o poder discricionário da Administração.
+4. Só poderá o tribunal intervir no caso de desvio de poder, erro grosseiro ou injustiça absoluta no exercício do poder discricionário.
+5. No que diz respeito ao presente recurso contencioso, a entidade recorrida não aceita os fundamentos alegados pelo recorrente e decide não aprovar a renovação da sua residência, no que não se verifica desvio de poder, erro grosseiro ou injustiça absoluta.
+6. O recorrente esquiva-se das consequências decorrentes do seu não cumprimento da obrigação legal simplesmente com base no desconhecimento da situação ou da lei, o que é irrazoável.
+7. Se o desconhecimento da situação ou da lei pudesse ser o fundamento justo do não cumprimento da obrigação de comunicação prevista pela lei, e depois eliminar o poder discricionário da Administração na aprovação da renovação da residência por investimento, implicava-se que a ignorância de um indivíduo se colocaria acima do poder atribuído pela lei à Administração, o que é inaceitável.
+8. Os factos objectivos mostram que o recorrente autorizou, por via de negócio jurídico, um outro para vender o seu bem imóvel, fundamento para pedir autorização da residência por investimento, e que o recorrente não cumpriu a obrigação de comunicação depois de saber que o autorizado tinha vendido o bem imóvel supracitado.
+9. Mesmo que seja facto o desconhecimento da situação (não sabia que o bem imóvel tinha sido vendido), não se explica porque o recorrente não cumpriu a obrigação de comunicação depois de saber que o bem imóvel tinha sido vendido. Por isso, a afirmação de desconhecimento da situação está cheia de dúvidas.
+10. A afirmação de desconhecimento da lei não é nada menos injustificada, porque o recorrente tem responsabilidade de conhecer a obrigação de comunicação prevista pela lei. O desconhecimento da lei não é uma razão para se isentar do cumprimento da obrigação legal.
+11. Quer desconhecimento da situação ou da lei, não constitui a justificação do não cumprimento da obrigação de comunicação do recorrente.
+O Digno Magistrado do MP emite o seguinte douto parecer:
+Vem A impugnar o despacho do Secretário para a Economia e Finanças de 10/11/11, que lhe indeferiu pedido de prorrogação de autorização de residência temporária, para si e seu agregado familiar, assacando-lhe vícios de errónea aplicação do disposto no n° 4 do art° 18° do RA 3/2005, violação do n° 2 do art° 40° LBRAEM e do art° 4° CP A, assentando a sua argumentação, no essencial, no facto de, no seu critério, ter actuado no procedimento com "justa causa", por, quando outorgou a procuração em questão, ter acordado com o procurador que este não tinha o direito de vender a propriedade, usando o poder conferido por aquela, que, aquando dessa venda, não foi avisado da mesma, tendo o procurador tomado tal liberdade sem o seu conhecimento, sendo que, quando o tomou, não comunicou os factos ao IPIM "devido à falta de saber na área jurídica".
+Não lhe assiste, definitivamente, até pelo tipo de argumentação utilizada, qualquer razão.
+Quando outorgou a procuração em causa, nos termos estabelecidos, concedeu o recorrente ao procurador o poder de venda da propriedade em questão, tomando-se inócua a esgrima com a existência de suposto acordo verbal em sentido inverso. Aliás, bem vistas as coisas, nem sequer o recorrente logra qualquer tipo de prova relativa a esse suposto acordo.
+Depois, é o próprio visado a assumir que, "malgré tout", tomou conhecimento do sucedido, apenas não o comunicando ao IPIM por suposta "falta de saber na área jurídica".
+Ora, "A ignorância ou má interpretação da lei não justifica a falta de cumprimento nem isenta as pessoas das sanções nela estabelecidas": art° 5°, CC.
+Tudo a significar que, nos parâmetros adiantados, não se vê como possa ter-se como registada a "justa causa" a que alude o nº 4 do art° 18° do RA 3/2005.
+É claro que, apesar disso, nada inibiria a Administração de, face ao caso, não cancelar a autorização de residência, ou prorrogar a mesma (o termo "poderá implicar" é, a tal propósito, perfeitamente elucidativo relativamente ao poder discricionário na matéria).
+Simplesmente, não se descortina que, com os contornos apurados no caso, a medida tomada se apresente como manifestamente injusta ou desproporcionada, tanto mais que, bem vistas as coisas, registando-se os pressupostos respectivos, o cancelamento será sempre a única medida (se sancionadora) a adoptar.
+E, verificados que se mostram tais pressupostos e a conformidade dos mesmos com o Regulamento aplicável, mal se compreende a esgrima com a afronta dos direitos e interesses dos residentes ou restrições às respectivas liberdades ou garantias consignadas, quer na LBRAEM, quer no CPA : o cumprimento da lei é, em última análise, a melhor salvaguarda dessas garantias.
+Donde, sem necessidade de maiores considerações ou alongamentos, sermos a entender não merecer provimento o presente recurso.
+II - PRESSUPOSTOS PROCESSUAIS
+Este Tribunal é o competente em razão da nacionalidade, matéria e hierarquia.
+O processo é o próprio e não há nulidades.
+As partes gozam de personalidade e capacidade judiciária e são dotadas de legitimidade “ad causam”.
+Não há outras excepções ou questões prévias que obstem ao conhecimento do mérito.
+III - FACTOS
+Com pertinência, têm-se por assentes os factos seguintes:
+O recorrente foi notificado do indeferimento do seu pedido de prorrogação de residência nos seguintes termos:
+Instituto de Promoção do Comércio e do Investimento de Macau
+Vossa referência:
+Data de emissão:
+Nossa referência: 17939/GJFR/2001
+Data: 28/11/2011
+Assunto: Aviso de indeferimento - Pedido de residência temporária
+Exmo. Senhor,
+Nos termos da al. a) do art. 68.º do Código de Procedimento Administrativo, venho por este meio informar Vossa Excelência do despacho proferido pelo Secretário para a Economia e Finanças em 10 de Novembro de 2011 usando da faculdade conferida pelo Chefe do Executivo da RAEM, cujo conteúdo constitui o indeferimento do pedido de prorrogação de residência temporária em Macau dos indivíduos adiante listados. O parecer (5 páginas) de Vossa Excelência fundamentou esta decisão. Junto envio a respectiva cópia para explicitar as razões do indeferimento.
+N.º
+Nome
+Documento de identificação
+e n.º
+Termo de residência
+1
+A
+Passaporte chinês
+GXXXXX006
+14/7/2012
+2
+C
+Passaporte chinês
+GXXXXX005
+14/7/2012
+3
+B
+Passaporte chinês
+GXXXXX022
+14/7/2012
+4
+D
+Passaporte chinês
+GXXXXXX07
+14/7/2012
+De acordo com o Código do Procedimento Administrativo, se não concordar com a decisão acima referida, Vossa Excelência poderá reclamar junto do Secretário para a Economia e Finanças dentro do prazo de 15 dias (a contar do dia de notificação, sic passim), ou interpor recurso no espaço de 30 dias ao Tribunal de Segunda Instância nos termos da lei.
+Com os melhores cumprimentos,
+O Presidente do Instituto de Promoção do Comércio e do Investimento de Macau
+(Ass.: Vide o original)
+Cheong Chou Weng
+*
+INSTITUTO DE PROMOÇÃO DO COMÉRCIO E DO INVESTIMENTO DE MACAU
+Parecer n.º 0034/Residência/2006/01R
+Investimento em Bens Imóveis – Prorrogação
+Requerente: A
+Ao abrigo do Regulamento Administrativo n.º 3/2005
+Despacho do Secretário para a Economia e Finanças
+Proposta deferida.
+(Rubrica: vide o original)
+10/11/11
+Parecer da Comissão Executiva
+do Instituto de Promoção do Comércio e do Investimento de Macau
+Ex.mo Sr. Secretário para a Economia e Finanças,
+Após uma investigação e análise do assunto, sugiro que não seja deferido o pedido de prorrogação de residência temporária apresentado pelos interessados abaixo listados, visto que o requerente não efectuou a comunicação a este Instituto após a venda do bem imóvel que tinha detido, o que acarretou a posse de um valor inferior àquele mínimo legal por um espaço de tempo de três meses. Por isso, não se mostra conforme com os requisitos de prorrogação de autorização de residência temporária de forma contínua, pelo que entendo que não deve ser deferido o respectivo pedido.
+N.º
+Nome
+Relação
+1
+A
+Requerente
+2
+C
+Esposa
+3
+B
+Descendente
+4
+D
+Descendente
+À consideração superior.
+(Rubrica: Vide o original)
+O Presidente, Cheong Chou Weng
+04/10/2011
+Parecer do Director do Gabinete Jurídico e de Fixação de Residência
+Subscrevo a proposta.
+(Rubrica: Vide o original)
+Miguel, Ian Iat Chun (甄溢全)
+Director-Adjunto
+27/09/2011
+Assunto: Apreciação de pedido de fixação por investimento
+Comissão Executiva:
+1. Seguem a identificação dos interessados e o prazo sugerido das respectivas residências temporárias concedidas:
+N.º
+Nome
+Relação
+Título / Número
+Período de validade
+Data-limite de residência temporária
+1
+A
+Requerente
+Passaporte chinês
+GXXXXX006
+18/02/2019
+14/07/2009
+2
+C
+Esposa
+Passaporte chinês
+GXXXXX005
+18/02/2019
+14/07/2009
+3
+B
+Descendente
+Passaporte chinês
+GXXXXX022
+10/06/2020
+14/07/2009
+4
+D
+Descendente
+Passaporte chinês
+GXXXXXX07
+22/02/2019
+14/07/2009
+2. Em 14 de Julho de 2006, foi conferida pela primeira vez autorização de residência temporária ao Requerente, que na altura era proprietário dos bens imóveis como seguem:
+1) Número de referência: 7543
+Rua da Emenda n.º XX, Edf. XX, XX.º XX
+Quantia: HK$480.000,00, equivalente a MOP$494.400,00, cálculo efectuado à base da taxa de câmbio legal: HK$1,00 por MOP$1,03.
+Data de registo: 21 de Dezembro de 2005 (129)
+2) Número de referência: 4436
+Rua do Rebanho n.º XX, Edf. XX, F R/C
+Quantia: HK$650.000,00, equivalente a MOP$669.500,00, cálculo efectuado à base da taxa de câmbio legal: HK$1,00 por MOP$1,03.
+Data de registo: 21 de Dezembro de 2005 (128)
+3. Para os efeitos de prorrogação, o Requerente apresentou os seguintes documentos de bens imóveis, provas de não possuir de forma contínua os investimentos em bens imóveis tutelados por lei:
+1) Número de referência: 7543
+Rua da Emenda n.º XX, Edf. XX, XX.º XX
+Quantia: HK$480.000,00, equivalente a MOP$494.400,00, cálculo efectuado à base da taxa de câmbio legal: HK$1,00 por MOP$1,03.
+Data de registo: 21 de Dezembro de 2005 (129)
+2) Número de referência: 21911
+Rua do XX n.º XX, EDF. XX, Torre IV, XX.º XX
+Quantia: HK$838.000,00, equivalente a MOP$863.140,00, cálculo efectuado à base da taxa de câmbio legal: HK$1,00 por MOP$1,03.
+Data de registo: 5 de Setembro de 2007 (49)
+4. O Requerente entregou o Certificado de Depósito a Prazo emitido por estabelecimento de crédito de Macau, servindo esse de prova de um depósito a prazo num valor não inferior a MOP$500.000,00:
+Nome de estabelecimento: Banco da China
+N.º de conta: 02-XX-30-XXXXXX
+Importância: HK$549.421,20, equivalente a MOP$565.903,84
+Período de depósito: De 23 de Dezembro, 2005 a 29 de Dezembro, 2011
+Modo de procedimento findo o prazo: renovação automática de capital mais juros
+Natureza: Sem a instituição de qualquer encargo
+Data de emissão: 28 de Julho de 2011
+5. Em 14 de Julho de 2006, ao Requerente foi conferida a autorização de residência temporária pela primeira vez. Este Instituto já o comunicou o Requerente através da carta oficial n.º 11485/GJFR/P0034/2006, a Carta de Notificação de Autorização deixou explícito que durante o período de pedido ou mesmo depois de conseguir a autorização de residência, era imperativo manterem-se as situações jurídicas relevantes aquando da autorização de pedido. Uma vez extintas ou alteradas as situações, cabe ao Requerente informar o Instituto no prazo de 30 dias a contar do dia em que se deu a extinção ou a alteração. Caso contrário, a autorização de residência temporária pode ser cancelada (vide fl. 79).
+6. Segundo o documento de bens imobiliários apresentado pelo Requerente para o fim de pedido de prorrogação, em 4 de Maio de 2007, o Requerente vendeu a propriedade sita na Rua do XX n.º XX, Edf. XX, F R/C, a MOP$400.000,00, cujo registo predial foi efectuado em 10 de Maio de 2007 (vide fls. 72 a 76).
+7. Segundo o documento de bens imobiliários apresentado pelo Requerente para o fim de pedido de prorrogação, em 31 de Agosto de 2007, o Requerente comprou a propriedade sita na Rua do XX n.º XX, EDF. XX, Torre IV, XX.º XX, ao preço de MOP$863.140,00.
+8. Ainda conforme mostra o documento, durante o período entre 4 de Maio de 2007 até 30 de Agosto de 2007, o Requerente era dono de apenas uma propriedade (Rua da XX n.º XX, Edf. XX, XX.º XX), no valor de MOP$494.440,00, prova de ele não possuir os bens imóveis de maneira contínua como prescreve a lei.
+9. Em relação ao assunto referente, o Requerente entregou um documento para explicar a situação. Em 2006, devido à gestão descuidada, o seu negócio em cooperação com uma pessoa local de Macau caiu em apuros, pelo que ele resolveu vender parte das suas propriedades para conseguir um fundo de maneio. Depois, tendo verificando-se um melhoramento do seu negócio, a isso juntando-se o facto de na altura o seu filho acabar de se casar, o que levou novas pessoas à família, ele receava pela casa onde então morava pois era pequena demais para caberem todos os familiares. Portanto, comprou uma casa maior para morar nela. Ele próprio não sabia de proibição de converter propriedades, pelo que não notificou o Instituto. Por isso, pediu desculpa à entidade pelo que aconteceu (vide fl. 63).
+10. Nestes termos, está provado que:
+1) Ao abrigo do artigo 18.º do Regulamento Administrativo n.º 3/2005, o interessado deve manter, durante todo o período de residência temporária autorizada, a situação juridicamente relevante que fundamentou a concessão dessa autorização. O interessado deve comunicar ao Instituto de Promoção do Comércio e do Investimento de Macau a extinção ou alteração dos referidos fundamentos no prazo de 30 dias, contados desde a data da extinção ou alteração. O não cumprimento sem justa causa da obrigação de comunicação, dentro do respectivo prazo, poderá implicar o cancelamento da autorização de residência temporária.
+2) Em 4 de Maio de 2007, o Requerente vendeu a propriedade sita na Rua do XX n.º XX, Edf. XX, F R/C, e em 31 de Agosto de 2007 adquiriu uma nova casa localizada na Rua do XX n.º XX, EDF. XX, Torre IV, XX.º XX, prova de ele não possuir os bens imóveis de maneira contínua como prescreve a lei.
+3) Ainda conforme mostra o documento, durante o período atrás referido, o Requerente era dono de apenas uma propriedade (Rua da XX n.º XX, Edf. XX, XX.º XX), no valor de MOP$494.440,00, prova de ele não possuir bens imóveis num valor total superior a MOP$100.000,00.
+4) Em relação aos assuntos de venda e de aquisição decorridas respectivamente em 4 de Maio de 2007 e em 31 de Agosto de 2007, o Requerente não comunicou este Instituto, o que foi comprovado pelas suas próprias declarações.
+5) Não constitui uma justificação a explicação dada pelo Requerente de que devido à gestão descuidada, o seu negócio caiu em apuros, pelo que resolveu vender parte das suas propriedades para conseguir um fundo de maneio.
+6) Em consequência da venda acima mencionada, o Requerente só detinha apenas uma propriedade (Rua da XX n.º XX, Edf. XX, XX.º XX) durante o período supradito, no valor de MOP$494.440,00, prova de ele não possuir bens imóveis num valor total superior a MOP$100.000,00. Por conseguinte, a sua autorização de residência temporária devia ter sido cancelada, razão pela qual não se podem conseguir considerações positivas quanto à prorrogação de autorização.
+7) Resumindo e concluindo, o Requerente vendeu uma propriedade relacionadas com o investimento no dia 4 de Maio de 2007, durante um período de mais de três meses não tinha na sua posse bens imóveis num valor exigido pela lei, do qual ele não comunicou este Instituto.
+11. Nestes termos, por arrastamento da venda de uma propriedade, o Requerente não detinha investimento no valor mínimo prescrito na lei de forma contínua, do que ele não comunicou este Instituto. Esta conduta não condiz com os requisitos de prorrogação de autorização de residência temporária. Em conformidade com os artigos 18.º e 19.º do Regulamento Administrativo n.º 3/2005, sugerimos que não se aprove o pedido de prorrogação de autorização de residência temporária apresentado pelo interessado.
+N.º
+Nome
+Relação
+1
+A
+Requerente
+2
+C
+Esposa
+3
+B
+Descendente
+4
+D
+Descendente
+Pede-se visto.
+O Técnico Superior,
+(Ass.: Vide o original)
+Jay Chan (陳衛峰)
+26 de Setembro de 2011
+IV - FUNDAMENTOS
+1. A interpôs recurso contencioso contra o despacho em que se negou a renovação de autorização de residência temporária dele próprio e dos seus familiares, proferido em 10 de Novembro de 2011 pelo Exmo Senhor Secretário para a Economia e Finanças e pediu a revogação do despacho recorrido.
+Sobre este pedido de revogação, vamos entender que o que está em causa é um pedido de anulação e houve tão somente imprecisão de linguagem, sob pena de termos de rejeitar o recurso, pois que o recurso contencioso se traduz num recurso de mera legalidade e tem por finalidade a anulação dos actos recorridos ou a declaração da sua nulidade ou inexistência jurídica.
+2. Alega o recorrente ter actuado no procedimento com "justa causa", por, quando outorgou a procuração em questão, ter acordado com o procurador que este não tinha o direito de vender a propriedade, usando o poder conferido por aquela, que, aquando dessa venda, não foi avisado da mesma, tendo o procurador tomado tal liberdade sem o seu conhecimento, sendo que, quando o tomou, não comunicou os factos ao IPIM "devido à falta de saber na área jurídica".
+O vício assacado ao acto ter-se-á traduzido na não valoração dessa justificação para o incumprimento, já que a alteração da situação patrimonial onde terá radicado a concessão da residência se terá ficado a dever a facto em relação ao qual invoca exclusão de culpa.
+3. Vejamos.
+É certo que a justificação para o não conhecimento da venda feita pelo procurador só agora aparece. Quando ouvido no âmbito do procedimento administrativo invocou má gestão e dificuldades dos negócios, por isso teve que alienar património. Agora, em sede do recurso contencioso, vem invocar um facto novo, pelo menos na sua invocação, que se traduz em o procurador ter vendido sem lhe dar conhecimento, contrariamente ao que fora acordado.
+Convenhamos que se assim tivesse sido, não custaria até ter essa violação da obrigação como justificada, face ao que dispõe o artigo 18º do Regulamento Administrativo n.º 3/2005:
+1. O interessado deve manter, durante todo o período de residência temporária autorizada, a situação juridicamente relevante que fundamentou a concessão dessa autorização.
+2. A autorização de residência temporária deve ser cancelada caso se verifique extinção ou alteração dos fundamentos referidos no número anterior, excepto quando o interessado se constituir em nova situação jurídica atendível no prazo que lhe for fixado pelo Instituto de Promoção do Comércio e do Investimento de Macau ou a alteração for aceite pelo órgão competente.
+3. Para efeitos do disposto no número anterior, o interessado deve comunicar ao Instituto de Promoção do Comércio e do Investimento de Macau a extinção ou alteração dos referidos fundamentos no prazo de 30 dias, contados desde a data da extinção ou alteração.
+4. O não cumprimento sem justa causa da obrigação de comunicação prevista no número anterior, dentro do respectivo prazo, poderá implicar o cancelamento da autorização de residência temporária.
+A venda do apartamento é um facto indesmentível, como o é a procuração em que concedeu poderes para tal, sendo a venda uma decorrência de um acto jurídico por si assumido e em relação ao qual não pode ser desligado na conformação dos respectivos efeitos jurídicos. No entanto, não deixa de invocar um acordo, segundo o qual o procurador não podia vender sem lhe dar conhecimento. Tal facto, ainda que inter partes, a ter ocorrido, não deixaria de poder produzir efeitos na consciencialização de uma situação que se pressupunha inalterada face a tal acordo vinculativo e bem podia considerar-se uma justificação plausível para uma não comunicação sobre um facto de que não se tinha conhecimento e era suposto ter, não se vendo razão para que não pudesse ser invocável perante terceiros, nomeadamente perante a Administração, entidade perante a qual o recorrente assumiu o compromisso de manter o património como pressuposto da manutenção da residência concedida. Nada disto tem a ver com a eficácia do negócio ou falta dela que decorre das situações em que tenha havido abuso da procuração, representação sem poderes ou contra o acordo entre mandante e mandatário, como decorre dos artigos 261º e 262º do CC.
+O ponto está em que o recorrente vem agora alegar um facto que entra em contradição com a posição tomada no procedimento. Quando a Administração detectou uma desconformidade com a situação patrimonial inicial ouviu o interessado e este veio dizer que teve de alienar o património devido a uma má conjuntura. Se teve de vender é porque sabia e quis vender. Nada disse sobre o desconhecimento da venda feita pelo procurador, contradizendo-se com a versão agora trazida a juízo, ao dizer que o procurador vendeu sem lhe dizer nada e por isso não comunicou.
+E enquanto facto novo ou nova invocação, partindo do princípio da inexactidão das declarações prestadas no âmbito do procedimento, cabia-lhe provar quanto alega, não se podendo dizer que esse ónus cabia à Administração, pois que só agora foi confrontada com essa justificação.
+4. Retira-se do despacho proferido e do parecer que ele incorpora que houve dois fundamentos para a decisão tomada: a não manutenção da situação patrimonial de forma contínua durante o período da concessão da residência e a não comunicação em 30 dias da alteração da situação jurídica relevante.
+No recurso, o recorrente limita-se a invocar a aludida justificação para a não comunicação, avançando ainda com o desconhecimento do ordenamento jurídico de Macau, não deixando de invocar a sua origem do Interior da China.
+Já no âmbito do procedimento, a justificação apresentada é una e exclui a possibilidade de configuração do desconhecimento, na medida em que apresenta uma justificação para a alienação do património.
+Cai assim a argumentação relativa ao alegado desconhecimento da venda dos bens.
+Donde decorre que o recorrente não cumpriu a obrigação de comunicação imposta pelo artigo 18º, n.º 4 do RA n.º 3/2005, devendo arrostar com as consequências previstas legais por não cumprimento desta obrigação, não se podendo relevar o alegado desconhecimento da lei e das consequências jurídicas do dever de comunicação da alteração da situação patrimonial.
+Na verdade, a entidade recorrida negou, nos termos do artigo 18º e 19º do Regulamento Administrativo n.º 3/2005, o pedido do recorrente da renovação da fixação de residência por investimento por este não ter cumprido a obrigação de comunicação imposta pela lei, não se comprovando ou vislumbrando nenhum erro de pressuposto de facto ou direito, não padecendo o acto de vício na competência discricionária, aliás, não concretizado.
+5. Da invocada aplicação errónea do artigo 18º do Regulamento Administrativo n.º 3/2005
+Da leitura do supra-citado artigo 18º colhe-se que a não comunicação ou não manutenção da exacta situação primitiva pode determinar ou não o cancelamento automático da residência concedida.
+Segundo o n.º 4 do artigo 18.º do Regulamento Administrativo n.º 3/2005, “o não cumprimento sem justa causa da obrigação de comunicação, dentro do respectivo prazo, poderá implicar o cancelamento da autorização de residência temporária.” (Sublinhado e negrito nossos)
+Tal norma não prescreve obrigatória e forçosamente o cancelamento da autorização.
+Estaremos perante uma situação dependente de total discricionariedade?
+Diremos que há aqui uma margem de discricionariedade, mas as razões da escolha da Administração não se devem deixar de compreender.
+Cremos que a Administração na sua actuação, ainda que discricionária, não deixa de estar limitada pelos princípios que devem reger a actividade administrativa A decisão discricionária tem de assentar numa racionalidade própria, susceptível de algum tipo de controlo. Não pode radicar num capricho, tornando-se numa escolha arbitrária quando feita por um órgão da Administração Pública.1
+A escolha discricionária não se confunde com a determinação do sentido e alcance da norma legal.
+A Administração está obrigada, ao actuar discricionariamente perante os particulares, a escolher de entre as várias medidas que satisfazem igualmente o interesse público, a que seja minimamente proporcional ou adequada ao fim público a realizar, conduta passível de controle jurisdicional,2 compreendendo-se ainda  o sacrifício dos interesses privados em função da importância do interesse público prosseguido.3
+Posto isto, perante este perfunctório enquadramento, pensa-se que o importante é compreender as razões que explicam a posição tomada pela Administração e o certo é que essas razões assentam na opção do legislador em facultar a possibilidade de cancelamento ou não.
+Essas razões passam pela compreensão da razão de ser da norma e ressalta como evidente uma necessidade de controle do investimento, pela garantia de um certa estabilidade no investimento feito e, porventura, ainda, pelo combate ao favorecimento de um circunstancialismo especulativo.
+A partir daqui o fundamento da decisão tomada assenta na violação da obrigação de manutenção dos bens adquiridos, conferindo-se claramente um poder discricionário à Administração em cancelar a autorização de residência, incumpridos tais deveres.
+Poder-se-á argumentar que, assim sendo, bem pode hoje a Administração conceder uma autorização a este e negá-la amanhã a outro. Só que nesse caso, perante uma identidade de situações, estaríamos eventualmente perante a violação de princípios fundamentais que devem reger a actuação da Administração e a sua relação com os particulares, nomeadamente, o princípio da igualdade.
+É certo que o recorrente vendeu uma casa, vindo até a fazer um maior investimento, mas não deu conhecimento à Administração e, embora tal facto não seja absolutamente determinante de uma decisão ablativa, não é menos certo que a partir daí cabe àquela Administração a avaliação dessa conduta e as implicações daí decorrentes, jogando até com dados e factores que escapam a este Tribunal e que este não pode sindicar, sob pena de se imiscuir na actividade administrativa.
+Também é certo que com tal decisão se causam sérios prejuízos individuais e familiares, mas nada com que o particular, com tal conduta não devesse contar, tendo sido devida e formalmente avisado das consequências da não comunicação da venda, enquanto alteração da situação patrimonial adquirida e da quebra da manutenção dessa situação pelo período da autorização provisória que lhe fora concedido.
+A este propósito refere-se de que nada vale a alegação do recorrente de que não sabia das consequências dos seus actos, pois a ignorância da lei, em princípio, não pode justificar a conduta omissiva por si adoptada, valendo aqui o brocardo ignorantia juris neminem excusat.
+Não pode este Tribunal, apenas em nome desse sacrifício que é imposto aos particulares, anular decisões proferidas, na certeza de que a imposição desses sacrifícios se legitima pela defesa do interesse público que à Administração compete igualmente prosseguir e em função do qual se compreende a concessão de poderes discricionários.
+6. Nos termos da alínea a) do n.º 2 do artigo 9 da Lei n.º 4/2003, Princípios Gerais do Regime de Entrada, Permanência e Autorização de Residência, prevêem-se factores a levar em consideração, na autorização de residência, como, por exemplo, meios de subsistência de que o interessado dispõe; finalidades pretendidas com a residência na RAEM e respectiva viabilidade actividade que o interessado exerce ou se propõe exercer na RAEM; laços familiares do interessado com residentes da RAEM; razões humanitárias, nomeadamente a falta de condições de vida ou de apoio familiar em outro país ou território.
+No caso, adianta até que a aquisição de um outro apartamento significou um maior investimento, razão (a da situação patrimonial) que podia ter sido invocada para injustificar a decisão ablativa da Administrativa.
+Mais alega, matéria que não vem impugnada, que:
+B, o filho do recorrente casou-se em 8 de Novembro de 2008 e o seu filho nasceu em 20 de Fevereiro de 2009.
+Desde Agosto de 2006 que o filho do Recorrente B conseguiu o BIR, trabalha sempre na Sociedade de Jogos de Macau, S.A (SJM). (Documento 7)
+C, mulher do recorrente, encontra-se a trabalhar na xx Bakery. (Documento 8)
+Há aqui toda uma família que vem criando riqueza e se mostra integrada em Macau e para quem a perda de residência de Macau, do seu lar, implica uma consequência muito negativa para aqueles seres em concreto, para a sua vida pessoal e para o seu trem de vida.
+Sobre esta linha argumentativa já acima se disse algo, ao contrapor o interesse público subjacente e presumidamente prosseguido pela actividade administrativa ao sacrifício dos interesses particulares evidenciados.
+Este é um quadro que em termos de razoabilidade e proporcionalidade tem de ter um contraponto e as razões do balanceamento entre os diferentes interesses não pode deixar de ser perscrutado nas razões ínsitas na norma que impõe deveres e prevê consequências para o não acatamento.
+As razões que se podem colher dimanantes da própria norma, quais sejam as da manutenção do investimento, se saem reforçadas com a aquisição de um apartamento mais valioso, não deixam de ser postas em causa com a instabilidade do investimento e falta de controle de manutenção do mesmo, cabendo à Administração e só a ela proceder a esse balanceamento.
+Em suma, se a lei diz que um dado facto pode conduzir ou não a um cancelamento de uma autorização, afigura-se que na situação e condicionalismo presente não há razões que possam impor uma decisão diferente, não bastando opor razões humanitárias que não, obstante a sua seriedade em termos de incomodidade e desconforto, não deixam de poder ser ultrapassadas.
+7. Por outro lado, é certo que o recorrente parece ter-se portado mal, enquanto mentiu ou, pelo menos, não explicou a mudança de posição nos esclarecimentos prestados sobre a referida alienação do património. Mas esse fundamento não foi levado à decisão tomada, razão por que não será de relevar, de forma a poder constituir fundamento autónomo e susceptível de reforçar a decisão ora impugnada.
+Somos assim a considerar que não se alcançam razões válidas para pôr em causa a decisão tomada, na certeza de que ela se baseou na vioção de deveres impostos ao interessado, não se deixando de perceber a razão de ser de tais imposições e que se traduzem no dever de comunicar a alteração da situação jurídica relevante e de a manter durante o período de concessão da residência provisória.
+8.  Da pretensa violação da Lei Básica de Macau
+Invoca o recorrente o n.º 2 do artigo 40 da Lei Básica: “os direitos e as liberdades de que gozam os residentes de Macau, não podem ser restringidos excepto nos casos previstos na lei…” para argumentar que o facto de serem residentes tal não permitiria à Administração uma decisão ablativa como aquela que tomou.
+Nada de mais errado. Se assim fosse não haveria residências ou licenças provisórias ou estas teriam de se converter necessariamente em definitivas.
+Quanto basta para nos ficarmos por aqui e desatender esta argumentação.
+9. Da pretensa violação do artigo 4º do Código do Procedimento Administrativo
+O artigo 4.º do CPA prescreve “compete aos órgãos administrativos prosseguir o interesse público, no respeito pelos direitos e interesses legalmente protegidos dos residentes.”
+Invoca ainda o n.º 2 do artigo 4 (princípio da igualdade e da proporcionalidade) do Código do Procedimento Administrativo: “As decisões da Administração que colidam com direitos subjectivos ou interesses legalmente protegidos dos particulares só podem afectar essas posições em termos adequados e proporcionais aos objectivos a realizar.”
+Isto, no entendimento de que ao praticar um dado acto administrativo, o primeiro factor a levar em consideração são os direitos e interesses dos residentes e só depois vem o interesse público.
+Mas, contrariamente ao que defende, não é verdade que os interesses dos particulares estejam à frente da prossecução do interesse público, isto em termos gerais, aliás, como flui da própria norma.
+Coisa diferente é a observância dos princípios e o respeito pelos direitos fundamentais e outra a cedência dos interesses particulares face aos interesses gerais e interesse público.
+O recorrente parece confundir os conceitos.
+E se fala em princípios, nomeadamente o da adequação e proporcionalidade, esse caminho a trilhar é outro e sobre o assunto já acima se tomou posição
+Para se concluir, enfim, que não se afigura ter havido qualquer violação do artigo 4º do CPA.
+Donde, pelas razões apontadas, somos a julgar improcedente o recurso.
+V - DECISÃO
+Nos termos e fundamentos expostos, acordam em negar provimento ao presente recurso contencioso, mantendo-se o acto recorrido.
+Custas pelo recorrente com taxa de justiça que se fixa em 6 Ucs.
+Macau, 15 de Novembro de 2012
+_________________________		  	     _________________________
+João Augusto Gonçalves Gil de Oliveira					    Mai Man Ieng
+(Relator)											         (Estive presente)
+(Magistrado do M.oP.o)
+_________________________
+Ho Wai Neng
+(Primeiro Juiz-Adjunto)
+_________________________
+José Cândido de Pinho
+(Segundo Juiz-Adjunto)
+1 -João Caupers, Int. ao Dto Administrativo, 2001, 66
+2 - Esteves de Oliveira, Dto Administrativo I, 1980, 261
+3 - João Caupers, in Int. ao Dto. Administ., 2001, 80
+---------------
+------------------------------------------------------------
+---------------
+------------------------------------------------------------
+43/2012                                                                      1/37

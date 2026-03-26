@@ -1,0 +1,228 @@
+- Não renovação da autorização de residência
+- Fundamentação da decisão administrativa
+- Prática de crimes e sua influência sobre a decisão administrativa
+- Poder discricionário em sentido técnico-jurídico administrativo
+body {
+font-size: 13px;
+line-height: 25px;
+background-color: #fff;
+}
+.highlight-key {
+font-weight: bold;
+background: #FFFF00;
+}
+打印全文
+﻿Processo n.º 577/2016
+(Recurso contencioso)
+Relator:   Fong Man Chong
+Data:       4 de Outubro de 2018
+Assuntos:
+- Não renovação da autorização de residência
+- Fundamentação da decisão administrativa
+- Prática de crimes e sua influência sobre a decisão administrativa
+- Poder discricionário em sentido técnico-jurídico administrativo
+SUMÁRIO:
+I – Em matéria da fundamentação da decisão administrativa, a fundamentação deve ser contextual e integrada no próprio acto (ainda que o possa ser de forma remissiva), expressa e acessível (através de sucinta exposição dos fundamentos de facto e de direito da decisão), clara (de modo a permitir que, através dos seus termos, se apreendam com precisão os factos e o direito com base nos quais se decide), suficiente (permitindo ao destinatário do acto um conhecimento concreto da motivação deste) e congruente (a decisão deverá constituir a conclusão lógica e necessária dos motivos invocados como sua justificação), equivalendo à falta de fundamentação a adopção de fundamentos que, por obscuridade, contradição ou insuficiência, não esclareçam concretamente a motivação do acto. A fundamentação formal distingue-se da fundamentação material. À fundamentação formal interessa a enunciação dos motivos que determinaram o autor a proferir a decisão com um concreto conteúdo; à fundamentação material interessa a correspondência dos motivos enunciados com a realidade, bem como a sua suficiência para legitimar a actuação administrativa no caso concreto.
+II – Foram convocados expressamente dois registos de condução em estado de embriaguez, quer como forma de caracterizar a situação de incumprimento das leis por parte do Recorrente, quer como motivo de pôr em xeque a confiança quanto ao cumprimento futuro das leis pelo Recorrente, tendo sido ainda feita remissão para o parecer inserido na informação complementar, quadro este que permite um destinatário normal a saber quais foram as razões de facto (dois registos de condução em estado de embriaguez) e de direito (as normas acima citadas) que determinaram que a Entidade Recorrida não deferiu a renovação da autorização de residência, o que foi considerado demonstrativo de que não cumpre as leis e eventualmente não as cumprirá de futuro.
+III – Ensina a doutrina que a discricionariedade é uma forma particular de Administração se relacionar com o Direito, com o princípio da juridicidade, que se traduz numa consciente abertura pelo legislador de uma lacuna intralegal (não no sentido de falta de regulamentação jurídica), mas no sentido de que o agente administrativo pode, pela utilização da norma, encontrar a melhor solução para o caso. Quando o legislador, no artigo 9º da Lei nº 4/2003, utiliza a fórmula de “pode conceder autorização…” (norma interpretada a contrario, significa “pode não conceder …” ) está a atribuir ao Chefe do Executivo o poder discricionário.
+IV -  O acto recorrido tomou em linha de conta a comprovada prática de dois crimes de condução em estado de embriaguez pelo Recorrente, e, no confronto dos valores em presença, atribuiu supremacia ao interesse público, o que se compreende e é aceitável em vista da enunciada preservação da segurança e ordem pública. Pelo que, não se afrontando o princípio da proporcionalidade, nemo padecendo o acto de erro, muito menos ostensivo ou grosseiro, é de julgar improcedente o recurso.
+O Relator,
+__________________
+Fong Man Chong
+Processo n.º 577/2016
+(Recurso Contencioso)
+Data               :      4 de Outubro de 2018
+Recorrente          :      A
+Entidade Recorrida   :      Secretário para a Segurança
+* * *
+ACORDAM OS JUÍZES NO TRIBUNAL DE SEGUNDA INSTÂNCIA DA RAEM:
+I - RELATÓRIO
+A, Recorrente, devidamente identificado nos autos, não se conformando com o despacho do Secretário para a Segurança, datado de  13/06/2016, exarado na informação do Serviço de Migração do CPSP n.º 300050/CESMREN/2016P (notificado em 27/06/2016), pelo qual indeferiu o pedido da renovação da autorização de residência do Recorrente, veio em 27/07/2016 interpor o recurso contencioso para este TSI nos termos dos art.ºs 20.º, 21.º, 25.º e ss do Código de Processo Administrativo Contencioso (CPAC) e do art.º 36.º n.º 8 al. 2 da Lei n.º 9/1999 (Lei de Bases da Organização Judiciária da RAEM), com os fundamentos de fls. 2 a 9, tendo formulado as seguintes conclusões:
+1.	A 27 de Junho de 2016, o recorrente recebeu a notificação passada pelo Serviço de Migração do CPSP que o Secretário para a Segurança, em conformidade com o parecer constante da informação do Serviço de Migração do CPSP n.º 300050/CESMREN/2016P, proferiu despacho de indeferimento do pedido de renovação de autorização de residência do recorrente em 13 de Junho de 2016.
+2.	Do despacho ora recorrido apenas consta que “considerando o parecer da informação supracitada (cujo teor aqui se dá por integralmente reproduzido),” sem referir a concordância expressa do respectivo teor do parecer.
+3.	Nos termos do art.º 21.º n.º 1 al. c) (sic.) do Código de Processo Administrativo Contencioso e do art.º 124.º do Código do Procedimento Administrativo, a entidade ora recorrida não prestou explicação concreta e fundamentação suficiente quando tomou decisão de indeferimento do requerimento de renovação da autorização residência em Macau do recorrente, violando os dispostos nos art.ºs 114.º n.º 1 al. a), 115.º n.ºs 1 e 2 do Código do Procedimento Administrativo, pelo que deve ser anulada a decisão.
+4.	A entidade recorrida apenas considerou no seu despacho o elemento previsto no art.º 9.º n.º 2 al. 1) da Lei n.º 4/2003 (antecedentes criminais do recorrente) para fazer decisão de indeferimento, e não atendeu a outros elementos igualmente relevantes previstos no art.º 9.º n.º 2 als. 2) a 6 e n.º 3 da Lei n.º 4/2003, pelo menos o despacho não analisou nem considerou o respectivo teor. Portanto, o despacho recorrido violou o disposto no art.º 9.º da Lei n.º 4/2003.
+5.	Além disso, nos termos do art.º 11.º n.º 1 da Lei n.º 4/2003, o Chefe do Executivo pode, por razões humanitárias ou em casos excepcionais devidamente fundamentados, conceder a autorização de residência com dispensa dos requisitos e condições previstos na presente lei e das formalidades previstas em diploma complementar.
+6.	O recorrente não tem autorização de trabalho, autorização ou documento de residência de outro território, por isso, se não seja autorizado em residir em Macau, ele tem que regressar para o Nepal.
+7.	No local de origem do recorrente aconteceram grandes terramotos por várias vezes, o que causou milhares de mortes durante o período de 2015 a 2016, as zonas afectadas ainda se encontram destruídas até hoje, o trabalho de reconstrução e de socorro local ainda está a decorrer.
+8.	Além disso, a mãe do recorrente tem sobrevivido com o dinheiro enviado periodicamente pelo recorrente.
+9.	O recorrente não tem condições de vida ou apoios familiares em outra região e a poupança dela não é suficiente para suportar as despesas de vida dos dois no Nepal.
+10.	Por outro lado, o recorrente participou no exército real por cerca de nove anos, durante este período, foi ameaçado por insurgentes por várias vezes e teve que deixar o emprego.
+11.	Infelizmente o pai do recorrente, como líder político onde que ele residia, foi matado por insurgentes em 29 de Janeiro de 2005, o recorrente, como filho dele, enfrentaria grande ameaça para a sua segurança pessoal se voltasse para o Nepal.
+12.	Considerando os desastres naturais do Nepal e as condições de vida locais, bem como a segurança pessoal do recorrente, esta situação preenche à situação de razões humanitária e de casos excepcionais devidamente fundamentados, devendo ser concedida a autorização de residência ao recorrente.
+13.	Portando, a entidade recorrida não dispensou do recorrente os requisitos e condições e as formalidades previstas na lei subsidiária para conceder a renovação da autorização de residência por razões humanitárias, violando, pois, o disposto no art.º 11.º n.º 1 da Lei n.º 4/2003.
+14.	Ao apreciar o requerimento da renovação da autorização de residência do recorrente, a entidade recorrida violou o princípio da proporcionalidade previsto no art.º 5.º n.º 2 do Código do Procedimento Administrativo.
+15.	Os dois crimes do recorrente não causaram perito concreto ou resultado danoso aos bens jurídicos pessoais ou patrimoniais protegidos pela lei penal, daí podemos ver que o dolo, a ilicitude e a censurabilidade do recorrente são mais baixos.
+16.	Não obstante foi detectado por duas vezes que o teor alcoólico do recorrente excedeu o critério, mas na realidade o grau de reacção alcoólica de cada não é igual, o recorrente estava lúcido quando conduziu.
+17.	O recorrente sentiu-se muito arrependido e teve profunda reflexão sobre o erro cometido e prometeu a ser uma pessoa que cumprirá a lei e não cometerá novamente o crime. Até hoje, o recorrente não foi mais acusado ou condenado pelos serviços competentes pela violação de qualquer disposição legal, daí podemos prever que o mesmo não causará danos às segurança e ordem públicas.
+18.	O recorrente já vivia em Macau por 13 anos e a sua mulher é residente permanente de Macau. A mulher do recorrente não tem outra habilitação especial, nem sabia língua do Nepal, e os desastres naturais acontecem por frequência no Nepal, até mesmo a vida básica não pode ser garantida, a vida e o círculo social dos dois já enraizaram em Macau, por isso, é difícil reunir ou viver, em sequer procurar emprego no Nepal ou em qualquer outro sítio.
+19.	Caso o requerimento da renovação da autorização de residência não seja autorizado, o recorrente e a sua mulher iriam separar-se em dois sítios, o que é mais difícil para os casados, o sentimento conjugal iria ficar afastado devido aos poucos encontros, até mesmo ficariam divorciados.
+20.	Por outro lado, o recorrente tem emprego e rendimento estáveis em Macau, trabalhava com actividade e seriedade e ganhou sempre encómios do empregador.
+21.	De acordo com os referidos factos, o recorrente tem razão humanitária a que a entidade recorrida deve atender.
+22.	Segundo os registos de entrada e saída, durante o período de dois anos passados (de Abril de 2014 a Abril de 2015 e Abril de 2015 a Abril de 2016), o interessado permanecia em Macau por 365 dias e 319 dias respectivamente, e sua cônjuge por 365 dias e 345 dias respectivamente.
+23.	Face ao exposto, o recorrente preenche ao factor a que se deve atender nos termos do art.º 9.º n.º 1 al.s 2) a 6) da Lei n.º 4/2003.
+24.	Ao indeferir o requerimento da renovação da autorização de residência do requerente, a entidade recorrida padeceu do erro notório no exercício do poder discricionário.
+25.	Face ao exposto, o acto recorrido padeceu, entretanto, dos vícios da falta de fundamentação e da violação da lei, devendo ser anulado ao abrigo do art.º 21.º n.º 1 al.s c) e d) do Código do Procedimento Administrativo e do art.º 124.º do Código de Processo Administrativo Contencioso.
+* * *
+Citada a Entidade Recorrida, o Senhor Secretário para a Segurança veio contestar nos seguintes termos:
+1º  O recorrente interpôs o presente recurso da decisão do Secretário para a Segurança que indeferiu o seu pedido de renovação da autorização de residência, imputando-lhe os vícios de falta de fundamentação e violação da lei e pedindo a anulação da decisão.
+2º  É improcedente o recurso interposto.
+3º  O recorrente, como um residente não permanente, cuja autorização de residência deve ser renovada periodicamente. A renovação da autorização depende da verificação dos pressupostos e requisitos para a concessão da primeira autorização de residência (artº 22º, nº 2 do Reg. Adm. nº 5/2003 e artº 9º da Lei nº 4/2003).
+4º  O nº 2 do artº 9º da Lei nº 4/2003 enuncia os factores a considerar na concessão de autorização de residência, mas não estabelece critérios e restrições à Autoridade Administrativa para a apreciação desses factores, dando-lhe grande poder discricionário para que possa apreciar livremente todos ou uma parte dos factores previstos no artigo acima citado na concessão ou renovação de autorização de residência.
+5º  Já não foi a primeira vez que o recorrente conduziu em estado de embriaguez e violou a lei de Macau. A Autoridade tem dúvida de que o recorrente vai observar a lei. Tendo em conta a segurança púbica, a Administração usou do poder discricionário concedido por lei e decidiu não renovar a autorização de residência do recorrente.
+6º  À medida que a cidade de Macau cresce, o número de veículos tem aumentado constantemente, o que gera grande movimento nas vias públicas. Foi registado aumento, quer no número de acidentes rodoviários quer no número de vítimas. A situação já chegou a um nível preocupante. O número dos acidentes rodoviários provocados por condução em estado de embriaguez tem vindo a aumentar e isso aumenta significativamente a taxa de ocorrência de acidente rodoviário, o que é uma grande ameaça à segurança pública, em particular, à segurança nas vias públicas, colocando em perigo a vida, integridade física e bens patrimoniais dos utentes das vias públicas.
+7º  Depois de ser condenado, na pena de multa, por conduzir bêbedo pela primeira vez, o recorrente não aprendeu nada desta condenação, conduziu bêbedo outra vez, até bateu contra a viatura que estava à sua frente. O exame de pesquisa de álcool realizado ao recorrente apresentou uma TAS de 2,40g/l. Isto mostrou que o recorrente é muito irresponsável, cuja conduta ameaça a segurança pública. Também revelou que o recorrente tem fraca consciência em observar a lei. Por isso, a Administração não tem confiança em que ele vai ser observador da lei e, por conseguinte, decidiu não renovar a sua autorização de residência, para que o ele não possa permanecer em Macau por longo período de tempo e praticar actos que prejudiquem os interesses dos residentes locais.
+8º  Pelo exposto, não se verifica qualquer situação que violou o nº 2 do artº 9º da Lei nº 4/2003.
+9º  Qualquer país ou região independente tem liberdade para elaborar e executar o seu próprio regime sobre a saída e entrada de território, dispondo de toda a liberdade para aceitar, ou não, um indivíduo como residente pelas razões tais como o controlo de entrada e saída do território e os interesses, ordem e segurança públicos.
+10º  É entendimento aceite pela doutrina sobre a lei administrativa e jurisprudência que os actos praticados no exercício do poder discricionário só podem ser anulados quando existir erro notório ou total desrazoabilidade.
+11º  A desrazoabilidade indicada não pode ser um qualquer entendimento subjectivo de alguém, mas é um acto que, na óptica do público, é evidentemente irrazoável e apresenta uma incompatibilidade entre a medida tomada e os interesses protegidos e prosseguidos. Porém, não se encontra esta situação neste presente caso.
+12º  O acto recorrido, que foi praticado no âmbito dos poderes discricionários, apenas proíbe a residência em Macau do recorrente que é residente não permanente de Macau, com finalidade de evitar a criação de perigo para a segurança pública. Do objectivo procurado, não se verifica qualquer desrazoabilidade, já para não falar de “total desrazoabilidade”.
+13º  Pelo exposto, não existe o vício de violação da lei invocado pelo recorrente.
+14º  Também não se verifica a falta de fundamentação, vício que o mesmo imputa ao acto recorrido.
+15º  A lei exige que a fundamentação enuncie os motivos e objectivos que levam à prática do acto administrativo, para que o destinatário do acto possa reagir eficazmente contra o acto que lhe causará prejuízos, assegurando deste modo a transparência e imparcialidade da actividade administrativa.
+16º  Portanto, o acto foi devidamente fundamentado quando o destinatário de formação média compreende a decisão administrativa e os motivos que sustentam a tomada da decisão e a ele é dada opção de aceitar ou impugnar a decisão.
+17º  Tal como neste caso, a razão para o indeferimento do seu pedido de renovação de residência é o recorrente praticou duas vezes o acto de condução em estado de embriaguez. A sua conduta, para além de ser uma ameaça à segurança pública, leva com que a Administração não tenha confiança em que ele vai ser observador da lei. O acto recorrido é claro e bem fundamentado, quer de facto quer de Direito. A Administração explicou expressamente os motivos concretos para a prática do acto administrativo. Não se verifica obscuridade, insuficiência ou contradição neste acto.
+18º  Acreditamos que qualquer homem de formação média perceba muito bem os motivos que levaram à decisão de indeferimento do pedido de renovação. Além disso, do conteúdo da petição inicial apresentada, vê-se muito bem que o recorrente está bem ciente dos motivos que causaram o indeferimento do seu pedido. Ele pode não concordar com os motivos expostos, mas não pode negar a existência da fundamentação.
+19º  Pelo exposto, não se verifica a violação do dever de fundamentação previsto no CPA.
+* * *
+O Digno. Magistrado do MP oferece o douto parecer, pugnando pela improcedência do recurso (fls. 223 a 226).
+* * *
+II - PRESSUPOSTOS PROCESSUAIS
+Este Tribunal é o competente em razão da nacionalidade, matéria e hierarquia.
+O processo é o próprio e não há nulidades.
+As partes gozam de personalidade e capacidade judiciária e são dotadas de legitimidade “ad causam”.
+Não há excepções ou questões prévias que obstem ao conhecimento do mérito da causa.
+* * *
+III - FACTOS
+São os seguintes factos considerados assentes com interesse para a decisão do litígio, conforme os elementos juntos no processo administrativo respectivo:
+利害關係人A先生於2011年4月19日獲批居留許可之目的是在澳門與配偶團聚。
+利害關係人擬為其居留許可辦理續期申請，根據所提交的澳門刑事紀錄證明書，內載兩項刑事紀錄：
+* 第一項是於2012年3月21日所實施的一項『醉酒駕駛罪』(CR-12-0054-PSM)，判處三個月徒刑，徒刑得以罰金代替 (即90日)，罰金日額澳門幣90元，合共澳門幣8,100元，倘若不支付或不以勞動代替，須服被判處的徒刑。同時，判處嫌犯禁止駕駛一年。
+* 第二項是於2015年12月7日所實施的一項『醉酒駕駛罪』(CR1-15-0217- PSM)，判處3個月徒刑，該刑罰得緩期一年執行；另判處嫌犯禁止駕駛為期一年三個月。
+利害關係人於書面聽證階段提出陳述理由 (詳見本報告書第4–7點)。
+於2016年4月25日，利害關係人透過代表律師向出境事務廳遞交聲明書 (附件10)，內容大意是聲稱：
+“陳述人(利害關係人)曾兩次在澳因「醉酒駕駛」 而被判罪，有關行為相較於其他犯罪亦屬輕微，亦非為嚴重的犯罪，不一定對公共安全構成危險；且有關刑事不法行為，根據第27/96/M號法令第23條及第24條之規定，即使有刑事紀錄前科，在符合法律規定的有關條件下(經過一定期間無再次被判罪)仍可在法律上恢復權利，有關紀錄亦不會再登載於刑事紀錄證明內。基於法律上仍有機制讓其本人在犯罪後重過新生，雖刑事記錄前科為居留許可考慮因素之一，但亦不應因此而忽略其本人已充分符合有關法律之其他要件。
+陳述人早於2002年以外地僱員身份來漢工作並結識其配偶B，兩人於2010年10月27日在澳門民事登記局締結婚姻，為與配偶在澳組織家庭及共同生活而申請了在澳居留。
+自居留獲批後夫妻二人一直在澳生活，倘其居留續期不予批准，則兩人無可避免要分隔兩地，婚姻關係將難以維持，其配偶常居澳門，且不懂得尼泊爾語言，在經歷多次地震後的尼泊爾不可能在當地找到任何工作，故兩人在尼泊爾於生活及工作上均缺乏條件，陳述人親屬一直以來都是依靠其從澳門定期寄回去之收入來維持生計，其家人亦將陷入嚴重困境，且無能力於當地為陳述人提供輔助。
+澳門已是陳述人的生活中心，其已充分融入澳門社會，為此，其同時亦符合有關法律之人道理由，於適當說明理由的情況下，應獲行政長官免除考慮其刑事犯罪前科的要件。其本人已來澳工作及生活至今約13年 (2002年 - 2016年)，並且有正當職業及穩定的工作收入，顯示其有能力負擔在澳門生活的開支。其配偶亦十分希望可以維繫家庭生活，不想分隔兩地，二人亦計劃及準備生育。... 陳述人認為有關決定違反了《行政程序法典》中的適度原則，於實現行政目標及兼顧相對人的合法權益時應以適當的手段和方法為限，不能對其造成過度不利影響。倘行政當局只是因為陳述人具有刑事紀錄前科，斷定其必然對澳門之公共安全造成危險，則明顯違反了《家庭政策綱要法》所確立，保護家庭的建立及居民的權益的原則。對於公共利益及個人權利的保障應有一定平衡。另外，其兩次醉酒駕駛均沒有造成任何傷人之後果，且陳述人已深感後悔及愧疚，相信其不會再次違反本澳法律。
+最後，希望可予以充分考慮及體恤其家庭環境及生活狀況，給予一次機會，讓其可繼續留澳。……”(詳見該聲明書)並附上有關文件。
+- Instruído o respectivo processo, o Recorrente foi comunicado em 27/06/2016 do despacho do Senhor Secretário para a Segurança que tem o seguinte teor:
+“Notifica-se, por este meio, A (titular do passaporte do Nepal n.º XXX), que quanto ao seu requerimento interposto em 18 de Março de 2016 sobre a renovação da autorização de residência, o Secretário para a Segurança, em conformidade com a informação n.º 300050/CESMREN/2016P do Serviço de Migração do CPSP, proferiu despacho de “não autorizar” em 13 de Junho de 2016.
+Transcreve-se a referida informação no seguinte:
+“1. O interessado A que pediu a concessão da autorização de residência em 19 de Abril de 2011 pretende reunir com a cônjuge em Macau.
+2. O interessado pediu a renovação da sua autorização de residência, consta-se da sua certidão de registo criminal de Macau dois registos criminais: o primeiro registo é um crime de condução em estado de embriaguez praticado em 21 de Março de 2012 (CR1-12-0054-PSM), na pena de três meses de prisão, substituída pela multa, à razão de MOP$90,00 por dia, perfazendo a multa global de MOP$8.100, multa essa convertível na pena de prisão caso não for paga. Entretanto, foi condenado o arguido na proibição de condução pelo período de 1 ano. O segundo registo é um crime de condução em estado de embriaguez praticado em 7 de Dezembro de 2015 (CR1-15-0217-PSM), na pena de 3 meses de prisão, com suspensão da execução pelo período de 1 ano; e com proibição de condução pelo período de 1 ano e 3 meses. Devido às referidas circunstâncias provadas da violação das leis de Macau, esta renovação de residência não está autorizada.
+3. Através da audiência escrita, o interessado entregou, através do seu advogado, as declarações dele e da sua mulher, bem como alegações escritas do deputado da Assembleia Legislativa C.
+4.  Dado que os fundamentos invocados pelo interessado na fase de audiência escrita não são suficientes, pelo que, tendo em conta os dispostos no art.º 9.º n.º 2 al. 3) da Lei n.º 4/2003 e no art.º 22.º n.º 2 do Regulamento Administrativo n.º 5/2003, sugere-se a indeferir o presente requerimento da renovação da autorização de residência.”
+Junto se remete a cópia do despacho.
+Do referido acto administrativo podem interpor recurso contencioso ao TSI nos termos do art.º 25.º do Código de Processo Administrativo Contencioso.
+*
+Quid Juris perante este quadro fáctico e jurídico?
+* * *
+IV - FUNDAMENTOS
+A resolução do presente recurso passa pela análise e resolução das seguintes questões suscitadas pelo Recorrente :
+1) - Vícios de forma por falta de fundamentação da decisão atacada;
+2) - Vício da violação de lei, aqui nas vertentes de violação dos artigos 9º e 11º/1 da Lei nº 4/2003, de 17 de Março;
+3) - Vício da violação do princípio da proporcionalidade e da razoabilidade exigida no exercício de poderes discricionários.
+*
+Comecemos pela 1ª questão: vícios de falta de fundamentação da decisão atacada
+Em matéria de fundamentação da decisão administrativa, o artigo 115.º (Requisitos da fundamentação) do Código do Procedimento Administrativo (CPA) prescreve:
+1. A fundamentação deve ser expressa, através de sucinta exposição dos fundamentos de facto e de direito da decisão, podendo consistir em mera declaração de concordância com os fundamentos de anteriores pareceres, informações ou propostas que constituem neste caso parte integrante do respectivo acto.
+2. Equivale à falta de fundamentação a adopção de fundamentos que, por obscuridade, contradição ou insuficiência, não esclareçam concretamente a motivação do acto.
+3. Na resolução de assuntos da mesma natureza, pode utilizar-se qualquer meio mecânico que reproduza os fundamentos das decisões, desde que tal não envolva diminuição das garantias dos administrados
+Nestes termos, a fundamentação deve ser contextual e integrada no próprio acto (ainda que o possa ser de forma remissiva), expressa e acessível (através de sucinta exposição dos fundamentos de facto e de direito da decisão), clara (de modo a permitir que, através dos seus termos, se apreendam com precisão os factos e o direito com base nos quais se decide), suficiente (permitindo ao destinatário do acto um conhecimento concreto da motivação deste) e congruente (a decisão deverá constituir a conclusão lógica e necessária dos motivos invocados como sua justificação), equivalendo à falta de fundamentação a adopção de fundamentos que, por obscuridade, contradição ou insuficiência, não esclareçam concretamente a motivação do acto.
+A fundamentação formal distingue-se da fundamentação material. À fundamentação formal interessa a enunciação dos motivos que determinaram o autor a proferir a decisão com um concreto conteúdo; à fundamentação material interessa a correspondência dos motivos enunciados com a realidade, bem como a sua suficiência para legitimar a actuação administrativa no caso concreto.
+Como ensina Vieira de Andrade (O dever de fundamentação expressa de actos administrativos, Almedina, 2003, p. 231.), o dever formal cumpre-se «... pela apresentação de pressupostos possíveis ou de motivos coerentes e credíveis; enquanto a fundamentação material exige a existência de pressupostos reais e de motivos correctos susceptíveis de suportarem uma decisão legítima quanto ao fundo».
+Nesta matéria, a doutrina e a jurisprudência têm vindo a defender  a relatividade do conceito da fundamentação da decisão administrativa, destacando que o que releva é que, perante o acto, um destinatário médio fique inteirado da motivação da decisão, das razões que levaram a Administração a decidir da forma como decidiu e não doutra.
+No caso dos autos, atendendo à matéria sobre que versou o acto recorrido, de 13 de Junho de 2016, e ao teor do mesmo, referenciando-se inequívoca e expressamente o enquadramento legal em que se move, ou seja, o do Regulamento Administrativo nº 5/2003, de 14 de Abril e o da Lei nº 4/2003, de 17 de Março, e os respectivos normativos dos artigos 22º/2, e 9º/2-1), com o que fica satisfeita a exigência de fundamentação de direito, o acto também arregimenta os fundamentos fácticos essenciais levados em conta para denegar a pretendida renovação da autorização de residência.
+Foram expressamente convocados dois registos de condução em estado de embriaguez, quer como forma de caracterizar a situação de incumprimento das leis por parte do Recorrente, quer como motivo de pôr em xeque a confiança quanto ao cumprimento futuro das leis por banda do Recorrente, tendo sido ainda feita remissão para o parecer inserido na informação complementar n.º 300050 /CESMREN/2016P, do CPSP, cujo teor o acto teve por integralmente reproduzido.
+Perante este quadro (mesmo sem necessidade de atender à mais pormenorizada fundamentação constante daquela aludida informação complementar), um destinatário normal fica a saber que a Entidade Recorrida não deferiu a renovação da autorização de residência, com base nas normas citadas e pelo facto de o Requerente ter dois registos de condução em estado de embriaguez, o que espelha claramente que o Recorrente não cumpre as leis e eventualmente não as cumprirá de futuro.
+Por outro lado, o Recorrente invoca ainda um outro vício, motivado pela falta de concordância expressa pela Entidade Recorrida com o parecer e a hipotética utilização, no parecer, de juízos conclusivos, mas sem razão a nosso ver.
+Pois, a expressão utilizada pela Entidade Recorrida “tendo em conta o parecer (cujo teor aqui se dá por integralmente reproduzido)” é inequívoca no sentido de apropriar os fundamentos aduzidos no parecer, o que torna a decisão mais completa e mais esclarecedora, e consequentemente leva o destinatário do acto final (o Recorrente) a perceber perfeitamente quais as razões de facto e de direito que determinaram a decisão administrativa naquele sentido (não renovação da autorização de residência), que o Recorrente bem apreendeu.
+*
+Ao fecharmos a reflexão sobre este ponto, importa deixar aqui uma nota final a propósito do enquadramento legal constante do despacho recorrido, que tem o seguinte teor em matéria de fundamento legal:
+(…)
+4.  Dado que os fundamentos invocados pelo interessado na fase de audiência escrita não são suficientes, pelo que, tendo em conta os dispostos no art.º 9.º n.º 2 al. 3) da Lei n.º 4/2003 e no art.º 22.º n.º 2 do Regulamento Administrativo n.º 5/2003, sugere-se a indeferir o presente requerimento da renovação da autorização de residência.”
+Vejamos o que diz o artigo 9º da citada Lei.
+O artigo 9º (Autorização ) da Lei nº 4/2003 estipula:
+1. O Chefe do Executivo pode conceder autorização de residência na RAEM.
+2. Para efeitos de concessão da autorização referida no número anterior deve atender-se, nomeadamente, aos seguintes aspectos:
+1) Antecedentes criminais, comprovado incumprimento das leis da RAEM ou qualquer das circunstâncias referidas no artigo 4.º da presente lei;
+2) Meios de subsistência de que o interessado dispõe;
+3) Finalidades pretendidas com a residência na RAEM e respectiva viabilidade;
+4) Actividade que o interessado exerce ou se propõe exercer na RAEM;
+5) Laços familiares do interessado com residentes da RAEM;
+6) Razões humanitárias, nomeadamente a falta de condições de vida ou de apoio familiar em outro país ou território.
+3. A residência habitual do interessado na RAEM é condição da manutenção da autorização de residência.
+À Entidade Recorrida competente pareceu que o quadro de facto, conforme o que consta do despacho Recorrido, se subsumia à previsão do artigo 9º/2-al. 3) da Lei nº 4/2003, que consagra os seguintes termos:
+“3) Finalidades pretendidas com a residência na RAEM e respectiva viabilidade”, sendo certo que os factos invocados pela Entidade Recorrida são outros: 2 condenações penais que o Recorrente sofreu na sequência de conduzir sob estado de embriaguez! Pelo que, a norma aplicável deve ser a constante do artigo 9º/2-al.-1) da citada Lei.
+O que prevalece, em termos lógicos, é a substância, e não tanto a forma, pois, em nenhum lado se cita e discute a “finalidade pretendida com a residência…”!
+Pelo que, julga-se improcedente o argumento da existência do vício de forma por falta de fundamentação.
+*
+2ª questão: vício da violação de lei, aqui nas vertentes de violação dos artigos 9º e 11º/1 da Lei nº 4/2003, de 17 de Março
+Na abordagem da alegada violação do artigo 9º da Lei nº 4/2003, o Recorrente entende que a Administração só atendeu a um dos vários elementos a considerar na ponderação da decisão relativa à autorização de residência e sua renovação – concretamente o previsto na alínea 1) do n.º 2 do artigo 9.º – quando se lhe impunha que atendesse a todos esses elementos, saindo assim violado o referido artigo 9.º, que aliás não prevê o indeferimento pela mera inverificação de um daqueles elementos.
+Será admissível este argumento?
+Cremos que não.
+A decisão sobre a autorização de residência e sua renovação, devendo levar em conta um conjunto de factores que a lei manda ponderar, não tem que traduzir necessariamente o sentido da maioria desses factores, como parece advogar o Recorrente, que aliás não identifica a norma em que estriba o seu ponto de vista. Numa matéria tão importante, em que pontuam valores ligados à segurança e à ordem pública, e onde o poder discricionário assume uma componente decisória essencial, torna-se óbvia a improcedência dum tal argumento.
+Ainda adentro dos vícios de violação de lei, o Recorrente versa a questão da ofensa ao artigo 11º/1 da citada Lei nº 4/2003.
+Nesta matéria, o artigo 11º (Autorização excepcional ) da referida Lei estabelece:
+1. O Chefe do Executivo pode, por razões humanitárias ou em casos excepcionais devidamente fundamentados, conceder a autorização de residência com dispensa dos requisitos e condições previstos na presente lei e das formalidades previstas em diploma complementar.
+2. A dispensa prevista no número anterior, quando deferida, não pode ser invocada por outras pessoas não compreendidas no respectivo despacho, mesmo com fundamento em identidade de situações ou maioria de razão
+Nos termos deste normativo, pode a Administração conceder autorização de residência, com dispensa dos requisitos e condições normalmente exigidos, por razões humanitárias ou em casos excepcionais devidamente fundamentados. A este propósito, o Recorrente aduz nomeadamente as dificuldades da vida no Nepal, supervenientes aos terramotos de 2015, onde não conseguirá os proventos necessários a assegurar o sustento das pessoas a seu cargo, bem como perseguições de cariz político de que a sua família foi vítima num passado recente, por ocasião da guerra civil, o que o faz temer pela sua segurança pessoal.
+A propósito deste ponto, o Digno. Magistrado opina: “ (…) no procedimento administrativo, onde foi exarado o acto recorrido, o que estava em causa era a renovação da autorização de residência concedida por motivo de reunião familiar. Não estava em causa autorização de residência ou sua renovação pelos motivos humanitários ou excepcionais aludidos no artigo 11.º/1 da Lei nº 4/2003. Ainda que a Administração tivesse porventura conhecimento da gravidade das condições de vida no país de origem do recorrente e do possível perigo para a sua segurança, nada havia a ponderar, no âmbito do procedimento de concessão de residência por reunião familiar, sobre essas eventuais e supervenientes razões humanitárias ou excepcionais que pudessem justificar uma outra autorização de residência, pois essa não era a sede própria para tal”, argumento este que subscrevemos também, efectivamente a base da concessão da autorização de residência foi a união familiar, e não outros motivos. E, do mesmo modo, o fundamento da não renovação da autorização de residência tem a ver com os factos cometidos pelo Recorrente já acima citados, e não por outras causas.
+Como não se verifica o alegado atropelo à aludida norma do artigo 11º/ 1 da referida Lei, é de julgar infundado o invocado fundamento do vício da violação dos preceitos legais acima citados.
+*
+3ª questão: vício da violação do princípio da proporcionalidade e da razoabilidade exigida no exercício de poderes discricionários.
+O princípio da proporcionalidade, que é um corolário do princípio da justiça, obriga a que as decisões administrativas que colidam com direitos e interesses legítimos dos particulares apenas possam afectar as posições destes na justa medida da necessidade reclamada pelos objectivos a prosseguir. E não se pode falar de desrazoabilidade ou de erro notório, no exercício de poderes discricionários, quando a actuação administrativa é adequada à prossecução do interesse público que lhe cabe salvaguardar, desde que o sacrifício do interesse particular encontre justificação na importância do interesse público a salvaguardar.
+O princípio de proporcionalidade, entendido, em sentido amplo, como proibição do excesso, postula que a Administração prossiga o interesse público pelo meio que represente um menor sacrifício para as posições dos particulares. Incorpora, como subprincípio constitutivo, o princípio da exigibilidade, também conhecido como princípio da necessidade ou da menor ingerência possível, que destaca a ideia de que o cidadão tem direito à menor desvantagem possível.
+Para maior operacionalidade deste princípio, a doutrina acrescenta, entre outros elementos, o da exigibilidade espacial, que aponta para a necessidade de limitar o âmbito da intervenção na esfera jurídica das pessoas cujos interesses devam ser sacrificados (vd. J. J. Gomes Canotilho, in Direito Constitucional e Teoria da Constituição, 7ª ed., Almedina, 266, ss.).
+Advoga o Recorrente que a decisão de que ora recorre atenta contra o princípio administrativo consagrado no artigo 5º/2 (princípio da proporcionalidade) do CPA.
+Ora, face aos factos apurados, não se crê que a negação de renovação de residência tenha incorrido em grave, manifesto, ostensivo erro no exercício dos poderes discricionários, sendo que só nesse caso o vício poderia proceder, tal como é jurisprudência firme nos tribunais da RAEM. (v.g., Ac. do TUI, de 22/03/2018, Proc. nº 83/2016; tb. cit. Ac. TSI de 8/03/2018, Proc. nº 252/2017).
+Em matéria da concessão ou não concessão de autorização de residência, importa destacar as seguintes ideias:
+a) – Ninguém pode afirmar que tem direito à fixação de residência na RAEM, salvo as pessoas que reúnem os pressupostos fixados no artigo 24º da Lei Básica da RAEM;
+b) – O poder de decisão sobre esta matéria é normalmente entregue à Administração, concedendo-se-lhe uma grande margem de manobra, tendo em conta a variedade de situações e flexibilidade de posições em algumas situações particulares. É a Administração Pública, que melhor do que ninguém está numa posição privilegiada de tomar decisões nesta matéria tendo em conta as circunstâncias concretas rodeadas de caso a decidir, razão pela qual lhe é concedido tal poder discricionário.
+c) – No caso de Macau, concretamente no do artigo 9º da Lei nº 4/2003, de 17 de Março, o legislador atribui, propositadamente ao Chefe do Executivo o poder discricionário de decisão nesta matéria, pois, o legislador proclama mediante a forma de “pode conceder” ( norma interpretada a contário significa “pode não conceder”):
+1. O Chefe do Executivo pode conceder autorização de residência na RAEM.
+2. Para efeitos de concessão da autorização referida no número anterior deve atender-se, nomeadamente, aos seguintes aspectos:
+1) Antecedentes criminais, comprovado incumprimento das leis da RAEM ou qualquer das circunstâncias referidas no artigo 4.º da presente lei;
+2) Meios de subsistência de que o interessado dispõe;
+3) Finalidades pretendidas com a residência na RAEM e respectiva viabilidade;
+4) Actividade que o interessado exerce ou se propõe exercer na RAEM;
+5) Laços familiares do interessado com residentes da RAEM;
+6) Razões humanitárias, nomeadamente a falta de condições de vida ou de apoio familiar em outro país ou território.
+3. A residência habitual do interessado na RAEM é condição da manutenção da autorização de residência.
+Em matéria da concessão pelo legislador de discricionariedade, ensina a doutrina:
+“(…) Depois do que se disse, parece-nos legítimo sustentar que a discricionariedade pode ser atribuída por diversas vias:
+a) Os poderes discricionários do administrador são eventualmente resultado duma remissão para conceitos-tipo, sem se curar de saber se a indeterminação reside na hipótese ou na estatuição.
+b) A discricionariedade surgirá ainda porque se impôs ao agente o dever de utilizar padrões de valoração de qualidade de pessoas ou coisas dos quais tem o monopólio legal. É o que se passa com o funcionamento de júris de exame, que se apoia na suposição de que os seus membros usufruem dos conhecimentos técnicos suficientes – que poderiam ser também encontrados em outros órgãos equivalentes – mas, além disso, duma capacidade incontrolável de apreciação da importância relativa dos conhecimentos ou da habilidade demonstrada para o desempenho duma tarefa específica, da atribuição duma habilitação genérica ou de concessão dum status. Quer dizer: não se trata apenas de decidir se está certo ou errado, bem ou mal feito, mas se os resultados positivos são bastantes para preencher um estalão incontrolável ou alcançar um dos seus sucessivos degraus. Identicamente acontece com a classificação de coisas do ponto de vista artístico, histórico, paisagístico ou ecológico.
+A estes casos deve somar-se o conjunto das situações caracterizadas por uma avaliação de circunstâncias futuras (“decisões de prognose”).
+É isto que, sem o querer, a corrente do controlo total acabar por ter de aceitar quando se afasta duma revisão judicial nos casos de prerrogativa de avaliação.
+c) E, naturalmente, por fim, a discricionariedade surge ainda nas situações em que o legislador directamente concede ao agente uma “faculdade de acção”, isto é, em que remete para duas ou mais soluções à escolha.
+41. Chegarmos às conclusões anteriores não invalida contudo o trabalho de análise do material jurídico posto à disposição do administrador, que as várias correntes representam. É que compreender o sentido de cada grau de vinculação não satisfaz um desejo bizantino. Convém não esquecer que qualquer discricionariedade que se atribua não equivale à aceitação do arbítrio, não permite uma solução de moeda ao ar. Nem sequer vale como uma remissão para uma responsabilidade moral do agente. Ora, se há encargo jurídico que pesa sobre o agente, ele careceria de sentido caso não se previsse a existência de um controlo. (in Direito Administrativo, Rogério Soares, lições ao alunos do 2º ano da Faculdade de Direito da Universidade católica do Porto, pág. 61 e seguintes).
+Voltemos ao caso sub judice, estava em causa a renovação da autorização de residência na Região Administrativa Especial de Macau, só duas hipóteses se colocavam: renovar a autorização ou denegá-la. O acto recorrido tomou em linha de conta a comprovada prática de dois crimes de condução em estado de embriaguez por parte do Recorrente, e, no confronto dos valores em presença, atribuiu supremacia ao interesse público, o que se compreende e é aceitável em vista da enunciada preservação da segurança e ordem pública. São este factores que pesam na tomada de decisão em nome da prossecução do interesse em causa.
+No contexto em que o acto recorrido foi proferido, a primazia conferida ao interesse público não afronta o princípio da proporcionalidade, não padecendo o acto de erro, muito menos ostensivo ou grosseiro, que caucione uma interferência do tribunal relativamente ao sentido do exercício daquele poder discricionário.
+Nesta óptica, só o erro manifesto ou a total desrazoabilidade no exercício desse poder constitui uma forma de violação de lei que é judicialmente sindicável. Se o acto administrativo recorrido visa prosseguir um dos interesses públicos, que é precisamente prevenção e garantia da ordem pública e segurança social da RAEM, necessidade esta perante a qual devem ceder os interesses pessoais do interessado, salvo nos casos muito excepcionais e que se imponha considerações de outra ordem, mas não é o caso dos autos.
+Pelo que, julga-se improcedente o argumento do vício da violação pela Entidade Recorrida do princípio da desproporcionalidade e do vício de erro notório atribuído ao acto.
+*
+Síntese conclusiva:
+I – Em matéria da fundamentação da decisão administrativa, a fundamentação deve ser contextual e integrada no próprio acto (ainda que o possa ser de forma remissiva), expressa e acessível (através de sucinta exposição dos fundamentos de facto e de direito da decisão), clara (de modo a permitir que, através dos seus termos, se apreendam com precisão os factos e o direito com base nos quais se decide), suficiente (permitindo ao destinatário do acto um conhecimento concreto da motivação deste) e congruente (a decisão deverá constituir a conclusão lógica e necessária dos motivos invocados como sua justificação), equivalendo à falta de fundamentação a adopção de fundamentos que, por obscuridade, contradição ou insuficiência, não esclareçam concretamente a motivação do acto. A fundamentação formal distingue-se da fundamentação material. À fundamentação formal interessa a enunciação dos motivos que determinaram o autor a proferir a decisão com um concreto conteúdo; à fundamentação material interessa a correspondência dos motivos enunciados com a realidade, bem como a sua suficiência para legitimar a actuação administrativa no caso concreto.
+II – Foram convocados expressamente dois registos de condução em estado de embriaguez, quer como forma de caracterizar a situação de incumprimento das leis por parte do Recorrente, quer como motivo de pôr em xeque a confiança quanto ao cumprimento futuro das leis por banda do Recorrente, tendo sido ainda feita remissão para o parecer inserido na informação complementar, quadro este que permite um destinatário normal a saber quais forma as razões de facto (dois registos de condução em estado de embriaguez) e de direito (as normas acima citadas) que determinaram que a Entidade Recorrida não deferiu a renovação da autorização de residência, o que foi considerado demonstrativo de que não cumpre as leis e eventualmente não as cumprirá de futuro.
+III – Ensina a doutrina que a discricionariedade é uma forma particular de Administração se relacionar com o Direito, com o princípio da juridicidade, que se traduz numa consciente abertura pelo legislador de uma lacuna intralegal (não no sentido de falta de regulamentação jurídica), mas no sentido de que o agente administrativo pode, pela utilização da norma, encontrar a melhor solução para o caso. Quando o legislador, no artigo 9º da Lei nº 4/2003, utiliza a fórmula de “pode conceder autorização…”(interpretada a contrario, significa que “pode não conceder ”) está a atribuir ao Chefe do Executivo o poder discricionário.
+IV -  O acto recorrido tomou em linha de conta a comprovada prática de dois crimes de condução em estado de embriaguez por parte do Recorrente, e, no confronto dos valores em presença, atribuiu supremacia ao interesse público, o que se compreende e é aceitável em vista da enunciada preservação da segurança e ordem pública. Pelo que, não se afrontando o princípio da proporcionalidade, nem padecendo o acto de erro, muito menos ostensivo ou grosseiro, é de julgar improcedente o recurso.
+* * *
+Tudo visto, resta decidir.
+* * *
+V - DECISÃO
+Em face de todo o que fica exposto e justificado, os juízes do TSI acordam em julgar improcedente o presente recurso, mantendo-se o despacho recorrido.
+*
+Custas pelo Recorrente, que se fixa em 5 UCs.
+*
+Notifique e Registe.
+*
+RAEM, 4 de Outubro de 2018.
+Fong Man Chong
+Ho Wai Neng
+José Cândido de Pinho
+Fui presente
+Joaquim Teixeira de Sousa
+29
+577/2016-não-renovação-residência
